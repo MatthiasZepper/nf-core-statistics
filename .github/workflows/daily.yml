@@ -5,7 +5,7 @@ on:
 
 jobs:
   sync:
-    if: github.repository == 'backstage/tempo' # prevent running on forks
+    if: github.repository == 'nf-core/github-statistics' # prevent running on forks
 
     runs-on: ubuntu-latest
 
@@ -47,4 +47,4 @@ jobs:
       - name: Update metrics
         run: yarn generate --withMetrics --commitChanges
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.NF_CORE_BOT_AUTH_TOKEN }}
