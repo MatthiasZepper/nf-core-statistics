@@ -16,11 +16,10 @@ type GithubIssue =
   RestEndpointMethodTypes["issues"]["list"]["response"]["data"][0];
 type GithubPullOrIssue = GithubPull | GithubIssue;
 
-const REPO_ORG = "backstage";
-const REPO_NAME = "tempo";
+const REPO_ORG = "nf-core";
+const REPO_NAME = "github-statistics";
 const METRIC_FILENAME = "metrics.json";
-const ADOPTER_MD_URL =
-  "https://raw.githubusercontent.com/backstage/backstage/master/ADOPTERS.md";
+const ADOPTER_URL = "https://github.com/nf-core/nf-co.re/blob/master/nf-core-contributors.yaml";
 const PAST_DAYS_FOR_METRICS = 30;
 
 const argv = minimist(process.argv.slice(2));
@@ -57,9 +56,12 @@ const isContributorABot = (contributor: string) => {
   return contributor.endsWith("[bot]") || botAccounts.includes(contributor);
 };
 
-const getAdopterList = async () => {
+/* Currently not working. Need to implement YAML parsing first.
+ */
+
+/* const getAdopterList = async () => {
   const adopters = new Set<string>();
-  const response = await fetch(ADOPTER_MD_URL);
+  const response = await fetch(ADOPTER_URL);
   const content = await response.text();
   const tokens = new Remarkable().parse(content, {});
 
@@ -86,7 +88,7 @@ const getAdopterList = async () => {
   }
 
   return Array.from(adopters);
-};
+}; */
 
 const getCurrentMetricFileSha = async () => {
   const contents = fs.readFileSync(
@@ -356,8 +358,8 @@ const main = async () => {
       sha,
       content: Buffer.from(metrics).toString("base64"),
       committer: {
-        name: "Backstage Bot",
-        email: "bot@backstage.io",
+        name: "nf-core Bot",
+        email: "6963520+MatthiasZepper@users.noreply.github.com",
       },
     });
   }
