@@ -1,6 +1,6 @@
-# tempo
+# Tempo - nf-core modification.
 
-Repo for collecting and storing open source metrics - developed by [Harrison Hogg](https://hogg.io) for Spotify and [Backstage](https://github.com/backstage) and published under the [Apache 2.0 licens]e(https://github.com/backstage/backstage/blob/master/LICENSE). Currently trial-running to collect the Github metrics for nf-core community.  
+Repo for collecting and storing open source metrics - developed by [Harrison Hogg](https://hogg.io) for Spotify and [Backstage](https://github.com/backstage) and published under the [Apache 2.0 license](https://github.com/backstage/backstage/blob/master/LICENSE). Currently trial-running to collect the Github metrics for [nf-core](https://nf-co.re/) community.  
 
 ## Scripts
 
