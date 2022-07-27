@@ -59,7 +59,7 @@ const isContributorABot = (contributor: string) => {
 /* Currently not working. Need to implement YAML parsing first.
  */
 
-/* const getAdopterList = async () => {
+  const getAdopterList = async () => {
   const adopters = new Set<string>();
   const response = await fetch(ADOPTER_URL);
   const content = await response.text();
@@ -88,7 +88,7 @@ const isContributorABot = (contributor: string) => {
   }
 
   return Array.from(adopters);
-}; */
+};
 
 const getCurrentMetricFileSha = async () => {
   const contents = fs.readFileSync(
