@@ -1,0 +1,15 @@
+{
+  "namesOfAdopters": [
+  ],
+  "namesOfContributors": [
+  ],
+  "numberOfPullRequestNew": 465,
+  "p50NumberOfNewPullsPerWeek": 72,
+  "p50NumberOfNewContributorsPerWeek": 10,
+  "p50SecondsToClosePulls": 6502,
+  "p50SecondsToCloseIssues": 178035,
+  "meanNumberOfNewPullsPerWeek": 71.45255474452554,
+  "meanNumberOfNewContributorsPerWeek": 9.956521739130435,
+  "meanSecondsToClosePulls": 112100.77849462365,
+  "meanSecondsToCloseIssues": 407342.9555555555
+}
