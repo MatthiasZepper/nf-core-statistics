@@ -17,6 +17,7 @@ type GithubIssue =
 type GithubPullOrIssue = GithubPull | GithubIssue;
 
 const REPO_ORG = "nf-core";
+const REPO_HOME = "matthiaszepper";
 const REPO_NAME = "github-statistics";
 const METRIC_FILENAME = "metrics.json";
 const ADOPTER_URL = "https://github.com/nf-core/nf-co.re/blob/master/nf-core-contributors.yaml";
@@ -351,7 +352,7 @@ const main = async () => {
     const sha = await getCurrentMetricFileSha();
 
     await octokit.rest.repos.createOrUpdateFileContents({
-      owner: REPO_ORG,
+      owner: REPO_HOME,
       repo: REPO_NAME,
       path: METRIC_FILENAME,
       message: "Updated metrics",
