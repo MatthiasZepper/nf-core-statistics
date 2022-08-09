@@ -99,7 +99,7 @@ const getCurrentMetricFileSha = async () => {
 
   const file = (
     await octokit.rest.git.createBlob({
-      owner: REPO_ORG,
+      owner: REPO_HOME,
       repo: REPO_NAME,
       content: Buffer.from(contents).toString("base64"),
       encoding: "base64",
@@ -219,7 +219,7 @@ const main = async () => {
   };
 
   if (withMetrics) {
-    // For each repo in the backstage org
+    // For each repo in the org
     for await (const { data: repos } of iteratorRepos) {
       for (const repo of repos) {
         let spinner = new Spinner(
