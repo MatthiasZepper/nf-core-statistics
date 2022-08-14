@@ -421,6 +421,7 @@
     "WackerO",
     "varunshamanna",
     "mribeirodantas",
+    "lquayle88",
     "hmenager",
     "saharai",
     "seth-biorad",
@@ -924,7 +925,6 @@
     "nfg-interline",
     "SamStudio8",
     "awgymer",
-    "lquayle88",
     "jcgrenier",
     "nick-youngblut",
     "xmeng"
@@ -932,18 +932,17 @@
   "namesOfContributorsNew": [
     "SamStudio8",
     "awgymer",
-    "lquayle88",
     "jcgrenier",
     "nick-youngblut",
     "xmeng"
   ],
-  "numberOfPullRequestNew": 248,
+  "numberOfPullRequestNew": 228,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 22280,
   "p50SecondsToCloseIssues": 143788,
-  "meanNumberOfNewPullsPerWeek": 41.648305084745765,
+  "meanNumberOfNewPullsPerWeek": 41.652542372881356,
   "meanNumberOfNewContributorsPerWeek": 3.8949579831932772,
-  "meanSecondsToClosePulls": 119992.27016129032,
-  "meanSecondsToCloseIssues": 308846.825
+  "meanSecondsToClosePulls": 118417.6052631579,
+  "meanSecondsToCloseIssues": 305106.75675675675
 }
