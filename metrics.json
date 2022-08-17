@@ -927,21 +927,23 @@
     "SamStudio8",
     "awgymer",
     "jcgrenier",
-    "nick-youngblut"
+    "nick-youngblut",
+    "bj-w"
   ],
   "namesOfContributorsNew": [
     "SamStudio8",
     "awgymer",
     "jcgrenier",
-    "nick-youngblut"
+    "nick-youngblut",
+    "bj-w"
   ],
-  "numberOfPullRequestNew": 209,
+  "numberOfPullRequestNew": 213,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 21511,
+  "p50SecondsToClosePulls": 24373,
   "p50SecondsToCloseIssues": 92280,
-  "meanNumberOfNewPullsPerWeek": 41.50210970464135,
-  "meanNumberOfNewContributorsPerWeek": 3.8786610878661087,
-  "meanSecondsToClosePulls": 110869.53110047847,
+  "meanNumberOfNewPullsPerWeek": 41.54852320675106,
+  "meanNumberOfNewContributorsPerWeek": 3.8828451882845187,
+  "meanSecondsToClosePulls": 128841.51643192489,
   "meanSecondsToCloseIssues": 274292.9090909091
 }
