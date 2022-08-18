@@ -926,24 +926,28 @@
     "nfg-interline",
     "SamStudio8",
     "awgymer",
+    "adf-ncgr",
     "jcgrenier",
     "nick-youngblut",
+    "ZWael",
     "bj-w"
   ],
   "namesOfContributorsNew": [
     "SamStudio8",
     "awgymer",
+    "adf-ncgr",
     "jcgrenier",
     "nick-youngblut",
+    "ZWael",
     "bj-w"
   ],
-  "numberOfPullRequestNew": 213,
+  "numberOfPullRequestNew": 203,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 24373,
+  "p50SecondsToClosePulls": 38174,
   "p50SecondsToCloseIssues": 92280,
-  "meanNumberOfNewPullsPerWeek": 41.54852320675106,
-  "meanNumberOfNewContributorsPerWeek": 3.8828451882845187,
-  "meanSecondsToClosePulls": 128841.51643192489,
-  "meanSecondsToCloseIssues": 274292.9090909091
+  "meanNumberOfNewPullsPerWeek": 41.56962025316456,
+  "meanNumberOfNewContributorsPerWeek": 3.8912133891213387,
+  "meanSecondsToClosePulls": 137782.79802955664,
+  "meanSecondsToCloseIssues": 273048.1612903226
 }
