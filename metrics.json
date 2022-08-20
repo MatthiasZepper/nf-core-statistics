@@ -536,6 +536,7 @@
     "More92",
     "hmedwards",
     "RodrigoBarquera",
+    "jcgrenier",
     "nvk747",
     "PeterBailey",
     "praveenbas",
@@ -927,8 +928,8 @@
     "nfg-interline",
     "SamStudio8",
     "awgymer",
+    "LaurenceKuhl",
     "adf-ncgr",
-    "jcgrenier",
     "nick-youngblut",
     "ZWael",
     "bj-w"
@@ -936,19 +937,19 @@
   "namesOfContributorsNew": [
     "SamStudio8",
     "awgymer",
+    "LaurenceKuhl",
     "adf-ncgr",
-    "jcgrenier",
     "nick-youngblut",
     "ZWael",
     "bj-w"
   ],
-  "numberOfPullRequestNew": 194,
+  "numberOfPullRequestNew": 171,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 27867,
-  "p50SecondsToCloseIssues": 92280,
-  "meanNumberOfNewPullsPerWeek": 41.61603375527426,
-  "meanNumberOfNewContributorsPerWeek": 3.8953974895397487,
-  "meanSecondsToClosePulls": 149771.59793814432,
-  "meanSecondsToCloseIssues": 274793.1
+  "p50SecondsToClosePulls": 42186,
+  "p50SecondsToCloseIssues": 92287,
+  "meanNumberOfNewPullsPerWeek": 41.628691983122366,
+  "meanNumberOfNewContributorsPerWeek": 3.899581589958159,
+  "meanSecondsToClosePulls": 155505.58479532163,
+  "meanSecondsToCloseIssues": 290322.2580645161
 }
