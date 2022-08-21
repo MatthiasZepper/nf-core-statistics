@@ -114,6 +114,7 @@
     "lianov",
     "achristofferson-bbi",
     "fmalmeida",
+    "SamStudio8",
     "colindaven",
     "alesssia",
     "sb43",
@@ -926,7 +927,6 @@
     "daianna21",
     "watsonar",
     "nfg-interline",
-    "SamStudio8",
     "awgymer",
     "LaurenceKuhl",
     "adf-ncgr",
@@ -935,7 +935,6 @@
     "bj-w"
   ],
   "namesOfContributorsNew": [
-    "SamStudio8",
     "awgymer",
     "LaurenceKuhl",
     "adf-ncgr",
@@ -943,13 +942,13 @@
     "ZWael",
     "bj-w"
   ],
-  "numberOfPullRequestNew": 171,
+  "numberOfPullRequestNew": 161,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 42186,
+  "p50SecondsToClosePulls": 34988,
   "p50SecondsToCloseIssues": 92287,
   "meanNumberOfNewPullsPerWeek": 41.628691983122366,
   "meanNumberOfNewContributorsPerWeek": 3.899581589958159,
-  "meanSecondsToClosePulls": 155505.58479532163,
-  "meanSecondsToCloseIssues": 290322.2580645161
+  "meanSecondsToClosePulls": 146254.67080745343,
+  "meanSecondsToCloseIssues": 274966.5172413793
 }
