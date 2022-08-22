@@ -942,13 +942,13 @@
     "ZWael",
     "bj-w"
   ],
-  "numberOfPullRequestNew": 161,
+  "numberOfPullRequestNew": 153,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 34988,
-  "p50SecondsToCloseIssues": 92287,
-  "meanNumberOfNewPullsPerWeek": 41.628691983122366,
+  "p50SecondsToClosePulls": 48098,
+  "p50SecondsToCloseIssues": 92280,
+  "meanNumberOfNewPullsPerWeek": 41.63291139240506,
   "meanNumberOfNewContributorsPerWeek": 3.899581589958159,
-  "meanSecondsToClosePulls": 146254.67080745343,
-  "meanSecondsToCloseIssues": 274966.5172413793
+  "meanSecondsToClosePulls": 145758.18300653595,
+  "meanSecondsToCloseIssues": 289555.5833333333
 }
