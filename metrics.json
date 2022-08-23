@@ -64,6 +64,7 @@
     "matrulda",
     "SPPearce",
     "krokicki",
+    "karegapauline",
     "MatthiasZepper",
     "G-Sarah",
     "projectoriented",
@@ -942,13 +943,13 @@
     "ZWael",
     "bj-w"
   ],
-  "numberOfPullRequestNew": 153,
+  "numberOfPullRequestNew": 160,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 48098,
+  "p50SecondsToClosePulls": 49777,
   "p50SecondsToCloseIssues": 92280,
-  "meanNumberOfNewPullsPerWeek": 41.63291139240506,
-  "meanNumberOfNewContributorsPerWeek": 3.899581589958159,
-  "meanSecondsToClosePulls": 145758.18300653595,
-  "meanSecondsToCloseIssues": 289555.5833333333
+  "meanNumberOfNewPullsPerWeek": 41.50420168067227,
+  "meanNumberOfNewContributorsPerWeek": 3.8875,
+  "meanSecondsToClosePulls": 156823.88125,
+  "meanSecondsToCloseIssues": 389250.3333333333
 }
