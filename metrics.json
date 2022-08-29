@@ -952,13 +952,13 @@
     "mattheww95",
     "guillaumecharbonnier"
   ],
-  "numberOfPullRequestNew": 148,
+  "numberOfPullRequestNew": 140,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 42186,
-  "p50SecondsToCloseIssues": 221859,
+  "p50SecondsToClosePulls": 59428,
+  "p50SecondsToCloseIssues": 174881,
   "meanNumberOfNewPullsPerWeek": 41.69747899159664,
   "meanNumberOfNewContributorsPerWeek": 3.908333333333333,
-  "meanSecondsToClosePulls": 154620.19594594595,
-  "meanSecondsToCloseIssues": 559681
+  "meanSecondsToClosePulls": 157719.5357142857,
+  "meanSecondsToCloseIssues": 538065.2380952381
 }
