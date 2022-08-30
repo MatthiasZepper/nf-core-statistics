@@ -938,7 +938,8 @@
     "ZWael",
     "andrewucla",
     "mattheww95",
-    "guillaumecharbonnier"
+    "guillaumecharbonnier",
+    "luisas"
   ],
   "namesOfContributorsNew": [
     "awgymer",
@@ -950,15 +951,16 @@
     "ZWael",
     "andrewucla",
     "mattheww95",
-    "guillaumecharbonnier"
+    "guillaumecharbonnier",
+    "luisas"
   ],
-  "numberOfPullRequestNew": 140,
+  "numberOfPullRequestNew": 147,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 59428,
-  "p50SecondsToCloseIssues": 174881,
-  "meanNumberOfNewPullsPerWeek": 41.69747899159664,
-  "meanNumberOfNewContributorsPerWeek": 3.908333333333333,
-  "meanSecondsToClosePulls": 157719.5357142857,
-  "meanSecondsToCloseIssues": 538065.2380952381
+  "p50SecondsToClosePulls": 65939,
+  "p50SecondsToCloseIssues": 167491,
+  "meanNumberOfNewPullsPerWeek": 41.56903765690377,
+  "meanNumberOfNewContributorsPerWeek": 3.896265560165975,
+  "meanSecondsToClosePulls": 163912.80952380953,
+  "meanSecondsToCloseIssues": 513756.7727272727
 }
