@@ -957,13 +957,13 @@
     "guillaumecharbonnier",
     "luisas"
   ],
-  "numberOfPullRequestNew": 163,
+  "numberOfPullRequestNew": 172,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 59428,
-  "p50SecondsToCloseIssues": 167491,
-  "meanNumberOfNewPullsPerWeek": 41.8326359832636,
+  "p50SecondsToClosePulls": 58078,
+  "p50SecondsToCloseIssues": 164775,
+  "meanNumberOfNewPullsPerWeek": 41.89958158995816,
   "meanNumberOfNewContributorsPerWeek": 3.904564315352697,
-  "meanSecondsToClosePulls": 162025.3926380368,
-  "meanSecondsToCloseIssues": 513756.7727272727
+  "meanSecondsToClosePulls": 155795.2093023256,
+  "meanSecondsToCloseIssues": 478127.9166666667
 }
