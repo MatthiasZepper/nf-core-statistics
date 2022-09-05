@@ -391,6 +391,7 @@
     "Grelot",
     "pbiology",
     "el239",
+    "ray1919",
     "FranBonath",
     "Rotholandus",
     "evanfloden",
@@ -762,7 +763,6 @@
     "yocra3",
     "RyanYip-Kat",
     "kgutwin",
-    "ray1919",
     "pablosoro",
     "heseber",
     "nicorap",
@@ -959,13 +959,13 @@
     "guillaumecharbonnier",
     "luisas"
   ],
-  "numberOfPullRequestNew": 247,
+  "numberOfPullRequestNew": 240,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 87175,
+  "p50SecondsToClosePulls": 86795,
   "p50SecondsToCloseIssues": 93938,
-  "meanNumberOfNewPullsPerWeek": 42.31380753138075,
+  "meanNumberOfNewPullsPerWeek": 42.32217573221757,
   "meanNumberOfNewContributorsPerWeek": 3.912863070539419,
-  "meanSecondsToClosePulls": 161969.8016194332,
-  "meanSecondsToCloseIssues": 234770.4705882353
+  "meanSecondsToClosePulls": 151876.61666666667,
+  "meanSecondsToCloseIssues": 191198.06666666668
 }
