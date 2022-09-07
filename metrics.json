@@ -935,6 +935,7 @@
     "nfg-interline",
     "LaurenceKuhl",
     "pcjentsch",
+    "rafalstepien",
     "adf-ncgr",
     "chklopp",
     "ChristophKnapp",
@@ -944,12 +945,14 @@
     "andrewucla",
     "LouisLeNezet",
     "mattheww95",
+    "PyGuan",
     "guillaumecharbonnier",
     "luisas"
   ],
   "namesOfContributorsNew": [
     "LaurenceKuhl",
     "pcjentsch",
+    "rafalstepien",
     "adf-ncgr",
     "chklopp",
     "ChristophKnapp",
@@ -959,16 +962,17 @@
     "andrewucla",
     "LouisLeNezet",
     "mattheww95",
+    "PyGuan",
     "guillaumecharbonnier",
     "luisas"
   ],
-  "numberOfPullRequestNew": 265,
+  "numberOfPullRequestNew": 275,
   "p50NumberOfNewPullsPerWeek": 35,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 87175,
-  "p50SecondsToCloseIssues": 93938,
-  "meanNumberOfNewPullsPerWeek": 42.25,
-  "meanNumberOfNewContributorsPerWeek": 3.9049586776859506,
-  "meanSecondsToClosePulls": 161487.29433962263,
-  "meanSecondsToCloseIssues": 263789
+  "p50SecondsToClosePulls": 78665,
+  "p50SecondsToCloseIssues": 110539,
+  "meanNumberOfNewPullsPerWeek": 42.325,
+  "meanNumberOfNewContributorsPerWeek": 3.9132231404958677,
+  "meanSecondsToClosePulls": 157090.56363636363,
+  "meanSecondsToCloseIssues": 266289.92
 }
