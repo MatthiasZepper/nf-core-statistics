@@ -945,6 +945,7 @@
     "andrewucla",
     "LouisLeNezet",
     "mattheww95",
+    "jeantristanb",
     "PyGuan",
     "guillaumecharbonnier",
     "luisas"
@@ -962,17 +963,18 @@
     "andrewucla",
     "LouisLeNezet",
     "mattheww95",
+    "jeantristanb",
     "PyGuan",
     "guillaumecharbonnier",
     "luisas"
   ],
-  "numberOfPullRequestNew": 275,
-  "p50NumberOfNewPullsPerWeek": 35,
+  "numberOfPullRequestNew": 290,
+  "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 78665,
-  "p50SecondsToCloseIssues": 110539,
-  "meanNumberOfNewPullsPerWeek": 42.325,
-  "meanNumberOfNewContributorsPerWeek": 3.9132231404958677,
-  "meanSecondsToClosePulls": 157090.56363636363,
-  "meanSecondsToCloseIssues": 266289.92
+  "p50SecondsToClosePulls": 73755,
+  "p50SecondsToCloseIssues": 164775,
+  "meanNumberOfNewPullsPerWeek": 42.40833333333333,
+  "meanNumberOfNewContributorsPerWeek": 3.9173553719008263,
+  "meanSecondsToClosePulls": 150671.68275862068,
+  "meanSecondsToCloseIssues": 355544.45454545453
 }
