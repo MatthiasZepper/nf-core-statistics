@@ -247,6 +247,7 @@
     "rlmartinvitae",
     "tglomb",
     "jenmuell",
+    "adf-ncgr",
     "aubinthomas",
     "mhebrard",
     "tiagochst",
@@ -936,7 +937,6 @@
     "LaurenceKuhl",
     "pcjentsch",
     "rafalstepien",
-    "adf-ncgr",
     "chklopp",
     "ChristophKnapp",
     "ZWael",
@@ -954,7 +954,6 @@
     "LaurenceKuhl",
     "pcjentsch",
     "rafalstepien",
-    "adf-ncgr",
     "chklopp",
     "ChristophKnapp",
     "ZWael",
@@ -968,13 +967,13 @@
     "guillaumecharbonnier",
     "luisas"
   ],
-  "numberOfPullRequestNew": 290,
+  "numberOfPullRequestNew": 301,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 73755,
-  "p50SecondsToCloseIssues": 164775,
-  "meanNumberOfNewPullsPerWeek": 42.40833333333333,
+  "p50SecondsToCloseIssues": 107001,
+  "meanNumberOfNewPullsPerWeek": 42.4875,
   "meanNumberOfNewContributorsPerWeek": 3.9173553719008263,
-  "meanSecondsToClosePulls": 150671.68275862068,
-  "meanSecondsToCloseIssues": 355544.45454545453
+  "meanSecondsToClosePulls": 148266.10299003322,
+  "meanSecondsToCloseIssues": 329346.5
 }
