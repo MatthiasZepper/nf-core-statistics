@@ -971,13 +971,13 @@
     "guillaumecharbonnier",
     "luisas"
   ],
-  "numberOfPullRequestNew": 304,
+  "numberOfPullRequestNew": 299,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 75172,
-  "p50SecondsToCloseIssues": 98666,
-  "meanNumberOfNewPullsPerWeek": 42.5625,
+  "p50SecondsToClosePulls": 76804,
+  "p50SecondsToCloseIssues": 107001,
+  "meanNumberOfNewPullsPerWeek": 42.575,
   "meanNumberOfNewContributorsPerWeek": 3.925619834710744,
-  "meanSecondsToClosePulls": 164082.98355263157,
-  "meanSecondsToCloseIssues": 257442.65789473685
+  "meanSecondsToClosePulls": 169231.89966555184,
+  "meanSecondsToCloseIssues": 264378.2162162162
 }
