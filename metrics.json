@@ -938,6 +938,7 @@
     "pcjentsch",
     "rafalstepien",
     "manifestoso",
+    "ashotmarg",
     "chklopp",
     "ChristophKnapp",
     "ZWael",
@@ -957,6 +958,7 @@
     "pcjentsch",
     "rafalstepien",
     "manifestoso",
+    "ashotmarg",
     "chklopp",
     "ChristophKnapp",
     "ZWael",
@@ -971,13 +973,13 @@
     "guillaumecharbonnier",
     "luisas"
   ],
-  "numberOfPullRequestNew": 299,
+  "numberOfPullRequestNew": 312,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 76804,
   "p50SecondsToCloseIssues": 107001,
-  "meanNumberOfNewPullsPerWeek": 42.575,
-  "meanNumberOfNewContributorsPerWeek": 3.925619834710744,
-  "meanSecondsToClosePulls": 169231.89966555184,
+  "meanNumberOfNewPullsPerWeek": 42.46058091286307,
+  "meanNumberOfNewContributorsPerWeek": 3.9135802469135803,
+  "meanSecondsToClosePulls": 169299.8044871795,
   "meanSecondsToCloseIssues": 264378.2162162162
 }
