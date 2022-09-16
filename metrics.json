@@ -864,6 +864,7 @@
     "EllieDuan",
     "jonwruffin",
     "TomKellyGenetics",
+    "berguner",
     "PayamEmami",
     "maxvincent24",
     "MiguelJulia",
@@ -883,7 +884,6 @@
     "Codes1985",
     "charlesfoster",
     "ksw9",
-    "berguner",
     "ampinzonv",
     "Merguerrero",
     "Nicolas-Fernandez",
@@ -951,7 +951,10 @@
     "jeantristanb",
     "PyGuan",
     "guillaumecharbonnier",
-    "luisas"
+    "zmahnoor14",
+    "luozhy88",
+    "luisas",
+    "ArlindNocaj"
   ],
   "namesOfContributorsNew": [
     "LaurenceKuhl",
@@ -971,15 +974,18 @@
     "jeantristanb",
     "PyGuan",
     "guillaumecharbonnier",
-    "luisas"
+    "zmahnoor14",
+    "luozhy88",
+    "luisas",
+    "ArlindNocaj"
   ],
-  "numberOfPullRequestNew": 339,
+  "numberOfPullRequestNew": 363,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 72702,
-  "p50SecondsToCloseIssues": 98666,
-  "meanNumberOfNewPullsPerWeek": 42.61825726141079,
-  "meanNumberOfNewContributorsPerWeek": 3.9135802469135803,
-  "meanSecondsToClosePulls": 165799.97050147492,
-  "meanSecondsToCloseIssues": 274066.6
+  "p50SecondsToClosePulls": 72626,
+  "p50SecondsToCloseIssues": 107001,
+  "meanNumberOfNewPullsPerWeek": 42.74688796680498,
+  "meanNumberOfNewContributorsPerWeek": 3.925925925925926,
+  "meanSecondsToClosePulls": 167902.68595041323,
+  "meanSecondsToCloseIssues": 331665.73333333334
 }
