@@ -213,6 +213,7 @@
     "merszym",
     "adamrtalbot",
     "alxndrdiaz",
+    "LaurenceKuhl",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -935,7 +936,6 @@
     "daianna21",
     "watsonar",
     "nfg-interline",
-    "LaurenceKuhl",
     "pcjentsch",
     "rafalstepien",
     "manifestoso",
@@ -957,7 +957,6 @@
     "ArlindNocaj"
   ],
   "namesOfContributorsNew": [
-    "LaurenceKuhl",
     "pcjentsch",
     "rafalstepien",
     "manifestoso",
@@ -978,13 +977,13 @@
     "luisas",
     "ArlindNocaj"
   ],
-  "numberOfPullRequestNew": 375,
+  "numberOfPullRequestNew": 362,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 70319,
+  "p50SecondsToClosePulls": 67137,
   "p50SecondsToCloseIssues": 107001,
   "meanNumberOfNewPullsPerWeek": 42.821576763485474,
   "meanNumberOfNewContributorsPerWeek": 3.925925925925926,
-  "meanSecondsToClosePulls": 162004.55733333333,
-  "meanSecondsToCloseIssues": 331665.73333333334
+  "meanSecondsToClosePulls": 159507.7182320442,
+  "meanSecondsToCloseIssues": 337106.1590909091
 }
