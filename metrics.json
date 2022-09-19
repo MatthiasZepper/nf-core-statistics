@@ -805,6 +805,7 @@
     "jowkar",
     "animesh",
     "intawat",
+    "andrewucla",
     "aboyd003",
     "MostafaYA",
     "lekhakaranam",
@@ -944,7 +945,6 @@
     "ChristophKnapp",
     "atrull314",
     "kalayaneech",
-    "andrewucla",
     "msguixe",
     "LouisLeNezet",
     "mattheww95",
@@ -965,7 +965,6 @@
     "ChristophKnapp",
     "atrull314",
     "kalayaneech",
-    "andrewucla",
     "msguixe",
     "LouisLeNezet",
     "mattheww95",
@@ -977,13 +976,13 @@
     "luisas",
     "ArlindNocaj"
   ],
-  "numberOfPullRequestNew": 362,
+  "numberOfPullRequestNew": 358,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 67137,
-  "p50SecondsToCloseIssues": 107001,
-  "meanNumberOfNewPullsPerWeek": 42.821576763485474,
+  "p50SecondsToClosePulls": 64785,
+  "p50SecondsToCloseIssues": 98666,
+  "meanNumberOfNewPullsPerWeek": 42.829875518672196,
   "meanNumberOfNewContributorsPerWeek": 3.925925925925926,
-  "meanSecondsToClosePulls": 159507.7182320442,
-  "meanSecondsToCloseIssues": 337106.1590909091
+  "meanSecondsToClosePulls": 154750.30446927375,
+  "meanSecondsToCloseIssues": 306742.5714285714
 }
