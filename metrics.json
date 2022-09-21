@@ -978,13 +978,13 @@
     "luisas",
     "ArlindNocaj"
   ],
-  "numberOfPullRequestNew": 369,
+  "numberOfPullRequestNew": 371,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 65939,
-  "p50SecondsToCloseIssues": 98666,
-  "meanNumberOfNewPullsPerWeek": 42.69834710743802,
+  "p50SecondsToClosePulls": 65562,
+  "p50SecondsToCloseIssues": 107001,
+  "meanNumberOfNewPullsPerWeek": 42.71487603305785,
   "meanNumberOfNewContributorsPerWeek": 3.9139344262295084,
-  "meanSecondsToClosePulls": 162308.59620596207,
-  "meanSecondsToCloseIssues": 306742.5714285714
+  "meanSecondsToClosePulls": 164186.40161725067,
+  "meanSecondsToCloseIssues": 330923.0909090909
 }
