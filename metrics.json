@@ -921,6 +921,7 @@
     "ERIGR",
     "HeyLifeHD",
     "artgolden",
+    "ngocemy",
     "Lori-tan",
     "MarionPerrier",
     "DongdongdongW",
@@ -941,6 +942,7 @@
     "shangguandong1996",
     "daianna21",
     "watsonar",
+    "luisas",
     "nfg-interline",
     "rafalstepien",
     "manifestoso",
@@ -957,7 +959,6 @@
     "PyGuan",
     "zmahnoor14",
     "luozhy88",
-    "luisas",
     "ArlindNocaj"
   ],
   "namesOfContributorsNew": [
@@ -976,16 +977,15 @@
     "PyGuan",
     "zmahnoor14",
     "luozhy88",
-    "luisas",
     "ArlindNocaj"
   ],
-  "numberOfPullRequestNew": 377,
+  "numberOfPullRequestNew": 363,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 65562,
-  "p50SecondsToCloseIssues": 98666,
-  "meanNumberOfNewPullsPerWeek": 42.85950413223141,
-  "meanNumberOfNewContributorsPerWeek": 3.9262295081967213,
-  "meanSecondsToClosePulls": 175187.68700265253,
-  "meanSecondsToCloseIssues": 363756.7111111111
+  "p50SecondsToClosePulls": 64785,
+  "p50SecondsToCloseIssues": 97263,
+  "meanNumberOfNewPullsPerWeek": 42.86776859504132,
+  "meanNumberOfNewContributorsPerWeek": 3.930327868852459,
+  "meanSecondsToClosePulls": 174984.43250688704,
+  "meanSecondsToCloseIssues": 350694.2727272727
 }
