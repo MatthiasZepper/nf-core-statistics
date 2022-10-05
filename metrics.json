@@ -996,13 +996,13 @@
     "zmahnoor14",
     "luozhy88"
   ],
-  "numberOfPullRequestNew": 312,
+  "numberOfPullRequestNew": 339,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 7911,
-  "p50SecondsToCloseIssues": 107001,
-  "meanNumberOfNewPullsPerWeek": 43.06147540983606,
+  "p50SecondsToClosePulls": 7259,
+  "p50SecondsToCloseIssues": 188074,
+  "meanNumberOfNewPullsPerWeek": 43.33196721311475,
   "meanNumberOfNewContributorsPerWeek": 3.9634146341463414,
-  "meanSecondsToClosePulls": 153245.08333333334,
-  "meanSecondsToCloseIssues": 445429.67391304346
+  "meanSecondsToClosePulls": 145208.17109144543,
+  "meanSecondsToCloseIssues": 467355.7291666667
 }
