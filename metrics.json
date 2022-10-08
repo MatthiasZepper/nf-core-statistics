@@ -922,6 +922,7 @@
     "thomasbtf",
     "Mewgia",
     "alethomas",
+    "jeantristanb",
     "rcostan00b",
     "gprezza",
     "AndreaGuarracino",
@@ -965,6 +966,7 @@
     "ArlindNocaj",
     "gariem",
     "manifestoso",
+    "pinin4fjords",
     "RaqManzano",
     "aojielian",
     "john-lee-johnson",
@@ -975,7 +977,6 @@
     "vjmarteau",
     "msguixe",
     "senzhaocode",
-    "jeantristanb",
     "madagiurgiu25",
     "zmahnoor14",
     "luozhy88"
@@ -983,6 +984,7 @@
   "namesOfContributorsNew": [
     "gariem",
     "manifestoso",
+    "pinin4fjords",
     "RaqManzano",
     "aojielian",
     "john-lee-johnson",
@@ -993,18 +995,17 @@
     "vjmarteau",
     "msguixe",
     "senzhaocode",
-    "jeantristanb",
     "madagiurgiu25",
     "zmahnoor14",
     "luozhy88"
   ],
-  "numberOfPullRequestNew": 363,
+  "numberOfPullRequestNew": 361,
   "p50NumberOfNewPullsPerWeek": 36,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 9798,
+  "p50SecondsToClosePulls": 9089,
   "p50SecondsToCloseIssues": 253128,
-  "meanNumberOfNewPullsPerWeek": 43.618852459016395,
-  "meanNumberOfNewContributorsPerWeek": 3.975609756097561,
-  "meanSecondsToClosePulls": 134337.59228650137,
-  "meanSecondsToCloseIssues": 539319.4651162791
+  "meanNumberOfNewPullsPerWeek": 43.6844262295082,
+  "meanNumberOfNewContributorsPerWeek": 3.9796747967479673,
+  "meanSecondsToClosePulls": 126563.73961218836,
+  "meanSecondsToCloseIssues": 546134.7435897436
 }
