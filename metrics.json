@@ -968,6 +968,7 @@
     "henrikstranneheim",
     "shangguandong1996",
     "daianna21",
+    "zmahnoor14",
     "watsonar",
     "luozhy88",
     "luisas",
@@ -1009,7 +1010,6 @@
     "sreerampeela",
     "madagiurgiu25",
     "harper357",
-    "zmahnoor14",
     "l-mansouri",
     "rjpbonnal"
   ],
@@ -1050,17 +1050,16 @@
     "sreerampeela",
     "madagiurgiu25",
     "harper357",
-    "zmahnoor14",
     "l-mansouri",
     "rjpbonnal"
   ],
-  "numberOfPullRequestNew": 496,
+  "numberOfPullRequestNew": 476,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 5396,
-  "p50SecondsToCloseIssues": 40303,
-  "meanNumberOfNewPullsPerWeek": 44.46530612244898,
+  "p50SecondsToClosePulls": 5116,
+  "p50SecondsToCloseIssues": 22314,
+  "meanNumberOfNewPullsPerWeek": 44.46938775510204,
   "meanNumberOfNewContributorsPerWeek": 4.093117408906883,
-  "meanSecondsToClosePulls": 94524.11895161291,
-  "meanSecondsToCloseIssues": 228379.95283018867
+  "meanSecondsToClosePulls": 91678.8256302521,
+  "meanSecondsToCloseIssues": 181257.3431372549
 }
