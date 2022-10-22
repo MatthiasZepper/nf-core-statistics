@@ -701,6 +701,7 @@
     "LayTengAngLab",
     "ikeller",
     "ronfinn",
+    "sruthipsuresh",
     "mihai-sysbio",
     "abretaud",
     "mseybold",
@@ -849,7 +850,6 @@
     "SBata",
     "annacprice",
     "Jeremy1805",
-    "sruthipsuresh",
     "andersgs",
     "kaurravneet4123",
     "ntoda03",
@@ -1059,13 +1059,13 @@
     "l-mansouri",
     "rjpbonnal"
   ],
-  "numberOfPullRequestNew": 522,
+  "numberOfPullRequestNew": 536,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 6155,
-  "p50SecondsToCloseIssues": 22314,
-  "meanNumberOfNewPullsPerWeek": 44.63821138211382,
+  "p50SecondsToClosePulls": 6370,
+  "p50SecondsToCloseIssues": 40303,
+  "meanNumberOfNewPullsPerWeek": 44.72764227642276,
   "meanNumberOfNewContributorsPerWeek": 4.096774193548387,
-  "meanSecondsToClosePulls": 104387.83908045977,
-  "meanSecondsToCloseIssues": 177584.9406779661
+  "meanSecondsToClosePulls": 106218.88059701493,
+  "meanSecondsToCloseIssues": 192842.64227642276
 }
