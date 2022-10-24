@@ -255,6 +255,7 @@
     "jenmuell",
     "nickhsmith",
     "adf-ncgr",
+    "RaqManzano",
     "aubinthomas",
     "mhebrard",
     "tiagochst",
@@ -992,7 +993,6 @@
     "JoshuaDanielRubin",
     "toniher",
     "scorreard",
-    "RaqManzano",
     "aojielian",
     "john-lee-johnson",
     "paulineauffret",
@@ -1031,7 +1031,6 @@
     "JoshuaDanielRubin",
     "toniher",
     "scorreard",
-    "RaqManzano",
     "aojielian",
     "john-lee-johnson",
     "paulineauffret",
@@ -1057,13 +1056,13 @@
     "l-mansouri",
     "rjpbonnal"
   ],
-  "numberOfPullRequestNew": 528,
+  "numberOfPullRequestNew": 509,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 6088,
+  "p50SecondsToClosePulls": 5907,
   "p50SecondsToCloseIssues": 22314,
-  "meanNumberOfNewPullsPerWeek": 44.72764227642276,
+  "meanNumberOfNewPullsPerWeek": 44.735772357723576,
   "meanNumberOfNewContributorsPerWeek": 4.096774193548387,
-  "meanSecondsToClosePulls": 98516.8125,
-  "meanSecondsToCloseIssues": 187848.31404958677
+  "meanSecondsToClosePulls": 85921.19449901769,
+  "meanSecondsToCloseIssues": 189340.99166666667
 }
