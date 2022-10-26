@@ -1011,6 +1011,7 @@
     "shaojunyu",
     "paumarc",
     "taylorreiter",
+    "gertrudeln",
     "KamilMaliszArdigen",
     "pawelciurkaardigen",
     "dmarron",
@@ -1051,6 +1052,7 @@
     "shaojunyu",
     "paumarc",
     "taylorreiter",
+    "gertrudeln",
     "KamilMaliszArdigen",
     "pawelciurkaardigen",
     "dmarron",
@@ -1061,13 +1063,13 @@
     "l-mansouri",
     "rjpbonnal"
   ],
-  "numberOfPullRequestNew": 534,
+  "numberOfPullRequestNew": 548,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 6155,
-  "p50SecondsToCloseIssues": 40303,
-  "meanNumberOfNewPullsPerWeek": 44.663967611336034,
-  "meanNumberOfNewContributorsPerWeek": 4.092369477911647,
-  "meanSecondsToClosePulls": 98005.77153558053,
-  "meanSecondsToCloseIssues": 187921.32
+  "p50SecondsToClosePulls": 6618,
+  "p50SecondsToCloseIssues": 47341,
+  "meanNumberOfNewPullsPerWeek": 44.7246963562753,
+  "meanNumberOfNewContributorsPerWeek": 4.096385542168675,
+  "meanSecondsToClosePulls": 107603.0894160584,
+  "meanSecondsToCloseIssues": 225843.57692307694
 }
