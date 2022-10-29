@@ -1063,13 +1063,13 @@
     "l-mansouri",
     "rjpbonnal"
   ],
-  "numberOfPullRequestNew": 551,
+  "numberOfPullRequestNew": 552,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 6750,
-  "p50SecondsToCloseIssues": 74453,
-  "meanNumberOfNewPullsPerWeek": 44.89068825910931,
+  "p50SecondsToClosePulls": 6618,
+  "p50SecondsToCloseIssues": 69796,
+  "meanNumberOfNewPullsPerWeek": 44.959514170040485,
   "meanNumberOfNewContributorsPerWeek": 4.100401606425703,
-  "meanSecondsToClosePulls": 112654.88747731397,
-  "meanSecondsToCloseIssues": 305700.3021582734
+  "meanSecondsToClosePulls": 108134.80072463768,
+  "meanSecondsToCloseIssues": 255807.0588235294
 }
