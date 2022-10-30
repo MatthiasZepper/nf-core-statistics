@@ -754,6 +754,7 @@
     "heylf",
     "Vivian-chen16",
     "vjmarteau",
+    "Khajidu",
     "asifzubair",
     "redst4r",
     "ChillyMomo709",
@@ -762,7 +763,6 @@
     "susheelbhanu",
     "alexblaessle",
     "SarahBeecroft",
-    "Khajidu",
     "esrice",
     "cmdoret",
     "phupe",
@@ -1063,13 +1063,13 @@
     "l-mansouri",
     "rjpbonnal"
   ],
-  "numberOfPullRequestNew": 552,
+  "numberOfPullRequestNew": 539,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 6618,
+  "p50SecondsToClosePulls": 6870,
   "p50SecondsToCloseIssues": 69796,
   "meanNumberOfNewPullsPerWeek": 44.959514170040485,
   "meanNumberOfNewContributorsPerWeek": 4.100401606425703,
-  "meanSecondsToClosePulls": 108134.80072463768,
-  "meanSecondsToCloseIssues": 255807.0588235294
+  "meanSecondsToClosePulls": 109990.48979591837,
+  "meanSecondsToCloseIssues": 262727.6917293233
 }
