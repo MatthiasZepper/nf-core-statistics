@@ -1018,7 +1018,9 @@
     "qclayssen",
     "sreerampeela",
     "lucananni93",
+    "Rohit-Satyam",
     "cnluzon",
+    "alienzj",
     "harper357",
     "l-mansouri",
     "rjpbonnal"
@@ -1058,18 +1060,20 @@
     "qclayssen",
     "sreerampeela",
     "lucananni93",
+    "Rohit-Satyam",
     "cnluzon",
+    "alienzj",
     "harper357",
     "l-mansouri",
     "rjpbonnal"
   ],
-  "numberOfPullRequestNew": 528,
+  "numberOfPullRequestNew": 543,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 6908,
-  "p50SecondsToCloseIssues": 69796,
-  "meanNumberOfNewPullsPerWeek": 44.963562753036435,
-  "meanNumberOfNewContributorsPerWeek": 4.100401606425703,
-  "meanSecondsToClosePulls": 107550.5303030303,
-  "meanSecondsToCloseIssues": 262727.6917293233
+  "p50SecondsToClosePulls": 6941,
+  "p50SecondsToCloseIssues": 71878,
+  "meanNumberOfNewPullsPerWeek": 44.854838709677416,
+  "meanNumberOfNewContributorsPerWeek": 4.092,
+  "meanSecondsToClosePulls": 113869.07182320442,
+  "meanSecondsToCloseIssues": 271275.50724637683
 }
