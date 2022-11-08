@@ -986,6 +986,7 @@
     "sminot",
     "kaitlinchaung",
     "kvn95ss",
+    "SchwarzMarek",
     "henrikstranneheim",
     "shangguandong1996",
     "daianna21",
@@ -1024,6 +1025,7 @@
     "ViHammer",
     "shaojunyu",
     "paumarc",
+    "aheritas",
     "gertrudeln",
     "KamilMaliszArdigen",
     "pawelciurkaardigen",
@@ -1065,6 +1067,7 @@
     "ViHammer",
     "shaojunyu",
     "paumarc",
+    "aheritas",
     "gertrudeln",
     "KamilMaliszArdigen",
     "pawelciurkaardigen",
@@ -1080,13 +1083,13 @@
     "rjpbonnal",
     "MikeHala"
   ],
-  "numberOfPullRequestNew": 482,
+  "numberOfPullRequestNew": 499,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 7280,
+  "p50SecondsToClosePulls": 7272,
   "p50SecondsToCloseIssues": 71878,
-  "meanNumberOfNewPullsPerWeek": 45.25806451612903,
-  "meanNumberOfNewContributorsPerWeek": 4.148,
-  "meanSecondsToClosePulls": 121949.65560165975,
-  "meanSecondsToCloseIssues": 243576.2189781022
+  "meanNumberOfNewPullsPerWeek": 45.14859437751004,
+  "meanNumberOfNewContributorsPerWeek": 4.139442231075697,
+  "meanSecondsToClosePulls": 124643.14629258517,
+  "meanSecondsToCloseIssues": 255335.51063829788
 }
