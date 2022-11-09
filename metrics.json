@@ -1020,6 +1020,8 @@
     "losttransposon",
     "larryns",
     "JackCurragh",
+    "l-modolo",
+    "prototaxites",
     "birgitritschka",
     "tomsing1",
     "ViHammer",
@@ -1062,6 +1064,8 @@
     "losttransposon",
     "larryns",
     "JackCurragh",
+    "l-modolo",
+    "prototaxites",
     "birgitritschka",
     "tomsing1",
     "ViHammer",
@@ -1083,13 +1087,13 @@
     "rjpbonnal",
     "MikeHala"
   ],
-  "numberOfPullRequestNew": 499,
+  "numberOfPullRequestNew": 527,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 7272,
+  "p50SecondsToClosePulls": 7789,
   "p50SecondsToCloseIssues": 71878,
-  "meanNumberOfNewPullsPerWeek": 45.14859437751004,
-  "meanNumberOfNewContributorsPerWeek": 4.139442231075697,
-  "meanSecondsToClosePulls": 124643.14629258517,
-  "meanSecondsToCloseIssues": 255335.51063829788
+  "meanNumberOfNewPullsPerWeek": 45.265060240963855,
+  "meanNumberOfNewContributorsPerWeek": 4.147410358565737,
+  "meanSecondsToClosePulls": 127778.50853889943,
+  "meanSecondsToCloseIssues": 271294.6690140845
 }
