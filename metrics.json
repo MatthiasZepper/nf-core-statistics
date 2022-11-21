@@ -894,6 +894,7 @@
     "DrMcStrange",
     "shaojunyu",
     "paumarc",
+    "jackmo375",
     "aboyd003",
     "MostafaYA",
     "lekhakaranam",
@@ -1062,7 +1063,6 @@
     "birgitritschka",
     "tomsing1",
     "ViHammer",
-    "jackmo375",
     "aheritas",
     "akahles",
     "tillenglert",
@@ -1089,7 +1089,6 @@
     "birgitritschka",
     "tomsing1",
     "ViHammer",
-    "jackmo375",
     "aheritas",
     "akahles",
     "tillenglert",
@@ -1102,13 +1101,13 @@
     "MikeHala",
     "brentp"
   ],
-  "numberOfPullRequestNew": 384,
+  "numberOfPullRequestNew": 368,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 8803,
-  "p50SecondsToCloseIssues": 259745,
+  "p50SecondsToCloseIssues": 192360,
   "meanNumberOfNewPullsPerWeek": 45.788,
   "meanNumberOfNewContributorsPerWeek": 4.257936507936508,
-  "meanSecondsToClosePulls": 142474.10677083334,
-  "meanSecondsToCloseIssues": 473380.13924050634
+  "meanSecondsToClosePulls": 140616.6739130435,
+  "meanSecondsToCloseIssues": 459966.32857142854
 }
