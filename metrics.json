@@ -940,6 +940,7 @@
     "qclayssen",
     "sreerampeela",
     "lucananni93",
+    "Joon-Klaps",
     "zhangdongqin",
     "wkang0",
     "gbinux",
@@ -1065,6 +1066,7 @@
     "ViHammer",
     "aheritas",
     "akahles",
+    "amizeranschi",
     "tillenglert",
     "phanhung2",
     "Rohit-Satyam",
@@ -1091,6 +1093,7 @@
     "ViHammer",
     "aheritas",
     "akahles",
+    "amizeranschi",
     "tillenglert",
     "phanhung2",
     "Rohit-Satyam",
@@ -1101,13 +1104,13 @@
     "MikeHala",
     "brentp"
   ],
-  "numberOfPullRequestNew": 368,
+  "numberOfPullRequestNew": 386,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 8803,
+  "p50SecondsToClosePulls": 8109,
   "p50SecondsToCloseIssues": 192360,
-  "meanNumberOfNewPullsPerWeek": 45.788,
-  "meanNumberOfNewContributorsPerWeek": 4.257936507936508,
-  "meanSecondsToClosePulls": 140616.6739130435,
-  "meanSecondsToCloseIssues": 459966.32857142854
+  "meanNumberOfNewPullsPerWeek": 45.689243027888445,
+  "meanNumberOfNewContributorsPerWeek": 4.24901185770751,
+  "meanSecondsToClosePulls": 136708.97668393783,
+  "meanSecondsToCloseIssues": 463730
 }
