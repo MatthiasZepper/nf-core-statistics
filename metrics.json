@@ -243,6 +243,7 @@
     "toniher",
     "scorreard",
     "chriswyatt1",
+    "alyssa-ab",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -927,7 +928,6 @@
     "dancooke",
     "yumisims",
     "carpanz",
-    "alyssa-ab",
     "MrOlm",
     "ltcrod",
     "ksenia-krasheninnikova",
@@ -1107,13 +1107,13 @@
     "MikeHala",
     "brentp"
   ],
-  "numberOfPullRequestNew": 398,
+  "numberOfPullRequestNew": 379,
   "p50NumberOfNewPullsPerWeek": 37,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 9431,
-  "p50SecondsToCloseIssues": 192360,
-  "meanNumberOfNewPullsPerWeek": 45.7410358565737,
+  "p50SecondsToCloseIssues": 259745,
+  "meanNumberOfNewPullsPerWeek": 45.78486055776892,
   "meanNumberOfNewContributorsPerWeek": 4.256916996047431,
-  "meanSecondsToClosePulls": 143806.38693467336,
-  "meanSecondsToCloseIssues": 464852.9583333333
+  "meanSecondsToClosePulls": 153658.30343007916,
+  "meanSecondsToCloseIssues": 487382.2089552239
 }
