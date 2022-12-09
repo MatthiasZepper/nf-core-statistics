@@ -1061,6 +1061,7 @@
     "shangguandong1996",
     "daianna21",
     "madagiurgiu25",
+    "liu-zhiyang",
     "CaroAMN",
     "harper357",
     "zmahnoor14",
@@ -1095,7 +1096,6 @@
     "diegomics",
     "HardingZhang",
     "SarahMaman",
-    "liu-zhiyang",
     "claire-prince",
     "brentp"
   ],
@@ -1119,17 +1119,16 @@
     "diegomics",
     "HardingZhang",
     "SarahMaman",
-    "liu-zhiyang",
     "claire-prince",
     "brentp"
   ],
-  "numberOfPullRequestNew": 387,
-  "p50NumberOfNewPullsPerWeek": 38,
+  "numberOfPullRequestNew": 397,
+  "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 17486,
-  "p50SecondsToCloseIssues": 292826,
-  "meanNumberOfNewPullsPerWeek": 46.40711462450593,
+  "p50SecondsToClosePulls": 16832,
+  "p50SecondsToCloseIssues": 263918,
+  "meanNumberOfNewPullsPerWeek": 46.644268774703555,
   "meanNumberOfNewContributorsPerWeek": 4.301960784313725,
-  "meanSecondsToClosePulls": 138971.98449612403,
-  "meanSecondsToCloseIssues": 492598.59523809527
+  "meanSecondsToClosePulls": 138462.88664987407,
+  "meanSecondsToCloseIssues": 488575.09523809527
 }
