@@ -1121,13 +1121,13 @@
     "SarahMaman",
     "brentp"
   ],
-  "numberOfPullRequestNew": 381,
+  "numberOfPullRequestNew": 393,
   "p50NumberOfNewPullsPerWeek": 38,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 19938,
-  "p50SecondsToCloseIssues": 263918,
-  "meanNumberOfNewPullsPerWeek": 46.63779527559055,
+  "p50SecondsToClosePulls": 22733,
+  "p50SecondsToCloseIssues": 278323,
+  "meanNumberOfNewPullsPerWeek": 46.688976377952756,
   "meanNumberOfNewContributorsPerWeek": 4.2890625,
-  "meanSecondsToClosePulls": 139086.1653543307,
-  "meanSecondsToCloseIssues": 408655.2784810127
+  "meanSecondsToClosePulls": 140474.52671755725,
+  "meanSecondsToCloseIssues": 419347.3
 }
