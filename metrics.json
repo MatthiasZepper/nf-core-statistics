@@ -1130,13 +1130,13 @@
     "HardingZhang",
     "SarahMaman"
   ],
-  "numberOfPullRequestNew": 380,
+  "numberOfPullRequestNew": 375,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 35196,
+  "p50SecondsToClosePulls": 35722,
   "p50SecondsToCloseIssues": 278323,
-  "meanNumberOfNewPullsPerWeek": 46.91338582677165,
+  "meanNumberOfNewPullsPerWeek": 46.91732283464567,
   "meanNumberOfNewContributorsPerWeek": 4.328125,
-  "meanSecondsToClosePulls": 152364.81315789474,
-  "meanSecondsToCloseIssues": 460325.32911392406
+  "meanSecondsToClosePulls": 149969.50666666665,
+  "meanSecondsToCloseIssues": 449935.7866666667
 }
