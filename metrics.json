@@ -932,6 +932,7 @@
     "akahles",
     "yqkiuo",
     "amizeranschi",
+    "Ahas4",
     "aboyd003",
     "MostafaYA",
     "lekhakaranam",
@@ -980,6 +981,7 @@
     "asgaines",
     "tillenglert",
     "peterpru",
+    "bsiranosian",
     "zhangdongqin",
     "wkang0",
     "gbinux",
@@ -1109,12 +1111,11 @@
     "Glfrey",
     "kubranarci",
     "hellypatel98",
-    "Ahas4",
-    "bsiranosian",
     "timslittle",
     "anoronh4",
     "diegomics",
-    "SarahMaman"
+    "SarahMaman",
+    "lewynli"
   ],
   "namesOfContributorsNew": [
     "epaule",
@@ -1125,20 +1126,19 @@
     "Glfrey",
     "kubranarci",
     "hellypatel98",
-    "Ahas4",
-    "bsiranosian",
     "timslittle",
     "anoronh4",
     "diegomics",
-    "SarahMaman"
+    "SarahMaman",
+    "lewynli"
   ],
-  "numberOfPullRequestNew": 460,
+  "numberOfPullRequestNew": 433,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 62531,
-  "p50SecondsToCloseIssues": 267119,
-  "meanNumberOfNewPullsPerWeek": 47.27843137254902,
-  "meanNumberOfNewContributorsPerWeek": 4.334630350194552,
-  "meanSecondsToClosePulls": 236864.4043478261,
-  "meanSecondsToCloseIssues": 431895.6216216216
+  "p50SecondsToClosePulls": 64766,
+  "p50SecondsToCloseIssues": 263918,
+  "meanNumberOfNewPullsPerWeek": 47.28235294117647,
+  "meanNumberOfNewContributorsPerWeek": 4.33852140077821,
+  "meanSecondsToClosePulls": 243349.70207852195,
+  "meanSecondsToCloseIssues": 403621.3098591549
 }
