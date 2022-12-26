@@ -642,7 +642,6 @@
     "sirselim",
     "lcabus-flomics",
     "sdjebali",
-    "pericsson",
     "kstawiski",
     "Daniel-VM",
     "klkeys",
@@ -1132,13 +1131,13 @@
     "SarahMaman",
     "lewynli"
   ],
-  "numberOfPullRequestNew": 433,
+  "numberOfPullRequestNew": 419,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 64766,
-  "p50SecondsToCloseIssues": 263918,
+  "p50SecondsToClosePulls": 66456,
+  "p50SecondsToCloseIssues": 263617,
   "meanNumberOfNewPullsPerWeek": 47.28235294117647,
-  "meanNumberOfNewContributorsPerWeek": 4.33852140077821,
-  "meanSecondsToClosePulls": 243349.70207852195,
-  "meanSecondsToCloseIssues": 403621.3098591549
+  "meanNumberOfNewContributorsPerWeek": 4.334630350194552,
+  "meanSecondsToClosePulls": 247989.68019093078,
+  "meanSecondsToCloseIssues": 380030.27536231885
 }
