@@ -1131,13 +1131,13 @@
     "SarahMaman",
     "lewynli"
   ],
-  "numberOfPullRequestNew": 419,
+  "numberOfPullRequestNew": 418,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 66456,
+  "p50SecondsToClosePulls": 64766,
   "p50SecondsToCloseIssues": 263617,
-  "meanNumberOfNewPullsPerWeek": 47.28235294117647,
+  "meanNumberOfNewPullsPerWeek": 47.29019607843137,
   "meanNumberOfNewContributorsPerWeek": 4.334630350194552,
-  "meanSecondsToClosePulls": 247989.68019093078,
-  "meanSecondsToCloseIssues": 380030.27536231885
+  "meanSecondsToClosePulls": 248814.73205741626,
+  "meanSecondsToCloseIssues": 384455.04411764705
 }
