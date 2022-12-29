@@ -981,6 +981,7 @@
     "tillenglert",
     "peterpru",
     "bsiranosian",
+    "tavareshugo",
     "zhangdongqin",
     "wkang0",
     "gbinux",
@@ -1009,7 +1010,6 @@
     "saramonzon",
     "nhhaidee",
     "ErikaKvalem",
-    "tavareshugo",
     "mattheww95",
     "edgano",
     "ekg",
@@ -1131,13 +1131,13 @@
     "SarahMaman",
     "lewynli"
   ],
-  "numberOfPullRequestNew": 418,
+  "numberOfPullRequestNew": 401,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 64766,
-  "p50SecondsToCloseIssues": 263617,
-  "meanNumberOfNewPullsPerWeek": 47.29019607843137,
+  "p50SecondsToClosePulls": 68983,
+  "p50SecondsToCloseIssues": 267119,
+  "meanNumberOfNewPullsPerWeek": 47.29803921568627,
   "meanNumberOfNewContributorsPerWeek": 4.334630350194552,
-  "meanSecondsToClosePulls": 248814.73205741626,
-  "meanSecondsToCloseIssues": 384455.04411764705
+  "meanSecondsToClosePulls": 255441.0324189526,
+  "meanSecondsToCloseIssues": 403576.28571428574
 }
