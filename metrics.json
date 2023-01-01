@@ -135,6 +135,7 @@
     "LaurenceKuhl",
     "mattheatley",
     "kcibul",
+    "nvnieuwk",
     "colindaven",
     "alesssia",
     "sb43",
@@ -230,7 +231,6 @@
     "jasmezz",
     "ypriverol",
     "jvhagey",
-    "nvnieuwk",
     "lmtani",
     "daichengxin",
     "ryanjameskennedy",
@@ -1072,6 +1072,7 @@
     "MrNiro",
     "bkbx",
     "guillaumecharbonnier",
+    "SarahMaman",
     "AnotherSimon",
     "jackkamm",
     "alienzj",
@@ -1113,7 +1114,6 @@
     "kubranarci",
     "timslittle",
     "anoronh4",
-    "SarahMaman",
     "lewynli"
   ],
   "namesOfContributorsNew": [
@@ -1126,16 +1126,15 @@
     "kubranarci",
     "timslittle",
     "anoronh4",
-    "SarahMaman",
     "lewynli"
   ],
-  "numberOfPullRequestNew": 347,
+  "numberOfPullRequestNew": 326,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 74134,
-  "p50SecondsToCloseIssues": 209676,
+  "p50SecondsToClosePulls": 75434,
+  "p50SecondsToCloseIssues": 178430,
   "meanNumberOfNewPullsPerWeek": 47.30196078431373,
   "meanNumberOfNewContributorsPerWeek": 4.334630350194552,
-  "meanSecondsToClosePulls": 275727.48703170026,
-  "meanSecondsToCloseIssues": 301102.16
+  "meanSecondsToClosePulls": 281489.07975460123,
+  "meanSecondsToCloseIssues": 254601.13636363635
 }
