@@ -1125,13 +1125,13 @@
     "anoronh4",
     "lewynli"
   ],
-  "numberOfPullRequestNew": 305,
+  "numberOfPullRequestNew": 307,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 75462,
+  "p50SecondsToClosePulls": 75964,
   "p50SecondsToCloseIssues": 242057,
-  "meanNumberOfNewPullsPerWeek": 47.30196078431373,
+  "meanNumberOfNewPullsPerWeek": 47.31764705882353,
   "meanNumberOfNewContributorsPerWeek": 4.334630350194552,
-  "meanSecondsToClosePulls": 284864.6262295082,
-  "meanSecondsToCloseIssues": 277153.9487179487
+  "meanSecondsToClosePulls": 286838.54071661236,
+  "meanSecondsToCloseIssues": 291839.875
 }
