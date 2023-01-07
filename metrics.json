@@ -1116,6 +1116,7 @@
     "isaiahwtaylor",
     "FanBioinformatics",
     "anoronh4",
+    "paulemnah",
     "ipstone",
     "lewynli"
   ],
@@ -1125,16 +1126,17 @@
     "isaiahwtaylor",
     "FanBioinformatics",
     "anoronh4",
+    "paulemnah",
     "ipstone",
     "lewynli"
   ],
-  "numberOfPullRequestNew": 293,
+  "numberOfPullRequestNew": 277,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 71438,
-  "p50SecondsToCloseIssues": 255212,
-  "meanNumberOfNewPullsPerWeek": 47.23828125,
-  "meanNumberOfNewContributorsPerWeek": 4.329457364341085,
-  "meanSecondsToClosePulls": 296482.976109215,
-  "meanSecondsToCloseIssues": 389119.28205128206
+  "p50SecondsToClosePulls": 77400,
+  "p50SecondsToCloseIssues": 261787,
+  "meanNumberOfNewPullsPerWeek": 47.2421875,
+  "meanNumberOfNewContributorsPerWeek": 4.333333333333333,
+  "meanSecondsToClosePulls": 311341.38989169674,
+  "meanSecondsToCloseIssues": 484659.48780487804
 }
