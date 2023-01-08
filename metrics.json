@@ -252,6 +252,7 @@
     "heylf",
     "marrip",
     "epaule",
+    "dinhdiep",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -1111,7 +1112,6 @@
     "asmaali98",
     "MikeHala",
     "brentp",
-    "dinhdiep",
     "freedog8",
     "isaiahwtaylor",
     "FanBioinformatics",
@@ -1121,7 +1121,6 @@
     "lewynli"
   ],
   "namesOfContributorsNew": [
-    "dinhdiep",
     "freedog8",
     "isaiahwtaylor",
     "FanBioinformatics",
@@ -1130,13 +1129,13 @@
     "ipstone",
     "lewynli"
   ],
-  "numberOfPullRequestNew": 277,
+  "numberOfPullRequestNew": 188,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 77400,
-  "p50SecondsToCloseIssues": 261787,
+  "p50SecondsToClosePulls": 34981,
+  "p50SecondsToCloseIssues": 263617,
   "meanNumberOfNewPullsPerWeek": 47.2421875,
   "meanNumberOfNewContributorsPerWeek": 4.333333333333333,
-  "meanSecondsToClosePulls": 311341.38989169674,
-  "meanSecondsToCloseIssues": 484659.48780487804
+  "meanSecondsToClosePulls": 160016.27659574468,
+  "meanSecondsToCloseIssues": 514721.05263157893
 }
