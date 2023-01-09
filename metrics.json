@@ -1112,6 +1112,7 @@
     "asmaali98",
     "MikeHala",
     "brentp",
+    "joseale2310",
     "freedog8",
     "isaiahwtaylor",
     "FanBioinformatics",
@@ -1121,6 +1122,7 @@
     "lewynli"
   ],
   "namesOfContributorsNew": [
+    "joseale2310",
     "freedog8",
     "isaiahwtaylor",
     "FanBioinformatics",
@@ -1129,13 +1131,13 @@
     "ipstone",
     "lewynli"
   ],
-  "numberOfPullRequestNew": 188,
+  "numberOfPullRequestNew": 180,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 34981,
-  "p50SecondsToCloseIssues": 263617,
-  "meanNumberOfNewPullsPerWeek": 47.2421875,
-  "meanNumberOfNewContributorsPerWeek": 4.333333333333333,
-  "meanSecondsToClosePulls": 160016.27659574468,
-  "meanSecondsToCloseIssues": 514721.05263157893
+  "p50SecondsToClosePulls": 32954,
+  "p50SecondsToCloseIssues": 261787,
+  "meanNumberOfNewPullsPerWeek": 47.25390625,
+  "meanNumberOfNewContributorsPerWeek": 4.337209302325581,
+  "meanSecondsToClosePulls": 160327.61111111112,
+  "meanSecondsToCloseIssues": 524832.696969697
 }
