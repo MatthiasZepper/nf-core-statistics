@@ -1139,13 +1139,13 @@
     "hkaspersen",
     "atrigila"
   ],
-  "numberOfPullRequestNew": 175,
+  "numberOfPullRequestNew": 165,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 59206,
-  "p50SecondsToCloseIssues": 165972,
-  "meanNumberOfNewPullsPerWeek": 47.33463035019455,
+  "p50SecondsToClosePulls": 57264,
+  "p50SecondsToCloseIssues": 147057,
+  "meanNumberOfNewPullsPerWeek": 47.33852140077821,
   "meanNumberOfNewContributorsPerWeek": 4.351351351351352,
-  "meanSecondsToClosePulls": 270977.7428571429,
-  "meanSecondsToCloseIssues": 289488.4
+  "meanSecondsToClosePulls": 261700.5696969697,
+  "meanSecondsToCloseIssues": 257474.95238095237
 }
