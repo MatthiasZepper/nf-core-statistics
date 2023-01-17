@@ -996,6 +996,7 @@
     "bsiranosian",
     "tavareshugo",
     "timslittle",
+    "anoronh4",
     "zhangdongqin",
     "wkang0",
     "gbinux",
@@ -1007,7 +1008,6 @@
     "skyler-watchmaker",
     "phanhung2",
     "diegomics",
-    "anoronh4",
     "caspargross",
     "Bruce-BC",
     "mlorthiois",
@@ -1124,9 +1124,11 @@
     "freedog8",
     "isaiahwtaylor",
     "MaryemT",
+    "plasmid02",
     "kenminsoo",
     "sgaleraalq",
     "hkaspersen",
+    "aihualin",
     "atrigila"
   ],
   "namesOfContributorsNew": [
@@ -1134,18 +1136,20 @@
     "freedog8",
     "isaiahwtaylor",
     "MaryemT",
+    "plasmid02",
     "kenminsoo",
     "sgaleraalq",
     "hkaspersen",
+    "aihualin",
     "atrigila"
   ],
-  "numberOfPullRequestNew": 165,
+  "numberOfPullRequestNew": 174,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 57264,
   "p50SecondsToCloseIssues": 147057,
-  "meanNumberOfNewPullsPerWeek": 47.33852140077821,
-  "meanNumberOfNewContributorsPerWeek": 4.351351351351352,
-  "meanSecondsToClosePulls": 261700.5696969697,
-  "meanSecondsToCloseIssues": 257474.95238095237
+  "meanNumberOfNewPullsPerWeek": 47.1937984496124,
+  "meanNumberOfNewContributorsPerWeek": 4.342307692307692,
+  "meanSecondsToClosePulls": 260673.8563218391,
+  "meanSecondsToCloseIssues": 283456
 }
