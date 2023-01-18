@@ -1124,32 +1124,38 @@
     "freedog8",
     "isaiahwtaylor",
     "MaryemT",
+    "eray-sahin",
     "plasmid02",
     "kenminsoo",
     "sgaleraalq",
     "hkaspersen",
+    "WangKang-Leo",
     "aihualin",
-    "atrigila"
+    "atrigila",
+    "psj1997"
   ],
   "namesOfContributorsNew": [
     "joseale2310",
     "freedog8",
     "isaiahwtaylor",
     "MaryemT",
+    "eray-sahin",
     "plasmid02",
     "kenminsoo",
     "sgaleraalq",
     "hkaspersen",
+    "WangKang-Leo",
     "aihualin",
-    "atrigila"
+    "atrigila",
+    "psj1997"
   ],
-  "numberOfPullRequestNew": 174,
+  "numberOfPullRequestNew": 187,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 57264,
-  "p50SecondsToCloseIssues": 147057,
-  "meanNumberOfNewPullsPerWeek": 47.1937984496124,
-  "meanNumberOfNewContributorsPerWeek": 4.342307692307692,
-  "meanSecondsToClosePulls": 260673.8563218391,
-  "meanSecondsToCloseIssues": 283456
+  "p50SecondsToClosePulls": 58258,
+  "p50SecondsToCloseIssues": 162027,
+  "meanNumberOfNewPullsPerWeek": 47.251937984496124,
+  "meanNumberOfNewContributorsPerWeek": 4.3538461538461535,
+  "meanSecondsToClosePulls": 273375.8395721925,
+  "meanSecondsToCloseIssues": 320791.88
 }
