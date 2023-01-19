@@ -996,6 +996,7 @@
     "bsiranosian",
     "tavareshugo",
     "timslittle",
+    "TomKellyGenetics",
     "anoronh4",
     "zhangdongqin",
     "wkang0",
@@ -1019,7 +1020,6 @@
     "nuan604",
     "EllieDuan",
     "jonwruffin",
-    "TomKellyGenetics",
     "PayamEmami",
     "maxvincent24",
     "MiguelJulia",
@@ -1132,7 +1132,8 @@
     "WangKang-Leo",
     "aihualin",
     "atrigila",
-    "psj1997"
+    "psj1997",
+    "glichtenstein"
   ],
   "namesOfContributorsNew": [
     "joseale2310",
@@ -1147,15 +1148,16 @@
     "WangKang-Leo",
     "aihualin",
     "atrigila",
-    "psj1997"
+    "psj1997",
+    "glichtenstein"
   ],
-  "numberOfPullRequestNew": 187,
+  "numberOfPullRequestNew": 156,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 58258,
-  "p50SecondsToCloseIssues": 162027,
-  "meanNumberOfNewPullsPerWeek": 47.251937984496124,
-  "meanNumberOfNewContributorsPerWeek": 4.3538461538461535,
-  "meanSecondsToClosePulls": 273375.8395721925,
-  "meanSecondsToCloseIssues": 320791.88
+  "p50SecondsToClosePulls": 22030,
+  "p50SecondsToCloseIssues": 88595,
+  "meanNumberOfNewPullsPerWeek": 47.298449612403104,
+  "meanNumberOfNewContributorsPerWeek": 4.357692307692307,
+  "meanSecondsToClosePulls": 225949.84615384616,
+  "meanSecondsToCloseIssues": 279532.275862069
 }
