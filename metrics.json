@@ -1136,7 +1136,8 @@
     "WangKang-Leo",
     "aihualin",
     "psj1997",
-    "glichtenstein"
+    "glichtenstein",
+    "wzheng0520"
   ],
   "namesOfContributorsNew": [
     "joseale2310",
@@ -1152,15 +1153,16 @@
     "WangKang-Leo",
     "aihualin",
     "psj1997",
-    "glichtenstein"
+    "glichtenstein",
+    "wzheng0520"
   ],
-  "numberOfPullRequestNew": 156,
+  "numberOfPullRequestNew": 153,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 23253,
-  "p50SecondsToCloseIssues": 88595,
-  "meanNumberOfNewPullsPerWeek": 47.3875968992248,
-  "meanNumberOfNewContributorsPerWeek": 4.369230769230769,
-  "meanSecondsToClosePulls": 219713.9358974359,
-  "meanSecondsToCloseIssues": 279217
+  "p50SecondsToClosePulls": 37394,
+  "p50SecondsToCloseIssues": 89025,
+  "meanNumberOfNewPullsPerWeek": 47.44186046511628,
+  "meanNumberOfNewContributorsPerWeek": 4.373076923076923,
+  "meanSecondsToClosePulls": 188383.0522875817,
+  "meanSecondsToCloseIssues": 332494.1875
 }
