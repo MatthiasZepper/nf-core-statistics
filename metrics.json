@@ -714,6 +714,7 @@
     "mdyoungblut",
     "luozhy88",
     "karnival21",
+    "sgaleraalq",
     "tbugfinder",
     "patrickbryant1",
     "tarak77",
@@ -1131,7 +1132,6 @@
     "eray-sahin",
     "plasmid02",
     "kenminsoo",
-    "sgaleraalq",
     "hkaspersen",
     "WangKang-Leo",
     "aihualin",
@@ -1148,7 +1148,6 @@
     "eray-sahin",
     "plasmid02",
     "kenminsoo",
-    "sgaleraalq",
     "hkaspersen",
     "WangKang-Leo",
     "aihualin",
@@ -1156,13 +1155,13 @@
     "glichtenstein",
     "wzheng0520"
   ],
-  "numberOfPullRequestNew": 153,
+  "numberOfPullRequestNew": 141,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 37394,
-  "p50SecondsToCloseIssues": 89025,
-  "meanNumberOfNewPullsPerWeek": 47.44186046511628,
+  "p50SecondsToClosePulls": 49320,
+  "p50SecondsToCloseIssues": 88595,
+  "meanNumberOfNewPullsPerWeek": 47.45348837209303,
   "meanNumberOfNewContributorsPerWeek": 4.373076923076923,
-  "meanSecondsToClosePulls": 188383.0522875817,
-  "meanSecondsToCloseIssues": 332494.1875
+  "meanSecondsToClosePulls": 155326.085106383,
+  "meanSecondsToCloseIssues": 265096.5
 }
