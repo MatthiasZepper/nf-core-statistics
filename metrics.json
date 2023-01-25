@@ -516,6 +516,7 @@
     "dickensn",
     "elowy01",
     "alaincoletta",
+    "anoronh4",
     "jkobject",
     "gppbioinfo",
     "Lehmann-Fabian",
@@ -998,7 +999,6 @@
     "tavareshugo",
     "timslittle",
     "TomKellyGenetics",
-    "anoronh4",
     "atrigila",
     "zhangdongqin",
     "wkang0",
@@ -1126,6 +1126,8 @@
     "MikeHala",
     "brentp",
     "joseale2310",
+    "zachary-foster",
+    "samfulcrum",
     "lbeltrame",
     "freedog8",
     "isaiahwtaylor",
@@ -1137,10 +1139,13 @@
     "WangKang-Leo",
     "aihualin",
     "psj1997",
-    "wzheng0520"
+    "wzheng0520",
+    "Rhinogradentia"
   ],
   "namesOfContributorsNew": [
     "joseale2310",
+    "zachary-foster",
+    "samfulcrum",
     "lbeltrame",
     "freedog8",
     "isaiahwtaylor",
@@ -1152,15 +1157,16 @@
     "WangKang-Leo",
     "aihualin",
     "psj1997",
-    "wzheng0520"
+    "wzheng0520",
+    "Rhinogradentia"
   ],
-  "numberOfPullRequestNew": 154,
+  "numberOfPullRequestNew": 173,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 35246,
   "p50SecondsToCloseIssues": 88595,
-  "meanNumberOfNewPullsPerWeek": 47.32046332046332,
-  "meanNumberOfNewContributorsPerWeek": 4.35632183908046,
-  "meanSecondsToClosePulls": 149972.43506493507,
-  "meanSecondsToCloseIssues": 251432.5
+  "meanNumberOfNewPullsPerWeek": 47.3938223938224,
+  "meanNumberOfNewContributorsPerWeek": 4.367816091954023,
+  "meanSecondsToClosePulls": 157194.5028901734,
+  "meanSecondsToCloseIssues": 257218.51351351352
 }
