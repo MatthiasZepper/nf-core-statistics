@@ -865,6 +865,7 @@
     "laramieparatus",
     "ViHammer",
     "timosachsenberg",
+    "tillenglert",
     "Ni-Ar",
     "ncarrut",
     "rababerladuseladim",
@@ -993,7 +994,6 @@
     "lucananni93",
     "Joon-Klaps",
     "asgaines",
-    "tillenglert",
     "peterpru",
     "bsiranosian",
     "tavareshugo",
@@ -1160,13 +1160,13 @@
     "wzheng0520",
     "Rhinogradentia"
   ],
-  "numberOfPullRequestNew": 186,
+  "numberOfPullRequestNew": 215,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 35246,
-  "p50SecondsToCloseIssues": 88595,
-  "meanNumberOfNewPullsPerWeek": 47.455598455598455,
+  "p50SecondsToClosePulls": 13218,
+  "p50SecondsToCloseIssues": 87441,
+  "meanNumberOfNewPullsPerWeek": 47.61389961389961,
   "meanNumberOfNewContributorsPerWeek": 4.367816091954023,
-  "meanSecondsToClosePulls": 153696.0752688172,
-  "meanSecondsToCloseIssues": 257218.51351351352
+  "meanSecondsToClosePulls": 134428.67441860464,
+  "meanSecondsToCloseIssues": 250481.68421052632
 }
