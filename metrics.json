@@ -1139,6 +1139,7 @@
     "WangKang-Leo",
     "aihualin",
     "psj1997",
+    "BioInf2305",
     "wzheng0520",
     "Rhinogradentia"
   ],
@@ -1157,16 +1158,17 @@
     "WangKang-Leo",
     "aihualin",
     "psj1997",
+    "BioInf2305",
     "wzheng0520",
     "Rhinogradentia"
   ],
-  "numberOfPullRequestNew": 215,
+  "numberOfPullRequestNew": 216,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 13218,
   "p50SecondsToCloseIssues": 87441,
-  "meanNumberOfNewPullsPerWeek": 47.61389961389961,
-  "meanNumberOfNewContributorsPerWeek": 4.367816091954023,
-  "meanSecondsToClosePulls": 134428.67441860464,
+  "meanNumberOfNewPullsPerWeek": 47.61776061776062,
+  "meanNumberOfNewContributorsPerWeek": 4.371647509578544,
+  "meanSecondsToClosePulls": 137737.74537037036,
   "meanSecondsToCloseIssues": 250481.68421052632
 }
