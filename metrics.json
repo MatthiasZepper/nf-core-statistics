@@ -592,6 +592,7 @@
     "microbemarsh",
     "rialc13",
     "Irah-hari",
+    "mathavanpu",
     "aidaanva",
     "lindenb",
     "ZandraFagernas",
@@ -715,7 +716,6 @@
     "mdyoungblut",
     "luozhy88",
     "karnival21",
-    "sgaleraalq",
     "tbugfinder",
     "patrickbryant1",
     "tarak77",
@@ -1103,6 +1103,7 @@
     "kaitlinchaung",
     "kvn95ss",
     "SchwarzMarek",
+    "EmmaCAndersson",
     "henrikstranneheim",
     "shangguandong1996",
     "daianna21",
@@ -1165,13 +1166,13 @@
     "wzheng0520",
     "Rhinogradentia"
   ],
-  "numberOfPullRequestNew": 229,
+  "numberOfPullRequestNew": 242,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 16498,
+  "p50SecondsToClosePulls": 21899,
   "p50SecondsToCloseIssues": 89025,
-  "meanNumberOfNewPullsPerWeek": 47.48461538461538,
-  "meanNumberOfNewContributorsPerWeek": 4.362595419847328,
-  "meanSecondsToClosePulls": 163522.96943231442,
-  "meanSecondsToCloseIssues": 270475.43902439025
+  "meanNumberOfNewPullsPerWeek": 47.54615384615385,
+  "meanNumberOfNewContributorsPerWeek": 4.366412213740458,
+  "meanSecondsToClosePulls": 160807.17768595042,
+  "meanSecondsToCloseIssues": 260436.46511627908
 }
