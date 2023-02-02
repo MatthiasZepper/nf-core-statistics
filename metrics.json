@@ -593,6 +593,7 @@
     "rialc13",
     "Irah-hari",
     "mathavanpu",
+    "eray-sahin",
     "aidaanva",
     "lindenb",
     "ZandraFagernas",
@@ -1133,7 +1134,6 @@
     "freedog8",
     "isaiahwtaylor",
     "MaryemT",
-    "eray-sahin",
     "plasmid02",
     "kenminsoo",
     "hkaspersen",
@@ -1141,10 +1141,12 @@
     "srikanthkris",
     "WangKang-Leo",
     "aihualin",
+    "TonyKess",
     "psj1997",
     "BioInf2305",
     "wzheng0520",
-    "Rhinogradentia"
+    "Rhinogradentia",
+    "msanvicente"
   ],
   "namesOfContributorsNew": [
     "joseale2310",
@@ -1153,7 +1155,6 @@
     "freedog8",
     "isaiahwtaylor",
     "MaryemT",
-    "eray-sahin",
     "plasmid02",
     "kenminsoo",
     "hkaspersen",
@@ -1161,18 +1162,20 @@
     "srikanthkris",
     "WangKang-Leo",
     "aihualin",
+    "TonyKess",
     "psj1997",
     "BioInf2305",
     "wzheng0520",
-    "Rhinogradentia"
+    "Rhinogradentia",
+    "msanvicente"
   ],
-  "numberOfPullRequestNew": 242,
+  "numberOfPullRequestNew": 255,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 21899,
-  "p50SecondsToCloseIssues": 89025,
-  "meanNumberOfNewPullsPerWeek": 47.54615384615385,
-  "meanNumberOfNewContributorsPerWeek": 4.366412213740458,
-  "meanSecondsToClosePulls": 160807.17768595042,
-  "meanSecondsToCloseIssues": 260436.46511627908
+  "p50SecondsToClosePulls": 22986,
+  "p50SecondsToCloseIssues": 147057,
+  "meanNumberOfNewPullsPerWeek": 47.62307692307692,
+  "meanNumberOfNewContributorsPerWeek": 4.374045801526718,
+  "meanSecondsToClosePulls": 156283.43529411763,
+  "meanSecondsToCloseIssues": 294446.0425531915
 }
