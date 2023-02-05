@@ -1005,6 +1005,7 @@
     "timslittle",
     "TomKellyGenetics",
     "atrigila",
+    "psj1997",
     "zhangdongqin",
     "wkang0",
     "gbinux",
@@ -1144,7 +1145,6 @@
     "WangKang-Leo",
     "aihualin",
     "TonyKess",
-    "psj1997",
     "BioInf2305",
     "Rhinogradentia",
     "msanvicente"
@@ -1161,18 +1161,17 @@
     "WangKang-Leo",
     "aihualin",
     "TonyKess",
-    "psj1997",
     "BioInf2305",
     "Rhinogradentia",
     "msanvicente"
   ],
-  "numberOfPullRequestNew": 264,
+  "numberOfPullRequestNew": 252,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 17808,
   "p50SecondsToCloseIssues": 141379,
   "meanNumberOfNewPullsPerWeek": 47.74230769230769,
   "meanNumberOfNewContributorsPerWeek": 4.377862595419847,
-  "meanSecondsToClosePulls": 159892.44696969696,
+  "meanSecondsToClosePulls": 154058.82539682538,
   "meanSecondsToCloseIssues": 266866.9591836735
 }
