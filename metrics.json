@@ -1165,13 +1165,13 @@
     "Rhinogradentia",
     "msanvicente"
   ],
-  "numberOfPullRequestNew": 252,
+  "numberOfPullRequestNew": 250,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 17808,
-  "p50SecondsToCloseIssues": 141379,
-  "meanNumberOfNewPullsPerWeek": 47.74230769230769,
+  "p50SecondsToClosePulls": 17109,
+  "p50SecondsToCloseIssues": 92165,
+  "meanNumberOfNewPullsPerWeek": 47.746153846153845,
   "meanNumberOfNewContributorsPerWeek": 4.377862595419847,
-  "meanSecondsToClosePulls": 154058.82539682538,
-  "meanSecondsToCloseIssues": 266866.9591836735
+  "meanSecondsToClosePulls": 152779.048,
+  "meanSecondsToCloseIssues": 263175.0833333333
 }
