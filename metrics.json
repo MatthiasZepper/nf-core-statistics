@@ -509,6 +509,7 @@
     "larryns",
     "drernie",
     "wt12318",
+    "MaryemT",
     "hmenager",
     "saharai",
     "seth-biorad",
@@ -1146,7 +1147,6 @@
     "lbeltrame",
     "olesya13",
     "svenbioinf",
-    "MaryemT",
     "gbaiao",
     "srikanthkris",
     "aihualin",
@@ -1161,7 +1161,6 @@
     "lbeltrame",
     "olesya13",
     "svenbioinf",
-    "MaryemT",
     "gbaiao",
     "srikanthkris",
     "aihualin",
@@ -1170,13 +1169,13 @@
     "Rhinogradentia",
     "msanvicente"
   ],
-  "numberOfPullRequestNew": 286,
+  "numberOfPullRequestNew": 277,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 13312,
   "p50SecondsToCloseIssues": 141379,
-  "meanNumberOfNewPullsPerWeek": 47.83524904214559,
+  "meanNumberOfNewPullsPerWeek": 47.839080459770116,
   "meanNumberOfNewContributorsPerWeek": 4.38403041825095,
-  "meanSecondsToClosePulls": 144857.87062937062,
-  "meanSecondsToCloseIssues": 317877.7931034483
+  "meanSecondsToClosePulls": 133154.8736462094,
+  "meanSecondsToCloseIssues": 312422.5964912281
 }
