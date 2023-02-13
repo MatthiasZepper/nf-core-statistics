@@ -1140,9 +1140,9 @@
     "allaway",
     "lewynli",
     "asmaali98",
-    "MikeHala",
     "brentp",
-    "samfulcrum",
+    "MikeHala",
+    "sam-white04",
     "mapo9",
     "lbeltrame",
     "olesya13",
@@ -1156,7 +1156,7 @@
     "msanvicente"
   ],
   "namesOfContributorsNew": [
-    "samfulcrum",
+    "sam-white04",
     "mapo9",
     "lbeltrame",
     "olesya13",
@@ -1169,13 +1169,13 @@
     "Rhinogradentia",
     "msanvicente"
   ],
-  "numberOfPullRequestNew": 277,
+  "numberOfPullRequestNew": 263,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 13312,
-  "p50SecondsToCloseIssues": 141379,
+  "p50SecondsToClosePulls": 13218,
+  "p50SecondsToCloseIssues": 128492,
   "meanNumberOfNewPullsPerWeek": 47.839080459770116,
   "meanNumberOfNewContributorsPerWeek": 4.38403041825095,
-  "meanSecondsToClosePulls": 133154.8736462094,
-  "meanSecondsToCloseIssues": 312422.5964912281
+  "meanSecondsToClosePulls": 121622.92395437263,
+  "meanSecondsToCloseIssues": 301063.10714285716
 }
