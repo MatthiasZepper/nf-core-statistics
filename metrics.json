@@ -1083,6 +1083,7 @@
     "gprezza",
     "AndreaGuarracino",
     "dbrami",
+    "tgbrooks",
     "charlotte-west",
     "CharlotteAnne",
     "geng-lee",
@@ -1174,13 +1175,13 @@
     "Rhinogradentia",
     "msanvicente"
   ],
-  "numberOfPullRequestNew": 305,
+  "numberOfPullRequestNew": 306,
   "p50NumberOfNewPullsPerWeek": 39,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 14703,
-  "p50SecondsToCloseIssues": 154012,
-  "meanNumberOfNewPullsPerWeek": 47.88931297709924,
-  "meanNumberOfNewContributorsPerWeek": 4.378787878787879,
-  "meanSecondsToClosePulls": 158973.75409836066,
-  "meanSecondsToCloseIssues": 338873.24590163934
+  "p50SecondsToCloseIssues": 141379,
+  "meanNumberOfNewPullsPerWeek": 47.93511450381679,
+  "meanNumberOfNewContributorsPerWeek": 4.382575757575758,
+  "meanSecondsToClosePulls": 158141.1568627451,
+  "meanSecondsToCloseIssues": 333435.2419354839
 }
