@@ -1161,6 +1161,7 @@
     "TonyKess",
     "songzhirui0o0",
     "jbv2",
+    "ushnaahmad",
     "Rhinogradentia",
     "msanvicente",
     "clstacy"
@@ -1178,17 +1179,18 @@
     "TonyKess",
     "songzhirui0o0",
     "jbv2",
+    "ushnaahmad",
     "Rhinogradentia",
     "msanvicente",
     "clstacy"
   ],
-  "numberOfPullRequestNew": 296,
+  "numberOfPullRequestNew": 314,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 15715,
-  "p50SecondsToCloseIssues": 154012,
-  "meanNumberOfNewPullsPerWeek": 48.0763358778626,
-  "meanNumberOfNewContributorsPerWeek": 4.40530303030303,
-  "meanSecondsToClosePulls": 152704.9560810811,
-  "meanSecondsToCloseIssues": 334853.15789473685
+  "p50SecondsToClosePulls": 14715,
+  "p50SecondsToCloseIssues": 166110,
+  "meanNumberOfNewPullsPerWeek": 47.97718631178707,
+  "meanNumberOfNewContributorsPerWeek": 4.392452830188679,
+  "meanSecondsToClosePulls": 148413.84076433122,
+  "meanSecondsToCloseIssues": 354887.39344262297
 }
