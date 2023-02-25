@@ -734,6 +734,7 @@
     "AnotherSimon",
     "hkaspersen",
     "gbaiao",
+    "srikanthkris",
     "tbugfinder",
     "patrickbryant1",
     "tarak77",
@@ -1157,7 +1158,6 @@
     "olesya13",
     "svenbioinf",
     "timflutre",
-    "srikanthkris",
     "skose82",
     "fevac",
     "charmoniumQ",
@@ -1175,7 +1175,6 @@
     "olesya13",
     "svenbioinf",
     "timflutre",
-    "srikanthkris",
     "skose82",
     "fevac",
     "charmoniumQ",
@@ -1188,13 +1187,13 @@
     "msanvicente",
     "clstacy"
   ],
-  "numberOfPullRequestNew": 333,
+  "numberOfPullRequestNew": 334,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 16757,
+  "p50SecondsToClosePulls": 16298,
   "p50SecondsToCloseIssues": 188634,
-  "meanNumberOfNewPullsPerWeek": 48.17110266159696,
+  "meanNumberOfNewPullsPerWeek": 48.243346007604565,
   "meanNumberOfNewContributorsPerWeek": 4.407547169811321,
-  "meanSecondsToClosePulls": 143698.67567567568,
-  "meanSecondsToCloseIssues": 390261.59375
+  "meanSecondsToClosePulls": 125612.88323353294,
+  "meanSecondsToCloseIssues": 400988.90625
 }
