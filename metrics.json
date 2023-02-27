@@ -1189,13 +1189,13 @@
     "msanvicente",
     "clstacy"
   ],
-  "numberOfPullRequestNew": 318,
+  "numberOfPullRequestNew": 295,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 16568,
+  "p50SecondsToClosePulls": 21225,
   "p50SecondsToCloseIssues": 186668,
   "meanNumberOfNewPullsPerWeek": 48.243346007604565,
   "meanNumberOfNewContributorsPerWeek": 4.411320754716981,
-  "meanSecondsToClosePulls": 115765.27672955974,
-  "meanSecondsToCloseIssues": 396409.28571428574
+  "meanSecondsToClosePulls": 111913.2779661017,
+  "meanSecondsToCloseIssues": 402783.32258064515
 }
