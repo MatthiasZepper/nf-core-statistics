@@ -1167,6 +1167,7 @@
     "songzhirui0o0",
     "sandragold",
     "jbv2",
+    "FerriolCalvet",
     "ushnaahmad",
     "msanvicente",
     "clstacy"
@@ -1185,17 +1186,18 @@
     "songzhirui0o0",
     "sandragold",
     "jbv2",
+    "FerriolCalvet",
     "ushnaahmad",
     "msanvicente",
     "clstacy"
   ],
-  "numberOfPullRequestNew": 295,
+  "numberOfPullRequestNew": 314,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 21225,
+  "p50SecondsToClosePulls": 16671,
   "p50SecondsToCloseIssues": 186668,
-  "meanNumberOfNewPullsPerWeek": 48.243346007604565,
-  "meanNumberOfNewContributorsPerWeek": 4.411320754716981,
-  "meanSecondsToClosePulls": 111913.2779661017,
+  "meanNumberOfNewPullsPerWeek": 48.13636363636363,
+  "meanNumberOfNewContributorsPerWeek": 4.398496240601504,
+  "meanSecondsToClosePulls": 112010.6974522293,
   "meanSecondsToCloseIssues": 402783.32258064515
 }
