@@ -463,7 +463,6 @@
     "Oelsakha",
     "berguner",
     "Will19902225",
-    "aseyedia",
     "MateFlasche",
     "banabazi-hgen-slu",
     "cutleraging",
@@ -1191,13 +1190,13 @@
     "msanvicente",
     "clstacy"
   ],
-  "numberOfPullRequestNew": 314,
+  "numberOfPullRequestNew": 326,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 16671,
+  "p50SecondsToClosePulls": 15715,
   "p50SecondsToCloseIssues": 186668,
-  "meanNumberOfNewPullsPerWeek": 48.13636363636363,
-  "meanNumberOfNewContributorsPerWeek": 4.398496240601504,
-  "meanSecondsToClosePulls": 112010.6974522293,
-  "meanSecondsToCloseIssues": 402783.32258064515
+  "meanNumberOfNewPullsPerWeek": 48.196969696969695,
+  "meanNumberOfNewContributorsPerWeek": 4.394736842105263,
+  "meanSecondsToClosePulls": 121227.57668711657,
+  "meanSecondsToCloseIssues": 397576.92424242425
 }
