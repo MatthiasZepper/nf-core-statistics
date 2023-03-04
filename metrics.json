@@ -1153,6 +1153,7 @@
     "ArlindNocaj",
     "allaway",
     "lewynli",
+    "msanvicente",
     "asmaali98",
     "brentp",
     "MikeHala",
@@ -1161,6 +1162,7 @@
     "olesya13",
     "svenbioinf",
     "timflutre",
+    "NBApis",
     "skose82",
     "artgenko",
     "charmoniumQ",
@@ -1171,7 +1173,6 @@
     "sandragold",
     "FerriolCalvet",
     "ushnaahmad",
-    "msanvicente",
     "clstacy"
   ],
   "namesOfContributorsNew": [
@@ -1179,6 +1180,7 @@
     "olesya13",
     "svenbioinf",
     "timflutre",
+    "NBApis",
     "skose82",
     "artgenko",
     "charmoniumQ",
@@ -1189,16 +1191,15 @@
     "sandragold",
     "FerriolCalvet",
     "ushnaahmad",
-    "msanvicente",
     "clstacy"
   ],
-  "numberOfPullRequestNew": 337,
+  "numberOfPullRequestNew": 342,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 3,
   "p50SecondsToClosePulls": 14428,
   "p50SecondsToCloseIssues": 186668,
-  "meanNumberOfNewPullsPerWeek": 48.359848484848484,
-  "meanNumberOfNewContributorsPerWeek": 4.406015037593985,
-  "meanSecondsToClosePulls": 123542.07715133531,
-  "meanSecondsToCloseIssues": 452396.98387096776
+  "meanNumberOfNewPullsPerWeek": 48.42424242424242,
+  "meanNumberOfNewContributorsPerWeek": 4.409774436090226,
+  "meanSecondsToClosePulls": 122906.47953216374,
+  "meanSecondsToCloseIssues": 404915.69491525425
 }
