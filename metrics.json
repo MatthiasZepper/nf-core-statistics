@@ -140,6 +140,7 @@
     "nvnieuwk",
     "WackerO",
     "tomsing1",
+    "nick-youngblut",
     "colindaven",
     "alesssia",
     "sb43",
@@ -726,7 +727,6 @@
     "Karma0alpha",
     "phuongdoand",
     "tjcreedy",
-    "nick-youngblut",
     "mdyoungblut",
     "luozhy88",
     "karnival21",
@@ -1032,6 +1032,7 @@
     "phanhung2",
     "zhangdongqin",
     "wkang0",
+    "asl",
     "bguo068",
     "dhousler",
     "keiranmraine",
@@ -1178,6 +1179,8 @@
     "sandragold",
     "FerriolCalvet",
     "ushnaahmad",
+    "ShixiangWang",
+    "lasseringstedmark",
     "clstacy"
   ],
   "namesOfContributorsNew": [
@@ -1199,15 +1202,17 @@
     "sandragold",
     "FerriolCalvet",
     "ushnaahmad",
+    "ShixiangWang",
+    "lasseringstedmark",
     "clstacy"
   ],
-  "numberOfPullRequestNew": 332,
+  "numberOfPullRequestNew": 360,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 3,
-  "p50SecondsToClosePulls": 15393,
-  "p50SecondsToCloseIssues": 176535,
-  "meanNumberOfNewPullsPerWeek": 48.31698113207547,
-  "meanNumberOfNewContributorsPerWeek": 4.411985018726591,
-  "meanSecondsToClosePulls": 116061.55421686747,
-  "meanSecondsToCloseIssues": 366390
+  "p50SecondsToClosePulls": 14470,
+  "p50SecondsToCloseIssues": 186668,
+  "meanNumberOfNewPullsPerWeek": 48.48301886792453,
+  "meanNumberOfNewContributorsPerWeek": 4.4232209737827715,
+  "meanSecondsToClosePulls": 132460.60277777776,
+  "meanSecondsToCloseIssues": 459513.0847457627
 }
