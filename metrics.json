@@ -856,6 +856,7 @@
     "teemuronkko",
     "kubranarci",
     "nschan",
+    "marccamb",
     "amirshams84",
     "parlundin",
     "claus-h-g",
@@ -1200,7 +1201,6 @@
     "qasim006",
     "pragermh",
     "artgenko",
-    "marccamb",
     "davidecarlson",
     "azedine-healx",
     "jhgraber",
@@ -1227,7 +1227,6 @@
     "qasim006",
     "pragermh",
     "artgenko",
-    "marccamb",
     "davidecarlson",
     "azedine-healx",
     "jhgraber",
@@ -1241,13 +1240,13 @@
     "ShixiangWang",
     "lasseringstedmark"
   ],
-  "numberOfPullRequestNew": 432,
+  "numberOfPullRequestNew": 418,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 15728,
-  "p50SecondsToCloseIssues": 98245,
-  "meanNumberOfNewPullsPerWeek": 49.08270676691729,
+  "p50SecondsToClosePulls": 14428,
+  "p50SecondsToCloseIssues": 112457,
+  "meanNumberOfNewPullsPerWeek": 49.090225563909776,
   "meanNumberOfNewContributorsPerWeek": 4.522388059701493,
-  "meanSecondsToClosePulls": 110445.80092592593,
-  "meanSecondsToCloseIssues": 276008.1320754717
+  "meanSecondsToClosePulls": 106357.16507177033,
+  "meanSecondsToCloseIssues": 251296.16326530612
 }
