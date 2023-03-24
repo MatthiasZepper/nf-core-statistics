@@ -734,7 +734,7 @@
     "avinash-ngc",
     "proteinosome",
     "agrier-wcm",
-    "Namelya23",
+    "lemanbinokay",
     "bala-ruokavirasto",
     "aspitaleri",
     "Karma0alpha",
@@ -1261,10 +1261,10 @@
   "numberOfPullRequestNew": 445,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 14470,
+  "p50SecondsToClosePulls": 16166,
   "p50SecondsToCloseIssues": 173915,
-  "meanNumberOfNewPullsPerWeek": 49.48689138576779,
+  "meanNumberOfNewPullsPerWeek": 49.554307116104866,
   "meanNumberOfNewContributorsPerWeek": 4.565055762081784,
-  "meanSecondsToClosePulls": 121783.35280898877,
-  "meanSecondsToCloseIssues": 347881.3965517241
+  "meanSecondsToClosePulls": 124973.13707865168,
+  "meanSecondsToCloseIssues": 359320.3275862069
 }
