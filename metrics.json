@@ -1355,13 +1355,13 @@
     "jluebeck",
     "lasseringstedmark"
   ],
-  "numberOfPullRequestNew": 538,
+  "numberOfPullRequestNew": 548,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 16865,
-  "p50SecondsToCloseIssues": 164654,
-  "meanNumberOfNewPullsPerWeek": 50.51119402985075,
-  "meanNumberOfNewContributorsPerWeek": 4.7481481481481485,
-  "meanSecondsToClosePulls": 99201.48327137546,
-  "meanSecondsToCloseIssues": 406134.7983870968
+  "p50SecondsToClosePulls": 17464,
+  "p50SecondsToCloseIssues": 169862,
+  "meanNumberOfNewPullsPerWeek": 50.36802973977695,
+  "meanNumberOfNewContributorsPerWeek": 4.730627306273063,
+  "meanSecondsToClosePulls": 100550.75729927007,
+  "meanSecondsToCloseIssues": 413426.1796875
 }
