@@ -1187,6 +1187,7 @@
     "SchwarzMarek",
     "EmmaCAndersson",
     "henrikstranneheim",
+    "barissalman",
     "k-florek",
     "shangguandong1996",
     "daianna21",
@@ -1282,7 +1283,8 @@
     "skilpinen",
     "Gin-Wang",
     "jluebeck",
-    "lasseringstedmark"
+    "lasseringstedmark",
+    "wanghy73"
   ],
   "namesOfContributorsNew": [
     "NovakApis",
@@ -1353,15 +1355,16 @@
     "skilpinen",
     "Gin-Wang",
     "jluebeck",
-    "lasseringstedmark"
+    "lasseringstedmark",
+    "wanghy73"
   ],
-  "numberOfPullRequestNew": 548,
+  "numberOfPullRequestNew": 557,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 17464,
-  "p50SecondsToCloseIssues": 169862,
-  "meanNumberOfNewPullsPerWeek": 50.36802973977695,
-  "meanNumberOfNewContributorsPerWeek": 4.730627306273063,
-  "meanSecondsToClosePulls": 100550.75729927007,
-  "meanSecondsToCloseIssues": 413426.1796875
+  "p50SecondsToClosePulls": 17957,
+  "p50SecondsToCloseIssues": 178475,
+  "meanNumberOfNewPullsPerWeek": 50.40148698884759,
+  "meanNumberOfNewContributorsPerWeek": 4.7380073800738005,
+  "meanSecondsToClosePulls": 102907.15978456015,
+  "meanSecondsToCloseIssues": 430741.5037037037
 }
