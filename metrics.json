@@ -683,6 +683,7 @@
     "varun171",
     "Biojenifer",
     "jowkar",
+    "Pharmacogenetecist",
     "sirselim",
     "lcabus-flomics",
     "sdjebali",
@@ -1250,7 +1251,6 @@
     "lukbut",
     "tucano",
     "kibet-gilbert",
-    "Pharmacogenetecist",
     "ferreirafm",
     "MagdalenaZZ",
     "dariader",
@@ -1316,7 +1316,6 @@
     "lukbut",
     "tucano",
     "kibet-gilbert",
-    "Pharmacogenetecist",
     "ferreirafm",
     "MagdalenaZZ",
     "dariader",
@@ -1355,13 +1354,13 @@
     "wanghy73",
     "artur-matysik"
   ],
-  "numberOfPullRequestNew": 503,
+  "numberOfPullRequestNew": 481,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 18877,
-  "p50SecondsToCloseIssues": 169862,
-  "meanNumberOfNewPullsPerWeek": 50.5092936802974,
+  "p50SecondsToClosePulls": 18419,
+  "p50SecondsToCloseIssues": 155596,
+  "meanNumberOfNewPullsPerWeek": 50.513011152416354,
   "meanNumberOfNewContributorsPerWeek": 4.749077490774908,
-  "meanSecondsToClosePulls": 100749.39165009941,
-  "meanSecondsToCloseIssues": 358067.4705882353
+  "meanSecondsToClosePulls": 98285.4844074844,
+  "meanSecondsToCloseIssues": 332620.1875
 }
