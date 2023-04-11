@@ -593,7 +593,7 @@
     "ejc043",
     "Ritzttk",
     "telatin",
-    "kunik1o",
+    "artefaritaKuniklo",
     "ropolomx",
     "alexhbnr",
     "AdrianForsythe",
@@ -1252,8 +1252,8 @@
     "lukbut",
     "tucano",
     "kibet-gilbert",
-    "ferreirafm",
     "MagdalenaZZ",
+    "ferreirafm",
     "dariader",
     "bark9299",
     "Ste40",
@@ -1286,8 +1286,9 @@
     "blazejszczerba",
     "opetryk",
     "pkoscielnybio",
+    "artur-matysik",
     "wanghy73",
-    "artur-matysik"
+    "danhalligan-hx"
   ],
   "namesOfContributorsNew": [
     "NovakApis",
@@ -1315,8 +1316,8 @@
     "lukbut",
     "tucano",
     "kibet-gilbert",
-    "ferreirafm",
     "MagdalenaZZ",
+    "ferreirafm",
     "dariader",
     "bark9299",
     "Ste40",
@@ -1349,16 +1350,17 @@
     "blazejszczerba",
     "opetryk",
     "pkoscielnybio",
+    "artur-matysik",
     "wanghy73",
-    "artur-matysik"
+    "danhalligan-hx"
   ],
   "numberOfPullRequestNew": 473,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 18949,
-  "p50SecondsToCloseIssues": 155596,
-  "meanNumberOfNewPullsPerWeek": 50.51672862453532,
-  "meanNumberOfNewContributorsPerWeek": 4.749077490774908,
-  "meanSecondsToClosePulls": 98905.42917547569,
-  "meanSecondsToCloseIssues": 324734.2075471698
+  "p50SecondsToClosePulls": 19018,
+  "p50SecondsToCloseIssues": 177519,
+  "meanNumberOfNewPullsPerWeek": 50.52788104089219,
+  "meanNumberOfNewContributorsPerWeek": 4.752767527675276,
+  "meanSecondsToClosePulls": 104379.39746300211,
+  "meanSecondsToCloseIssues": 355688.4414414414
 }
