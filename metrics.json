@@ -597,6 +597,7 @@
     "CLAIRE-cuhk",
     "xiongsircool",
     "ejc043",
+    "bensesbg",
     "tanayb001",
     "Ritzttk",
     "telatin",
@@ -1297,7 +1298,8 @@
     "artur-matysik",
     "chels0",
     "wanghy73",
-    "danhalligan-hx"
+    "danhalligan-hx",
+    "allenyen"
   ],
   "namesOfContributorsNew": [
     "NovakApis",
@@ -1357,15 +1359,16 @@
     "artur-matysik",
     "chels0",
     "wanghy73",
-    "danhalligan-hx"
+    "danhalligan-hx",
+    "allenyen"
   ],
-  "numberOfPullRequestNew": 406,
+  "numberOfPullRequestNew": 411,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 24823,
-  "p50SecondsToCloseIssues": 155596,
-  "meanNumberOfNewPullsPerWeek": 50.398523985239855,
-  "meanNumberOfNewContributorsPerWeek": 4.750915750915751,
-  "meanSecondsToClosePulls": 144515.197044335,
-  "meanSecondsToCloseIssues": 371676.1509433962
+  "p50SecondsToClosePulls": 26263,
+  "p50SecondsToCloseIssues": 169862,
+  "meanNumberOfNewPullsPerWeek": 50.42435424354244,
+  "meanNumberOfNewContributorsPerWeek": 4.758241758241758,
+  "meanSecondsToClosePulls": 151078.42822384427,
+  "meanSecondsToCloseIssues": 389038.4128440367
 }
