@@ -1294,6 +1294,7 @@
     "blazejszczerba",
     "opetryk",
     "pkoscielnybio",
+    "nicolasDelhomme",
     "iagooteroc",
     "artur-matysik",
     "chels0",
@@ -1355,6 +1356,7 @@
     "blazejszczerba",
     "opetryk",
     "pkoscielnybio",
+    "nicolasDelhomme",
     "iagooteroc",
     "artur-matysik",
     "chels0",
@@ -1362,13 +1364,13 @@
     "danhalligan-hx",
     "allenyen"
   ],
-  "numberOfPullRequestNew": 411,
+  "numberOfPullRequestNew": 407,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 26263,
+  "p50SecondsToClosePulls": 20647,
   "p50SecondsToCloseIssues": 169862,
-  "meanNumberOfNewPullsPerWeek": 50.42435424354244,
-  "meanNumberOfNewContributorsPerWeek": 4.758241758241758,
-  "meanSecondsToClosePulls": 151078.42822384427,
-  "meanSecondsToCloseIssues": 389038.4128440367
+  "meanNumberOfNewPullsPerWeek": 50.4760147601476,
+  "meanNumberOfNewContributorsPerWeek": 4.761904761904762,
+  "meanSecondsToClosePulls": 143735.37592137593,
+  "meanSecondsToCloseIssues": 412532.78571428574
 }
