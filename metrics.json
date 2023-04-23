@@ -1245,6 +1245,7 @@
     "brentp",
     "MikeHala",
     "clstacy",
+    "danhalligan-hx",
     "NovakApis",
     "sersorrel",
     "richelbilderbeek",
@@ -1302,7 +1303,6 @@
     "chels0",
     "akp1d12",
     "wanghy73",
-    "danhalligan-hx",
     "allenyen"
   ],
   "namesOfContributorsNew": [
@@ -1363,16 +1363,15 @@
     "chels0",
     "akp1d12",
     "wanghy73",
-    "danhalligan-hx",
     "allenyen"
   ],
-  "numberOfPullRequestNew": 397,
+  "numberOfPullRequestNew": 387,
   "p50NumberOfNewPullsPerWeek": 40,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 24823,
-  "p50SecondsToCloseIssues": 178475,
+  "p50SecondsToClosePulls": 20979,
+  "p50SecondsToCloseIssues": 172683,
   "meanNumberOfNewPullsPerWeek": 50.6309963099631,
   "meanNumberOfNewContributorsPerWeek": 4.772893772893773,
-  "meanSecondsToClosePulls": 150045.1234256927,
-  "meanSecondsToCloseIssues": 464734.0442477876
+  "meanSecondsToClosePulls": 144113.52713178293,
+  "meanSecondsToCloseIssues": 413982.8333333333
 }
