@@ -1304,6 +1304,7 @@
     "JohannesKersting",
     "mlbonatelli",
     "grospo",
+    "georgiesamaha",
     "zhan4429",
     "jzohren",
     "zhoudreames",
@@ -1322,6 +1323,7 @@
     "JohannesKersting",
     "mlbonatelli",
     "grospo",
+    "georgiesamaha",
     "zhan4429",
     "jzohren",
     "zhoudreames",
@@ -1334,13 +1336,13 @@
     "dansteiert",
     "allenyen"
   ],
-  "numberOfPullRequestNew": 278,
+  "numberOfPullRequestNew": 263,
   "p50NumberOfNewPullsPerWeek": 41,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 14815,
-  "p50SecondsToCloseIssues": 189095,
-  "meanNumberOfNewPullsPerWeek": 51.036764705882355,
-  "meanNumberOfNewContributorsPerWeek": 4.795620437956204,
-  "meanSecondsToClosePulls": 205323.19784172662,
-  "meanSecondsToCloseIssues": 460525.63636363635
+  "p50SecondsToClosePulls": 14871,
+  "p50SecondsToCloseIssues": 172683,
+  "meanNumberOfNewPullsPerWeek": 51.04779411764706,
+  "meanNumberOfNewContributorsPerWeek": 4.799270072992701,
+  "meanSecondsToClosePulls": 194044.83269961976,
+  "meanSecondsToCloseIssues": 392620.9591836735
 }
