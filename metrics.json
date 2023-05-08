@@ -464,6 +464,7 @@
     "lars-work-sund",
     "Grelot",
     "pbiology",
+    "pfgherardini",
     "gpalidwor",
     "zhangwenda0518",
     "danli349",
@@ -1342,13 +1343,13 @@
     "akp1d12",
     "dansteiert"
   ],
-  "numberOfPullRequestNew": 294,
+  "numberOfPullRequestNew": 292,
   "p50NumberOfNewPullsPerWeek": 41,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 15085,
+  "p50SecondsToClosePulls": 15584,
   "p50SecondsToCloseIssues": 175305,
   "meanNumberOfNewPullsPerWeek": 51.205128205128204,
-  "meanNumberOfNewContributorsPerWeek": 4.807272727272728,
-  "meanSecondsToClosePulls": 115463.35034013605,
-  "meanSecondsToCloseIssues": 352348.43902439025
+  "meanNumberOfNewContributorsPerWeek": 4.810909090909091,
+  "meanSecondsToClosePulls": 116235.43835616438,
+  "meanSecondsToCloseIssues": 362709.0714285714
 }
