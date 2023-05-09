@@ -663,6 +663,7 @@
     "eray-sahin",
     "plasmid02",
     "kibet-gilbert",
+    "Lfulcrum",
     "mlbonatelli",
     "aidaanva",
     "lindenb",
@@ -1343,13 +1344,13 @@
     "akp1d12",
     "dansteiert"
   ],
-  "numberOfPullRequestNew": 292,
+  "numberOfPullRequestNew": 306,
   "p50NumberOfNewPullsPerWeek": 41,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 15584,
-  "p50SecondsToCloseIssues": 175305,
-  "meanNumberOfNewPullsPerWeek": 51.205128205128204,
-  "meanNumberOfNewContributorsPerWeek": 4.810909090909091,
-  "meanSecondsToClosePulls": 116235.43835616438,
-  "meanSecondsToCloseIssues": 362709.0714285714
+  "p50SecondsToClosePulls": 16183,
+  "p50SecondsToCloseIssues": 189095,
+  "meanNumberOfNewPullsPerWeek": 51.07299270072993,
+  "meanNumberOfNewContributorsPerWeek": 4.797101449275362,
+  "meanSecondsToClosePulls": 127643.4705882353,
+  "meanSecondsToCloseIssues": 368359.35555555555
 }
