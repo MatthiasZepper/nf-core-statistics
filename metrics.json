@@ -1315,6 +1315,7 @@
     "MikeHala",
     "clstacy",
     "allenyen",
+    "aldosr",
     "wleepang",
     "user-mb",
     "JohannesKersting",
@@ -1334,6 +1335,7 @@
     "dansteiert"
   ],
   "namesOfContributorsNew": [
+    "aldosr",
     "wleepang",
     "user-mb",
     "JohannesKersting",
@@ -1352,13 +1354,13 @@
     "akp1d12",
     "dansteiert"
   ],
-  "numberOfPullRequestNew": 324,
+  "numberOfPullRequestNew": 335,
   "p50NumberOfNewPullsPerWeek": 41,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 15584,
+  "p50SecondsToClosePulls": 15085,
   "p50SecondsToCloseIssues": 189095,
-  "meanNumberOfNewPullsPerWeek": 51.14598540145985,
-  "meanNumberOfNewContributorsPerWeek": 4.822463768115942,
-  "meanSecondsToClosePulls": 135949.4814814815,
-  "meanSecondsToCloseIssues": 380155.3
+  "meanNumberOfNewPullsPerWeek": 51.18613138686131,
+  "meanNumberOfNewContributorsPerWeek": 4.826086956521739,
+  "meanSecondsToClosePulls": 137208.53134328357,
+  "meanSecondsToCloseIssues": 399187.1538461539
 }
