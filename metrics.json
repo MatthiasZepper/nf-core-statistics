@@ -1084,6 +1084,7 @@
     "kmarianski",
     "lhonour",
     "Nour-EddineS",
+    "jsitarova-dnanexus",
     "aboyd003",
     "MostafaYA",
     "lekhakaranam",
@@ -1337,7 +1338,6 @@
     "pehenrique",
     "weber8thomas",
     "zhan4429",
-    "jsitarova-dnanexus",
     "albcarrasco",
     "FrancisNietzsche",
     "kabanowa47",
@@ -1350,6 +1350,7 @@
     "akp1d12",
     "SannaAb",
     "multimeric",
+    "Nicobouch",
     "dansteiert"
   ],
   "namesOfContributorsNew": [
@@ -1366,7 +1367,6 @@
     "pehenrique",
     "weber8thomas",
     "zhan4429",
-    "jsitarova-dnanexus",
     "albcarrasco",
     "FrancisNietzsche",
     "kabanowa47",
@@ -1379,15 +1379,16 @@
     "akp1d12",
     "SannaAb",
     "multimeric",
+    "Nicobouch",
     "dansteiert"
   ],
-  "numberOfPullRequestNew": 397,
+  "numberOfPullRequestNew": 388,
   "p50NumberOfNewPullsPerWeek": 41,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 18299,
-  "p50SecondsToCloseIssues": 228132,
-  "meanNumberOfNewPullsPerWeek": 51.42181818181818,
-  "meanNumberOfNewContributorsPerWeek": 4.873646209386282,
-  "meanSecondsToClosePulls": 169582.62720403023,
-  "meanSecondsToCloseIssues": 450402.73846153845
+  "p50SecondsToClosePulls": 16183,
+  "p50SecondsToCloseIssues": 267681,
+  "meanNumberOfNewPullsPerWeek": 51.43636363636364,
+  "meanNumberOfNewContributorsPerWeek": 4.877256317689531,
+  "meanSecondsToClosePulls": 167590.69845360826,
+  "meanSecondsToCloseIssues": 464223.95238095237
 }
