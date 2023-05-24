@@ -1343,6 +1343,7 @@
     "weber8thomas",
     "scheckley",
     "zhan4429",
+    "stan0610",
     "FrancisNietzsche",
     "kabanowa47",
     "matthewstuartedwards",
@@ -1354,6 +1355,7 @@
     "SannaAb",
     "multimeric",
     "Nicobouch",
+    "eseiler",
     "dansteiert"
   ],
   "namesOfContributorsNew": [
@@ -1369,6 +1371,7 @@
     "weber8thomas",
     "scheckley",
     "zhan4429",
+    "stan0610",
     "FrancisNietzsche",
     "kabanowa47",
     "matthewstuartedwards",
@@ -1380,15 +1383,16 @@
     "SannaAb",
     "multimeric",
     "Nicobouch",
+    "eseiler",
     "dansteiert"
   ],
-  "numberOfPullRequestNew": 379,
+  "numberOfPullRequestNew": 392,
   "p50NumberOfNewPullsPerWeek": 41,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 15085,
+  "p50SecondsToClosePulls": 17700,
   "p50SecondsToCloseIssues": 191104,
-  "meanNumberOfNewPullsPerWeek": 51.39492753623188,
-  "meanNumberOfNewContributorsPerWeek": 4.870503597122302,
-  "meanSecondsToClosePulls": 190822.08443271767,
-  "meanSecondsToCloseIssues": 437356.3076923077
+  "meanNumberOfNewPullsPerWeek": 51.44927536231884,
+  "meanNumberOfNewContributorsPerWeek": 4.877697841726619,
+  "meanSecondsToClosePulls": 193192.82142857142,
+  "meanSecondsToCloseIssues": 430835.9552238806
 }
