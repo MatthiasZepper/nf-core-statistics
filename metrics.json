@@ -817,6 +817,7 @@
     "skose82",
     "bark9299",
     "Ste40",
+    "lch14forever",
     "tbugfinder",
     "patrickbryant1",
     "tarak77",
@@ -951,7 +952,6 @@
     "zdk123",
     "samlhao",
     "piroonj",
-    "lch14forever",
     "tiendu",
     "RHReynolds",
     "leipzig",
@@ -1062,6 +1062,7 @@
     "IndhuPS",
     "intawat",
     "bioPG",
+    "sabrina0701",
     "andrewucla",
     "petanska",
     "Githubguanxudong",
@@ -1389,12 +1390,12 @@
     "dansteiert"
   ],
   "numberOfPullRequestNew": 380,
-  "p50NumberOfNewPullsPerWeek": 41,
+  "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 20101,
-  "p50SecondsToCloseIssues": 191104,
-  "meanNumberOfNewPullsPerWeek": 51.492753623188406,
-  "meanNumberOfNewContributorsPerWeek": 4.881294964028777,
-  "meanSecondsToClosePulls": 194294.09210526315,
-  "meanSecondsToCloseIssues": 399780.828125
+  "p50SecondsToClosePulls": 25142,
+  "p50SecondsToCloseIssues": 187062,
+  "meanNumberOfNewPullsPerWeek": 51.572463768115945,
+  "meanNumberOfNewContributorsPerWeek": 4.884892086330935,
+  "meanSecondsToClosePulls": 214128.22631578948,
+  "meanSecondsToCloseIssues": 372911.7049180328
 }
