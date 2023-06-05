@@ -1413,13 +1413,13 @@
     "eseiler",
     "valentinoruggieri"
   ],
-  "numberOfPullRequestNew": 325,
+  "numberOfPullRequestNew": 321,
   "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 11165,
-  "p50SecondsToCloseIssues": 153256,
-  "meanNumberOfNewPullsPerWeek": 51.895306859205775,
+  "p50SecondsToCloseIssues": 162735,
+  "meanNumberOfNewPullsPerWeek": 51.90613718411552,
   "meanNumberOfNewContributorsPerWeek": 4.942652329749104,
-  "meanSecondsToClosePulls": 110891.9323076923,
-  "meanSecondsToCloseIssues": 372005.11666666664
+  "meanSecondsToClosePulls": 113558.81931464175,
+  "meanSecondsToCloseIssues": 377132.3548387097
 }
