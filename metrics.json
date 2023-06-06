@@ -1100,6 +1100,7 @@
     "olu2016",
     "kmarianski",
     "MolPath-Bioinfo",
+    "paolo-kunderfranco",
     "lhonour",
     "Nour-EddineS",
     "jsitarova-dnanexus",
@@ -1413,13 +1414,13 @@
     "eseiler",
     "valentinoruggieri"
   ],
-  "numberOfPullRequestNew": 321,
+  "numberOfPullRequestNew": 338,
   "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 11165,
-  "p50SecondsToCloseIssues": 162735,
-  "meanNumberOfNewPullsPerWeek": 51.90613718411552,
-  "meanNumberOfNewContributorsPerWeek": 4.942652329749104,
-  "meanSecondsToClosePulls": 113558.81931464175,
-  "meanSecondsToCloseIssues": 377132.3548387097
+  "p50SecondsToClosePulls": 10675,
+  "p50SecondsToCloseIssues": 187062,
+  "meanNumberOfNewPullsPerWeek": 51.798561151079134,
+  "meanNumberOfNewContributorsPerWeek": 4.928571428571429,
+  "meanSecondsToClosePulls": 115415.24556213018,
+  "meanSecondsToCloseIssues": 394382.828125
 }
