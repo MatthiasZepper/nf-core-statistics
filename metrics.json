@@ -328,6 +328,7 @@
     "ryanyord",
     "suhrig",
     "wleepang",
+    "Ghepardo",
     "aubinthomas",
     "mhebrard",
     "tiagochst",
@@ -1362,7 +1363,6 @@
     "helenxl",
     "RogerHw",
     "TheOafidian",
-    "Ghepardo",
     "AlejRSosa",
     "jeffquinn-msk",
     "peculiar97",
@@ -1394,7 +1394,6 @@
     "helenxl",
     "RogerHw",
     "TheOafidian",
-    "Ghepardo",
     "AlejRSosa",
     "jeffquinn-msk",
     "peculiar97",
@@ -1422,13 +1421,13 @@
     "valentinoruggieri",
     "expansion-bioemformatics"
   ],
-  "numberOfPullRequestNew": 364,
+  "numberOfPullRequestNew": 335,
   "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 10698,
   "p50SecondsToCloseIssues": 239724,
   "meanNumberOfNewPullsPerWeek": 52.07194244604317,
   "meanNumberOfNewContributorsPerWeek": 4.957142857142857,
-  "meanSecondsToClosePulls": 120477.21428571429,
-  "meanSecondsToCloseIssues": 457475.42647058825
+  "meanSecondsToClosePulls": 122568.30447761193,
+  "meanSecondsToCloseIssues": 448958.3387096774
 }
