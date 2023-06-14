@@ -1374,6 +1374,7 @@
     "crisamor",
     "randomnamec",
     "scheckley",
+    "lam-c",
     "rodriguesk",
     "stan0610",
     "kabanowa47",
@@ -1404,6 +1405,7 @@
     "crisamor",
     "randomnamec",
     "scheckley",
+    "lam-c",
     "rodriguesk",
     "stan0610",
     "kabanowa47",
@@ -1423,13 +1425,13 @@
     "valentinoruggieri",
     "expansion-bioemformatics"
   ],
-  "numberOfPullRequestNew": 345,
+  "numberOfPullRequestNew": 360,
   "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 9455,
   "p50SecondsToCloseIssues": 276289,
-  "meanNumberOfNewPullsPerWeek": 52,
-  "meanNumberOfNewContributorsPerWeek": 4.950177935943061,
-  "meanSecondsToClosePulls": 104876.63768115942,
-  "meanSecondsToCloseIssues": 489766.125
+  "meanNumberOfNewPullsPerWeek": 52.06810035842294,
+  "meanNumberOfNewContributorsPerWeek": 4.9537366548042705,
+  "meanSecondsToClosePulls": 113302.07777777778,
+  "meanSecondsToCloseIssues": 478495.5652173913
 }
