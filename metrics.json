@@ -1204,6 +1204,7 @@
     "sarah-buddle",
     "VictorDidier",
     "CaroAMN",
+    "scoughlan2",
     "caspargross",
     "matthewstuartedwards",
     "Bruce-BC",
@@ -1386,7 +1387,6 @@
     "jaybee84",
     "amnghn",
     "CarsonJM",
-    "scoughlan2",
     "serjisa",
     "tbrittoborges",
     "smoe",
@@ -1416,7 +1416,6 @@
     "jaybee84",
     "amnghn",
     "CarsonJM",
-    "scoughlan2",
     "serjisa",
     "tbrittoborges",
     "smoe",
@@ -1428,13 +1427,13 @@
     "valentinoruggieri",
     "expansion-bioemformatics"
   ],
-  "numberOfPullRequestNew": 371,
+  "numberOfPullRequestNew": 370,
   "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 13552,
-  "p50SecondsToCloseIssues": 398690,
-  "meanNumberOfNewPullsPerWeek": 52.21863799283154,
+  "p50SecondsToCloseIssues": 359143,
+  "meanNumberOfNewPullsPerWeek": 52.24731182795699,
   "meanNumberOfNewContributorsPerWeek": 4.967971530249111,
-  "meanSecondsToClosePulls": 131659.58760107818,
-  "meanSecondsToCloseIssues": 532499.1549295775
+  "meanSecondsToClosePulls": 132948.04054054053,
+  "meanSecondsToCloseIssues": 522047.6142857143
 }
