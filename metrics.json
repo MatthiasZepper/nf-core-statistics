@@ -1424,13 +1424,13 @@
     "valentinoruggieri",
     "expansion-bioemformatics"
   ],
-  "numberOfPullRequestNew": 361,
+  "numberOfPullRequestNew": 371,
   "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 13674,
-  "p50SecondsToCloseIssues": 437434,
-  "meanNumberOfNewPullsPerWeek": 52.114285714285714,
+  "p50SecondsToClosePulls": 14087,
+  "p50SecondsToCloseIssues": 438120,
+  "meanNumberOfNewPullsPerWeek": 52.16428571428571,
   "meanNumberOfNewContributorsPerWeek": 4.953900709219858,
-  "meanSecondsToClosePulls": 124584.90304709141,
-  "meanSecondsToCloseIssues": 563239.3709677419
+  "meanSecondsToClosePulls": 124313.18328840971,
+  "meanSecondsToCloseIssues": 577428.1666666666
 }
