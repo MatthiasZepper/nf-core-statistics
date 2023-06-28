@@ -1361,6 +1361,7 @@
     "ShixiangWang",
     "lasseringstedmark",
     "harper357",
+    "Roman-Si",
     "zmahnoor14",
     "akp1d12",
     "watsonar",
@@ -1401,11 +1402,11 @@
     "fellen31",
     "serjisa",
     "iraiosub",
-    "Roman-Si",
     "BCArg",
     "rcannood",
     "valentinoruggieri",
-    "expansion-bioemformatics"
+    "expansion-bioemformatics",
+    "slbai01"
   ],
   "namesOfContributorsNew": [
     "TheOafidian",
@@ -1421,19 +1422,19 @@
     "fellen31",
     "serjisa",
     "iraiosub",
-    "Roman-Si",
     "BCArg",
     "rcannood",
     "valentinoruggieri",
-    "expansion-bioemformatics"
+    "expansion-bioemformatics",
+    "slbai01"
   ],
-  "numberOfPullRequestNew": 388,
+  "numberOfPullRequestNew": 407,
   "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 12513,
-  "p50SecondsToCloseIssues": 424920,
-  "meanNumberOfNewPullsPerWeek": 52.306049822064054,
-  "meanNumberOfNewContributorsPerWeek": 4.964664310954063,
-  "meanSecondsToClosePulls": 142025.99484536084,
-  "meanSecondsToCloseIssues": 575834.2363636363
+  "p50SecondsToClosePulls": 14795,
+  "p50SecondsToCloseIssues": 359143,
+  "meanNumberOfNewPullsPerWeek": 52.37722419928826,
+  "meanNumberOfNewContributorsPerWeek": 4.968197879858657,
+  "meanSecondsToClosePulls": 144207.1891891892,
+  "meanSecondsToCloseIssues": 550251.0892857143
 }
