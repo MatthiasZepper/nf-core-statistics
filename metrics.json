@@ -931,6 +931,7 @@
     "xnr13",
     "nicholas-owen",
     "tzvi909",
+    "ieres-amgen",
     "rodriguesk",
     "sruthipsuresh",
     "MathewBerg9",
@@ -994,7 +995,7 @@
     "vjmarteau",
     "Khajidu",
     "TomKellyGenetics",
-    "azedine-healx",
+    "azedinez",
     "abyssum",
     "stan0610",
     "asifzubair",
@@ -1393,6 +1394,7 @@
     "allenyen",
     "fellen31",
     "TheOafidian",
+    "mtva0001",
     "crisamor",
     "lam-c",
     "Truongphi20",
@@ -1417,6 +1419,7 @@
   "namesOfContributorsNew": [
     "fellen31",
     "TheOafidian",
+    "mtva0001",
     "crisamor",
     "lam-c",
     "Truongphi20",
@@ -1438,13 +1441,13 @@
     "expansion-bioemformatics",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 422,
+  "numberOfPullRequestNew": 426,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 14087,
+  "p50SecondsToClosePulls": 14521,
   "p50SecondsToCloseIssues": 249883,
-  "meanNumberOfNewPullsPerWeek": 52.55871886120996,
-  "meanNumberOfNewContributorsPerWeek": 4.989399293286219,
-  "meanSecondsToClosePulls": 140112.41943127962,
-  "meanSecondsToCloseIssues": 508968.16363636364
+  "meanNumberOfNewPullsPerWeek": 52.7508896797153,
+  "meanNumberOfNewContributorsPerWeek": 4.996466431095406,
+  "meanSecondsToClosePulls": 135770.08920187794,
+  "meanSecondsToCloseIssues": 507115.8245614035
 }
