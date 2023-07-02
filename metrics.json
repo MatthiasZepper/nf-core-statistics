@@ -745,6 +745,7 @@
     "BADMANSachin",
     "Angelika-2Z-Borowiecka",
     "MinLuke",
+    "crisamor",
     "nvk747",
     "nanjalaruth",
     "PeterBailey",
@@ -1395,7 +1396,6 @@
     "fellen31",
     "TheOafidian",
     "mtva0001",
-    "crisamor",
     "lam-c",
     "Truongphi20",
     "AAAAAbetter",
@@ -1420,7 +1420,6 @@
     "fellen31",
     "TheOafidian",
     "mtva0001",
-    "crisamor",
     "lam-c",
     "Truongphi20",
     "AAAAAbetter",
@@ -1441,13 +1440,13 @@
     "expansion-bioemformatics",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 426,
+  "numberOfPullRequestNew": 399,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 14521,
-  "p50SecondsToCloseIssues": 249883,
-  "meanNumberOfNewPullsPerWeek": 52.7508896797153,
+  "p50SecondsToClosePulls": 14795,
+  "p50SecondsToCloseIssues": 239724,
+  "meanNumberOfNewPullsPerWeek": 52.76512455516014,
   "meanNumberOfNewContributorsPerWeek": 4.996466431095406,
-  "meanSecondsToClosePulls": 135770.08920187794,
-  "meanSecondsToCloseIssues": 507115.8245614035
+  "meanSecondsToClosePulls": 144212.5388471178,
+  "meanSecondsToCloseIssues": 482294.8461538461
 }
