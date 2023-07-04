@@ -999,6 +999,7 @@
     "TomKellyGenetics",
     "azedinez",
     "abyssum",
+    "sandrocarollo",
     "stan0610",
     "asifzubair",
     "redst4r",
@@ -1437,13 +1438,13 @@
     "expansion-bioemformatics",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 376,
-  "p50NumberOfNewPullsPerWeek": 43,
+  "numberOfPullRequestNew": 392,
+  "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 15828,
-  "p50SecondsToCloseIssues": 239724,
-  "meanNumberOfNewPullsPerWeek": 52.77224199288256,
-  "meanNumberOfNewContributorsPerWeek": 4.996466431095406,
-  "meanSecondsToClosePulls": 144076.29787234042,
-  "meanSecondsToCloseIssues": 454043.9375
+  "p50SecondsToClosePulls": 16395,
+  "p50SecondsToCloseIssues": 249121,
+  "meanNumberOfNewPullsPerWeek": 52.648936170212764,
+  "meanNumberOfNewContributorsPerWeek": 4.982394366197183,
+  "meanSecondsToClosePulls": 148972.67091836734,
+  "meanSecondsToCloseIssues": 463206.74
 }
