@@ -1438,13 +1438,13 @@
     "expansion-bioemformatics",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 392,
+  "numberOfPullRequestNew": 408,
   "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 16395,
-  "p50SecondsToCloseIssues": 249121,
-  "meanNumberOfNewPullsPerWeek": 52.648936170212764,
+  "p50SecondsToClosePulls": 16684,
+  "p50SecondsToCloseIssues": 249883,
+  "meanNumberOfNewPullsPerWeek": 52.726950354609926,
   "meanNumberOfNewContributorsPerWeek": 4.982394366197183,
-  "meanSecondsToClosePulls": 148972.67091836734,
-  "meanSecondsToCloseIssues": 463206.74
+  "meanSecondsToClosePulls": 154386.7769607843,
+  "meanSecondsToCloseIssues": 486577.78846153844
 }
