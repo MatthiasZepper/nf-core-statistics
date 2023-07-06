@@ -1392,6 +1392,7 @@
     "asmaali98",
     "valentinoruggieri",
     "gl9797",
+    "expansion-bioemformatics",
     "brentp",
     "MikeHala",
     "clstacy",
@@ -1414,7 +1415,6 @@
     "iraiosub",
     "rcannood",
     "npatel-ah",
-    "expansion-bioemformatics",
     "slbai01"
   ],
   "namesOfContributorsNew": [
@@ -1435,16 +1435,15 @@
     "iraiosub",
     "rcannood",
     "npatel-ah",
-    "expansion-bioemformatics",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 408,
+  "numberOfPullRequestNew": 400,
   "p50NumberOfNewPullsPerWeek": 42,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 16684,
-  "p50SecondsToCloseIssues": 249883,
-  "meanNumberOfNewPullsPerWeek": 52.726950354609926,
+  "p50SecondsToClosePulls": 19410,
+  "p50SecondsToCloseIssues": 249121,
+  "meanNumberOfNewPullsPerWeek": 52.797872340425535,
   "meanNumberOfNewContributorsPerWeek": 4.982394366197183,
-  "meanSecondsToClosePulls": 154386.7769607843,
-  "meanSecondsToCloseIssues": 486577.78846153844
+  "meanSecondsToClosePulls": 161850.895,
+  "meanSecondsToCloseIssues": 463033.14
 }
