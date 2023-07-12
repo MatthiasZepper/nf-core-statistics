@@ -979,6 +979,7 @@
     "davidecarlson",
     "Gabriel-A-Barrett",
     "Joon-Klaps",
+    "qiyubio",
     "CarsonJM",
     "georgiesamaha",
     "zhan4429",
@@ -1409,6 +1410,7 @@
     "dansteiert",
     "allenyen",
     "fellen31",
+    "UboCA",
     "mtva0001",
     "tarunaaggarwal",
     "lusacristan",
@@ -1426,6 +1428,7 @@
   ],
   "namesOfContributorsNew": [
     "fellen31",
+    "UboCA",
     "mtva0001",
     "tarunaaggarwal",
     "lusacristan",
@@ -1441,13 +1444,13 @@
     "npatel-ah",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 384,
+  "numberOfPullRequestNew": 395,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 20562,
+  "p50SecondsToClosePulls": 21452,
   "p50SecondsToCloseIssues": 216234,
-  "meanNumberOfNewPullsPerWeek": 52.957597173144876,
-  "meanNumberOfNewContributorsPerWeek": 4.989473684210527,
-  "meanSecondsToClosePulls": 151564.01041666666,
-  "meanSecondsToCloseIssues": 465085.5777777778
+  "meanNumberOfNewPullsPerWeek": 53.01060070671378,
+  "meanNumberOfNewContributorsPerWeek": 4.996491228070176,
+  "meanSecondsToClosePulls": 161375.17974683543,
+  "meanSecondsToCloseIssues": 485421.5833333333
 }
