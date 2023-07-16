@@ -1062,6 +1062,7 @@
     "hellypatel98",
     "ollieeknight",
     "xingyaoc",
+    "nicorap",
     "FedericoComoglio",
     "klmr",
     "blancha",
@@ -1079,7 +1080,6 @@
     "kgutwin",
     "pablosoro",
     "heseber",
-    "nicorap",
     "samkleeman1",
     "AxelMaths",
     "TaynaP",
@@ -1402,8 +1402,10 @@
     "Nicobouch",
     "allaway",
     "lewynli",
+    "rcannood",
     "eseiler",
     "msanvicente",
+    "npatel-ah",
     "asmaali98",
     "valentinoruggieri",
     "gl9797",
@@ -1430,8 +1432,6 @@
     "0820LL",
     "iraiosub",
     "dnlrxn",
-    "rcannood",
-    "npatel-ah",
     "slbai01"
   ],
   "namesOfContributorsNew": [
@@ -1452,17 +1452,15 @@
     "0820LL",
     "iraiosub",
     "dnlrxn",
-    "rcannood",
-    "npatel-ah",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 376,
+  "numberOfPullRequestNew": 359,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 40619,
+  "p50SecondsToClosePulls": 35914,
   "p50SecondsToCloseIssues": 155002,
-  "meanNumberOfNewPullsPerWeek": 53.19434628975265,
+  "meanNumberOfNewPullsPerWeek": 53.20141342756184,
   "meanNumberOfNewContributorsPerWeek": 5.024561403508772,
-  "meanSecondsToClosePulls": 169178.8590425532,
-  "meanSecondsToCloseIssues": 347514.7826086957
+  "meanSecondsToClosePulls": 163286.72980501392,
+  "meanSecondsToCloseIssues": 329360.1777777778
 }
