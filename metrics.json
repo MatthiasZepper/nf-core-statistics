@@ -1439,6 +1439,7 @@
     "noah472",
     "dnlrxn",
     "vinisalazar",
+    "kneubehl",
     "slbai01"
   ],
   "namesOfContributorsNew": [
@@ -1464,15 +1465,16 @@
     "noah472",
     "dnlrxn",
     "vinisalazar",
+    "kneubehl",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 362,
+  "numberOfPullRequestNew": 373,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 22524,
-  "p50SecondsToCloseIssues": 160197,
-  "meanNumberOfNewPullsPerWeek": 53.08098591549296,
-  "meanNumberOfNewContributorsPerWeek": 5.031468531468532,
-  "meanSecondsToClosePulls": 157434.46961325966,
-  "meanSecondsToCloseIssues": 350550.67346938775
+  "p50SecondsToClosePulls": 29767,
+  "p50SecondsToCloseIssues": 174404,
+  "meanNumberOfNewPullsPerWeek": 53.12323943661972,
+  "meanNumberOfNewContributorsPerWeek": 5.034965034965035,
+  "meanSecondsToClosePulls": 162910.7050938338,
+  "meanSecondsToCloseIssues": 382328.28301886795
 }
