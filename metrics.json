@@ -1422,6 +1422,7 @@
     "UboCA",
     "Mimz-i",
     "mtva0001",
+    "bioforkgithub",
     "tarunaaggarwal",
     "lusacristan",
     "Pandapip1",
@@ -1440,6 +1441,7 @@
     "dnlrxn",
     "vinisalazar",
     "kneubehl",
+    "MajoroMask",
     "slbai01"
   ],
   "namesOfContributorsNew": [
@@ -1448,6 +1450,7 @@
     "UboCA",
     "Mimz-i",
     "mtva0001",
+    "bioforkgithub",
     "tarunaaggarwal",
     "lusacristan",
     "Pandapip1",
@@ -1466,15 +1469,16 @@
     "dnlrxn",
     "vinisalazar",
     "kneubehl",
+    "MajoroMask",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 373,
+  "numberOfPullRequestNew": 378,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 29767,
+  "p50SecondsToClosePulls": 22524,
   "p50SecondsToCloseIssues": 174404,
-  "meanNumberOfNewPullsPerWeek": 53.12323943661972,
-  "meanNumberOfNewContributorsPerWeek": 5.034965034965035,
-  "meanSecondsToClosePulls": 162910.7050938338,
-  "meanSecondsToCloseIssues": 382328.28301886795
+  "meanNumberOfNewPullsPerWeek": 53.179577464788736,
+  "meanNumberOfNewContributorsPerWeek": 5.041958041958042,
+  "meanSecondsToClosePulls": 176149.90476190476,
+  "meanSecondsToCloseIssues": 415358.9636363636
 }
