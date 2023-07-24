@@ -1480,13 +1480,13 @@
     "dkoppstein",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 347,
+  "numberOfPullRequestNew": 330,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 35570,
-  "p50SecondsToCloseIssues": 174404,
-  "meanNumberOfNewPullsPerWeek": 53.33098591549296,
+  "p50SecondsToClosePulls": 21452,
+  "p50SecondsToCloseIssues": 155002,
+  "meanNumberOfNewPullsPerWeek": 53.33802816901409,
   "meanNumberOfNewContributorsPerWeek": 5.066433566433567,
-  "meanSecondsToClosePulls": 187591.94524495676,
-  "meanSecondsToCloseIssues": 424038.8771929825
+  "meanSecondsToClosePulls": 183244.84242424244,
+  "meanSecondsToCloseIssues": 385966.01785714284
 }
