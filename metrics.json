@@ -149,6 +149,7 @@
     "nick-youngblut",
     "lindaxiang",
     "zachary-foster",
+    "sstrong99",
     "richelbilderbeek",
     "nevinwu",
     "SNOL2",
@@ -1441,7 +1442,6 @@
     "denisthieffry",
     "rhagenson",
     "limrp",
-    "sstrong99",
     "buehlere",
     "ramsainanduri",
     "0820LL",
@@ -1471,7 +1471,6 @@
     "denisthieffry",
     "rhagenson",
     "limrp",
-    "sstrong99",
     "buehlere",
     "ramsainanduri",
     "0820LL",
@@ -1483,13 +1482,13 @@
     "dkoppstein",
     "slbai01"
   ],
-  "numberOfPullRequestNew": 356,
+  "numberOfPullRequestNew": 347,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 35914,
-  "p50SecondsToCloseIssues": 215383,
-  "meanNumberOfNewPullsPerWeek": 53.252631578947366,
+  "p50SecondsToClosePulls": 40619,
+  "p50SecondsToCloseIssues": 225767,
+  "meanNumberOfNewPullsPerWeek": 53.27719298245614,
   "meanNumberOfNewContributorsPerWeek": 5.055749128919861,
-  "meanSecondsToClosePulls": 188952.39044943822,
-  "meanSecondsToCloseIssues": 495980.328125
+  "meanSecondsToClosePulls": 192542.1354466859,
+  "meanSecondsToCloseIssues": 526865.7424242424
 }
