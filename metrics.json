@@ -1431,6 +1431,7 @@
     "dansteiert",
     "slbai01",
     "allenyen",
+    "sahuno",
     "mantczakaus",
     "SamMod1",
     "hobrien",
@@ -1450,6 +1451,7 @@
     "buehlere",
     "ramsainanduri",
     "Mahnaz-Shemirani",
+    "lfearnley",
     "dnlrxn",
     "vinisalazar",
     "kneubehl",
@@ -1457,6 +1459,7 @@
     "dkoppstein"
   ],
   "namesOfContributorsNew": [
+    "sahuno",
     "mantczakaus",
     "SamMod1",
     "hobrien",
@@ -1476,19 +1479,20 @@
     "buehlere",
     "ramsainanduri",
     "Mahnaz-Shemirani",
+    "lfearnley",
     "dnlrxn",
     "vinisalazar",
     "kneubehl",
     "MajoroMask",
     "dkoppstein"
   ],
-  "numberOfPullRequestNew": 284,
+  "numberOfPullRequestNew": 291,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 14080,
-  "p50SecondsToCloseIssues": 225767,
-  "meanNumberOfNewPullsPerWeek": 53.26223776223776,
-  "meanNumberOfNewContributorsPerWeek": 5.048611111111111,
-  "meanSecondsToClosePulls": 130453.83450704225,
-  "meanSecondsToCloseIssues": 486321.1551724138
+  "p50SecondsToCloseIssues": 323054,
+  "meanNumberOfNewPullsPerWeek": 53.2972027972028,
+  "meanNumberOfNewContributorsPerWeek": 5.055555555555555,
+  "meanSecondsToClosePulls": 152472.1683848797,
+  "meanSecondsToCloseIssues": 509512.4918032787
 }
