@@ -952,6 +952,7 @@
     "ieres-amgen",
     "rodriguesk",
     "AAAAAbetter",
+    "SereFe",
     "sruthipsuresh",
     "MathewBerg9",
     "andreagillespie",
@@ -1441,7 +1442,6 @@
     "bioforkgithub",
     "tarunaaggarwal",
     "Pandapip1",
-    "SereFe",
     "kkim111",
     "anijudy",
     "wassimsalam01",
@@ -1469,7 +1469,6 @@
     "bioforkgithub",
     "tarunaaggarwal",
     "Pandapip1",
-    "SereFe",
     "kkim111",
     "anijudy",
     "wassimsalam01",
@@ -1486,13 +1485,13 @@
     "MajoroMask",
     "dkoppstein"
   ],
-  "numberOfPullRequestNew": 291,
+  "numberOfPullRequestNew": 293,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 14080,
-  "p50SecondsToCloseIssues": 323054,
-  "meanNumberOfNewPullsPerWeek": 53.2972027972028,
+  "p50SecondsToClosePulls": 14530,
+  "p50SecondsToCloseIssues": 225767,
+  "meanNumberOfNewPullsPerWeek": 53.36013986013986,
   "meanNumberOfNewContributorsPerWeek": 5.055555555555555,
-  "meanSecondsToClosePulls": 152472.1683848797,
-  "meanSecondsToCloseIssues": 509512.4918032787
+  "meanSecondsToClosePulls": 158781.40273037544,
+  "meanSecondsToCloseIssues": 457153.46428571426
 }
