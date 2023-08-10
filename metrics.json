@@ -1241,6 +1241,7 @@
     "josenimo",
     "johannesnicolaus",
     "hrydbeck",
+    "limrp",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -1453,7 +1454,6 @@
     "IvanWoo22",
     "wassimsalam01",
     "denisthieffry",
-    "limrp",
     "buehlere",
     "ramsainanduri",
     "Mahnaz-Shemirani",
@@ -1477,7 +1477,6 @@
     "IvanWoo22",
     "wassimsalam01",
     "denisthieffry",
-    "limrp",
     "buehlere",
     "ramsainanduri",
     "Mahnaz-Shemirani",
@@ -1488,13 +1487,13 @@
     "MajoroMask",
     "dkoppstein"
   ],
-  "numberOfPullRequestNew": 280,
+  "numberOfPullRequestNew": 282,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 14530,
-  "p50SecondsToCloseIssues": 251157,
-  "meanNumberOfNewPullsPerWeek": 53.37282229965157,
+  "p50SecondsToClosePulls": 14080,
+  "p50SecondsToCloseIssues": 276381,
+  "meanNumberOfNewPullsPerWeek": 53.42508710801394,
   "meanNumberOfNewContributorsPerWeek": 5.0588235294117645,
-  "meanSecondsToClosePulls": 146910.05714285714,
-  "meanSecondsToCloseIssues": 485163.3793103448
+  "meanSecondsToClosePulls": 151910.02482269504,
+  "meanSecondsToCloseIssues": 441300.88095238095
 }
