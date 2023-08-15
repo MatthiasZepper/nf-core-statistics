@@ -1457,6 +1457,7 @@
     "mantczakaus",
     "SamMod1",
     "mmcentre",
+    "Shashankti",
     "Pandapip1",
     "IvanWoo22",
     "a4000",
@@ -1472,6 +1473,7 @@
     "mantczakaus",
     "SamMod1",
     "mmcentre",
+    "Shashankti",
     "Pandapip1",
     "IvanWoo22",
     "a4000",
@@ -1481,13 +1483,13 @@
     "kneubehl",
     "MajoroMask"
   ],
-  "numberOfPullRequestNew": 264,
+  "numberOfPullRequestNew": 271,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 14530,
   "p50SecondsToCloseIssues": 438468,
-  "meanNumberOfNewPullsPerWeek": 53.56794425087108,
-  "meanNumberOfNewContributorsPerWeek": 5.0657439446366785,
-  "meanSecondsToClosePulls": 154517.19696969696,
-  "meanSecondsToCloseIssues": 460504.42253521126
+  "meanNumberOfNewPullsPerWeek": 53.40625,
+  "meanNumberOfNewContributorsPerWeek": 5.051724137931035,
+  "meanSecondsToClosePulls": 151671.9335793358,
+  "meanSecondsToCloseIssues": 450665.4657534247
 }
