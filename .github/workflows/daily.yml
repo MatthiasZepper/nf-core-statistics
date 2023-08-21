@@ -2,10 +2,11 @@ name: Update metrics
 on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   sync:
-    if: github.repository == 'matthiaszepper/github-statistics' # prevent running on forks
+    if: github.repository == 'matthiaszepper/nf-core-statistics' # prevent running on forks
 
     runs-on: ubuntu-latest
 
@@ -45,6 +46,6 @@ jobs:
       # End of yarn setup
 
       - name: Update metrics
-        run: yarn generate --withMetrics --commitChanges
+        run: yarn generate --withAdopterList --withMetrics --commitChanges
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

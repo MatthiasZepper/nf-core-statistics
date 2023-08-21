@@ -7,8 +7,8 @@ import minimist from "minimist";
 import { DateTime } from "luxon";
 import percentile from "percentile";
 import mean from "lodash.mean";
-import { Remarkable } from "remarkable";
 import { Spinner } from "cli-spinner";
+const yaml = require('js-yaml');
 
 type GithubPull =
   RestEndpointMethodTypes["pulls"]["list"]["response"]["data"][0];
@@ -18,9 +18,9 @@ type GithubPullOrIssue = GithubPull | GithubIssue;
 
 const REPO_ORG = "nf-core";
 const REPO_HOME = "matthiaszepper";
-const REPO_NAME = "github-statistics";
+const REPO_NAME = "nf-core-statistics";
 const METRIC_FILENAME = "metrics.json";
-const ADOPTER_URL = "https://github.com/nf-core/nf-co.re/blob/master/nf-core-contributors.yaml";
+const ADOPTER_URL = "https://github.com/nf-core/website/blob/main/src/config/contributors.yaml?raw=true";
 const PAST_DAYS_FOR_METRICS = 30;
 
 const argv = minimist(process.argv.slice(2));
@@ -57,38 +57,39 @@ const isContributorABot = (contributor: string) => {
   return contributor.endsWith("[bot]") || botAccounts.includes(contributor);
 };
 
-/* Currently not working. Need to implement YAML parsing first.
- */
+// Define the interface for the contributors in the YAML object
+// Adopters in Tempo are ironically called Contributors in nf-core ;-) 
+interface Contributor {
+  full_name: string;
+  short_name: string;
+  description: string;
+  affiliation: string;
+  address: string;
+  url: string;
+  affiliation_url: string;
+  image_fn: string;
+  contact: string;
+  contact_email: string;
+  contact_github: string;
+  location: number[];
+  twitter: string;
+}
+
 
   const getAdopterList = async () => {
-  const adopters = new Set<string>();
+  let adopters = new Set<string>();
   const response = await fetch(ADOPTER_URL);
   const content = await response.text();
-  const tokens = new Remarkable().parse(content, {});
-
-  let isInTbody = false;
-  let isNextCell = false;
-
-  const isBlockToken = (
-    token: Remarkable.BlockContentToken
-  ): token is Remarkable.BlockContentToken =>
-    token.type === "inline" && Array.isArray(token.children);
-
-  for (const token of tokens) {
-    if (token.type === "tbody_open") {
-      isInTbody = true;
-    } else if (isInTbody && token.type === "tr_open") {
-      isNextCell = true;
-    } else if (isBlockToken(token) && isNextCell) {
-      if (token.content) {
-        adopters.add(token.content);
-      }
-
-      isNextCell = false;
-    }
+  try {
+    const parsedYaml: { contributors: Contributor[] }  = yaml.load(content);
+    //console.log('Parsed Data:', parsedYaml);
+    adopters = new Set(parsedYaml.contributors.map(contributor => contributor.full_name));
+    console.log(Array.from(adopters));
+    return Array.from(adopters).sort();
+  } catch (error) {
+    console.error('Error parsing YAML:', error);
+    return [];
   }
-
-  return Array.from(adopters);
 };
 
 const getCurrentMetricFileSha = async () => {
