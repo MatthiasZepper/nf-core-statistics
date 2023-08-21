@@ -1492,13 +1492,13 @@
     "vecerkovakaterina",
     "tjbencomo"
   ],
-  "numberOfPullRequestNew": 285,
+  "numberOfPullRequestNew": 267,
   "p50NumberOfNewPullsPerWeek": 43,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 14298,
-  "p50SecondsToCloseIssues": 438701,
-  "meanNumberOfNewPullsPerWeek": 53.71527777777778,
+  "p50SecondsToClosePulls": 14769,
+  "p50SecondsToCloseIssues": 438713,
+  "meanNumberOfNewPullsPerWeek": 53.71875,
   "meanNumberOfNewContributorsPerWeek": 5.089655172413793,
-  "meanSecondsToClosePulls": 143414.8842105263,
-  "meanSecondsToCloseIssues": 483490.8552631579
+  "meanSecondsToClosePulls": 144451.33333333334,
+  "meanSecondsToCloseIssues": 491995.1081081081
 }
