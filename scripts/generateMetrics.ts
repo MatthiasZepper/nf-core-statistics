@@ -45,7 +45,7 @@ const iteratorRepos = octokit.paginate.iterator(octokit.rest.repos.listForOrg, {
 
 if (!commitChanges) {
   console.log(
-    "⚠️  Running in dryrun mode, no metrics will be commited back ⚠️"
+    "⚠️  Running in dryrun mode, no metrics will be committed back ⚠️"
   );
 }
 
@@ -77,14 +77,16 @@ interface Contributor {
 
 
   const getAdopterList = async () => {
-  let adopters = new Set<string>();
+  let adopters = new Set<string[]>();
   const response = await fetch(ADOPTER_URL);
   const content = await response.text();
   try {
     const parsedYaml: { contributors: Contributor[] }  = yaml.load(content);
-    //console.log('Parsed Data:', parsedYaml);
-    adopters = new Set(parsedYaml.contributors.map(contributor => contributor.full_name));
-    console.log(Array.from(adopters));
+    adopters = new Set(parsedYaml.contributors.map(contributor => [
+      contributor.short_name || '',
+      contributor.full_name || '',
+      contributor.address || '',
+    ]));
     return Array.from(adopters).sort();
   } catch (error) {
     console.error('Error parsing YAML:', error);
