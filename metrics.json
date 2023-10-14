@@ -1,5 +1,321 @@
 {
-  "namesOfAdopters": [],
+  "namesOfAdopters": [
+    [
+      "Ardigen",
+      "Ardigen S.A.",
+      "Podole 76, 30-394 Poland"
+    ],
+    [
+      "BCM",
+      "Baylor College of Medicine",
+      "One Baylor Plaza, Houston, Texas 77030, USA"
+    ],
+    [
+      "BI",
+      "Boehringer Ingelheim Pharma GmbH & CO. KG",
+      "Birkendorfer Str. 65, 88400 Biberach an der Riss"
+    ],
+    [
+      "BICR",
+      "Beatson Institute & Institute of Cancer Sciences",
+      "Garscube Estate, Switchback Road, Bearsden, Glasgow G61 1BD, United Kingdom"
+    ],
+    [
+      "CCGA Kiel",
+      "The Competence Centre for Genome Analysis Kiel",
+      "Christian-Albrechts-Platz 4, 24118 Kiel, Germany"
+    ],
+    [
+      "CMGG",
+      "Center for Medical Genetics, Ghent Univerity Hospital",
+      "C. Heymanslaan 10, 9000 Ghent, Belgium"
+    ],
+    [
+      "COH",
+      "City of Hope",
+      "1500 E Duarte Rd, Duarte, CA 91010, USA"
+    ],
+    [
+      "CRG",
+      "Centre for Genomic Regulation",
+      "Carrer Dr. Aiguader, 88, 08003 Barcelona, Spain"
+    ],
+    [
+      "CRUK-MI",
+      "Cancer Research UK Manchester Institute (CRUK-MI)",
+      "Cancer Research UK Manchester Institute, The University of Manchester, Alderley Park, SK10 4TG, United Kingdom"
+    ],
+    [
+      "CUBoulder",
+      "BioFrontiers Institute at University of Colorado, Boulder",
+      "3415 Colorado Avenue, Boulder, CO 80303, USA"
+    ],
+    [
+      "CZ Biohub",
+      "Chan Zuckerberg Biohub",
+      "499 Illinois St, San Francisco, CA, 94158"
+    ],
+    [
+      "Curie",
+      "Institut Curie",
+      "26 rue d'Ulm, 75248 Paris Cedex 05, France"
+    ],
+    [
+      "DZNE",
+      "German Center for Neurodegenerative Diseases",
+      "Sigmund-Freud-Straße 27, 53127 Bonn"
+    ],
+    [
+      "DcGC",
+      "DRESDEN-concept Genome Center",
+      "Fetscherstraße 105, 01307 Dresden, Germany"
+    ],
+    [
+      "FHT",
+      "Human Technopole",
+      "Fondazione Human Technopole - Viale Rita Levi-Montalcini, 1 - Area MIND – Cargo 6 - 20157 Milano Italy"
+    ],
+    [
+      "FPG",
+      "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+      "Largo Agostino Gemelli, 00168 Roma RM, Italy"
+    ],
+    [
+      "Flomics",
+      "Flomics Biotech",
+      "Carrer Dr. Aiguader, 88, 08003 Barcelona, Spain"
+    ],
+    [
+      "Francis Crick",
+      "The Francis Crick Institute",
+      "1 Midland Rd, London NW1 1ST"
+    ],
+    [
+      "GHGA",
+      "German Human Genome-Phenome Archive",
+      "Im Neuenheimer Feld 280, 69120 Heidelberg, Germany"
+    ],
+    [
+      "GIS",
+      "Genome Institute of Singapore",
+      "60 Biopolis St, Singapore 138672, Singapore"
+    ],
+    [
+      "GMI",
+      "Gregor Mendel Institute of Molecular Plant Biology",
+      "Dr.-Bohr-Gasse 3, 1030 Vienna, Austria"
+    ],
+    [
+      "HC",
+      "Hartree Centre",
+      "STFC Hartree Centre, Sci-Tech Daresbury, Keckwick, Daresbury,​​​ Warrington. WA4 4AD"
+    ],
+    [
+      "HIRI",
+      "Helmholtz Institute for RNA-based Infection Research",
+      "Josef-Schneider-Straße 2, 97080 Würzburg"
+    ],
+    [
+      "HKI",
+      "Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute (HKI)",
+      "Beutenbergstraße 11 , 07745 Jena, Germany"
+    ],
+    [
+      "HUJI",
+      "The Hebrew University of Jerusalem",
+      "Hadassah Ein Kerem Medical School, Jerusalem, Israel"
+    ],
+    [
+      "Healx",
+      "Healx Ltd.",
+      "Charter House, 66-68 Hills Rd, Cambridge, CB2 1LA, UK"
+    ],
+    [
+      "IARC",
+      "International Agency for Research on Cancer",
+      "150 Cours Albert Thomas, 69372 Lyon CEDEX 08, France"
+    ],
+    [
+      "IGDR",
+      "Institut Genetics & Development of Rennes",
+      "Campus Santé de Villejean, 2 avenue du Professeur Léon Bernard, 35043 Rennes CEDEX, France"
+    ],
+    [
+      "IIIT-B",
+      "International Institute of Information Technology - Bangalore",
+      "26/C, Electronics City, Hosur Road, Bangalore - 560100, India"
+    ],
+    [
+      "IISERM",
+      "Indian Institute of Science Education and Research Mohali",
+      "Knowledge city, Sector 81, Manauli PO, Sahibzada Ajit Singh Nagar, Punjab 140306"
+    ],
+    [
+      "IMP",
+      "Research Institute of Molecular Pathology IMP",
+      "Campus-Vienna-Biocenter 1, 1030 Vienna, Austria"
+    ],
+    [
+      "IOZ",
+      "Institute of Zoology",
+      "Institute of Zoology, Chinese Academy of Sciences (CAS), Beijing, 100101, China"
+    ],
+    [
+      "IPD",
+      "Institut Pasteur de Dakar",
+      "36, Avenue Pasteur - BP 220 - DAKAR"
+    ],
+    [
+      "LNUc-EEMiS",
+      "Linnaeus University Centre for Ecology and Evolution in Microbial model Systems",
+      "Norra Kajplan, Kalmar (visiting address)"
+    ],
+    [
+      "LU",
+      "Leiden University",
+      "Leiden University, Rapenburg 70, 2311 EZ Leiden, The Netherlands"
+    ],
+    [
+      "Lifebit",
+      "Lifebit Biotech",
+      "338 City Road, London, England, EC1V 2PY"
+    ],
+    [
+      "MPI-EVA",
+      "Max Planck Institute for Evolutionary Anthropology (MPI-EVA)",
+      "Deutscher Platz 6, 04103 Leipzig, Germany"
+    ],
+    [
+      "MPIB",
+      "Max Planck Institute for Biochemistry",
+      "Am Klopferspitz 18, 82152 Planegg, Germany"
+    ],
+    [
+      "MRCHGU",
+      "MRC Human Genetics Unit, MRC Institute of Genetics and Molecular Medicine, University of Edinburgh",
+      "Western General Hospital, Crewe Road, Edinburgh, United Kingdom"
+    ],
+    [
+      "NBIS",
+      "National Bioinformatics Infrastructure Sweden",
+      "Tomtebodavägen 23A, 17165 Solna, Sweden"
+    ],
+    [
+      "NGI",
+      "National Genomics Infrastructure",
+      "Tomtebodavägen 23A, 17165 Solna, Sweden"
+    ],
+    [
+      "NIBSC",
+      "National Institute of Biological Standards and Control",
+      "Blanche Ln, South Mimms, Potters Bar EN6 3QG, United Kingdom"
+    ],
+    [
+      "NYU",
+      "New York University",
+      "50 West 4th Street New York, NY 10012"
+    ],
+    [
+      "PILM",
+      "The Picower for Learning and Memory",
+      "43 Vassar St, Cambridge, MA 02139"
+    ],
+    [
+      "PalMuc",
+      "Paleontology and Geobiology LMU Munich",
+      "Richard-Wagner-Str. 10, 80333 München, Deutschland"
+    ],
+    [
+      "Pasteur",
+      "Institut Pasteur",
+      "25-28 Rue du Dr Roux, 75015 Paris, France"
+    ],
+    [
+      "QBiC",
+      "Quantitative Biology Center",
+      "Auf der Morgenstelle 10, 72076 Tübingen, Germany"
+    ],
+    [
+      "RBGV",
+      "Royal Botanic Gardens Victoria",
+      "Birdwood Avenue, Melbourne, Victoria, Australia, 3004"
+    ],
+    [
+      "RIKEN BDR",
+      "RIKEN Center for Biosystems Dynamics Research",
+      "2-2-3 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo, Japan"
+    ],
+    [
+      "SIH",
+      "Sydney Informatics Hub",
+      "University of Sydney, City Rd & Butlin Ave, Darlington, NSW, Australia"
+    ],
+    [
+      "SLU",
+      "Swedish University of Agricultural Sciences",
+      "Almas Allé 8, 75007 Uppsala, Sweden"
+    ],
+    [
+      "SUN",
+      "Stellenbosch University, Bioinformatics research unit",
+      "Francie Van Zijl Dr, Tygerberg, Cape Town, 7505, South Africa"
+    ],
+    [
+      "SYSUCC",
+      "Sun Yat-sen University Cancer Center",
+      "651, Dongfeng East Road, Guangzhou, Guangdong, China"
+    ],
+    [
+      "Sanger",
+      "The Wellcome Trust Sanger Institute",
+      "Wellcome Trust Genome Campus, Hinxton CB10 1SA, United Kingdom"
+    ],
+    [
+      "Seqera",
+      "Seqera Labs",
+      "Carrer D'Avila, 19, Local 2, 08005 Barcelona, Spain"
+    ],
+    [
+      "UC Berkeley",
+      "University of California Berkeley",
+      "465 Soda Hall, MC-1776, Berkeley, CA 94720-1776"
+    ],
+    [
+      "UCLcancer",
+      "UCL Cancer Institute",
+      "72 Huntley Street, London, WC1E 6DD."
+    ],
+    [
+      "UNIPV",
+      "University of Pavia",
+      "via Ferrata, 9 - 27100 Pavia, Italy"
+    ],
+    [
+      "UT",
+      "University of Tsukuba",
+      "1-2 Kasuga, Tsukuba, Ibaraki 305-8550, Japan."
+    ],
+    [
+      "UTD",
+      "The University of Texas at Dallas",
+      "Department of Biological Sciences The University of Texas at Dallas 800 W Campbell, BSB12 Richardson TX 75080"
+    ],
+    [
+      "UoL",
+      "The University of Liverpool",
+      "University of Liverpool, Crown Street, Liverpool L69 7ZB, UK"
+    ],
+    [
+      "WIBR",
+      "Whitehead Institute for Biomedical Research",
+      "455 Main St, Cambridge, MA 02142, USA"
+    ],
+    [
+      "elembio",
+      "Element Biosciences",
+      "10055 Barnes Canyon Road Suite 100 San Diego, CA 92121"
+    ]
+  ],
   "namesOfContributors": [
     "ewels",
     "sven1103",
@@ -104,6 +420,10 @@
     "SusiJo",
     "fellen31",
     "fbdtemme",
+    "FranBonath",
+    "mertcelebi",
+    "EmelineFavreau",
+    "sofstam",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -126,6 +446,7 @@
     "Leon-Bichmann",
     "jjfarrell",
     "chasemc",
+    "zhuchcn",
     "marwa38",
     "LLansing",
     "DSchreyer",
@@ -135,6 +456,7 @@
     "dstrib",
     "prmac",
     "Sebastian-D",
+    "ammarsabircheema",
     "DrOllyGomez",
     "lianov",
     "achristofferson-bbi",
@@ -143,7 +465,6 @@
     "christopher-hakkaart",
     "LaurenceKuhl",
     "mattheatley",
-    "mertcelebi",
     "kcibul",
     "WackerO",
     "tomsing1",
@@ -154,7 +475,6 @@
     "richelbilderbeek",
     "tzvi909",
     "nevinwu",
-    "SNOL2",
     "HardingZhang",
     "benbfly",
     "bounlu",
@@ -173,6 +493,7 @@
     "helenxl",
     "RogerHw",
     "suhrig",
+    "wassimsalam01",
     "rbpisupati",
     "cjfields",
     "zchatt",
@@ -191,6 +512,7 @@
     "DanBeaton",
     "TheodoreMarkulin",
     "pierre-bourguet",
+    "sahuno",
     "chuan-wang",
     "likelet",
     "christopher-mohr",
@@ -242,7 +564,6 @@
     "nebfield",
     "veitveit",
     "louperelo",
-    "sofstam",
     "sima-r",
     "ljmesi",
     "sdomanskyi",
@@ -270,6 +591,7 @@
     "rolivella",
     "toniher",
     "scorreard",
+    "JLP-BioInf",
     "chriswyatt1",
     "alyssa-ab",
     "heylf",
@@ -301,6 +623,10 @@
     "ejseqera",
     "TheOafidian",
     "ksenia-krasheninnikova",
+    "atrull314",
+    "saulpierotti",
+    "luisas",
+    "Felix-Kummer",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -345,6 +671,7 @@
     "Ghepardo",
     "smoe",
     "hmehlan",
+    "dxu104",
     "aubinthomas",
     "mhebrard",
     "tiagochst",
@@ -356,7 +683,7 @@
     "pareng",
     "bruggerk",
     "edxxgardo",
-    "mGauder",
+    "ghost",
     "Zeinab5",
     "santiagorevale",
     "micans",
@@ -368,7 +695,6 @@
     "cailiangliang765",
     "Dharmendra-G-1",
     "husensofteng",
-    "ghost",
     "tobsecret",
     "bc2zb",
     "gtg269c",
@@ -532,6 +858,7 @@
     "ilwookkim",
     "T300M256",
     "li1311139481",
+    "SNOL2",
     "wzheng0520",
     "user-mb",
     "JohannesKersting",
@@ -545,7 +872,7 @@
     "AaronHY",
     "animesh",
     "mantczakaus",
-    "FranBonath",
+    "SamMod1",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -582,7 +909,6 @@
     "GeOdette",
     "alihkz94",
     "kevinpryan",
-    "EmelineFavreau",
     "losttransposon",
     "larryns",
     "drernie",
@@ -610,6 +936,7 @@
     "tucano",
     "scheckley",
     "JackCurragh",
+    "georgiesamaha",
     "hmenager",
     "saharai",
     "seth-biorad",
@@ -630,6 +957,9 @@
     "UboCA",
     "Mimz-i",
     "mmcentre",
+    "Joon-Klaps",
+    "nat-coutoune",
+    "rajswimd",
     "jkobject",
     "gppbioinfo",
     "Lehmann-Fabian",
@@ -679,6 +1009,7 @@
     "bensesbg",
     "tanayb001",
     "peculiar97",
+    "Shashankti",
     "Ritzttk",
     "telatin",
     "artefaritaKuniklo",
@@ -686,6 +1017,7 @@
     "alexhbnr",
     "AdrianForsythe",
     "mglubber",
+    "willros",
     "jfourquet2",
     "ivelsko",
     "harryscholes",
@@ -731,6 +1063,10 @@
     "tarunaaggarwal",
     "lusacristan",
     "Pandapip1",
+    "IvanWoo22",
+    "CEJ-R",
+    "Perugolate",
+    "s-junguy",
     "lindenb",
     "ZandraFagernas",
     "scarlhoff",
@@ -827,8 +1163,13 @@
     "kenminsoo",
     "ferreirafm",
     "randomnamec",
+    "alexmascension",
+    "mAGLAVE",
+    "andrewdchen",
+    "davidecarlson",
     "asafpr",
     "dariader",
+    "a4000",
     "yanxianl",
     "solna",
     "mafouille",
@@ -873,6 +1214,7 @@
     "davised",
     "bark9299",
     "Ste40",
+    "SergeWielhouwer",
     "lch14forever",
     "pehenrique",
     "weber8thomas",
@@ -881,6 +1223,10 @@
     "lam-c",
     "Truongphi20",
     "BCArg",
+    "dixi06",
+    "amalacrino",
+    "susheelbhanu",
+    "x-rv",
     "tbugfinder",
     "patrickbryant1",
     "tarak77",
@@ -889,6 +1235,8 @@
     "brucemoran",
     "CS-GustaveRoussy",
     "ZWael",
+    "fevac",
+    "efgstone",
     "gybeata",
     "leiendeckerlu",
     "xiucz",
@@ -914,11 +1262,13 @@
     "dfc-1931475",
     "jsangalang",
     "WangKang-Leo",
-    "fevac",
     "artgenko",
     "raygozag",
     "mschubert",
     "grospo",
+    "ToonRosseel",
+    "sclan",
+    "shwcha9",
     "brunohhomem",
     "yzh37545",
     "liminghao663",
@@ -994,7 +1344,6 @@
     "raysloks",
     "giusmar",
     "Gwennid",
-    "atrull314",
     "kalayaneech",
     "AdrijaK",
     "l-modolo",
@@ -1003,18 +1352,16 @@
     "nschan",
     "marccamb",
     "MichaldotLevin",
-    "davidecarlson",
     "Gabriel-A-Barrett",
-    "Joon-Klaps",
     "qiyubio",
     "CarsonJM",
-    "georgiesamaha",
     "zhan4429",
-    "saulpierotti",
-    "wassimsalam01",
+    "dmarron",
+    "jpadesousa",
     "amirshams84",
     "parlundin",
     "claus-h-g",
+    "alina-bauer",
     "prakakrishna",
     "mdeboth",
     "fabio-t",
@@ -1024,6 +1371,7 @@
     "bewt85",
     "angelovangel",
     "Shellfishgene",
+    "drchriscole",
     "zdk123",
     "samlhao",
     "piroonj",
@@ -1034,17 +1382,18 @@
     "Vivian-chen16",
     "vjmarteau",
     "Khajidu",
+    "rlinchangco",
     "TomKellyGenetics",
     "azedinez",
     "abyssum",
     "sandrocarollo",
     "stan0610",
+    "shinthor",
     "asifzubair",
     "redst4r",
     "ChillyMomo709",
     "Thatguy027",
     "jeremyadamsfisher",
-    "susheelbhanu",
     "alexblaessle",
     "SarahBeecroft",
     "esrice",
@@ -1054,6 +1403,7 @@
     "lewis9914",
     "jhgraber",
     "rhodesch",
+    "Juassis",
     "denisthieffry",
     "cmdoret",
     "robomics",
@@ -1181,12 +1531,17 @@
     "FrancisNietzsche",
     "Chrisdoan9",
     "kabanowa47",
+    "lfearnley",
     "Sadiki-Noureddine",
     "mjakobs",
     "Hadi90Eidgah",
     "ChristianRohde",
     "jaybee84",
     "amnghn",
+    "pmoris",
+    "sxv",
+    "davetang",
+    "frenkiboy",
     "aboyd003",
     "adamd3",
     "MostafaYA",
@@ -1225,7 +1580,6 @@
     "taylorreiter",
     "gertrudeln",
     "KamilMaliszArdigen",
-    "dmarron",
     "qclayssen",
     "sreerampeela",
     "lucananni93",
@@ -1235,6 +1589,7 @@
     "timslittle",
     "psj1997",
     "BioInf2305",
+    "xec-cm",
     "phanhung2",
     "FerriolCalvet",
     "jch-13",
@@ -1259,6 +1614,11 @@
     "limrp",
     "buehlere",
     "ramsainanduri",
+    "d-jch",
+    "kenibrewer",
+    "icaromsc",
+    "Joaodemeirelles",
+    "miqalvarez",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -1278,6 +1638,8 @@
     "scoughlan2",
     "0820LL",
     "ludirm93",
+    "fa2k",
+    "Mahnaz-Shemirani",
     "caspargross",
     "matthewstuartedwards",
     "Bruce-BC",
@@ -1290,6 +1652,7 @@
     "MustafaElshani",
     "mattdmem",
     "sunsetyerin",
+    "rugilemat",
     "ksantone",
     "lzy604",
     "hitowie",
@@ -1298,6 +1661,7 @@
     "jonwruffin",
     "glichtenstein",
     "ushnaahmad",
+    "mblohmer",
     "PayamEmami",
     "maxvincent24",
     "MiguelJulia",
@@ -1341,6 +1705,7 @@
     "AroobAlhumaidy",
     "forty2wallabyway",
     "wutron",
+    "Ligerd5",
     "jeantristanb",
     "MichalStachowiakArdigen",
     "blazejszczerba",
@@ -1355,6 +1720,7 @@
     "charlotte-west",
     "serjisa",
     "iraiosub",
+    "vecerkovakaterina",
     "tbrittoborges",
     "geng-lee",
     "binf2021",
@@ -1384,6 +1750,7 @@
     "bj-w",
     "MrNiro",
     "bkbx",
+    "BirongZhang",
     "guillaumecharbonnier",
     "SarahMaman",
     "jackkamm",
@@ -1402,12 +1769,10 @@
     "bmlab-sg",
     "artur-matysik",
     "QuangOngCM",
-    "EmmaCAndersson",
-    "fa2k",
+    "evasterviga",
     "henrikstranneheim",
     "barissalman",
     "chels0",
-    "lfearnley",
     "shenker",
     "k-florek",
     "shangguandong1996",
@@ -1424,6 +1789,7 @@
     "ipstone",
     "ShixiangWang",
     "lasseringstedmark",
+    "tjbencomo",
     "harper357",
     "Roman-Si",
     "zmahnoor14",
@@ -1441,7 +1807,6 @@
     "vinsilico",
     "mhjiang97",
     "pakiessling",
-    "luisas",
     "l-mansouri",
     "rjpbonnal",
     "nfg-interline",
@@ -1459,46 +1824,59 @@
     "gl9797",
     "expansion-bioemformatics",
     "dkoppstein",
+    "heathfuqua",
     "brentp",
     "MikeHala",
+    "johandahlberg",
+    "ambarrio",
     "clstacy",
     "dansteiert",
     "slbai01",
+    "lucidif",
     "allenyen",
-    "sahuno",
-    "SamMod1",
-    "Shashankti",
-    "IvanWoo22",
-    "CEJ-R",
-    "a4000",
-    "shinthor",
-    "kenibrewer",
-    "Mahnaz-Shemirani",
-    "Ligerd5",
-    "vecerkovakaterina",
-    "tjbencomo"
+    "marinawitherell",
+    "jspaezp",
+    "mplescher",
+    "yangfeizZZ",
+    "maressyl",
+    "cruk-mi",
+    "dsloanm-uodit",
+    "BurtonChia",
+    "gitanoqevaporelmundoentero",
+    "ducminhnguyenle",
+    "slives-lab",
+    "lrauschning",
+    "vagkaratzas",
+    "nictru",
+    "rreggiar",
+    "jcdaneshmand",
+    "alimalrashed"
   ],
   "namesOfContributorsNew": [
-    "sahuno",
-    "SamMod1",
-    "Shashankti",
-    "IvanWoo22",
-    "CEJ-R",
-    "a4000",
-    "shinthor",
-    "kenibrewer",
-    "Mahnaz-Shemirani",
-    "Ligerd5",
-    "vecerkovakaterina",
-    "tjbencomo"
+    "jspaezp",
+    "mplescher",
+    "yangfeizZZ",
+    "maressyl",
+    "cruk-mi",
+    "dsloanm-uodit",
+    "BurtonChia",
+    "gitanoqevaporelmundoentero",
+    "ducminhnguyenle",
+    "slives-lab",
+    "lrauschning",
+    "vagkaratzas",
+    "nictru",
+    "rreggiar",
+    "jcdaneshmand",
+    "alimalrashed"
   ],
-  "numberOfPullRequestNew": 267,
-  "p50NumberOfNewPullsPerWeek": 43,
+  "numberOfPullRequestNew": 390,
+  "p50NumberOfNewPullsPerWeek": 44,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 14769,
-  "p50SecondsToCloseIssues": 438713,
-  "meanNumberOfNewPullsPerWeek": 53.71875,
-  "meanNumberOfNewContributorsPerWeek": 5.089655172413793,
-  "meanSecondsToClosePulls": 144451.33333333334,
-  "meanSecondsToCloseIssues": 491995.1081081081
+  "p50SecondsToClosePulls": 20153,
+  "p50SecondsToCloseIssues": 187058,
+  "meanNumberOfNewPullsPerWeek": 54.942567567567565,
+  "meanNumberOfNewContributorsPerWeek": 5.147651006711409,
+  "meanSecondsToClosePulls": 164069.56153846154,
+  "meanSecondsToCloseIssues": 353298.23529411765
 }
