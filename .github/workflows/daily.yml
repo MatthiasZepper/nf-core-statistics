@@ -45,7 +45,21 @@ jobs:
         run: yarn install --frozen-lockfile
       # End of yarn setup
 
+      - name: Check quota before
+        uses: MatthiasZepper/gh-api-confine
+        id: check_quota
+        with:
+          actionToTake: "sleep"
+
       - name: Update metrics
+        if: ${{ steps.check_quota.conclusion == 'success' }}
         run: yarn generate --withAdopterList --withMetrics --commitChanges
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Check quota after
+        uses: MatthiasZepper/gh-api-confine
+        id: check_quota_post
+        with:
+          actionToTake: "peep"
