@@ -46,7 +46,7 @@ jobs:
       # End of yarn setup
 
       - name: Check quota before
-        uses: MatthiasZepper/gh-api-confine
+        uses: MatthiasZepper/gh-api-confine@beta
         id: check_quota
         with:
           actionToTake: "sleep"
@@ -59,7 +59,7 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
 
       - name: Check quota after
-        uses: MatthiasZepper/gh-api-confine
+        uses: MatthiasZepper/gh-api-confine@beta
         id: check_quota_post
         with:
           actionToTake: "peep"
