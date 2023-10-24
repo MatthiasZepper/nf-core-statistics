@@ -1378,6 +1378,7 @@
     "kojix2",
     "aislinnjennings",
     "swuyts",
+    "andreiprodan",
     "bewt85",
     "angelovangel",
     "Shellfishgene",
@@ -1897,13 +1898,13 @@
     "jcdaneshmand",
     "alimalrashed"
   ],
-  "numberOfPullRequestNew": 489,
-  "p50NumberOfNewPullsPerWeek": 45,
+  "numberOfPullRequestNew": 513,
+  "p50NumberOfNewPullsPerWeek": 44,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 12017,
+  "p50SecondsToClosePulls": 12601,
   "p50SecondsToCloseIssues": 97262,
-  "meanNumberOfNewPullsPerWeek": 55.494949494949495,
-  "meanNumberOfNewContributorsPerWeek": 5.2040133779264215,
-  "meanSecondsToClosePulls": 135834.97750511247,
-  "meanSecondsToCloseIssues": 301940.88118811883
+  "meanNumberOfNewPullsPerWeek": 55.39261744966443,
+  "meanNumberOfNewContributorsPerWeek": 5.19,
+  "meanSecondsToClosePulls": 158308.25341130604,
+  "meanSecondsToCloseIssues": 318350.1509433962
 }
