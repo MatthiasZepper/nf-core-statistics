@@ -1905,13 +1905,13 @@
     "jcdaneshmand",
     "alimalrashed"
   ],
-  "numberOfPullRequestNew": 463,
+  "numberOfPullRequestNew": 448,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 10942,
   "p50SecondsToCloseIssues": 97262,
-  "meanNumberOfNewPullsPerWeek": 55.6744966442953,
+  "meanNumberOfNewPullsPerWeek": 55.67785234899329,
   "meanNumberOfNewContributorsPerWeek": 5.213333333333333,
-  "meanSecondsToClosePulls": 103997.0475161987,
-  "meanSecondsToCloseIssues": 249850.41346153847
+  "meanSecondsToClosePulls": 98486.26116071429,
+  "meanSecondsToCloseIssues": 249829.91262135922
 }
