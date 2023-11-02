@@ -636,6 +636,7 @@
     "jspaezp",
     "Daniel-VM",
     "sminot",
+    "vagkaratzas",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -1566,6 +1567,7 @@
     "davetang",
     "frenkiboy",
     "ducminhnguyenle",
+    "slives-lab",
     "aboyd003",
     "gk1610",
     "adamd3",
@@ -1644,7 +1646,6 @@
     "Joaodemeirelles",
     "miqalvarez",
     "lrauschning",
-    "vagkaratzas",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -1855,6 +1856,7 @@
     "expansion-bioemformatics",
     "dkoppstein",
     "heathfuqua",
+    "Kevin2197",
     "brentp",
     "MikeHala",
     "johandahlberg",
@@ -1874,7 +1876,6 @@
     "cruk-mi",
     "dsloanm-uodit",
     "LiuH2020",
-    "slives-lab",
     "LuciaNhuNguyen",
     "alessiovignoli",
     "koenbossers",
@@ -1887,8 +1888,7 @@
     "fanying2015",
     "dhusmann",
     "jcdaneshmand",
-    "alimalrashed",
-    "Kevin2197"
+    "alimalrashed"
   ],
   "namesOfContributorsNew": [
     "AugustDev",
@@ -1899,7 +1899,6 @@
     "cruk-mi",
     "dsloanm-uodit",
     "LiuH2020",
-    "slives-lab",
     "LuciaNhuNguyen",
     "alessiovignoli",
     "koenbossers",
@@ -1912,16 +1911,15 @@
     "fanying2015",
     "dhusmann",
     "jcdaneshmand",
-    "alimalrashed",
-    "Kevin2197"
+    "alimalrashed"
   ],
-  "numberOfPullRequestNew": 478,
+  "numberOfPullRequestNew": 483,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 12453,
   "p50SecondsToCloseIssues": 134529,
-  "meanNumberOfNewPullsPerWeek": 55.608695652173914,
+  "meanNumberOfNewPullsPerWeek": 55.675585284280935,
   "meanNumberOfNewContributorsPerWeek": 5.205980066445183,
-  "meanSecondsToClosePulls": 112278.10460251046,
-  "meanSecondsToCloseIssues": 276149.55963302753
+  "meanSecondsToClosePulls": 107417.10351966873,
+  "meanSecondsToCloseIssues": 259118.8148148148
 }
