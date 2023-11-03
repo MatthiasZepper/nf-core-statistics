@@ -1376,6 +1376,7 @@
     "zhan4429",
     "dmarron",
     "jpadesousa",
+    "cruk-mi",
     "amirshams84",
     "parlundin",
     "claus-h-g",
@@ -1873,7 +1874,6 @@
     "rachidelfermi",
     "aqsakhalid03",
     "visbal-ki",
-    "cruk-mi",
     "dsloanm-uodit",
     "LiuH2020",
     "LuciaNhuNguyen",
@@ -1896,7 +1896,6 @@
     "rachidelfermi",
     "aqsakhalid03",
     "visbal-ki",
-    "cruk-mi",
     "dsloanm-uodit",
     "LiuH2020",
     "LuciaNhuNguyen",
@@ -1913,13 +1912,13 @@
     "jcdaneshmand",
     "alimalrashed"
   ],
-  "numberOfPullRequestNew": 483,
+  "numberOfPullRequestNew": 485,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 12453,
-  "p50SecondsToCloseIssues": 134529,
-  "meanNumberOfNewPullsPerWeek": 55.675585284280935,
+  "p50SecondsToClosePulls": 13687,
+  "p50SecondsToCloseIssues": 97262,
+  "meanNumberOfNewPullsPerWeek": 55.725752508361204,
   "meanNumberOfNewContributorsPerWeek": 5.205980066445183,
-  "meanSecondsToClosePulls": 107417.10351966873,
-  "meanSecondsToCloseIssues": 259118.8148148148
+  "meanSecondsToClosePulls": 107541.93608247423,
+  "meanSecondsToCloseIssues": 257167.91588785045
 }
