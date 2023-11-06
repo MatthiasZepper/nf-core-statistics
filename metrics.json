@@ -1837,6 +1837,7 @@
     "dnlrxn",
     "vinisalazar",
     "kneubehl",
+    "alimalrashed",
     "vinsilico",
     "mhjiang97",
     "pakiessling",
@@ -1888,8 +1889,7 @@
     "nmendozam",
     "heringerp",
     "fanying2015",
-    "dhusmann",
-    "alimalrashed"
+    "dhusmann"
   ],
   "namesOfContributorsNew": [
     "AugustDev",
@@ -1910,16 +1910,15 @@
     "nmendozam",
     "heringerp",
     "fanying2015",
-    "dhusmann",
-    "alimalrashed"
+    "dhusmann"
   ],
-  "numberOfPullRequestNew": 481,
+  "numberOfPullRequestNew": 458,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 13118,
-  "p50SecondsToCloseIssues": 92216,
-  "meanNumberOfNewPullsPerWeek": 55.78260869565217,
+  "p50SecondsToClosePulls": 13884,
+  "p50SecondsToCloseIssues": 91442,
+  "meanNumberOfNewPullsPerWeek": 55.78929765886288,
   "meanNumberOfNewContributorsPerWeek": 5.209302325581396,
-  "meanSecondsToClosePulls": 106864.31808731808,
-  "meanSecondsToCloseIssues": 249315.37037037036
+  "meanSecondsToClosePulls": 106320.42576419214,
+  "meanSecondsToCloseIssues": 246989.90291262136
 }
