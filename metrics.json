@@ -1873,6 +1873,7 @@
     "marinawitherell",
     "AugustDev",
     "ltosti-tagomics",
+    "noecochetel",
     "rachidelfermi",
     "vdauwera",
     "aqsakhalid03",
@@ -1894,6 +1895,7 @@
   "namesOfContributorsNew": [
     "AugustDev",
     "ltosti-tagomics",
+    "noecochetel",
     "rachidelfermi",
     "vdauwera",
     "aqsakhalid03",
@@ -1912,13 +1914,13 @@
     "fanying2015",
     "dhusmann"
   ],
-  "numberOfPullRequestNew": 458,
+  "numberOfPullRequestNew": 473,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 13884,
+  "p50SecondsToClosePulls": 15041,
   "p50SecondsToCloseIssues": 91442,
-  "meanNumberOfNewPullsPerWeek": 55.78929765886288,
-  "meanNumberOfNewContributorsPerWeek": 5.209302325581396,
-  "meanSecondsToClosePulls": 106320.42576419214,
-  "meanSecondsToCloseIssues": 246989.90291262136
+  "meanNumberOfNewPullsPerWeek": 55.66,
+  "meanNumberOfNewContributorsPerWeek": 5.195364238410596,
+  "meanSecondsToClosePulls": 115982.51162790698,
+  "meanSecondsToCloseIssues": 231731.39805825244
 }
