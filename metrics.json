@@ -865,7 +865,7 @@
     "smzt",
     "sandragold",
     "rmvgavan",
-    "calliza",
+    "calizilla",
     "ilwookkim",
     "T300M256",
     "li1311139481",
@@ -891,6 +891,7 @@
     "SamMod1",
     "UboCA",
     "mplescher",
+    "AnnaDvdH",
     "njausxl",
     "Rotholandus",
     "evanfloden",
@@ -1918,13 +1919,13 @@
     "fanying2015",
     "dhusmann"
   ],
-  "numberOfPullRequestNew": 492,
+  "numberOfPullRequestNew": 506,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 17556,
-  "p50SecondsToCloseIssues": 91442,
-  "meanNumberOfNewPullsPerWeek": 55.74,
-  "meanNumberOfNewContributorsPerWeek": 5.2052980132450335,
-  "meanSecondsToClosePulls": 137176.3150406504,
-  "meanSecondsToCloseIssues": 246863.679245283
+  "p50SecondsToClosePulls": 16903,
+  "p50SecondsToCloseIssues": 92216,
+  "meanNumberOfNewPullsPerWeek": 55.833333333333336,
+  "meanNumberOfNewContributorsPerWeek": 5.208609271523179,
+  "meanSecondsToClosePulls": 140206.29446640317,
+  "meanSecondsToCloseIssues": 263210.7090909091
 }
