@@ -1382,6 +1382,7 @@
     "zhan4429",
     "dmarron",
     "jpadesousa",
+    "A-N-Other",
     "cruk-mi",
     "amirshams84",
     "parlundin",
@@ -1923,13 +1924,13 @@
     "fanying2015",
     "dhusmann"
   ],
-  "numberOfPullRequestNew": 497,
+  "numberOfPullRequestNew": 496,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 18358,
-  "p50SecondsToCloseIssues": 92216,
-  "meanNumberOfNewPullsPerWeek": 55.9,
-  "meanNumberOfNewContributorsPerWeek": 5.218543046357616,
-  "meanSecondsToClosePulls": 144269.1106639839,
-  "meanSecondsToCloseIssues": 255165.179245283
+  "p50SecondsToClosePulls": 18603,
+  "p50SecondsToCloseIssues": 97262,
+  "meanNumberOfNewPullsPerWeek": 55.97,
+  "meanNumberOfNewContributorsPerWeek": 5.2218543046357615,
+  "meanSecondsToClosePulls": 153734.37298387097,
+  "meanSecondsToCloseIssues": 300606.11650485435
 }
