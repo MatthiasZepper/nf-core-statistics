@@ -1746,6 +1746,7 @@
     "wutron",
     "Ligerd5",
     "jeantristanb",
+    "allaway",
     "MichalStachowiakArdigen",
     "blazejszczerba",
     "opetryk",
@@ -1855,7 +1856,6 @@
     "ArlindNocaj",
     "multimeric",
     "Nicobouch",
-    "allaway",
     "lewynli",
     "rcannood",
     "eseiler",
@@ -1922,13 +1922,13 @@
     "fanying2015",
     "dhusmann"
   ],
-  "numberOfPullRequestNew": 473,
+  "numberOfPullRequestNew": 462,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 17556,
-  "p50SecondsToCloseIssues": 97262,
+  "p50SecondsToCloseIssues": 92216,
   "meanNumberOfNewPullsPerWeek": 55.97666666666667,
   "meanNumberOfNewContributorsPerWeek": 5.2218543046357615,
-  "meanSecondsToClosePulls": 155103.0866807611,
-  "meanSecondsToCloseIssues": 302344.8613861386
+  "meanSecondsToClosePulls": 152624.09956709956,
+  "meanSecondsToCloseIssues": 303015.17171717173
 }
