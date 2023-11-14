@@ -884,6 +884,7 @@
     "AaronHY",
     "LinsenHou",
     "CHoeltermann",
+    "JudithBernett",
     "aiqc",
     "WangDong-ls",
     "animesh",
@@ -1889,6 +1890,7 @@
     "ZheFrench",
     "LiuH2020",
     "LuciaNhuNguyen",
+    "sci-kai",
     "alessiovignoli",
     "koenbossers",
     "zehrahazalsezer",
@@ -1898,7 +1900,8 @@
     "nmendozam",
     "heringerp",
     "fanying2015",
-    "dhusmann"
+    "dhusmann",
+    "jannikseidelQBiC"
   ],
   "namesOfContributorsNew": [
     "AugustDev",
@@ -1911,6 +1914,7 @@
     "ZheFrench",
     "LiuH2020",
     "LuciaNhuNguyen",
+    "sci-kai",
     "alessiovignoli",
     "koenbossers",
     "zehrahazalsezer",
@@ -1920,15 +1924,16 @@
     "nmendozam",
     "heringerp",
     "fanying2015",
-    "dhusmann"
+    "dhusmann",
+    "jannikseidelQBiC"
   ],
-  "numberOfPullRequestNew": 462,
+  "numberOfPullRequestNew": 474,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 17556,
+  "p50SecondsToClosePulls": 18358,
   "p50SecondsToCloseIssues": 92216,
-  "meanNumberOfNewPullsPerWeek": 55.97666666666667,
-  "meanNumberOfNewContributorsPerWeek": 5.2218543046357615,
-  "meanSecondsToClosePulls": 152624.09956709956,
-  "meanSecondsToCloseIssues": 303015.17171717173
+  "meanNumberOfNewPullsPerWeek": 55.840531561461795,
+  "meanNumberOfNewContributorsPerWeek": 5.214521452145214,
+  "meanSecondsToClosePulls": 161044.16666666666,
+  "meanSecondsToCloseIssues": 320847.73529411765
 }
