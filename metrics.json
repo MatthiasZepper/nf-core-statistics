@@ -902,6 +902,7 @@
     "AnnaDvdH",
     "njausxl",
     "rachidelfermi",
+    "azedinez",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -1420,7 +1421,6 @@
     "Khajidu",
     "rlinchangco",
     "TomKellyGenetics",
-    "azedinez",
     "abyssum",
     "sandrocarollo",
     "stan0610",
@@ -1921,13 +1921,13 @@
     "dhusmann",
     "jannikseidelQBiC"
   ],
-  "numberOfPullRequestNew": 381,
+  "numberOfPullRequestNew": 358,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 33349,
+  "p50SecondsToClosePulls": 31617,
   "p50SecondsToCloseIssues": 202917,
-  "meanNumberOfNewPullsPerWeek": 56.116279069767444,
+  "meanNumberOfNewPullsPerWeek": 56.119601328903656,
   "meanNumberOfNewContributorsPerWeek": 5.224422442244224,
-  "meanSecondsToClosePulls": 168201.19160104988,
-  "meanSecondsToCloseIssues": 495474.59375
+  "meanSecondsToClosePulls": 163087.07262569832,
+  "meanSecondsToCloseIssues": 503564.31666666665
 }
