@@ -643,6 +643,7 @@
     "PayamEmami",
     "BioInf2305",
     "a4000",
+    "JackCurragh",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -965,7 +966,6 @@
     "gregorysprenger",
     "tucano",
     "scheckley",
-    "JackCurragh",
     "georgiesamaha",
     "hmenager",
     "saharai",
@@ -1921,13 +1921,13 @@
     "dhusmann",
     "jannikseidelQBiC"
   ],
-  "numberOfPullRequestNew": 348,
+  "numberOfPullRequestNew": 357,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 33349,
-  "p50SecondsToCloseIssues": 202917,
-  "meanNumberOfNewPullsPerWeek": 56.12624584717608,
-  "meanNumberOfNewContributorsPerWeek": 5.224422442244224,
-  "meanSecondsToClosePulls": 158246.1695402299,
-  "meanSecondsToCloseIssues": 503843.5689655172
+  "p50SecondsToCloseIssues": 223058,
+  "meanNumberOfNewPullsPerWeek": 55.98344370860927,
+  "meanNumberOfNewContributorsPerWeek": 5.207236842105263,
+  "meanSecondsToClosePulls": 157916.64985994398,
+  "meanSecondsToCloseIssues": 486457.79032258067
 }
