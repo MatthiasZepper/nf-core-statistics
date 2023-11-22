@@ -1921,13 +1921,13 @@
     "dhusmann",
     "jannikseidelQBiC"
   ],
-  "numberOfPullRequestNew": 357,
+  "numberOfPullRequestNew": 369,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 33349,
-  "p50SecondsToCloseIssues": 223058,
-  "meanNumberOfNewPullsPerWeek": 55.98344370860927,
+  "p50SecondsToCloseIssues": 202917,
+  "meanNumberOfNewPullsPerWeek": 56.0364238410596,
   "meanNumberOfNewContributorsPerWeek": 5.207236842105263,
-  "meanSecondsToClosePulls": 157916.64985994398,
-  "meanSecondsToCloseIssues": 486457.79032258067
+  "meanSecondsToClosePulls": 165356.20325203252,
+  "meanSecondsToCloseIssues": 483503.6935483871
 }
