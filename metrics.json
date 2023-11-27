@@ -1588,6 +1588,7 @@
     "frenkiboy",
     "ducminhnguyenle",
     "slives-lab",
+    "LuciaNhuNguyen",
     "aboyd003",
     "gk1610",
     "adamd3",
@@ -1905,7 +1906,6 @@
     "bioinfogaby",
     "ChristopherChristofi",
     "yulong-su",
-    "LuciaNhuNguyen",
     "sci-kai",
     "eeaunin",
     "GallVp",
@@ -1923,7 +1923,6 @@
     "bioinfogaby",
     "ChristopherChristofi",
     "yulong-su",
-    "LuciaNhuNguyen",
     "sci-kai",
     "eeaunin",
     "GallVp",
@@ -1932,13 +1931,13 @@
     "aheravi",
     "jannikseidelQBiC"
   ],
-  "numberOfPullRequestNew": 356,
+  "numberOfPullRequestNew": 345,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 36214,
+  "p50SecondsToClosePulls": 37093,
   "p50SecondsToCloseIssues": 160293,
   "meanNumberOfNewPullsPerWeek": 56.3046357615894,
   "meanNumberOfNewContributorsPerWeek": 5.233552631578948,
-  "meanSecondsToClosePulls": 143328.38764044945,
-  "meanSecondsToCloseIssues": 378020.27659574465
+  "meanSecondsToClosePulls": 141042.69855072463,
+  "meanSecondsToCloseIssues": 385957.0444444445
 }
