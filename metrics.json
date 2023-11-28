@@ -1905,6 +1905,7 @@
     "lennijusten",
     "bioinfogaby",
     "ChristopherChristofi",
+    "finjasygo",
     "yulong-su",
     "sci-kai",
     "eeaunin",
@@ -1922,6 +1923,7 @@
     "lennijusten",
     "bioinfogaby",
     "ChristopherChristofi",
+    "finjasygo",
     "yulong-su",
     "sci-kai",
     "eeaunin",
@@ -1931,13 +1933,13 @@
     "aheravi",
     "jannikseidelQBiC"
   ],
-  "numberOfPullRequestNew": 345,
+  "numberOfPullRequestNew": 371,
   "p50NumberOfNewPullsPerWeek": 45,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 37093,
-  "p50SecondsToCloseIssues": 160293,
-  "meanNumberOfNewPullsPerWeek": 56.3046357615894,
-  "meanNumberOfNewContributorsPerWeek": 5.233552631578948,
-  "meanSecondsToClosePulls": 141042.69855072463,
-  "meanSecondsToCloseIssues": 385957.0444444445
+  "p50SecondsToClosePulls": 33349,
+  "p50SecondsToCloseIssues": 202917,
+  "meanNumberOfNewPullsPerWeek": 56.20792079207921,
+  "meanNumberOfNewContributorsPerWeek": 5.219672131147541,
+  "meanSecondsToClosePulls": 151767.6576819407,
+  "meanSecondsToCloseIssues": 387406.8085106383
 }
