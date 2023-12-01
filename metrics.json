@@ -1397,6 +1397,7 @@
     "A-N-Other",
     "cruk-mi",
     "dsloanm-uodit",
+    "ChristopherChristofi",
     "amirshams84",
     "parlundin",
     "claus-h-g",
@@ -1908,7 +1909,6 @@
     "lennijusten",
     "MatthewJM96",
     "aghozlane",
-    "ChristopherChristofi",
     "finjasygo",
     "yulong-su",
     "sci-kai",
@@ -1933,7 +1933,6 @@
     "lennijusten",
     "MatthewJM96",
     "aghozlane",
-    "ChristopherChristofi",
     "finjasygo",
     "yulong-su",
     "sci-kai",
@@ -1948,13 +1947,13 @@
     "aheravi",
     "jannikseidelQBiC"
   ],
-  "numberOfPullRequestNew": 403,
+  "numberOfPullRequestNew": 391,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 31470,
+  "p50SecondsToClosePulls": 33349,
   "p50SecondsToCloseIssues": 160293,
-  "meanNumberOfNewPullsPerWeek": 56.37623762376238,
+  "meanNumberOfNewPullsPerWeek": 56.412541254125415,
   "meanNumberOfNewContributorsPerWeek": 5.245901639344262,
-  "meanSecondsToClosePulls": 147525.12655086847,
-  "meanSecondsToCloseIssues": 338106.6538461539
+  "meanSecondsToClosePulls": 144202.30690537085,
+  "meanSecondsToCloseIssues": 334214.358490566
 }
