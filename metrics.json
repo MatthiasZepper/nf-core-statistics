@@ -1954,13 +1954,13 @@
     "mtruglio",
     "jannikseidelQBiC"
   ],
-  "numberOfPullRequestNew": 383,
-  "p50NumberOfNewPullsPerWeek": 45,
+  "numberOfPullRequestNew": 376,
+  "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 20052,
-  "p50SecondsToCloseIssues": 258094,
-  "meanNumberOfNewPullsPerWeek": 56.49342105263158,
+  "p50SecondsToClosePulls": 17655,
+  "p50SecondsToCloseIssues": 184952,
+  "meanNumberOfNewPullsPerWeek": 56.578947368421055,
   "meanNumberOfNewContributorsPerWeek": 5.254901960784314,
-  "meanSecondsToClosePulls": 141426.39686684072,
-  "meanSecondsToCloseIssues": 378643.5106382979
+  "meanSecondsToClosePulls": 129337.77659574468,
+  "meanSecondsToCloseIssues": 374812.95652173914
 }
