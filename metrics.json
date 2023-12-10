@@ -431,6 +431,7 @@
     "sofstam",
     "CarsonJM",
     "fa2k",
+    "rernst",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -1909,7 +1910,6 @@
     "lucidif",
     "allenyen",
     "marinawitherell",
-    "rernst",
     "nikhil",
     "Michal-Babins",
     "giangtools",
@@ -1929,10 +1929,10 @@
     "erinyoung",
     "yunhua1031",
     "mtruglio",
+    "CrazyHsu",
     "jannikseidelQBiC"
   ],
   "namesOfContributorsNew": [
-    "rernst",
     "nikhil",
     "Michal-Babins",
     "giangtools",
@@ -1952,15 +1952,16 @@
     "erinyoung",
     "yunhua1031",
     "mtruglio",
+    "CrazyHsu",
     "jannikseidelQBiC"
   ],
-  "numberOfPullRequestNew": 376,
+  "numberOfPullRequestNew": 360,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 17655,
-  "p50SecondsToCloseIssues": 184952,
-  "meanNumberOfNewPullsPerWeek": 56.578947368421055,
-  "meanNumberOfNewContributorsPerWeek": 5.254901960784314,
-  "meanSecondsToClosePulls": 129337.77659574468,
-  "meanSecondsToCloseIssues": 374812.95652173914
+  "p50SecondsToCloseIssues": 258094,
+  "meanNumberOfNewPullsPerWeek": 56.588815789473685,
+  "meanNumberOfNewContributorsPerWeek": 5.258169934640523,
+  "meanSecondsToClosePulls": 129499.25833333333,
+  "meanSecondsToCloseIssues": 382697.4375
 }
