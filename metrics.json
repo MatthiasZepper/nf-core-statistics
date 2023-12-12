@@ -1912,6 +1912,7 @@
     "jannikseidelQBiC",
     "nikhil",
     "Michal-Babins",
+    "vladsavelyev",
     "giangtools",
     "wangjiaming1503",
     "danclaytondev",
@@ -1935,6 +1936,7 @@
   "namesOfContributorsNew": [
     "nikhil",
     "Michal-Babins",
+    "vladsavelyev",
     "giangtools",
     "wangjiaming1503",
     "danclaytondev",
@@ -1955,13 +1957,13 @@
     "mtruglio",
     "CrazyHsu"
   ],
-  "numberOfPullRequestNew": 347,
+  "numberOfPullRequestNew": 362,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 20052,
-  "p50SecondsToCloseIssues": 184952,
-  "meanNumberOfNewPullsPerWeek": 56.5921052631579,
-  "meanNumberOfNewContributorsPerWeek": 5.258169934640523,
-  "meanSecondsToClosePulls": 125167.79827089337,
-  "meanSecondsToCloseIssues": 371416.4583333333
+  "p50SecondsToClosePulls": 17655,
+  "p50SecondsToCloseIssues": 258094,
+  "meanNumberOfNewPullsPerWeek": 56.47868852459016,
+  "meanNumberOfNewContributorsPerWeek": 5.244299674267101,
+  "meanSecondsToClosePulls": 132002.8591160221,
+  "meanSecondsToCloseIssues": 370966.7551020408
 }
