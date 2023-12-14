@@ -166,6 +166,11 @@
       "36, Avenue Pasteur - BP 220 - DAKAR"
     ],
     [
+      "KUL",
+      "KU Leuven, Rega Institute for Medical Research",
+      "Herestraat 49, 3000 Leuven, Belgium"
+    ],
+    [
       "LNUc-EEMiS",
       "Linnaeus University Centre for Ecology and Evolution in Microbial model Systems",
       "Norra Kajplan, Kalmar (visiting address)"
@@ -1674,6 +1679,7 @@
     "miqalvarez",
     "lrauschning",
     "alessiovignoli",
+    "l-mansouri",
     "koenbossers",
     "laramiellindsey",
     "zehrahazalsezer",
@@ -1879,7 +1885,6 @@
     "vinsilico",
     "mhjiang97",
     "pakiessling",
-    "l-mansouri",
     "rjpbonnal",
     "nfg-interline",
     "ArlindNocaj",
@@ -1922,6 +1927,7 @@
     "yulong-su",
     "rakesh-res",
     "radaniba",
+    "cuppacuppa",
     "GallVp",
     "thomasphung",
     "leoisl",
@@ -1947,6 +1953,7 @@
     "yulong-su",
     "rakesh-res",
     "radaniba",
+    "cuppacuppa",
     "GallVp",
     "thomasphung",
     "leoisl",
@@ -1959,13 +1966,13 @@
     "mtruglio",
     "CrazyHsu"
   ],
-  "numberOfPullRequestNew": 378,
+  "numberOfPullRequestNew": 372,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 20163,
-  "p50SecondsToCloseIssues": 259894,
-  "meanNumberOfNewPullsPerWeek": 56.544262295081964,
-  "meanNumberOfNewContributorsPerWeek": 5.247557003257329,
-  "meanSecondsToClosePulls": 140442.1455026455,
-  "meanSecondsToCloseIssues": 413459.7450980392
+  "p50SecondsToCloseIssues": 261108,
+  "meanNumberOfNewPullsPerWeek": 56.58032786885246,
+  "meanNumberOfNewContributorsPerWeek": 5.250814332247557,
+  "meanSecondsToClosePulls": 135851.061827957,
+  "meanSecondsToCloseIssues": 436523.26923076925
 }
