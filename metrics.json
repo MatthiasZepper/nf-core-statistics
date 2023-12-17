@@ -1603,6 +1603,7 @@
     "slives-lab",
     "LuciaNhuNguyen",
     "sci-kai",
+    "rakesh-res",
     "aboyd003",
     "gk1610",
     "adamd3",
@@ -1926,7 +1927,6 @@
     "finjasygo",
     "jzinno",
     "yulong-su",
-    "rakesh-res",
     "radaniba",
     "cuppacuppa",
     "gitMakeCoffee",
@@ -1954,7 +1954,6 @@
     "finjasygo",
     "jzinno",
     "yulong-su",
-    "rakesh-res",
     "radaniba",
     "cuppacuppa",
     "gitMakeCoffee",
@@ -1970,13 +1969,13 @@
     "mtruglio",
     "CrazyHsu"
   ],
-  "numberOfPullRequestNew": 372,
+  "numberOfPullRequestNew": 363,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 21214,
-  "p50SecondsToCloseIssues": 420714,
-  "meanNumberOfNewPullsPerWeek": 56.71147540983606,
+  "p50SecondsToClosePulls": 29063,
+  "p50SecondsToCloseIssues": 410332,
+  "meanNumberOfNewPullsPerWeek": 56.721311475409834,
   "meanNumberOfNewContributorsPerWeek": 5.257328990228013,
-  "meanSecondsToClosePulls": 144764.97043010753,
-  "meanSecondsToCloseIssues": 505663.2075471698
+  "meanSecondsToClosePulls": 144359.0220385675,
+  "meanSecondsToCloseIssues": 490917.24074074073
 }
