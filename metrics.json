@@ -1409,6 +1409,7 @@
     "cruk-mi",
     "dsloanm-uodit",
     "ChristopherChristofi",
+    "finjasygo",
     "amirshams84",
     "parlundin",
     "claus-h-g",
@@ -1924,7 +1925,6 @@
     "danclaytondev",
     "MatthewJM96",
     "aghozlane",
-    "finjasygo",
     "jzinno",
     "yulong-su",
     "radaniba",
@@ -1951,7 +1951,6 @@
     "danclaytondev",
     "MatthewJM96",
     "aghozlane",
-    "finjasygo",
     "jzinno",
     "yulong-su",
     "radaniba",
@@ -1969,13 +1968,13 @@
     "mtruglio",
     "CrazyHsu"
   ],
-  "numberOfPullRequestNew": 363,
+  "numberOfPullRequestNew": 346,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 29063,
-  "p50SecondsToCloseIssues": 410332,
+  "p50SecondsToCloseIssues": 420714,
   "meanNumberOfNewPullsPerWeek": 56.721311475409834,
   "meanNumberOfNewContributorsPerWeek": 5.257328990228013,
-  "meanSecondsToClosePulls": 144359.0220385675,
-  "meanSecondsToCloseIssues": 490917.24074074073
+  "meanSecondsToClosePulls": 138294,
+  "meanSecondsToCloseIssues": 492730.18
 }
