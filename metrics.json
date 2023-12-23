@@ -1690,6 +1690,7 @@
     "pmjklemm",
     "eeaunin",
     "GallVp",
+    "thomasphung",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -1934,7 +1935,6 @@
     "radaniba",
     "cuppacuppa",
     "gitMakeCoffee",
-    "thomasphung",
     "leoisl",
     "ahvigil",
     "karthikram-takara",
@@ -1962,7 +1962,6 @@
     "radaniba",
     "cuppacuppa",
     "gitMakeCoffee",
-    "thomasphung",
     "leoisl",
     "ahvigil",
     "karthikram-takara",
@@ -1974,13 +1973,13 @@
     "mtruglio",
     "CrazyHsu"
   ],
-  "numberOfPullRequestNew": 455,
+  "numberOfPullRequestNew": 435,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 44647,
-  "p50SecondsToCloseIssues": 445168,
-  "meanNumberOfNewPullsPerWeek": 57.12418300653595,
+  "p50SecondsToClosePulls": 51388,
+  "p50SecondsToCloseIssues": 432326,
+  "meanNumberOfNewPullsPerWeek": 57.15359477124183,
   "meanNumberOfNewContributorsPerWeek": 5.253246753246753,
-  "meanSecondsToClosePulls": 140152.41318681318,
-  "meanSecondsToCloseIssues": 546287.5238095238
+  "meanSecondsToClosePulls": 136843.8827586207,
+  "meanSecondsToCloseIssues": 527998.1475409836
 }
