@@ -654,6 +654,7 @@
     "JackCurragh",
     "lrauschning",
     "heringerp",
+    "kbestak",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -1667,7 +1668,6 @@
     "FynnFreyer",
     "msantorsola",
     "migueLib",
-    "kbestak",
     "gordondraskic",
     "VojislavLukic",
     "MargotCh",
@@ -1971,13 +1971,13 @@
     "mtruglio",
     "CrazyHsu"
   ],
-  "numberOfPullRequestNew": 415,
+  "numberOfPullRequestNew": 395,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 51745,
-  "p50SecondsToCloseIssues": 413354,
-  "meanNumberOfNewPullsPerWeek": 57.16013071895425,
+  "p50SecondsToClosePulls": 55895,
+  "p50SecondsToCloseIssues": 410332,
+  "meanNumberOfNewPullsPerWeek": 57.16339869281046,
   "meanNumberOfNewContributorsPerWeek": 5.253246753246753,
-  "meanSecondsToClosePulls": 135467.38795180724,
-  "meanSecondsToCloseIssues": 516329.8070175439
+  "meanSecondsToClosePulls": 138588.61012658227,
+  "meanSecondsToCloseIssues": 507937.7272727273
 }
