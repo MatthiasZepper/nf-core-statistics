@@ -1971,13 +1971,13 @@
     "mtruglio",
     "CrazyHsu"
   ],
-  "numberOfPullRequestNew": 395,
+  "numberOfPullRequestNew": 392,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 55895,
+  "p50SecondsToClosePulls": 55617,
   "p50SecondsToCloseIssues": 410332,
   "meanNumberOfNewPullsPerWeek": 57.16339869281046,
   "meanNumberOfNewContributorsPerWeek": 5.253246753246753,
-  "meanSecondsToClosePulls": 138588.61012658227,
+  "meanSecondsToClosePulls": 138482.51530612246,
   "meanSecondsToCloseIssues": 507937.7272727273
 }
