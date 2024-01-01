@@ -921,6 +921,7 @@
     "alexmascension",
     "georgiesamaha",
     "giangtools",
+    "wangjiaming1503",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -1935,7 +1936,6 @@
     "marinawitherell",
     "jannikseidelQBiC",
     "vladsavelyev",
-    "wangjiaming1503",
     "danclaytondev",
     "hh1985",
     "Joshuasync",
@@ -1950,7 +1950,6 @@
   ],
   "namesOfContributorsNew": [
     "vladsavelyev",
-    "wangjiaming1503",
     "danclaytondev",
     "hh1985",
     "Joshuasync",
@@ -1963,13 +1962,13 @@
     "mtruglio",
     "CrazyHsu"
   ],
-  "numberOfPullRequestNew": 315,
+  "numberOfPullRequestNew": 307,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 56766,
-  "p50SecondsToCloseIssues": 393465,
-  "meanNumberOfNewPullsPerWeek": 57.02931596091205,
+  "p50SecondsToClosePulls": 59716,
+  "p50SecondsToCloseIssues": 403550,
+  "meanNumberOfNewPullsPerWeek": 57.039087947882734,
   "meanNumberOfNewContributorsPerWeek": 5.242718446601942,
-  "meanSecondsToClosePulls": 108237.18095238095,
-  "meanSecondsToCloseIssues": 398846.8947368421
+  "meanSecondsToClosePulls": 109165.4006514658,
+  "meanSecondsToCloseIssues": 398992.35135135136
 }
