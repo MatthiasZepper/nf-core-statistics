@@ -1900,6 +1900,7 @@
     "tjbencomo",
     "harper357",
     "Roman-Si",
+    "liuxiawei",
     "zmahnoor14",
     "akp1d12",
     "sunitj",
@@ -1956,7 +1957,9 @@
     "Shaun-Regenbaum",
     "nicolae06",
     "alkc",
-    "liuxiawei"
+    "bio-info-guy",
+    "GimenaA",
+    "Christina002128"
   ],
   "namesOfContributorsNew": [
     "summersohot",
@@ -1968,15 +1971,17 @@
     "Shaun-Regenbaum",
     "nicolae06",
     "alkc",
-    "liuxiawei"
+    "bio-info-guy",
+    "GimenaA",
+    "Christina002128"
   ],
-  "numberOfPullRequestNew": 301,
+  "numberOfPullRequestNew": 329,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 72721,
-  "p50SecondsToCloseIssues": 413354,
-  "meanNumberOfNewPullsPerWeek": 57.133116883116884,
-  "meanNumberOfNewContributorsPerWeek": 5.258064516129032,
-  "meanSecondsToClosePulls": 215275.99335548174,
-  "meanSecondsToCloseIssues": 523877.6756756757
+  "p50SecondsToClosePulls": 69953,
+  "p50SecondsToCloseIssues": 503642,
+  "meanNumberOfNewPullsPerWeek": 57.05825242718446,
+  "meanNumberOfNewContributorsPerWeek": 5.2508038585209,
+  "meanSecondsToClosePulls": 218827.89361702127,
+  "meanSecondsToCloseIssues": 667761.976744186
 }
