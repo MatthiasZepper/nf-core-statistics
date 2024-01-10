@@ -489,6 +489,7 @@
     "richelbilderbeek",
     "tzvi909",
     "nevinwu",
+    "SNOL2",
     "HardingZhang",
     "benbfly",
     "bounlu",
@@ -892,7 +893,6 @@
     "ilwookkim",
     "T300M256",
     "li1311139481",
-    "SNOL2",
     "wzheng0520",
     "user-mb",
     "JohannesKersting",
@@ -1975,13 +1975,13 @@
     "GimenaA",
     "Christina002128"
   ],
-  "numberOfPullRequestNew": 329,
+  "numberOfPullRequestNew": 350,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 69953,
+  "p50SecondsToClosePulls": 63721,
   "p50SecondsToCloseIssues": 503642,
-  "meanNumberOfNewPullsPerWeek": 57.05825242718446,
+  "meanNumberOfNewPullsPerWeek": 57.16504854368932,
   "meanNumberOfNewContributorsPerWeek": 5.2508038585209,
-  "meanSecondsToClosePulls": 218827.89361702127,
-  "meanSecondsToCloseIssues": 667761.976744186
+  "meanSecondsToClosePulls": 215079.24857142856,
+  "meanSecondsToCloseIssues": 712373.1086956522
 }
