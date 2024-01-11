@@ -46,10 +46,11 @@ jobs:
       # End of yarn setup
 
       - name: Check quota before
-        uses: MatthiasZepper/gh-api-confine@beta
+        uses: MatthiasZepper/gh-api-confine@v1
         id: check_quota
         with:
           actionToTake: "sleep"
+          threshold: 600
 
       - name: Update metrics
         if: ${{ steps.check_quota.conclusion == 'success' }}
@@ -59,7 +60,7 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
 
       - name: Check quota after
-        uses: MatthiasZepper/gh-api-confine@beta
+        uses: MatthiasZepper/gh-api-confine@v1
         id: check_quota_post
         with:
           actionToTake: "peep"
