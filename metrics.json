@@ -1959,7 +1959,8 @@
     "alkc",
     "bio-info-guy",
     "GimenaA",
-    "Christina002128"
+    "Christina002128",
+    "fruce-ki"
   ],
   "namesOfContributorsNew": [
     "summersohot",
@@ -1973,15 +1974,16 @@
     "alkc",
     "bio-info-guy",
     "GimenaA",
-    "Christina002128"
+    "Christina002128",
+    "fruce-ki"
   ],
-  "numberOfPullRequestNew": 350,
+  "numberOfPullRequestNew": 361,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 63721,
-  "p50SecondsToCloseIssues": 503642,
-  "meanNumberOfNewPullsPerWeek": 57.16504854368932,
-  "meanNumberOfNewContributorsPerWeek": 5.2508038585209,
-  "meanSecondsToClosePulls": 215079.24857142856,
-  "meanSecondsToCloseIssues": 712373.1086956522
+  "p50SecondsToClosePulls": 65382,
+  "p50SecondsToCloseIssues": 522591,
+  "meanNumberOfNewPullsPerWeek": 57.25566343042071,
+  "meanNumberOfNewContributorsPerWeek": 5.254019292604502,
+  "meanSecondsToClosePulls": 230410.58448753462,
+  "meanSecondsToCloseIssues": 762750.9574468085
 }
