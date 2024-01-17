@@ -1503,6 +1503,7 @@
     "abhratanju",
     "zhoudreames",
     "cnluzon",
+    "PaolaD",
     "timosachsenberg",
     "aelezi01",
     "Ni-Ar",
@@ -1991,13 +1992,13 @@
     "Christina002128",
     "fruce-ki"
   ],
-  "numberOfPullRequestNew": 385,
+  "numberOfPullRequestNew": 401,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 60749,
-  "p50SecondsToCloseIssues": 263925,
-  "meanNumberOfNewPullsPerWeek": 57.37096774193548,
-  "meanNumberOfNewContributorsPerWeek": 5.282051282051282,
-  "meanSecondsToClosePulls": 237401.3064935065,
-  "meanSecondsToCloseIssues": 588295.875
+  "p50SecondsToClosePulls": 54163,
+  "p50SecondsToCloseIssues": 179329,
+  "meanNumberOfNewPullsPerWeek": 57.435483870967744,
+  "meanNumberOfNewContributorsPerWeek": 5.285256410256411,
+  "meanSecondsToClosePulls": 239373.70324189527,
+  "meanSecondsToCloseIssues": 562494
 }
