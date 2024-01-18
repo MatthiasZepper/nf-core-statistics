@@ -1888,6 +1888,8 @@
     "artur-matysik",
     "QuangOngCM",
     "SCDealy",
+    "BeckmannA",
+    "Kiliankleemann",
     "evasterviga",
     "alkc",
     "henrikstranneheim",
@@ -1992,13 +1994,13 @@
     "Christina002128",
     "fruce-ki"
   ],
-  "numberOfPullRequestNew": 401,
+  "numberOfPullRequestNew": 412,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 54163,
-  "p50SecondsToCloseIssues": 179329,
-  "meanNumberOfNewPullsPerWeek": 57.435483870967744,
-  "meanNumberOfNewContributorsPerWeek": 5.285256410256411,
-  "meanSecondsToClosePulls": 239373.70324189527,
-  "meanSecondsToCloseIssues": 562494
+  "p50SecondsToClosePulls": 50130,
+  "p50SecondsToCloseIssues": 263925,
+  "meanNumberOfNewPullsPerWeek": 57.535483870967745,
+  "meanNumberOfNewContributorsPerWeek": 5.291666666666667,
+  "meanSecondsToClosePulls": 239026.8058252427,
+  "meanSecondsToCloseIssues": 580459.4772727273
 }
