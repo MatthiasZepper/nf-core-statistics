@@ -1979,6 +1979,7 @@
     "mniederhuber",
     "jdanaK",
     "Shaun-Regenbaum",
+    "YoujiaMa",
     "GimenaA"
   ],
   "namesOfContributorsNew": [
@@ -1992,15 +1993,16 @@
     "mniederhuber",
     "jdanaK",
     "Shaun-Regenbaum",
+    "YoujiaMa",
     "GimenaA"
   ],
-  "numberOfPullRequestNew": 304,
+  "numberOfPullRequestNew": 302,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 9472,
-  "p50SecondsToCloseIssues": 263925,
-  "meanNumberOfNewPullsPerWeek": 57.66774193548387,
-  "meanNumberOfNewContributorsPerWeek": 5.298076923076923,
-  "meanSecondsToClosePulls": 120731.72368421052,
-  "meanSecondsToCloseIssues": 386975.4411764706
+  "p50SecondsToClosePulls": 9388,
+  "p50SecondsToCloseIssues": 179329,
+  "meanNumberOfNewPullsPerWeek": 57.67741935483871,
+  "meanNumberOfNewContributorsPerWeek": 5.301282051282051,
+  "meanSecondsToClosePulls": 117630.30463576158,
+  "meanSecondsToCloseIssues": 373837.46875
 }
