@@ -928,6 +928,7 @@
     "colin893",
     "giangtools",
     "wangjiaming1503",
+    "summersohot",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -1969,7 +1970,6 @@
     "allenyen",
     "marinawitherell",
     "jannikseidelQBiC",
-    "summersohot",
     "spirpinias",
     "feixiang1209",
     "ulrichmarkus",
@@ -1983,7 +1983,6 @@
     "GimenaA"
   ],
   "namesOfContributorsNew": [
-    "summersohot",
     "spirpinias",
     "feixiang1209",
     "ulrichmarkus",
@@ -1996,13 +1995,13 @@
     "YoujiaMa",
     "GimenaA"
   ],
-  "numberOfPullRequestNew": 302,
+  "numberOfPullRequestNew": 296,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 9388,
+  "p50SecondsToClosePulls": 8807,
   "p50SecondsToCloseIssues": 179329,
-  "meanNumberOfNewPullsPerWeek": 57.67741935483871,
+  "meanNumberOfNewPullsPerWeek": 57.68387096774194,
   "meanNumberOfNewContributorsPerWeek": 5.301282051282051,
-  "meanSecondsToClosePulls": 117630.30463576158,
-  "meanSecondsToCloseIssues": 373837.46875
+  "meanSecondsToClosePulls": 104279.9527027027,
+  "meanSecondsToCloseIssues": 341609.1724137931
 }
