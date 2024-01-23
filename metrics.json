@@ -912,7 +912,6 @@
     "WangDong-ls",
     "animesh",
     "mantczakaus",
-    "zhouzhendiao",
     "SamMod1",
     "UboCA",
     "mplescher",
@@ -1995,13 +1994,13 @@
     "YoujiaMa",
     "GimenaA"
   ],
-  "numberOfPullRequestNew": 296,
+  "numberOfPullRequestNew": 307,
   "p50NumberOfNewPullsPerWeek": 46,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 8807,
-  "p50SecondsToCloseIssues": 179329,
-  "meanNumberOfNewPullsPerWeek": 57.68387096774194,
-  "meanNumberOfNewContributorsPerWeek": 5.301282051282051,
-  "meanSecondsToClosePulls": 104279.9527027027,
-  "meanSecondsToCloseIssues": 341609.1724137931
+  "p50SecondsToClosePulls": 9388,
+  "p50SecondsToCloseIssues": 167015,
+  "meanNumberOfNewPullsPerWeek": 57.559485530546624,
+  "meanNumberOfNewContributorsPerWeek": 5.281150159744409,
+  "meanSecondsToClosePulls": 99960.02931596091,
+  "meanSecondsToCloseIssues": 327433.1034482759
 }
