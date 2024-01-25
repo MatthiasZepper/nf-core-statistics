@@ -1725,6 +1725,7 @@
     "ahvigil",
     "karthikram-takara",
     "erinyoung",
+    "alkc",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -1893,7 +1894,6 @@
     "BeckmannA",
     "Kiliankleemann",
     "evasterviga",
-    "alkc",
     "Jakob37",
     "henrikstranneheim",
     "barissalman",
@@ -1996,13 +1996,13 @@
     "YoujiaMa",
     "GimenaA"
   ],
-  "numberOfPullRequestNew": 327,
-  "p50NumberOfNewPullsPerWeek": 46,
+  "numberOfPullRequestNew": 363,
+  "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 9476,
-  "p50SecondsToCloseIssues": 167015,
-  "meanNumberOfNewPullsPerWeek": 57.62700964630225,
+  "p50SecondsToCloseIssues": 263925,
+  "meanNumberOfNewPullsPerWeek": 57.755627009646304,
   "meanNumberOfNewContributorsPerWeek": 5.284345047923322,
-  "meanSecondsToClosePulls": 102515.05504587156,
-  "meanSecondsToCloseIssues": 327433.1034482759
+  "meanSecondsToClosePulls": 107295.50964187327,
+  "meanSecondsToCloseIssues": 392227.9705882353
 }
