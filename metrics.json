@@ -928,6 +928,7 @@
     "giangtools",
     "wangjiaming1503",
     "summersohot",
+    "heathfuqua",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -1882,6 +1883,7 @@
     "Fabian-Boehm",
     "SarahMaman",
     "Shaun-Regenbaum",
+    "nschcolnicov",
     "jackkamm",
     "alienzj",
     "jcdaneshmand",
@@ -1960,9 +1962,9 @@
     "gl9797",
     "expansion-bioemformatics",
     "dkoppstein",
-    "heathfuqua",
     "Kevin2197",
     "bio-info-guy",
+    "GimenaA",
     "brentp",
     "MikeHala",
     "johandahlberg",
@@ -1989,9 +1991,7 @@
     "mbeavitt",
     "jdanaK",
     "MariekeVromman",
-    "nschcolnicov",
-    "wresch",
-    "GimenaA"
+    "wresch"
   ],
   "namesOfContributorsNew": [
     "spirpinias",
@@ -2004,17 +2004,15 @@
     "mbeavitt",
     "jdanaK",
     "MariekeVromman",
-    "nschcolnicov",
-    "wresch",
-    "GimenaA"
+    "wresch"
   ],
   "numberOfPullRequestNew": 401,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
   "p50SecondsToClosePulls": 9472,
-  "p50SecondsToCloseIssues": 179329,
-  "meanNumberOfNewPullsPerWeek": 57.91961414790997,
+  "p50SecondsToCloseIssues": 142217,
+  "meanNumberOfNewPullsPerWeek": 57.92282958199357,
   "meanNumberOfNewContributorsPerWeek": 5.319488817891374,
-  "meanSecondsToClosePulls": 116322.14962593516,
-  "meanSecondsToCloseIssues": 346704
+  "meanSecondsToClosePulls": 110605.75810473815,
+  "meanSecondsToCloseIssues": 312567.3333333333
 }
