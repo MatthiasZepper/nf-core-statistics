@@ -2009,10 +2009,10 @@
   "numberOfPullRequestNew": 401,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 9472,
-  "p50SecondsToCloseIssues": 142217,
-  "meanNumberOfNewPullsPerWeek": 57.92282958199357,
+  "p50SecondsToClosePulls": 9476,
+  "p50SecondsToCloseIssues": 167015,
+  "meanNumberOfNewPullsPerWeek": 57.92926045016077,
   "meanNumberOfNewContributorsPerWeek": 5.319488817891374,
-  "meanSecondsToClosePulls": 110605.75810473815,
-  "meanSecondsToCloseIssues": 312567.3333333333
+  "meanSecondsToClosePulls": 112232.7855361596,
+  "meanSecondsToCloseIssues": 309017
 }
