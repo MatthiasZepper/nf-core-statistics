@@ -2007,13 +2007,13 @@
     "MariekeVromman",
     "wresch"
   ],
-  "numberOfPullRequestNew": 441,
-  "p50NumberOfNewPullsPerWeek": 46,
+  "numberOfPullRequestNew": 465,
+  "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 10458,
-  "p50SecondsToCloseIssues": 167015,
-  "meanNumberOfNewPullsPerWeek": 58.05128205128205,
+  "p50SecondsToClosePulls": 10574,
+  "p50SecondsToCloseIssues": 179329,
+  "meanNumberOfNewPullsPerWeek": 58.13461538461539,
   "meanNumberOfNewContributorsPerWeek": 5.305732484076433,
-  "meanSecondsToClosePulls": 114310.37188208617,
-  "meanSecondsToCloseIssues": 309017
+  "meanSecondsToClosePulls": 110108.58924731183,
+  "meanSecondsToCloseIssues": 349450.725
 }
