@@ -1124,6 +1124,7 @@
     "CEJ-R",
     "Perugolate",
     "s-junguy",
+    "PPpissar",
     "patriciatran",
     "lennijusten",
     "lborcard",
@@ -2007,13 +2008,13 @@
     "MariekeVromman",
     "wresch"
   ],
-  "numberOfPullRequestNew": 465,
+  "numberOfPullRequestNew": 504,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 10574,
-  "p50SecondsToCloseIssues": 179329,
-  "meanNumberOfNewPullsPerWeek": 58.13461538461539,
-  "meanNumberOfNewContributorsPerWeek": 5.305732484076433,
-  "meanSecondsToClosePulls": 110108.58924731183,
-  "meanSecondsToCloseIssues": 349450.725
+  "p50SecondsToClosePulls": 11124,
+  "p50SecondsToCloseIssues": 181205,
+  "meanNumberOfNewPullsPerWeek": 58.294871794871796,
+  "meanNumberOfNewContributorsPerWeek": 5.308917197452229,
+  "meanSecondsToClosePulls": 109568.18849206349,
+  "meanSecondsToCloseIssues": 358715.8717948718
 }
