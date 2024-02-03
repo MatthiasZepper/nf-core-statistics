@@ -1114,6 +1114,7 @@
     "mlbonatelli",
     "rbguevarra5",
     "aquaiser",
+    "FranciscoDA",
     "msubirana",
     "mtva0001",
     "bioforkgithub",
@@ -1874,6 +1875,7 @@
     "jgriss",
     "bj-w",
     "MrNiro",
+    "WalshKieran",
     "nictru",
     "bkbx",
     "BirongZhang",
@@ -1984,6 +1986,8 @@
     "marinawitherell",
     "jannikseidelQBiC",
     "spirpinias",
+    "Avinash-git-py",
+    "makrez",
     "mniederhuber",
     "feixiang1209",
     "ulrichmarkus",
@@ -1993,10 +1997,13 @@
     "mbeavitt",
     "jdanaK",
     "MariekeVromman",
-    "wresch"
+    "wresch",
+    "mptrsen"
   ],
   "namesOfContributorsNew": [
     "spirpinias",
+    "Avinash-git-py",
+    "makrez",
     "mniederhuber",
     "feixiang1209",
     "ulrichmarkus",
@@ -2006,15 +2013,16 @@
     "mbeavitt",
     "jdanaK",
     "MariekeVromman",
-    "wresch"
+    "wresch",
+    "mptrsen"
   ],
-  "numberOfPullRequestNew": 504,
+  "numberOfPullRequestNew": 531,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 11124,
+  "p50SecondsToClosePulls": 11324,
   "p50SecondsToCloseIssues": 181205,
-  "meanNumberOfNewPullsPerWeek": 58.294871794871796,
-  "meanNumberOfNewContributorsPerWeek": 5.308917197452229,
-  "meanSecondsToClosePulls": 109568.18849206349,
-  "meanSecondsToCloseIssues": 358715.8717948718
+  "meanNumberOfNewPullsPerWeek": 58.43910256410256,
+  "meanNumberOfNewContributorsPerWeek": 5.32484076433121,
+  "meanSecondsToClosePulls": 108420.04143126176,
+  "meanSecondsToCloseIssues": 320927.6808510638
 }
