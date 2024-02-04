@@ -929,6 +929,7 @@
     "wangjiaming1503",
     "summersohot",
     "heathfuqua",
+    "spirpinias",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -1877,7 +1878,6 @@
     "MrNiro",
     "WalshKieran",
     "nictru",
-    "bkbx",
     "BirongZhang",
     "guillaumecharbonnier",
     "Lupezes",
@@ -1985,7 +1985,6 @@
     "allenyen",
     "marinawitherell",
     "jannikseidelQBiC",
-    "spirpinias",
     "Avinash-git-py",
     "makrez",
     "mniederhuber",
@@ -1993,6 +1992,7 @@
     "ulrichmarkus",
     "kjurdzinski",
     "Mitchob",
+    "ahepperla",
     "MartinPippel",
     "mbeavitt",
     "jdanaK",
@@ -2001,7 +2001,6 @@
     "mptrsen"
   ],
   "namesOfContributorsNew": [
-    "spirpinias",
     "Avinash-git-py",
     "makrez",
     "mniederhuber",
@@ -2009,6 +2008,7 @@
     "ulrichmarkus",
     "kjurdzinski",
     "Mitchob",
+    "ahepperla",
     "MartinPippel",
     "mbeavitt",
     "jdanaK",
@@ -2019,10 +2019,10 @@
   "numberOfPullRequestNew": 531,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 11324,
-  "p50SecondsToCloseIssues": 181205,
-  "meanNumberOfNewPullsPerWeek": 58.43910256410256,
+  "p50SecondsToClosePulls": 12576,
+  "p50SecondsToCloseIssues": 183003,
+  "meanNumberOfNewPullsPerWeek": 58.48076923076923,
   "meanNumberOfNewContributorsPerWeek": 5.32484076433121,
-  "meanSecondsToClosePulls": 108420.04143126176,
-  "meanSecondsToCloseIssues": 320927.6808510638
+  "meanSecondsToClosePulls": 113243.0527306968,
+  "meanSecondsToCloseIssues": 363318.2978723404
 }
