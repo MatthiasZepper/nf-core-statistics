@@ -2016,13 +2016,13 @@
     "wresch",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 531,
+  "numberOfPullRequestNew": 519,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 12576,
+  "p50SecondsToClosePulls": 11742,
   "p50SecondsToCloseIssues": 183003,
-  "meanNumberOfNewPullsPerWeek": 58.48076923076923,
+  "meanNumberOfNewPullsPerWeek": 58.48397435897436,
   "meanNumberOfNewContributorsPerWeek": 5.32484076433121,
-  "meanSecondsToClosePulls": 113243.0527306968,
-  "meanSecondsToCloseIssues": 363318.2978723404
+  "meanSecondsToClosePulls": 113278.76300578035,
+  "meanSecondsToCloseIssues": 371134.73913043475
 }
