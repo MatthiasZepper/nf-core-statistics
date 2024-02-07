@@ -1175,6 +1175,7 @@
     "Angelika-2Z-Borowiecka",
     "MinLuke",
     "crisamor",
+    "0victormh0",
     "nvk747",
     "nanjalaruth",
     "PeterBailey",
@@ -1993,6 +1994,7 @@
     "feixiang1209",
     "ulrichmarkus",
     "kjurdzinski",
+    "asgarhussain",
     "Mitchob",
     "ahepperla",
     "MartinPippel",
@@ -2000,6 +2002,7 @@
     "jdanaK",
     "MariekeVromman",
     "wresch",
+    "wsjung",
     "mptrsen"
   ],
   "namesOfContributorsNew": [
@@ -2009,6 +2012,7 @@
     "feixiang1209",
     "ulrichmarkus",
     "kjurdzinski",
+    "asgarhussain",
     "Mitchob",
     "ahepperla",
     "MartinPippel",
@@ -2016,15 +2020,16 @@
     "jdanaK",
     "MariekeVromman",
     "wresch",
+    "wsjung",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 547,
+  "numberOfPullRequestNew": 580,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 12087,
-  "p50SecondsToCloseIssues": 259453,
-  "meanNumberOfNewPullsPerWeek": 58.40255591054313,
-  "meanNumberOfNewContributorsPerWeek": 5.314285714285714,
-  "meanSecondsToClosePulls": 117384.89031078611,
-  "meanSecondsToCloseIssues": 371013.4081632653
+  "p50SecondsToClosePulls": 13131,
+  "p50SecondsToCloseIssues": 263925,
+  "meanNumberOfNewPullsPerWeek": 58.51437699680511,
+  "meanNumberOfNewContributorsPerWeek": 5.3238095238095235,
+  "meanSecondsToClosePulls": 120861.9724137931,
+  "meanSecondsToCloseIssues": 422693.28846153844
 }
