@@ -2002,6 +2002,7 @@
     "jdanaK",
     "MariekeVromman",
     "wresch",
+    "KaBrrrp",
     "wsjung",
     "mptrsen"
   ],
@@ -2020,16 +2021,17 @@
     "jdanaK",
     "MariekeVromman",
     "wresch",
+    "KaBrrrp",
     "wsjung",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 580,
+  "numberOfPullRequestNew": 570,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 13131,
-  "p50SecondsToCloseIssues": 263925,
-  "meanNumberOfNewPullsPerWeek": 58.51437699680511,
-  "meanNumberOfNewContributorsPerWeek": 5.3238095238095235,
-  "meanSecondsToClosePulls": 120861.9724137931,
-  "meanSecondsToCloseIssues": 422693.28846153844
+  "p50SecondsToClosePulls": 14339,
+  "p50SecondsToCloseIssues": 259453,
+  "meanNumberOfNewPullsPerWeek": 58.5814696485623,
+  "meanNumberOfNewContributorsPerWeek": 5.326984126984127,
+  "meanSecondsToClosePulls": 126318.44385964912,
+  "meanSecondsToCloseIssues": 410226.306122449
 }
