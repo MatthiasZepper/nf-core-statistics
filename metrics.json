@@ -1132,6 +1132,7 @@
     "lborcard",
     "muniheart",
     "medmaca",
+    "feixiang1209",
     "lindenb",
     "ZandraFagernas",
     "scarlhoff",
@@ -1991,7 +1992,6 @@
     "Avinash-git-py",
     "makrez",
     "mniederhuber",
-    "feixiang1209",
     "ulrichmarkus",
     "kjurdzinski",
     "asgarhussain",
@@ -2010,7 +2010,6 @@
     "Avinash-git-py",
     "makrez",
     "mniederhuber",
-    "feixiang1209",
     "ulrichmarkus",
     "kjurdzinski",
     "asgarhussain",
@@ -2025,13 +2024,13 @@
     "wsjung",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 570,
+  "numberOfPullRequestNew": 576,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 14339,
-  "p50SecondsToCloseIssues": 259453,
-  "meanNumberOfNewPullsPerWeek": 58.5814696485623,
+  "p50SecondsToClosePulls": 16515,
+  "p50SecondsToCloseIssues": 234187,
+  "meanNumberOfNewPullsPerWeek": 58.680511182108624,
   "meanNumberOfNewContributorsPerWeek": 5.326984126984127,
-  "meanSecondsToClosePulls": 126318.44385964912,
-  "meanSecondsToCloseIssues": 410226.306122449
+  "meanSecondsToClosePulls": 126923.02083333333,
+  "meanSecondsToCloseIssues": 362574.4693877551
 }
