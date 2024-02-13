@@ -2026,13 +2026,13 @@
     "wsjung",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 513,
+  "numberOfPullRequestNew": 541,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 21606,
-  "p50SecondsToCloseIssues": 259453,
-  "meanNumberOfNewPullsPerWeek": 58.7444089456869,
-  "meanNumberOfNewContributorsPerWeek": 5.336507936507936,
-  "meanSecondsToClosePulls": 132173.08382066278,
-  "meanSecondsToCloseIssues": 427508.8775510204
+  "p50SecondsToClosePulls": 24149,
+  "p50SecondsToCloseIssues": 255535,
+  "meanNumberOfNewPullsPerWeek": 58.652866242038215,
+  "meanNumberOfNewContributorsPerWeek": 5.319620253164557,
+  "meanSecondsToClosePulls": 143592.9796672828,
+  "meanSecondsToCloseIssues": 412646.17647058825
 }
