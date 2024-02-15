@@ -1744,6 +1744,7 @@
     "karthikram-takara",
     "erinyoung",
     "alkc",
+    "MartinPippel",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2001,7 +2002,6 @@
     "asgarhussain",
     "eperezv",
     "ahepperla",
-    "MartinPippel",
     "mbeavitt",
     "MariekeVromman",
     "wresch",
@@ -2017,7 +2017,6 @@
     "asgarhussain",
     "eperezv",
     "ahepperla",
-    "MartinPippel",
     "mbeavitt",
     "MariekeVromman",
     "wresch",
@@ -2026,13 +2025,13 @@
     "wsjung",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 560,
+  "numberOfPullRequestNew": 570,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 24309,
-  "p50SecondsToCloseIssues": 234187,
-  "meanNumberOfNewPullsPerWeek": 58.74203821656051,
+  "p50SecondsToClosePulls": 27756,
+  "p50SecondsToCloseIssues": 255535,
+  "meanNumberOfNewPullsPerWeek": 58.82484076433121,
   "meanNumberOfNewContributorsPerWeek": 5.322784810126582,
-  "meanSecondsToClosePulls": 151386.04107142857,
-  "meanSecondsToCloseIssues": 405034.29411764705
+  "meanSecondsToClosePulls": 161089.71403508773,
+  "meanSecondsToCloseIssues": 425098.96
 }
