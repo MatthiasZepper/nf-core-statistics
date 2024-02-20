@@ -2010,6 +2010,7 @@
     "arnaudbore",
     "asgarhussain",
     "eperezv",
+    "enriiquee",
     "ahepperla",
     "berombau",
     "itrujnara",
@@ -2027,6 +2028,7 @@
     "arnaudbore",
     "asgarhussain",
     "eperezv",
+    "enriiquee",
     "ahepperla",
     "berombau",
     "itrujnara",
@@ -2036,13 +2038,13 @@
     "wsjung",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 552,
+  "numberOfPullRequestNew": 588,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 32511,
-  "p50SecondsToCloseIssues": 183003,
-  "meanNumberOfNewPullsPerWeek": 59.13057324840764,
-  "meanNumberOfNewContributorsPerWeek": 5.35126582278481,
-  "meanSecondsToClosePulls": 159376.29528985507,
-  "meanSecondsToCloseIssues": 330169
+  "p50SecondsToClosePulls": 32595,
+  "p50SecondsToCloseIssues": 200597,
+  "meanNumberOfNewPullsPerWeek": 59.06984126984127,
+  "meanNumberOfNewContributorsPerWeek": 5.337539432176656,
+  "meanSecondsToClosePulls": 174608.95918367346,
+  "meanSecondsToCloseIssues": 380459.3
 }
