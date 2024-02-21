@@ -2003,6 +2003,7 @@
     "cahuparo",
     "marinawitherell",
     "jannikseidelQBiC",
+    "IreneRobles",
     "Salome-Brunon",
     "kai-lawsonmcdowall",
     "Avinash-git-py",
@@ -2013,6 +2014,7 @@
     "enriiquee",
     "ahepperla",
     "berombau",
+    "AndyBlake",
     "itrujnara",
     "MariekeVromman",
     "wresch",
@@ -2021,6 +2023,7 @@
     "mptrsen"
   ],
   "namesOfContributorsNew": [
+    "IreneRobles",
     "Salome-Brunon",
     "kai-lawsonmcdowall",
     "Avinash-git-py",
@@ -2031,6 +2034,7 @@
     "enriiquee",
     "ahepperla",
     "berombau",
+    "AndyBlake",
     "itrujnara",
     "MariekeVromman",
     "wresch",
@@ -2038,13 +2042,13 @@
     "wsjung",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 588,
+  "numberOfPullRequestNew": 649,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 32595,
+  "p50SecondsToClosePulls": 50467,
   "p50SecondsToCloseIssues": 200597,
-  "meanNumberOfNewPullsPerWeek": 59.06984126984127,
-  "meanNumberOfNewContributorsPerWeek": 5.337539432176656,
-  "meanSecondsToClosePulls": 174608.95918367346,
-  "meanSecondsToCloseIssues": 380459.3
+  "meanNumberOfNewPullsPerWeek": 59.282539682539685,
+  "meanNumberOfNewContributorsPerWeek": 5.34384858044164,
+  "meanSecondsToClosePulls": 286762.0277349769,
+  "meanSecondsToCloseIssues": 370229.34920634923
 }
