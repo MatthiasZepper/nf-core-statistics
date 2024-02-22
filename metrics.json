@@ -2009,6 +2009,8 @@
     "Avinash-git-py",
     "makrez",
     "arnaudbore",
+    "EreboPSilva",
+    "JC-Delmas",
     "asgarhussain",
     "eperezv",
     "enriiquee",
@@ -2029,6 +2031,8 @@
     "Avinash-git-py",
     "makrez",
     "arnaudbore",
+    "EreboPSilva",
+    "JC-Delmas",
     "asgarhussain",
     "eperezv",
     "enriiquee",
@@ -2042,13 +2046,13 @@
     "wsjung",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 649,
+  "numberOfPullRequestNew": 672,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 50467,
-  "p50SecondsToCloseIssues": 200597,
-  "meanNumberOfNewPullsPerWeek": 59.282539682539685,
-  "meanNumberOfNewContributorsPerWeek": 5.34384858044164,
-  "meanSecondsToClosePulls": 286762.0277349769,
-  "meanSecondsToCloseIssues": 370229.34920634923
+  "p50SecondsToClosePulls": 54523,
+  "p50SecondsToCloseIssues": 234187,
+  "meanNumberOfNewPullsPerWeek": 59.422222222222224,
+  "meanNumberOfNewContributorsPerWeek": 5.350157728706624,
+  "meanSecondsToClosePulls": 282856.8333333333,
+  "meanSecondsToCloseIssues": 397224.67647058825
 }
