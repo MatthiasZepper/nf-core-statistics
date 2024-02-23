@@ -1456,6 +1456,7 @@
     "jzinno",
     "Mitchob",
     "VeroniqueLegrand",
+    "pvanheus",
     "amirshams84",
     "parlundin",
     "claus-h-g",
@@ -1821,7 +1822,6 @@
     "anca-riza",
     "Krysasp",
     "fmaguire",
-    "pvanheus",
     "poojasgupta",
     "rarthur-eicc",
     "tetedange13",
@@ -2002,6 +2002,7 @@
     "allenyen",
     "cahuparo",
     "marinawitherell",
+    "wsjung",
     "jannikseidelQBiC",
     "IreneRobles",
     "Salome-Brunon",
@@ -2021,7 +2022,6 @@
     "MariekeVromman",
     "wresch",
     "KaBrrrp",
-    "wsjung",
     "mptrsen"
   ],
   "namesOfContributorsNew": [
@@ -2043,16 +2043,15 @@
     "MariekeVromman",
     "wresch",
     "KaBrrrp",
-    "wsjung",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 672,
+  "numberOfPullRequestNew": 678,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 54523,
+  "p50SecondsToClosePulls": 55118,
   "p50SecondsToCloseIssues": 234187,
-  "meanNumberOfNewPullsPerWeek": 59.422222222222224,
+  "meanNumberOfNewPullsPerWeek": 59.507936507936506,
   "meanNumberOfNewContributorsPerWeek": 5.350157728706624,
-  "meanSecondsToClosePulls": 282856.8333333333,
-  "meanSecondsToCloseIssues": 397224.67647058825
+  "meanSecondsToClosePulls": 280352.64749262534,
+  "meanSecondsToCloseIssues": 397274.9315068493
 }
