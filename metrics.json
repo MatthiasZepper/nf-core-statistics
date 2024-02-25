@@ -1772,7 +1772,7 @@
     "CaroAMN",
     "JPejovicApis",
     "0820LL",
-    "ludirm93",
+    "Mridul-Chaudhary",
     "Mahnaz-Shemirani",
     "MajoroMask",
     "caspargross",
@@ -1941,6 +1941,7 @@
     "realzhang",
     "tfalkarkea",
     "BenPonBiobrain",
+    "wresch",
     "jluebeck",
     "daianna21",
     "madagiurgiu25",
@@ -2021,7 +2022,6 @@
     "berombau",
     "AndyBlake",
     "itrujnara",
-    "wresch",
     "KaBrrrp",
     "mptrsen"
   ],
@@ -2040,17 +2040,16 @@
     "berombau",
     "AndyBlake",
     "itrujnara",
-    "wresch",
     "KaBrrrp",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 670,
+  "numberOfPullRequestNew": 651,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 57307,
-  "p50SecondsToCloseIssues": 183003,
-  "meanNumberOfNewPullsPerWeek": 59.58730158730159,
+  "p50SecondsToClosePulls": 55118,
+  "p50SecondsToCloseIssues": 200597,
+  "meanNumberOfNewPullsPerWeek": 59.593650793650795,
   "meanNumberOfNewContributorsPerWeek": 5.353312302839116,
-  "meanSecondsToClosePulls": 276660.94925373135,
-  "meanSecondsToCloseIssues": 373566.2077922078
+  "meanSecondsToClosePulls": 272740.7649769585,
+  "meanSecondsToCloseIssues": 360494.8493150685
 }
