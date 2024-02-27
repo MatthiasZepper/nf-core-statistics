@@ -2042,13 +2042,13 @@
     "KaBrrrp",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 630,
+  "numberOfPullRequestNew": 658,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 59788,
-  "p50SecondsToCloseIssues": 183003,
-  "meanNumberOfNewPullsPerWeek": 59.6031746031746,
-  "meanNumberOfNewContributorsPerWeek": 5.353312302839116,
-  "meanSecondsToClosePulls": 278413.52857142856,
-  "meanSecondsToCloseIssues": 353259.84285714285
+  "p50SecondsToClosePulls": 58079,
+  "p50SecondsToCloseIssues": 200597,
+  "meanNumberOfNewPullsPerWeek": 59.50632911392405,
+  "meanNumberOfNewContributorsPerWeek": 5.336477987421383,
+  "meanSecondsToClosePulls": 284577.7006079027,
+  "meanSecondsToCloseIssues": 353235.9718309859
 }
