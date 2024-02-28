@@ -238,7 +238,7 @@
     [
       "QBiC",
       "Quantitative Biology Center",
-      "Auf der Morgenstelle 10, 72076 Tübingen, Germany"
+      "Otfried-Müller Str. 37, 72076 Tübingen, Germany"
     ],
     [
       "RBGV",
@@ -1999,10 +1999,12 @@
     "dansteiert",
     "slbai01",
     "oliverdrechsel",
+    "erdikucuk",
     "mtruglio",
     "CrazyHsu",
     "Christina002128",
     "fruce-ki",
+    "kdivilov",
     "lucidif",
     "allenyen",
     "cahuparo",
@@ -2042,13 +2044,13 @@
     "KaBrrrp",
     "mptrsen"
   ],
-  "numberOfPullRequestNew": 658,
+  "numberOfPullRequestNew": 683,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 58079,
-  "p50SecondsToCloseIssues": 200597,
-  "meanNumberOfNewPullsPerWeek": 59.50632911392405,
-  "meanNumberOfNewContributorsPerWeek": 5.336477987421383,
-  "meanSecondsToClosePulls": 284577.7006079027,
-  "meanSecondsToCloseIssues": 353235.9718309859
+  "p50SecondsToClosePulls": 57307,
+  "p50SecondsToCloseIssues": 234187,
+  "meanNumberOfNewPullsPerWeek": 59.585443037974684,
+  "meanNumberOfNewContributorsPerWeek": 5.3427672955974845,
+  "meanSecondsToClosePulls": 284636.39092240116,
+  "meanSecondsToCloseIssues": 355715.05333333334
 }
