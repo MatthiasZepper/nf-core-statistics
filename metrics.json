@@ -281,6 +281,11 @@
       "Carrer D'Avila, 19, Local 2, 08005 Barcelona, Spain"
     ],
     [
+      "TUFTS",
+      "Tufts University",
+      "419 Boston Ave, Medford, MA 02155"
+    ],
+    [
       "UC Berkeley",
       "University of California Berkeley",
       "465 Soda Hall, MC-1776, Berkeley, CA 94720-1776"
@@ -931,6 +936,7 @@
     "summersohot",
     "heathfuqua",
     "spirpinias",
+    "Avinash-git-py",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -2011,9 +2017,9 @@
     "marinawitherell",
     "wsjung",
     "jannikseidelQBiC",
+    "mptrsen",
     "IreneRobles",
     "kai-lawsonmcdowall",
-    "Avinash-git-py",
     "makrez",
     "arnaudbore",
     "EreboPSilva",
@@ -2025,13 +2031,11 @@
     "wblashka",
     "AndyBlake",
     "itrujnara",
-    "KaBrrrp",
-    "mptrsen"
+    "KaBrrrp"
   ],
   "namesOfContributorsNew": [
     "IreneRobles",
     "kai-lawsonmcdowall",
-    "Avinash-git-py",
     "makrez",
     "arnaudbore",
     "EreboPSilva",
@@ -2043,16 +2047,15 @@
     "wblashka",
     "AndyBlake",
     "itrujnara",
-    "KaBrrrp",
-    "mptrsen"
+    "KaBrrrp"
   ],
-  "numberOfPullRequestNew": 595,
+  "numberOfPullRequestNew": 646,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 27216,
-  "p50SecondsToCloseIssues": 128774,
-  "meanNumberOfNewPullsPerWeek": 59.63291139240506,
+  "p50SecondsToClosePulls": 24313,
+  "p50SecondsToCloseIssues": 162975,
+  "meanNumberOfNewPullsPerWeek": 59.889240506329116,
   "meanNumberOfNewContributorsPerWeek": 5.345911949685535,
-  "meanSecondsToClosePulls": 152570.01680672268,
-  "meanSecondsToCloseIssues": 304440.0416666667
+  "meanSecondsToClosePulls": 166312.13931888546,
+  "meanSecondsToCloseIssues": 344103.38356164383
 }
