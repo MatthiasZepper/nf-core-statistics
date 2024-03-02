@@ -2049,13 +2049,13 @@
     "itrujnara",
     "KaBrrrp"
   ],
-  "numberOfPullRequestNew": 646,
+  "numberOfPullRequestNew": 716,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 24313,
-  "p50SecondsToCloseIssues": 162975,
-  "meanNumberOfNewPullsPerWeek": 59.889240506329116,
+  "p50SecondsToClosePulls": 32511,
+  "p50SecondsToCloseIssues": 128774,
+  "meanNumberOfNewPullsPerWeek": 60.199367088607595,
   "meanNumberOfNewContributorsPerWeek": 5.345911949685535,
-  "meanSecondsToClosePulls": 166312.13931888546,
-  "meanSecondsToCloseIssues": 344103.38356164383
+  "meanSecondsToClosePulls": 210525.15782122905,
+  "meanSecondsToCloseIssues": 337433.45070422534
 }
