@@ -2027,10 +2027,12 @@
     "JC-Delmas",
     "eperezv",
     "enriiquee",
+    "rndw",
     "berombau",
     "wblashka",
     "AndyBlake",
     "itrujnara",
+    "gennadyFauna",
     "KaBrrrp"
   ],
   "namesOfContributorsNew": [
@@ -2041,19 +2043,21 @@
     "JC-Delmas",
     "eperezv",
     "enriiquee",
+    "rndw",
     "berombau",
     "wblashka",
     "AndyBlake",
     "itrujnara",
+    "gennadyFauna",
     "KaBrrrp"
   ],
-  "numberOfPullRequestNew": 641,
+  "numberOfPullRequestNew": 666,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 46823,
+  "p50SecondsToClosePulls": 40375,
   "p50SecondsToCloseIssues": 128774,
-  "meanNumberOfNewPullsPerWeek": 60.21518987341772,
-  "meanNumberOfNewContributorsPerWeek": 5.345911949685535,
-  "meanSecondsToClosePulls": 206397.38377535102,
-  "meanSecondsToCloseIssues": 327546.6612903226
+  "meanNumberOfNewPullsPerWeek": 60.138801261829656,
+  "meanNumberOfNewContributorsPerWeek": 5.335423197492163,
+  "meanSecondsToClosePulls": 208119.512012012,
+  "meanSecondsToCloseIssues": 332214.8125
 }
