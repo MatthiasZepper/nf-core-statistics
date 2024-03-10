@@ -2059,13 +2059,13 @@
     "itrujnara",
     "jaesvi"
   ],
-  "numberOfPullRequestNew": 651,
+  "numberOfPullRequestNew": 625,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 34558,
+  "p50SecondsToClosePulls": 40375,
   "p50SecondsToCloseIssues": 128774,
   "meanNumberOfNewPullsPerWeek": 60.44479495268139,
   "meanNumberOfNewContributorsPerWeek": 5.35423197492163,
-  "meanSecondsToClosePulls": 208768.85867895544,
-  "meanSecondsToCloseIssues": 339826.984375
+  "meanSecondsToClosePulls": 203977.8576,
+  "meanSecondsToCloseIssues": 266949.6666666667
 }
