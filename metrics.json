@@ -2057,13 +2057,13 @@
     "AndyBlake",
     "jaesvi"
   ],
-  "numberOfPullRequestNew": 609,
+  "numberOfPullRequestNew": 634,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 40329,
-  "p50SecondsToCloseIssues": 94085,
-  "meanNumberOfNewPullsPerWeek": 60.44479495268139,
-  "meanNumberOfNewContributorsPerWeek": 5.35423197492163,
-  "meanSecondsToClosePulls": 201115.77175697865,
-  "meanSecondsToCloseIssues": 248551.56363636363
+  "p50SecondsToClosePulls": 33054,
+  "p50SecondsToCloseIssues": 128774,
+  "meanNumberOfNewPullsPerWeek": 60.34591194968554,
+  "meanNumberOfNewContributorsPerWeek": 5.3375,
+  "meanSecondsToClosePulls": 205359.7570977918,
+  "meanSecondsToCloseIssues": 289044.68852459016
 }
