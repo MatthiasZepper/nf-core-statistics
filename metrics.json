@@ -1032,6 +1032,7 @@
     "mmcentre",
     "nat-coutoune",
     "rajswimd",
+    "robnewman",
     "kkamieniecka",
     "jkobject",
     "gppbioinfo",
@@ -2061,13 +2062,13 @@
     "AndyBlake",
     "jaesvi"
   ],
-  "numberOfPullRequestNew": 668,
+  "numberOfPullRequestNew": 662,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 40383,
-  "p50SecondsToCloseIssues": 144493,
-  "meanNumberOfNewPullsPerWeek": 60.5251572327044,
-  "meanNumberOfNewContributorsPerWeek": 5.346875,
-  "meanSecondsToClosePulls": 209714.20359281436,
-  "meanSecondsToCloseIssues": 320009.0967741936
+  "p50SecondsToClosePulls": 40329,
+  "p50SecondsToCloseIssues": 162975,
+  "meanNumberOfNewPullsPerWeek": 60.575471698113205,
+  "meanNumberOfNewContributorsPerWeek": 5.35,
+  "meanSecondsToClosePulls": 211031.59516616314,
+  "meanSecondsToCloseIssues": 350228.51612903224
 }
