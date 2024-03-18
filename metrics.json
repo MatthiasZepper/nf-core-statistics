@@ -672,6 +672,7 @@
     "Salome-Brunon",
     "jannikseidelQBiC",
     "GallVp",
+    "kai-lawsonmcdowall",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -1532,7 +1533,7 @@
     "lfperales",
     "lewis9914",
     "jhgraber",
-    "Karantea",
+    "josefineselke",
     "rhodesch",
     "Juassis",
     "denisthieffry",
@@ -2036,7 +2037,6 @@
     "marinawitherell",
     "wsjung",
     "mptrsen",
-    "kai-lawsonmcdowall",
     "EreboPSilva",
     "JC-Delmas",
     "smsobera",
@@ -2052,7 +2052,6 @@
     "jaesvi"
   ],
   "namesOfContributorsNew": [
-    "kai-lawsonmcdowall",
     "EreboPSilva",
     "JC-Delmas",
     "smsobera",
@@ -2067,13 +2066,13 @@
     "AndyBlake",
     "jaesvi"
   ],
-  "numberOfPullRequestNew": 626,
+  "numberOfPullRequestNew": 590,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 48053,
-  "p50SecondsToCloseIssues": 260958,
-  "meanNumberOfNewPullsPerWeek": 60.63522012578616,
+  "p50SecondsToClosePulls": 40591,
+  "p50SecondsToCloseIssues": 261248,
+  "meanNumberOfNewPullsPerWeek": 60.64779874213836,
   "meanNumberOfNewContributorsPerWeek": 5.36875,
-  "meanSecondsToClosePulls": 219769.5287539936,
-  "meanSecondsToCloseIssues": 484162.09375
+  "meanSecondsToClosePulls": 220407.74576271186,
+  "meanSecondsToCloseIssues": 508561.68333333335
 }
