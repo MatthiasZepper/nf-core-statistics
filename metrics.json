@@ -2168,13 +2168,13 @@
     "eugeniafontecha",
     "nitzcovich"
   ],
-  "numberOfPullRequestNew": 688,
+  "numberOfPullRequestNew": 626,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 18523,
-  "p50SecondsToCloseIssues": 101986,
-  "meanNumberOfNewPullsPerWeek": 61.640625,
+  "p50SecondsToClosePulls": 30753,
+  "p50SecondsToCloseIssues": 101475,
+  "meanNumberOfNewPullsPerWeek": 61.653125,
   "meanNumberOfNewContributorsPerWeek": 5.521739130434782,
-  "meanSecondsToClosePulls": 173207.625,
-  "meanSecondsToCloseIssues": 277495.84251968504
+  "meanSecondsToClosePulls": 177179.4089456869,
+  "meanSecondsToCloseIssues": 271480.9761904762
 }
