@@ -61,6 +61,11 @@
       "26 rue d'Ulm, 75248 Paris Cedex 05, France"
     ],
     [
+      "DNGC",
+      "Danish National Genome Center",
+      "Ørestads Boulevard 5, building 208, 2300 København S, Denmark"
+    ],
+    [
       "DZNE",
       "German Center for Neurodegenerative Diseases",
       "Sigmund-Freud-Straße 27, 53127 Bonn"
@@ -2073,6 +2078,7 @@
     "joaquimgamero",
     "alvaromartmart",
     "camlloyd",
+    "malenasj",
     "sav0016",
     "genesandbones",
     "yamihn",
@@ -2097,11 +2103,13 @@
     "LukasHats",
     "LaurenGonsalves",
     "alexnater",
+    "diegomscoelho",
     "chiarasch",
     "FrancescaB19",
     "epfarias",
     "mohamedbahru",
     "ajandria",
+    "bnjvrjnke",
     "ayushkamat",
     "ajfriedman18",
     "Madhumitha0206",
@@ -2129,6 +2137,7 @@
     "joaquimgamero",
     "alvaromartmart",
     "camlloyd",
+    "malenasj",
     "sav0016",
     "genesandbones",
     "yamihn",
@@ -2153,11 +2162,13 @@
     "LukasHats",
     "LaurenGonsalves",
     "alexnater",
+    "diegomscoelho",
     "chiarasch",
     "FrancescaB19",
     "epfarias",
     "mohamedbahru",
     "ajandria",
+    "bnjvrjnke",
     "ayushkamat",
     "ajfriedman18",
     "Madhumitha0206",
@@ -2168,13 +2179,13 @@
     "eugeniafontecha",
     "nitzcovich"
   ],
-  "numberOfPullRequestNew": 556,
+  "numberOfPullRequestNew": 572,
   "p50NumberOfNewPullsPerWeek": 47,
   "p50NumberOfNewContributorsPerWeek": 4,
-  "p50SecondsToClosePulls": 20957,
-  "p50SecondsToCloseIssues": 101475,
-  "meanNumberOfNewPullsPerWeek": 61.659375,
-  "meanNumberOfNewContributorsPerWeek": 5.524844720496894,
-  "meanSecondsToClosePulls": 123592.66007194245,
-  "meanSecondsToCloseIssues": 258775.112
+  "p50SecondsToClosePulls": 21578,
+  "p50SecondsToCloseIssues": 101986,
+  "meanNumberOfNewPullsPerWeek": 61.52959501557633,
+  "meanNumberOfNewContributorsPerWeek": 5.5170278637770895,
+  "meanSecondsToClosePulls": 128305.95629370629,
+  "meanSecondsToCloseIssues": 274506.01550387597
 }
