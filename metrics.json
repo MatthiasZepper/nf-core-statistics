@@ -2094,6 +2094,7 @@
     "Krannich479",
     "jaanckae",
     "eweizy",
+    "minhtrung1997",
     "joaquimgamero",
     "alvaromartmart",
     "camlloyd",
@@ -2159,6 +2160,7 @@
     "Krannich479",
     "jaanckae",
     "eweizy",
+    "minhtrung1997",
     "joaquimgamero",
     "alvaromartmart",
     "camlloyd",
@@ -2207,13 +2209,13 @@
     "eugeniafontecha",
     "nitzcovich"
   ],
-  "numberOfPullRequestNew": 577,
+  "numberOfPullRequestNew": 566,
   "p50NumberOfNewPullsPerWeek": 48,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 22290,
-  "p50SecondsToCloseIssues": 103133,
-  "meanNumberOfNewPullsPerWeek": 61.95031055900621,
-  "meanNumberOfNewContributorsPerWeek": 5.567901234567901,
-  "meanSecondsToClosePulls": 165184.98440207972,
-  "meanSecondsToCloseIssues": 382139.6222222222
+  "p50SecondsToClosePulls": 21761,
+  "p50SecondsToCloseIssues": 101475,
+  "meanNumberOfNewPullsPerWeek": 61.95652173913044,
+  "meanNumberOfNewContributorsPerWeek": 5.570987654320987,
+  "meanSecondsToClosePulls": 161838.4664310954,
+  "meanSecondsToCloseIssues": 358403.96183206106
 }
