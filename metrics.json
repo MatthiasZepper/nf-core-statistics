@@ -2074,6 +2074,7 @@
     "liuxiawei",
     "kdommaraju",
     "J-Burgess",
+    "ayushkamat",
     "zmahnoor14",
     "akp1d12",
     "sunitj",
@@ -2153,6 +2154,7 @@
     "binnuor",
     "mp15",
     "rasmirnov",
+    "rvijay-seqcoast",
     "wheat2024",
     "fan040",
     "caraiz2001",
@@ -2162,11 +2164,11 @@
     "mpiersonsmela",
     "csittz",
     "mazzalab",
-    "ayushkamat",
     "aslangabriel99",
     "bcpd",
     "lealiaxiong",
-    "ziadbkh"
+    "ziadbkh",
+    "PFRoux"
   ],
   "namesOfContributorsNew": [
     "k1sauce",
@@ -2181,6 +2183,7 @@
     "binnuor",
     "mp15",
     "rasmirnov",
+    "rvijay-seqcoast",
     "wheat2024",
     "fan040",
     "caraiz2001",
@@ -2190,19 +2193,19 @@
     "mpiersonsmela",
     "csittz",
     "mazzalab",
-    "ayushkamat",
     "aslangabriel99",
     "bcpd",
     "lealiaxiong",
-    "ziadbkh"
+    "ziadbkh",
+    "PFRoux"
   ],
-  "numberOfPullRequestNew": 344,
+  "numberOfPullRequestNew": 342,
   "p50NumberOfNewPullsPerWeek": 48,
   "p50NumberOfNewContributorsPerWeek": 5,
   "p50SecondsToClosePulls": 14222,
-  "p50SecondsToCloseIssues": 253945,
-  "meanNumberOfNewPullsPerWeek": 62.157407407407405,
-  "meanNumberOfNewContributorsPerWeek": 5.613496932515337,
-  "meanSecondsToClosePulls": 123415.65697674418,
-  "meanSecondsToCloseIssues": 418214.13559322036
+  "p50SecondsToCloseIssues": 276769,
+  "meanNumberOfNewPullsPerWeek": 62.160493827160494,
+  "meanNumberOfNewContributorsPerWeek": 5.619631901840491,
+  "meanSecondsToClosePulls": 123155.52339181287,
+  "meanSecondsToCloseIssues": 446949.54098360654
 }
