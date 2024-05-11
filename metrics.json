@@ -2179,6 +2179,7 @@
     "RuthEberhardt",
     "liangyong1991",
     "mvisani",
+    "Moslemecoh",
     "csittz",
     "mazzalab",
     "bcpd",
@@ -2209,6 +2210,7 @@
     "RuthEberhardt",
     "liangyong1991",
     "mvisani",
+    "Moslemecoh",
     "csittz",
     "mazzalab",
     "bcpd",
@@ -2222,10 +2224,10 @@
   "numberOfPullRequestNew": 509,
   "p50NumberOfNewPullsPerWeek": 48,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 60142,
-  "p50SecondsToCloseIssues": 253945,
-  "meanNumberOfNewPullsPerWeek": 62.93251533742331,
-  "meanNumberOfNewContributorsPerWeek": 5.6432926829268295,
-  "meanSecondsToClosePulls": 150613.51277013752,
-  "meanSecondsToCloseIssues": 438209.1014492754
+  "p50SecondsToClosePulls": 64249,
+  "p50SecondsToCloseIssues": 194893,
+  "meanNumberOfNewPullsPerWeek": 62.99693251533742,
+  "meanNumberOfNewContributorsPerWeek": 5.646341463414634,
+  "meanSecondsToClosePulls": 150430.40275049116,
+  "meanSecondsToCloseIssues": 409612.70588235295
 }
