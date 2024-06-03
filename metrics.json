@@ -1920,6 +1920,7 @@
     "diegomscoelho",
     "caraiz2001",
     "LeonHafner",
+    "paddyharker1005",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2235,7 +2236,6 @@
     "sellth",
     "Ethan-Hetrick",
     "XikunHan",
-    "paddyharker1005",
     "RuthEberhardt",
     "irliampa",
     "MartinVad",
@@ -2263,7 +2263,6 @@
     "sellth",
     "Ethan-Hetrick",
     "XikunHan",
-    "paddyharker1005",
     "RuthEberhardt",
     "irliampa",
     "MartinVad",
@@ -2278,13 +2277,13 @@
     "PaulaOteroS",
     "taijiyamazoe"
   ],
-  "numberOfPullRequestNew": 594,
+  "numberOfPullRequestNew": 582,
   "p50NumberOfNewPullsPerWeek": 49,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 72394,
+  "p50SecondsToClosePulls": 72410,
   "p50SecondsToCloseIssues": 206093,
-  "meanNumberOfNewPullsPerWeek": 63.869300911854104,
+  "meanNumberOfNewPullsPerWeek": 63.89665653495441,
   "meanNumberOfNewContributorsPerWeek": 5.77643504531722,
-  "meanSecondsToClosePulls": 187666.72053872055,
-  "meanSecondsToCloseIssues": 403009.0731707317
+  "meanSecondsToClosePulls": 184033.93298969071,
+  "meanSecondsToCloseIssues": 410090.8780487805
 }
