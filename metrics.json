@@ -1893,6 +1893,7 @@
     "apetkau",
     "johnoooh",
     "karthikram-takara",
+    "tfalkarkea",
     "alkc",
     "MartinPippel",
     "rnaidu",
@@ -2124,7 +2125,6 @@
     "ILM-MLOlab",
     "Rhine86",
     "realzhang",
-    "tfalkarkea",
     "BenPonBiobrain",
     "wresch",
     "petemeng",
@@ -2282,13 +2282,13 @@
     "PaulaOteroS",
     "taijiyamazoe"
   ],
-  "numberOfPullRequestNew": 598,
+  "numberOfPullRequestNew": 609,
   "p50NumberOfNewPullsPerWeek": 49,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 73294,
-  "p50SecondsToCloseIssues": 255916,
-  "meanNumberOfNewPullsPerWeek": 63.766666666666666,
+  "p50SecondsToClosePulls": 72410,
+  "p50SecondsToCloseIssues": 219720,
+  "meanNumberOfNewPullsPerWeek": 63.82121212121212,
   "meanNumberOfNewContributorsPerWeek": 5.768072289156627,
-  "meanSecondsToClosePulls": 187897.45484949832,
-  "meanSecondsToCloseIssues": 404583.8735632184
+  "meanSecondsToClosePulls": 185686.1527093596,
+  "meanSecondsToCloseIssues": 390165.6666666667
 }
