@@ -2237,6 +2237,7 @@
     "aboddicker",
     "sellth",
     "Ethan-Hetrick",
+    "panapapa14",
     "XikunHan",
     "RuthEberhardt",
     "irliampa",
@@ -2266,6 +2267,7 @@
     "aboddicker",
     "sellth",
     "Ethan-Hetrick",
+    "panapapa14",
     "XikunHan",
     "RuthEberhardt",
     "irliampa",
@@ -2282,13 +2284,13 @@
     "PaulaOteroS",
     "taijiyamazoe"
   ],
-  "numberOfPullRequestNew": 609,
+  "numberOfPullRequestNew": 607,
   "p50NumberOfNewPullsPerWeek": 49,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 72410,
+  "p50SecondsToClosePulls": 73294,
   "p50SecondsToCloseIssues": 219720,
-  "meanNumberOfNewPullsPerWeek": 63.82121212121212,
-  "meanNumberOfNewContributorsPerWeek": 5.768072289156627,
-  "meanSecondsToClosePulls": 185686.1527093596,
-  "meanSecondsToCloseIssues": 390165.6666666667
+  "meanNumberOfNewPullsPerWeek": 63.88787878787879,
+  "meanNumberOfNewContributorsPerWeek": 5.771084337349397,
+  "meanSecondsToClosePulls": 193204.0197693575,
+  "meanSecondsToCloseIssues": 391895.9540229885
 }
