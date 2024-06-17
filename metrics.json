@@ -2296,13 +2296,13 @@
     "rekren",
     "taijiyamazoe"
   ],
-  "numberOfPullRequestNew": 432,
+  "numberOfPullRequestNew": 419,
   "p50NumberOfNewPullsPerWeek": 49,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 25752,
-  "p50SecondsToCloseIssues": 106645,
-  "meanNumberOfNewPullsPerWeek": 64.26586102719033,
+  "p50SecondsToClosePulls": 24371,
+  "p50SecondsToCloseIssues": 109953,
+  "meanNumberOfNewPullsPerWeek": 64.2809667673716,
   "meanNumberOfNewContributorsPerWeek": 5.792792792792793,
-  "meanSecondsToClosePulls": 132360.11342592593,
-  "meanSecondsToCloseIssues": 292828.8829787234
+  "meanSecondsToClosePulls": 131070.66587112172,
+  "meanSecondsToCloseIssues": 290522.3958333333
 }
