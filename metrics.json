@@ -1954,6 +1954,7 @@
     "jkartuch",
     "BlueBicycleBlog",
     "dgemperline-lilly",
+    "LeonHornich",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2268,7 +2269,6 @@
     "giulioisac",
     "panapapa14",
     "YeHW",
-    "LeonHornich",
     "rollf",
     "poddarharsh15",
     "Sungryong-Oh",
@@ -2287,7 +2287,6 @@
     "giulioisac",
     "panapapa14",
     "YeHW",
-    "LeonHornich",
     "rollf",
     "poddarharsh15",
     "Sungryong-Oh",
@@ -2297,13 +2296,13 @@
     "taijiyamazoe",
     "alexiswl"
   ],
-  "numberOfPullRequestNew": 434,
+  "numberOfPullRequestNew": 412,
   "p50NumberOfNewPullsPerWeek": 49,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 25752,
-  "p50SecondsToCloseIssues": 182702,
-  "meanNumberOfNewPullsPerWeek": 64.4578313253012,
+  "p50SecondsToClosePulls": 24371,
+  "p50SecondsToCloseIssues": 181017,
+  "meanNumberOfNewPullsPerWeek": 64.46084337349397,
   "meanNumberOfNewContributorsPerWeek": 5.808383233532934,
-  "meanSecondsToClosePulls": 161111.76267281105,
-  "meanSecondsToCloseIssues": 323509.0119047619
+  "meanSecondsToClosePulls": 157014.50970873787,
+  "meanSecondsToCloseIssues": 318827.4024390244
 }
