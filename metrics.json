@@ -2298,13 +2298,13 @@
     "taijiyamazoe",
     "alexiswl"
   ],
-  "numberOfPullRequestNew": 398,
+  "numberOfPullRequestNew": 413,
   "p50NumberOfNewPullsPerWeek": 49,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 23387,
+  "p50SecondsToClosePulls": 22795,
   "p50SecondsToCloseIssues": 176990,
-  "meanNumberOfNewPullsPerWeek": 64.47289156626506,
-  "meanNumberOfNewContributorsPerWeek": 5.81437125748503,
-  "meanSecondsToClosePulls": 143676.1959798995,
-  "meanSecondsToCloseIssues": 260676.32911392406
+  "meanNumberOfNewPullsPerWeek": 64.34534534534535,
+  "meanNumberOfNewContributorsPerWeek": 5.7970149253731345,
+  "meanSecondsToClosePulls": 149241.8765133172,
+  "meanSecondsToCloseIssues": 270659.8875
 }
