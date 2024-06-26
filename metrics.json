@@ -2249,6 +2249,7 @@
     "PFRoux",
     "casslitch",
     "PaulaOteroS",
+    "taijiyamazoe",
     "cahuparo",
     "marinawitherell",
     "upasana3",
@@ -2277,7 +2278,6 @@
     "lecook",
     "Dibassow",
     "ianyfchang",
-    "taijiyamazoe",
     "alexiswl"
   ],
   "namesOfContributorsNew": [
@@ -2295,16 +2295,15 @@
     "lecook",
     "Dibassow",
     "ianyfchang",
-    "taijiyamazoe",
     "alexiswl"
   ],
-  "numberOfPullRequestNew": 413,
+  "numberOfPullRequestNew": 429,
   "p50NumberOfNewPullsPerWeek": 49,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 22795,
+  "p50SecondsToClosePulls": 19848,
   "p50SecondsToCloseIssues": 176990,
-  "meanNumberOfNewPullsPerWeek": 64.34534534534535,
+  "meanNumberOfNewPullsPerWeek": 64.41741741741741,
   "meanNumberOfNewContributorsPerWeek": 5.7970149253731345,
-  "meanSecondsToClosePulls": 149241.8765133172,
-  "meanSecondsToCloseIssues": 270659.8875
+  "meanSecondsToClosePulls": 156202.72494172494,
+  "meanSecondsToCloseIssues": 271067.5128205128
 }
