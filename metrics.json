@@ -96,6 +96,11 @@
       "1 Midland Rd, London NW1 1ST"
     ],
     [
+      "Fulcrum Genomnics",
+      "Fulcrum Genomics LLC",
+      ""
+    ],
+    [
       "GHGA",
       "German Human Genome-Phenome Archive",
       "Im Neuenheimer Feld 280, 69120 Heidelberg, Germany"
@@ -1029,6 +1034,7 @@
     "me-orlov",
     "redvoidling",
     "martinezvbs",
+    "ChristopherSNelson",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -1244,6 +1250,7 @@
     "lennijusten",
     "lborcard",
     "muniheart",
+    "Peter-Kille",
     "medmaca",
     "feixiang1209",
     "roberta-davidson",
@@ -1947,6 +1954,7 @@
     "alexnater",
     "diegomscoelho",
     "caraiz2001",
+    "jpalmer37",
     "LeonHafner",
     "paddyharker1005",
     "RuthEberhardt",
@@ -2265,7 +2273,6 @@
     "aostiles",
     "bebosudo",
     "mptrsen",
-    "ChristopherSNelson",
     "mikemc",
     "philippbayer",
     "bentpetersendk",
@@ -2282,7 +2289,6 @@
     "alexiswl"
   ],
   "namesOfContributorsNew": [
-    "ChristopherSNelson",
     "mikemc",
     "philippbayer",
     "bentpetersendk",
@@ -2298,13 +2304,13 @@
     "ianyfchang",
     "alexiswl"
   ],
-  "numberOfPullRequestNew": 420,
-  "p50NumberOfNewPullsPerWeek": 49,
+  "numberOfPullRequestNew": 411,
+  "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 17102,
-  "p50SecondsToCloseIssues": 172254,
-  "meanNumberOfNewPullsPerWeek": 64.48048048048048,
-  "meanNumberOfNewContributorsPerWeek": 5.8,
-  "meanSecondsToClosePulls": 160289.4642857143,
-  "meanSecondsToCloseIssues": 288664.55263157893
+  "p50SecondsToClosePulls": 18233,
+  "p50SecondsToCloseIssues": 183954,
+  "meanNumberOfNewPullsPerWeek": 64.54354354354355,
+  "meanNumberOfNewContributorsPerWeek": 5.8059701492537314,
+  "meanSecondsToClosePulls": 162375.33576642335,
+  "meanSecondsToCloseIssues": 304616.2428571429
 }
