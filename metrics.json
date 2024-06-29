@@ -1450,6 +1450,7 @@
     "WangLab-SCSIO",
     "binnuor",
     "aslangabriel99",
+    "petemeng",
     "tbugfinder",
     "patrickbryant1",
     "tarak77",
@@ -1951,6 +1952,7 @@
     "LukasHats",
     "BirkirRey",
     "LaurenGonsalves",
+    "thomgiles",
     "alexnater",
     "diegomscoelho",
     "caraiz2001",
@@ -2168,7 +2170,6 @@
     "realzhang",
     "BenPonBiobrain",
     "wresch",
-    "petemeng",
     "jluebeck",
     "daianna21",
     "madagiurgiu25",
@@ -2286,6 +2287,7 @@
     "lecook",
     "Dibassow",
     "ianyfchang",
+    "xeniaroda29",
     "alexiswl"
   ],
   "namesOfContributorsNew": [
@@ -2302,15 +2304,16 @@
     "lecook",
     "Dibassow",
     "ianyfchang",
+    "xeniaroda29",
     "alexiswl"
   ],
-  "numberOfPullRequestNew": 411,
+  "numberOfPullRequestNew": 402,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
   "p50SecondsToClosePulls": 18233,
-  "p50SecondsToCloseIssues": 183954,
-  "meanNumberOfNewPullsPerWeek": 64.54354354354355,
-  "meanNumberOfNewContributorsPerWeek": 5.8059701492537314,
-  "meanSecondsToClosePulls": 162375.33576642335,
-  "meanSecondsToCloseIssues": 304616.2428571429
+  "p50SecondsToCloseIssues": 181894,
+  "meanNumberOfNewPullsPerWeek": 64.5915915915916,
+  "meanNumberOfNewContributorsPerWeek": 5.811940298507463,
+  "meanSecondsToClosePulls": 148754.20895522388,
+  "meanSecondsToCloseIssues": 294216.7042253521
 }
