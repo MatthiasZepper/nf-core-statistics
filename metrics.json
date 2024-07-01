@@ -2306,13 +2306,13 @@
     "xeniaroda29",
     "alexiswl"
   ],
-  "numberOfPullRequestNew": 386,
+  "numberOfPullRequestNew": 362,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 17059,
-  "p50SecondsToCloseIssues": 176990,
+  "p50SecondsToClosePulls": 14055,
+  "p50SecondsToCloseIssues": 172254,
   "meanNumberOfNewPullsPerWeek": 64.5945945945946,
   "meanNumberOfNewContributorsPerWeek": 5.811940298507463,
-  "meanSecondsToClosePulls": 139767.89637305698,
-  "meanSecondsToCloseIssues": 297063.3382352941
+  "meanSecondsToClosePulls": 122710.53867403315,
+  "meanSecondsToCloseIssues": 288119.0303030303
 }
