@@ -1,346 +1,5 @@
 {
-  "namesOfAdopters": [
-    [
-      "Ardigen",
-      "Ardigen S.A.",
-      "Podole 76, 30-394 Poland"
-    ],
-    [
-      "BCM",
-      "Baylor College of Medicine",
-      "One Baylor Plaza, Houston, Texas 77030, USA"
-    ],
-    [
-      "BI",
-      "Boehringer Ingelheim Pharma GmbH & CO. KG",
-      "Birkendorfer Str. 65, 88400 Biberach an der Riss"
-    ],
-    [
-      "BICR",
-      "Beatson Institute & Institute of Cancer Sciences",
-      "Garscube Estate, Switchback Road, Bearsden, Glasgow G61 1BD, United Kingdom"
-    ],
-    [
-      "CCGA Kiel",
-      "The Competence Centre for Genome Analysis Kiel",
-      "Christian-Albrechts-Platz 4, 24118 Kiel, Germany"
-    ],
-    [
-      "CMGG",
-      "Center for Medical Genetics, Ghent Univerity Hospital",
-      "C. Heymanslaan 10, 9000 Ghent, Belgium"
-    ],
-    [
-      "COH",
-      "City of Hope",
-      "1500 E Duarte Rd, Duarte, CA 91010, USA"
-    ],
-    [
-      "CRG",
-      "Centre for Genomic Regulation",
-      "Carrer Dr. Aiguader, 88, 08003 Barcelona, Spain"
-    ],
-    [
-      "CRUK-MI",
-      "Cancer Research UK Manchester Institute (CRUK-MI)",
-      "Cancer Research UK Manchester Institute, The University of Manchester, Alderley Park, SK10 4TG, United Kingdom"
-    ],
-    [
-      "CUBoulder",
-      "BioFrontiers Institute at University of Colorado, Boulder",
-      "3415 Colorado Avenue, Boulder, CO 80303, USA"
-    ],
-    [
-      "CZ Biohub",
-      "Chan Zuckerberg Biohub",
-      "499 Illinois St, San Francisco, CA, 94158"
-    ],
-    [
-      "Curie",
-      "Institut Curie",
-      "26 rue d'Ulm, 75248 Paris Cedex 05, France"
-    ],
-    [
-      "DNGC",
-      "Danish National Genome Center",
-      "Ørestads Boulevard 5, building 208, 2300 København S, Denmark"
-    ],
-    [
-      "DZNE",
-      "German Center for Neurodegenerative Diseases",
-      "Sigmund-Freud-Straße 27, 53127 Bonn"
-    ],
-    [
-      "DcGC",
-      "DRESDEN-concept Genome Center",
-      "Fetscherstraße 105, 01307 Dresden, Germany"
-    ],
-    [
-      "FHT",
-      "Human Technopole",
-      "Fondazione Human Technopole - Viale Rita Levi-Montalcini, 1 - Area MIND – Cargo 6 - 20157 Milano Italy"
-    ],
-    [
-      "FPG",
-      "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
-      "Largo Agostino Gemelli, 00168 Roma RM, Italy"
-    ],
-    [
-      "Flomics",
-      "Flomics Biotech",
-      "Carrer Dr. Aiguader, 88, 08003 Barcelona, Spain"
-    ],
-    [
-      "Francis Crick",
-      "The Francis Crick Institute",
-      "1 Midland Rd, London NW1 1ST"
-    ],
-    [
-      "Fulcrum Genomnics",
-      "Fulcrum Genomics LLC",
-      ""
-    ],
-    [
-      "GHGA",
-      "German Human Genome-Phenome Archive",
-      "Im Neuenheimer Feld 280, 69120 Heidelberg, Germany"
-    ],
-    [
-      "GIS",
-      "Genome Institute of Singapore",
-      "60 Biopolis St, Singapore 138672, Singapore"
-    ],
-    [
-      "GMI",
-      "Gregor Mendel Institute of Molecular Plant Biology",
-      "Dr.-Bohr-Gasse 3, 1030 Vienna, Austria"
-    ],
-    [
-      "HC",
-      "Hartree Centre",
-      "STFC Hartree Centre, Sci-Tech Daresbury, Keckwick, Daresbury,​​​ Warrington. WA4 4AD"
-    ],
-    [
-      "HIRI",
-      "Helmholtz Institute for RNA-based Infection Research",
-      "Josef-Schneider-Straße 2, 97080 Würzburg"
-    ],
-    [
-      "HKI",
-      "Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute (HKI)",
-      "Beutenbergstraße 11 , 07745 Jena, Germany"
-    ],
-    [
-      "HUJI",
-      "The Hebrew University of Jerusalem",
-      "Hadassah Ein Kerem Medical School, Jerusalem, Israel"
-    ],
-    [
-      "Healx",
-      "Healx Ltd.",
-      "Charter House, 66-68 Hills Rd, Cambridge, CB2 1LA, UK"
-    ],
-    [
-      "IARC",
-      "International Agency for Research on Cancer",
-      "150 Cours Albert Thomas, 69372 Lyon CEDEX 08, France"
-    ],
-    [
-      "IGDR",
-      "Institut Genetics & Development of Rennes",
-      "Campus Santé de Villejean, 2 avenue du Professeur Léon Bernard, 35043 Rennes CEDEX, France"
-    ],
-    [
-      "IIIT-B",
-      "International Institute of Information Technology - Bangalore",
-      "26/C, Electronics City, Hosur Road, Bangalore - 560100, India"
-    ],
-    [
-      "IISERM",
-      "Indian Institute of Science Education and Research Mohali",
-      "Knowledge city, Sector 81, Manauli PO, Sahibzada Ajit Singh Nagar, Punjab 140306"
-    ],
-    [
-      "IMP",
-      "Research Institute of Molecular Pathology IMP",
-      "Campus-Vienna-Biocenter 1, 1030 Vienna, Austria"
-    ],
-    [
-      "IOZ",
-      "Institute of Zoology",
-      "Institute of Zoology, Chinese Academy of Sciences (CAS), Beijing, 100101, China"
-    ],
-    [
-      "IPD",
-      "Institut Pasteur de Dakar",
-      "36, Avenue Pasteur - BP 220 - DAKAR"
-    ],
-    [
-      "KUL",
-      "KU Leuven, Rega Institute for Medical Research",
-      "Herestraat 49, 3000 Leuven, Belgium"
-    ],
-    [
-      "LNUc-EEMiS",
-      "Linnaeus University Centre for Ecology and Evolution in Microbial model Systems",
-      "Norra Kajplan, Kalmar (visiting address)"
-    ],
-    [
-      "LU",
-      "Leiden University",
-      "Leiden University, Rapenburg 70, 2311 EZ Leiden, The Netherlands"
-    ],
-    [
-      "Lifebit",
-      "Lifebit Biotech",
-      "338 City Road, London, England, EC1V 2PY"
-    ],
-    [
-      "MPI-EVA",
-      "Max Planck Institute for Evolutionary Anthropology (MPI-EVA)",
-      "Deutscher Platz 6, 04103 Leipzig, Germany"
-    ],
-    [
-      "MPIB",
-      "Max Planck Institute for Biochemistry",
-      "Am Klopferspitz 18, 82152 Planegg, Germany"
-    ],
-    [
-      "MRCHGU",
-      "MRC Human Genetics Unit, MRC Institute of Genetics and Molecular Medicine, University of Edinburgh",
-      "Western General Hospital, Crewe Road, Edinburgh, United Kingdom"
-    ],
-    [
-      "NBIS",
-      "National Bioinformatics Infrastructure Sweden",
-      "Tomtebodavägen 23A, 17165 Solna, Sweden"
-    ],
-    [
-      "NGI",
-      "National Genomics Infrastructure",
-      "Tomtebodavägen 23A, 17165 Solna, Sweden"
-    ],
-    [
-      "NIBSC",
-      "National Institute of Biological Standards and Control",
-      "Blanche Ln, South Mimms, Potters Bar EN6 3QG, United Kingdom"
-    ],
-    [
-      "NYU",
-      "New York University",
-      "50 West 4th Street New York, NY 10012"
-    ],
-    [
-      "PILM",
-      "The Picower for Learning and Memory",
-      "43 Vassar St, Cambridge, MA 02139"
-    ],
-    [
-      "PalMuc",
-      "Paleontology and Geobiology LMU Munich",
-      "Richard-Wagner-Str. 10, 80333 München, Deutschland"
-    ],
-    [
-      "Pasteur",
-      "Institut Pasteur",
-      "25-28 Rue du Dr Roux, 75015 Paris, France"
-    ],
-    [
-      "QBiC",
-      "Quantitative Biology Center",
-      "Otfried-Müller Str. 37, 72076 Tübingen, Germany"
-    ],
-    [
-      "RBGV",
-      "Royal Botanic Gardens Victoria",
-      "Birdwood Avenue, Melbourne, Victoria, Australia, 3004"
-    ],
-    [
-      "RIKEN BDR",
-      "RIKEN Center for Biosystems Dynamics Research",
-      "2-2-3 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo, Japan"
-    ],
-    [
-      "SIH",
-      "Sydney Informatics Hub",
-      "University of Sydney, City Rd & Butlin Ave, Darlington, NSW, Australia"
-    ],
-    [
-      "SLU",
-      "Swedish University of Agricultural Sciences",
-      "Almas Allé 8, 75007 Uppsala, Sweden"
-    ],
-    [
-      "SUN",
-      "Stellenbosch University, Bioinformatics research unit",
-      "Francie Van Zijl Dr, Tygerberg, Cape Town, 7505, South Africa"
-    ],
-    [
-      "SYSUCC",
-      "Sun Yat-sen University Cancer Center",
-      "651, Dongfeng East Road, Guangzhou, Guangdong, China"
-    ],
-    [
-      "Sanger",
-      "The Wellcome Trust Sanger Institute",
-      "Wellcome Trust Genome Campus, Hinxton CB10 1SA, United Kingdom"
-    ],
-    [
-      "Seqera",
-      "Seqera",
-      "Carrer D'Avila, 19, Local 2, 08005 Barcelona, Spain"
-    ],
-    [
-      "TUFTS",
-      "Tufts University",
-      "419 Boston Ave, Medford, MA 02155"
-    ],
-    [
-      "UC Berkeley",
-      "University of California Berkeley",
-      "465 Soda Hall, MC-1776, Berkeley, CA 94720-1776"
-    ],
-    [
-      "UCLcancer",
-      "UCL Cancer Institute",
-      "72 Huntley Street, London, WC1E 6DD."
-    ],
-    [
-      "UMAG",
-      "University of Magallanes",
-      "Av Bulnes 01855, Punta Arenas, Magallanes, 62000, Chile"
-    ],
-    [
-      "UNIPV",
-      "University of Pavia",
-      "via Ferrata, 9 - 27100 Pavia, Italy"
-    ],
-    [
-      "UT",
-      "University of Tsukuba",
-      "1-2 Kasuga, Tsukuba, Ibaraki 305-8550, Japan."
-    ],
-    [
-      "UTD",
-      "The University of Texas at Dallas",
-      "Department of Biological Sciences The University of Texas at Dallas 800 W Campbell, BSB12 Richardson TX 75080"
-    ],
-    [
-      "UoL",
-      "The University of Liverpool",
-      "University of Liverpool, Crown Street, Liverpool L69 7ZB, UK"
-    ],
-    [
-      "WIBR",
-      "Whitehead Institute for Biomedical Research",
-      "455 Main St, Cambridge, MA 02142, USA"
-    ],
-    [
-      "elembio",
-      "Element Biosciences",
-      "10055 Barnes Canyon Road Suite 100 San Diego, CA 92121"
-    ]
-  ],
+  "namesOfAdopters": [],
   "namesOfContributors": [
     "ewels",
     "sven1103",
@@ -1929,6 +1588,7 @@
     "apetkau",
     "johnoooh",
     "tfalkarkea",
+    "anwarMZ",
     "alkc",
     "MartinPippel",
     "DavyCats",
@@ -1968,6 +1628,7 @@
     "BlueBicycleBlog",
     "dgemperline-lilly",
     "LeonHornich",
+    "rollf",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2263,8 +1924,9 @@
     "taijiyamazoe",
     "cahuparo",
     "marinawitherell",
-    "upasana3",
     "masudermann",
+    "upasana3",
+    "ricardoi",
     "logankblair",
     "wsjung",
     "NickSwainston",
@@ -2283,7 +1945,6 @@
     "panapapa14",
     "YeHW",
     "eolaniru",
-    "rollf",
     "tkchafin",
     "poddarharsh15",
     "Sungryong-Oh",
@@ -2302,7 +1963,6 @@
     "panapapa14",
     "YeHW",
     "eolaniru",
-    "rollf",
     "tkchafin",
     "poddarharsh15",
     "Sungryong-Oh",
@@ -2312,13 +1972,13 @@
     "xeniaroda29",
     "alexiswl"
   ],
-  "numberOfPullRequestNew": 369,
+  "numberOfPullRequestNew": 385,
   "p50NumberOfNewPullsPerWeek": 49,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 11779,
+  "p50SecondsToClosePulls": 13046,
   "p50SecondsToCloseIssues": 172254,
-  "meanNumberOfNewPullsPerWeek": 64.44910179640719,
-  "meanNumberOfNewContributorsPerWeek": 5.803571428571429,
-  "meanSecondsToClosePulls": 119994.63956639566,
-  "meanSecondsToCloseIssues": 314188.59420289856
+  "meanNumberOfNewPullsPerWeek": 64.53293413173652,
+  "meanNumberOfNewContributorsPerWeek": 5.809523809523809,
+  "meanSecondsToClosePulls": 127126.36623376624,
+  "meanSecondsToCloseIssues": 336081.0857142857
 }
