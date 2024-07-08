@@ -1963,7 +1963,8 @@
     "yshen16",
     "xeniaroda29",
     "jeremymsimon",
-    "alexiswl"
+    "alexiswl",
+    "ChillarAnand"
   ],
   "namesOfContributorsNew": [
     "gevro",
@@ -1983,15 +1984,16 @@
     "yshen16",
     "xeniaroda29",
     "jeremymsimon",
-    "alexiswl"
+    "alexiswl",
+    "ChillarAnand"
   ],
-  "numberOfPullRequestNew": 373,
+  "numberOfPullRequestNew": 366,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
   "p50SecondsToClosePulls": 10975,
-  "p50SecondsToCloseIssues": 171912,
-  "meanNumberOfNewPullsPerWeek": 64.73353293413173,
-  "meanNumberOfNewContributorsPerWeek": 5.842261904761905,
-  "meanSecondsToClosePulls": 114653.63002680965,
-  "meanSecondsToCloseIssues": 349183.13513513515
+  "p50SecondsToCloseIssues": 147869,
+  "meanNumberOfNewPullsPerWeek": 64.74550898203593,
+  "meanNumberOfNewContributorsPerWeek": 5.845238095238095,
+  "meanSecondsToClosePulls": 107314.72131147541,
+  "meanSecondsToCloseIssues": 321025.65277777775
 }
