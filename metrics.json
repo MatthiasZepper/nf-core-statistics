@@ -1082,7 +1082,7 @@
     "hkaspersen",
     "gbaiao",
     "srikanthkris",
-    "skose82",
+    "shk3333",
     "davised",
     "bark9299",
     "Ste40",
@@ -1917,7 +1917,7 @@
     "Anushi",
     "johandahlberg",
     "ambarrio",
-    "rezaiiimohammad",
+    "rezaeinfo",
     "clstacy",
     "dansteiert",
     "slbai01",
@@ -2002,13 +2002,13 @@
     "alexiswl",
     "ChillarAnand"
   ],
-  "numberOfPullRequestNew": 389,
+  "numberOfPullRequestNew": 402,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 10960,
-  "p50SecondsToCloseIssues": 181894,
-  "meanNumberOfNewPullsPerWeek": 64.63582089552239,
+  "p50SecondsToClosePulls": 11232,
+  "p50SecondsToCloseIssues": 171912,
+  "meanNumberOfNewPullsPerWeek": 64.68955223880597,
   "meanNumberOfNewContributorsPerWeek": 5.86053412462908,
-  "meanSecondsToClosePulls": 122721.2853470437,
-  "meanSecondsToCloseIssues": 370270.012987013
+  "meanSecondsToClosePulls": 124895.35820895522,
+  "meanSecondsToCloseIssues": 356679.4583333333
 }
