@@ -2005,13 +2005,13 @@
     "alexiswl",
     "ChillarAnand"
   ],
-  "numberOfPullRequestNew": 385,
+  "numberOfPullRequestNew": 402,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 11723,
-  "p50SecondsToCloseIssues": 181894,
-  "meanNumberOfNewPullsPerWeek": 64.75,
+  "p50SecondsToClosePulls": 12436,
+  "p50SecondsToCloseIssues": 217767,
+  "meanNumberOfNewPullsPerWeek": 64.82142857142857,
   "meanNumberOfNewContributorsPerWeek": 5.8579881656804735,
-  "meanSecondsToClosePulls": 135103.8,
-  "meanSecondsToCloseIssues": 334150.0208333333
+  "meanSecondsToClosePulls": 142349.9303482587,
+  "meanSecondsToCloseIssues": 353197.6862745098
 }
