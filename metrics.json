@@ -130,6 +130,7 @@
     "nschan",
     "itrujnara",
     "famosab",
+    "LaurenceKuhl",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -169,7 +170,6 @@
     "fmalmeida",
     "christopher-hakkaart",
     "lconde-ucl",
-    "LaurenceKuhl",
     "mattheatley",
     "kcibul",
     "WackerO",
@@ -1639,6 +1639,7 @@
     "BlueBicycleBlog",
     "LeonHornich",
     "rollf",
+    "poddarharsh15",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -1671,7 +1672,6 @@
     "SumeetTiwari07",
     "yfukai",
     "FrederickMappin",
-    "poddarharsh15",
     "caspargross",
     "matthewstuartedwards",
     "RareSeas-Asimov",
@@ -1960,6 +1960,7 @@
     "aostiles",
     "bebosudo",
     "mptrsen",
+    "mandysulli",
     "gevro",
     "apsteinberg",
     "fchuffar",
@@ -1983,6 +1984,7 @@
     "ChillarAnand"
   ],
   "namesOfContributorsNew": [
+    "mandysulli",
     "gevro",
     "apsteinberg",
     "fchuffar",
@@ -2005,13 +2007,13 @@
     "alexiswl",
     "ChillarAnand"
   ],
-  "numberOfPullRequestNew": 402,
+  "numberOfPullRequestNew": 395,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 12436,
-  "p50SecondsToCloseIssues": 217767,
-  "meanNumberOfNewPullsPerWeek": 64.82142857142857,
-  "meanNumberOfNewContributorsPerWeek": 5.8579881656804735,
-  "meanSecondsToClosePulls": 142349.9303482587,
-  "meanSecondsToCloseIssues": 353197.6862745098
+  "p50SecondsToClosePulls": 11709,
+  "p50SecondsToCloseIssues": 171912,
+  "meanNumberOfNewPullsPerWeek": 64.88095238095238,
+  "meanNumberOfNewContributorsPerWeek": 5.8609467455621305,
+  "meanSecondsToClosePulls": 137430.0101265823,
+  "meanSecondsToCloseIssues": 329904.8
 }
