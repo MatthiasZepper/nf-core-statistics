@@ -201,6 +201,7 @@
     "HomoPolyethylen",
     "sgopalan98",
     "paulsenlab",
+    "SimonDMurray",
     "colindaven",
     "alesssia",
     "sb43",
@@ -1269,7 +1270,6 @@
     "pvanheus",
     "ahepperla",
     "berombau",
-    "SimonDMurray",
     "ybaeus",
     "mp15",
     "fidlerdb",
@@ -2010,13 +2010,13 @@
     "jeremymsimon",
     "ChillarAnand"
   ],
-  "numberOfPullRequestNew": 408,
+  "numberOfPullRequestNew": 383,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 10733,
+  "p50SecondsToClosePulls": 11232,
   "p50SecondsToCloseIssues": 245677,
-  "meanNumberOfNewPullsPerWeek": 65.0297619047619,
+  "meanNumberOfNewPullsPerWeek": 65.04464285714286,
   "meanNumberOfNewContributorsPerWeek": 5.872781065088757,
-  "meanSecondsToClosePulls": 131962.17401960783,
-  "meanSecondsToCloseIssues": 404323.1228070175
+  "meanSecondsToClosePulls": 134342.52219321148,
+  "meanSecondsToCloseIssues": 398911.2363636364
 }
