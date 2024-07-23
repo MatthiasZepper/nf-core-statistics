@@ -1899,7 +1899,6 @@
     "nfg-interline",
     "ArlindNocaj",
     "Nicobouch",
-    "nash73b91203005",
     "ajfriedman18",
     "Madhumitha0206",
     "Qiangong2",
@@ -1985,6 +1984,7 @@
     "Microbion",
     "martinklapper",
     "jeremymsimon",
+    "prot-devin",
     "ChillarAnand"
   ],
   "namesOfContributorsNew": [
@@ -2007,15 +2007,16 @@
     "Microbion",
     "martinklapper",
     "jeremymsimon",
+    "prot-devin",
     "ChillarAnand"
   ],
-  "numberOfPullRequestNew": 361,
+  "numberOfPullRequestNew": 378,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 11158,
-  "p50SecondsToCloseIssues": 245677,
-  "meanNumberOfNewPullsPerWeek": 65.04761904761905,
-  "meanNumberOfNewContributorsPerWeek": 5.872781065088757,
-  "meanSecondsToClosePulls": 125979.26869806094,
-  "meanSecondsToCloseIssues": 422298.9285714286
+  "p50SecondsToClosePulls": 11709,
+  "p50SecondsToCloseIssues": 260883,
+  "meanNumberOfNewPullsPerWeek": 64.90801186943621,
+  "meanNumberOfNewContributorsPerWeek": 5.855457227138643,
+  "meanSecondsToClosePulls": 129854.67195767196,
+  "meanSecondsToCloseIssues": 444918.69491525425
 }
