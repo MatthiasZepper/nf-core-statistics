@@ -1993,6 +1993,7 @@
     "Vedanth-Ramji",
     "AitorPeseta",
     "aleixo20",
+    "Xinpeng021001",
     "ewissel",
     "Microbion",
     "martinklapper",
@@ -2017,6 +2018,7 @@
     "Vedanth-Ramji",
     "AitorPeseta",
     "aleixo20",
+    "Xinpeng021001",
     "ewissel",
     "Microbion",
     "martinklapper",
@@ -2026,13 +2028,13 @@
     "ChillarAnand",
     "jantmo"
   ],
-  "numberOfPullRequestNew": 362,
+  "numberOfPullRequestNew": 355,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
   "p50SecondsToClosePulls": 10960,
-  "p50SecondsToCloseIssues": 206681,
+  "p50SecondsToCloseIssues": 175139,
   "meanNumberOfNewPullsPerWeek": 65.09198813056379,
-  "meanNumberOfNewContributorsPerWeek": 5.899705014749262,
-  "meanSecondsToClosePulls": 122955.4502762431,
-  "meanSecondsToCloseIssues": 413936.31746031746
+  "meanNumberOfNewContributorsPerWeek": 5.902654867256637,
+  "meanSecondsToClosePulls": 119300.9352112676,
+  "meanSecondsToCloseIssues": 371358.8
 }
