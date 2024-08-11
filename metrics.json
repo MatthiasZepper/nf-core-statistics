@@ -1435,6 +1435,7 @@
     "YeHW",
     "eolaniru",
     "zhennyang",
+    "poddarharsh15",
     "FedericoComoglio",
     "klmr",
     "blancha",
@@ -1674,7 +1675,6 @@
     "BlueBicycleBlog",
     "LeonHornich",
     "rollf",
-    "poddarharsh15",
     "tkchafin",
     "Vedanth-Ramji",
     "AitorPeseta",
@@ -2052,13 +2052,13 @@
     "jantmo",
     "nicoaira"
   ],
-  "numberOfPullRequestNew": 405,
+  "numberOfPullRequestNew": 392,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
   "p50SecondsToClosePulls": 40555,
-  "p50SecondsToCloseIssues": 204943,
-  "meanNumberOfNewPullsPerWeek": 65.4188790560472,
+  "p50SecondsToCloseIssues": 180261,
+  "meanNumberOfNewPullsPerWeek": 65.42182890855457,
   "meanNumberOfNewContributorsPerWeek": 5.947214076246334,
-  "meanSecondsToClosePulls": 178591.54814814814,
-  "meanSecondsToCloseIssues": 383686.65079365077
+  "meanSecondsToClosePulls": 174433.1173469388,
+  "meanSecondsToCloseIssues": 350361.88524590165
 }
