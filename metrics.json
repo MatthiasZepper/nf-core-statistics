@@ -2055,13 +2055,13 @@
     "jantmo",
     "nicoaira"
   ],
-  "numberOfPullRequestNew": 405,
+  "numberOfPullRequestNew": 430,
   "p50NumberOfNewPullsPerWeek": 50,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 37335,
+  "p50SecondsToClosePulls": 31193,
   "p50SecondsToCloseIssues": 204943,
-  "meanNumberOfNewPullsPerWeek": 65.30882352941177,
+  "meanNumberOfNewPullsPerWeek": 65.39411764705882,
   "meanNumberOfNewContributorsPerWeek": 5.941520467836257,
-  "meanSecondsToClosePulls": 174838.40740740742,
-  "meanSecondsToCloseIssues": 356976.44615384616
+  "meanSecondsToClosePulls": 183054.42558139534,
+  "meanSecondsToCloseIssues": 358457.3432835821
 }
