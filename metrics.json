@@ -959,6 +959,7 @@
     "Anenovaes",
     "aboddicker",
     "felipemachado85",
+    "HaidYi",
     "lindenb",
     "ZandraFagernas",
     "scarlhoff",
@@ -1970,8 +1971,8 @@
     "msanvicente",
     "metinyazar",
     "mschaffer-incyte",
-    "jeremymsimon",
     "joannakraw",
+    "jeremymsimon",
     "XanderC137",
     "gl9797",
     "expansion-bioemformatics",
@@ -2031,7 +2032,6 @@
     "ChillarAnand",
     "mptrsen",
     "jantmo",
-    "HaidYi",
     "Thomieh73",
     "zackhenny",
     "VerbalCant",
@@ -2055,7 +2055,6 @@
     "nicoaira"
   ],
   "namesOfContributorsNew": [
-    "HaidYi",
     "Thomieh73",
     "zackhenny",
     "VerbalCant",
@@ -2078,13 +2077,13 @@
     "jkneppers",
     "nicoaira"
   ],
-  "numberOfPullRequestNew": 460,
+  "numberOfPullRequestNew": 437,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 40660,
-  "p50SecondsToCloseIssues": 254370,
-  "meanNumberOfNewPullsPerWeek": 65.80645161290323,
+  "p50SecondsToClosePulls": 42117,
+  "p50SecondsToCloseIssues": 255747,
+  "meanNumberOfNewPullsPerWeek": 65.81818181818181,
   "meanNumberOfNewContributorsPerWeek": 5.982507288629738,
-  "meanSecondsToClosePulls": 131327.39782608696,
-  "meanSecondsToCloseIssues": 366278.41333333333
+  "meanSecondsToClosePulls": 131678.60411899313,
+  "meanSecondsToCloseIssues": 360259.53731343284
 }
