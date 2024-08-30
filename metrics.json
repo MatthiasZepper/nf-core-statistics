@@ -131,6 +131,7 @@
     "itrujnara",
     "famosab",
     "LaurenceKuhl",
+    "GallVp",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -370,7 +371,6 @@
     "Michal-Babins",
     "Salome-Brunon",
     "jannikseidelQBiC",
-    "GallVp",
     "kai-lawsonmcdowall",
     "kubranarci",
     "migueLib",
@@ -1971,6 +1971,8 @@
     "Madhumitha0206",
     "Qiangong2",
     "lewynli",
+    "reginabohnert",
+    "youpze",
     "rcannood",
     "eseiler",
     "aheravi",
@@ -2056,6 +2058,7 @@
     "hkunerth",
     "mweyrich28",
     "sitems",
+    "tud03125",
     "jkneppers"
   ],
   "namesOfContributorsNew": [
@@ -2075,15 +2078,16 @@
     "hkunerth",
     "mweyrich28",
     "sitems",
+    "tud03125",
     "jkneppers"
   ],
-  "numberOfPullRequestNew": 582,
+  "numberOfPullRequestNew": 603,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 38222,
+  "p50SecondsToClosePulls": 36843,
   "p50SecondsToCloseIssues": 271626,
-  "meanNumberOfNewPullsPerWeek": 66.17251461988305,
-  "meanNumberOfNewContributorsPerWeek": 5.976744186046512,
-  "meanSecondsToClosePulls": 124178.68384879726,
-  "meanSecondsToCloseIssues": 405751.11267605633
+  "meanNumberOfNewPullsPerWeek": 66.28947368421052,
+  "meanNumberOfNewContributorsPerWeek": 5.9854651162790695,
+  "meanSecondsToClosePulls": 118982.66998341626,
+  "meanSecondsToCloseIssues": 396840.16438356164
 }
