@@ -2081,13 +2081,13 @@
     "tud03125",
     "jkneppers"
   ],
-  "numberOfPullRequestNew": 633,
+  "numberOfPullRequestNew": 620,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 33504,
-  "p50SecondsToCloseIssues": 271626,
-  "meanNumberOfNewPullsPerWeek": 66.44736842105263,
+  "p50SecondsToClosePulls": 33351,
+  "p50SecondsToCloseIssues": 256736,
+  "meanNumberOfNewPullsPerWeek": 66.45029239766082,
   "meanNumberOfNewContributorsPerWeek": 5.988372093023256,
-  "meanSecondsToClosePulls": 117512.15481832543,
-  "meanSecondsToCloseIssues": 388597.15942028986
+  "meanSecondsToClosePulls": 114173.2435483871,
+  "meanSecondsToCloseIssues": 391620.34375
 }
