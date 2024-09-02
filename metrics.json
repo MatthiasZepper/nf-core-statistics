@@ -1699,6 +1699,7 @@
     "LeonHornich",
     "rollf",
     "Vedanth-Ramji",
+    "DimitriTernovoj",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2052,7 +2053,6 @@
     "Juan-Andres-cmd",
     "herpov",
     "chumawinnie",
-    "DimitriTernovoj",
     "mberacochea",
     "nmshahir",
     "FernandoDuarteF",
@@ -2071,7 +2071,6 @@
     "Juan-Andres-cmd",
     "herpov",
     "chumawinnie",
-    "DimitriTernovoj",
     "mberacochea",
     "nmshahir",
     "FernandoDuarteF",
@@ -2081,13 +2080,13 @@
     "tud03125",
     "jkneppers"
   ],
-  "numberOfPullRequestNew": 620,
+  "numberOfPullRequestNew": 603,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 33351,
+  "p50SecondsToClosePulls": 31193,
   "p50SecondsToCloseIssues": 256736,
-  "meanNumberOfNewPullsPerWeek": 66.45029239766082,
+  "meanNumberOfNewPullsPerWeek": 66.45614035087719,
   "meanNumberOfNewContributorsPerWeek": 5.988372093023256,
-  "meanSecondsToClosePulls": 114173.2435483871,
-  "meanSecondsToCloseIssues": 391620.34375
+  "meanSecondsToClosePulls": 115351.39137645108,
+  "meanSecondsToCloseIssues": 395891.737704918
 }
