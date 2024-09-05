@@ -1081,6 +1081,7 @@
     "vishal7245",
     "ylang0825",
     "karlaarz",
+    "egaffo",
     "BWMac",
     "Andreher00",
     "matbou85",
@@ -2066,6 +2067,7 @@
     "asogg",
     "torres-HI",
     "tud03125",
+    "znorgaard",
     "jkneppers"
   ],
   "namesOfContributorsNew": [
@@ -2090,15 +2092,16 @@
     "asogg",
     "torres-HI",
     "tud03125",
+    "znorgaard",
     "jkneppers"
   ],
-  "numberOfPullRequestNew": 646,
+  "numberOfPullRequestNew": 653,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 33504,
-  "p50SecondsToCloseIssues": 271626,
-  "meanNumberOfNewPullsPerWeek": 66.43148688046647,
-  "meanNumberOfNewContributorsPerWeek": 5.988405797101449,
-  "meanSecondsToClosePulls": 119297.06346749226,
-  "meanSecondsToCloseIssues": 414997.8115942029
+  "p50SecondsToClosePulls": 32424,
+  "p50SecondsToCloseIssues": 279763,
+  "meanNumberOfNewPullsPerWeek": 66.49562682215743,
+  "meanNumberOfNewContributorsPerWeek": 5.994202898550725,
+  "meanSecondsToClosePulls": 120662.41041347626,
+  "meanSecondsToCloseIssues": 420213.5540540541
 }
