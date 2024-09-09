@@ -399,6 +399,7 @@
     "LeonHafner",
     "nschcolnicov",
     "chiarasch",
+    "MargotCh",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -1633,7 +1634,6 @@
     "msantorsola",
     "gordondraskic",
     "VojislavLukic",
-    "MargotCh",
     "johannesnicolaus",
     "RobJY",
     "limrp",
@@ -2096,13 +2096,13 @@
     "znorgaard",
     "jkneppers"
   ],
-  "numberOfPullRequestNew": 656,
+  "numberOfPullRequestNew": 639,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 31966,
+  "p50SecondsToClosePulls": 32191,
   "p50SecondsToCloseIssues": 364524,
   "meanNumberOfNewPullsPerWeek": 66.74052478134111,
   "meanNumberOfNewContributorsPerWeek": 6,
-  "meanSecondsToClosePulls": 110089.0625,
-  "meanSecondsToCloseIssues": 435997.1690140845
+  "meanSecondsToClosePulls": 106586.15649452269,
+  "meanSecondsToCloseIssues": 438430.28985507245
 }
