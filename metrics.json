@@ -2064,6 +2064,7 @@
     "mberacochea",
     "nmshahir",
     "FernandoDuarteF",
+    "EthanY-HSung",
     "hkunerth",
     "sitems",
     "asogg",
@@ -2088,6 +2089,7 @@
     "mberacochea",
     "nmshahir",
     "FernandoDuarteF",
+    "EthanY-HSung",
     "hkunerth",
     "sitems",
     "asogg",
@@ -2096,13 +2098,13 @@
     "znorgaard",
     "jkneppers"
   ],
-  "numberOfPullRequestNew": 639,
+  "numberOfPullRequestNew": 649,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
   "p50SecondsToClosePulls": 32191,
-  "p50SecondsToCloseIssues": 364524,
-  "meanNumberOfNewPullsPerWeek": 66.74052478134111,
-  "meanNumberOfNewContributorsPerWeek": 6,
-  "meanSecondsToClosePulls": 106586.15649452269,
-  "meanSecondsToCloseIssues": 438430.28985507245
+  "p50SecondsToCloseIssues": 279763,
+  "meanNumberOfNewPullsPerWeek": 66.57848837209302,
+  "meanNumberOfNewContributorsPerWeek": 5.985549132947977,
+  "meanSecondsToClosePulls": 106926.60554699537,
+  "meanSecondsToCloseIssues": 429973.8333333333
 }
