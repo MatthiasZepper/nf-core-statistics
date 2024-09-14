@@ -193,6 +193,7 @@
     "Ethan-Hetrick",
     "RHReynolds",
     "TCLamnidis",
+    "sgopalan98",
     "IreneRobles",
     "luisas",
     "multimeric",
@@ -200,7 +201,6 @@
     "toniher",
     "jmuhlich",
     "HomoPolyethylen",
-    "sgopalan98",
     "paulsenlab",
     "SimonDMurray",
     "mandysulli",
@@ -2052,6 +2052,7 @@
     "jantmo",
     "nicoaira",
     "eperezme",
+    "mtinti",
     "alexlyttle",
     "camillevleal",
     "VerbalCant",
@@ -2075,6 +2076,7 @@
   ],
   "namesOfContributorsNew": [
     "eperezme",
+    "mtinti",
     "alexlyttle",
     "camillevleal",
     "VerbalCant",
@@ -2096,13 +2098,13 @@
     "znorgaard",
     "jkneppers"
   ],
-  "numberOfPullRequestNew": 620,
+  "numberOfPullRequestNew": 623,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 33151,
-  "p50SecondsToCloseIssues": 334021,
-  "meanNumberOfNewPullsPerWeek": 66.70058139534883,
-  "meanNumberOfNewContributorsPerWeek": 5.985549132947977,
-  "meanSecondsToClosePulls": 110309.72741935484,
-  "meanSecondsToCloseIssues": 459217.08450704225
+  "p50SecondsToClosePulls": 33504,
+  "p50SecondsToCloseIssues": 326670,
+  "meanNumberOfNewPullsPerWeek": 66.75872093023256,
+  "meanNumberOfNewContributorsPerWeek": 5.988439306358382,
+  "meanSecondsToClosePulls": 106975.52166934189,
+  "meanSecondsToCloseIssues": 461202.1884057971
 }
