@@ -2097,13 +2097,13 @@
     "znorgaard",
     "jkneppers"
   ],
-  "numberOfPullRequestNew": 590,
+  "numberOfPullRequestNew": 606,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
   "p50SecondsToClosePulls": 33504,
-  "p50SecondsToCloseIssues": 279763,
-  "meanNumberOfNewPullsPerWeek": 66.7703488372093,
-  "meanNumberOfNewContributorsPerWeek": 5.991329479768786,
-  "meanSecondsToClosePulls": 102202.11525423729,
-  "meanSecondsToCloseIssues": 454702.6612903226
+  "p50SecondsToCloseIssues": 364558,
+  "meanNumberOfNewPullsPerWeek": 66.63188405797102,
+  "meanNumberOfNewContributorsPerWeek": 5.974063400576369,
+  "meanSecondsToClosePulls": 103051.98844884489,
+  "meanSecondsToCloseIssues": 482899.6478873239
 }
