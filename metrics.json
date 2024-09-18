@@ -2055,6 +2055,7 @@
     "jantmo",
     "nicoaira",
     "eperezme",
+    "geethavenk",
     "mtinti",
     "alexlyttle",
     "camillevleal",
@@ -2077,6 +2078,7 @@
   ],
   "namesOfContributorsNew": [
     "eperezme",
+    "geethavenk",
     "mtinti",
     "alexlyttle",
     "camillevleal",
@@ -2097,13 +2099,13 @@
     "znorgaard",
     "jkneppers"
   ],
-  "numberOfPullRequestNew": 606,
+  "numberOfPullRequestNew": 632,
   "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 33504,
-  "p50SecondsToCloseIssues": 364558,
-  "meanNumberOfNewPullsPerWeek": 66.63188405797102,
-  "meanNumberOfNewContributorsPerWeek": 5.974063400576369,
-  "meanSecondsToClosePulls": 103051.98844884489,
-  "meanSecondsToCloseIssues": 482899.6478873239
+  "p50SecondsToClosePulls": 33151,
+  "p50SecondsToCloseIssues": 376743,
+  "meanNumberOfNewPullsPerWeek": 66.72753623188406,
+  "meanNumberOfNewContributorsPerWeek": 5.976945244956772,
+  "meanSecondsToClosePulls": 108914.60917721518,
+  "meanSecondsToCloseIssues": 506792.3461538461
 }
