@@ -2018,6 +2018,7 @@
     "SergioManzano10",
     "torres-HI",
     "brentp",
+    "znorgaard",
     "tobyaicher",
     "MikeHala",
     "anushishah",
@@ -2067,6 +2068,7 @@
     "jantmo",
     "nicoaira",
     "geethavenk",
+    "lathikaa",
     "tanyasarkjain",
     "mtinti",
     "carlcrott",
@@ -2083,11 +2085,11 @@
     "chenhijy",
     "asogg",
     "sme229",
-    "tud03125",
-    "znorgaard"
+    "tud03125"
   ],
   "namesOfContributorsNew": [
     "geethavenk",
+    "lathikaa",
     "tanyasarkjain",
     "mtinti",
     "carlcrott",
@@ -2104,16 +2106,15 @@
     "chenhijy",
     "asogg",
     "sme229",
-    "tud03125",
-    "znorgaard"
+    "tud03125"
   ],
-  "numberOfPullRequestNew": 586,
+  "numberOfPullRequestNew": 567,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 25720,
-  "p50SecondsToCloseIssues": 334021,
-  "meanNumberOfNewPullsPerWeek": 66.94202898550725,
-  "meanNumberOfNewContributorsPerWeek": 6.005763688760807,
-  "meanSecondsToClosePulls": 113114.8361774744,
-  "meanSecondsToCloseIssues": 445042.7215189873
+  "p50SecondsToClosePulls": 25911,
+  "p50SecondsToCloseIssues": 279763,
+  "meanNumberOfNewPullsPerWeek": 66.94782608695652,
+  "meanNumberOfNewContributorsPerWeek": 6.008645533141211,
+  "meanSecondsToClosePulls": 111038.39329805996,
+  "meanSecondsToCloseIssues": 430732.7368421053
 }
