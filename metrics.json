@@ -2108,13 +2108,13 @@
     "sme229",
     "tud03125"
   ],
-  "numberOfPullRequestNew": 567,
-  "p50NumberOfNewPullsPerWeek": 53,
+  "numberOfPullRequestNew": 592,
+  "p50NumberOfNewPullsPerWeek": 52,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 25911,
-  "p50SecondsToCloseIssues": 279763,
-  "meanNumberOfNewPullsPerWeek": 66.94782608695652,
-  "meanNumberOfNewContributorsPerWeek": 6.008645533141211,
-  "meanSecondsToClosePulls": 111038.39329805996,
-  "meanSecondsToCloseIssues": 430732.7368421053
+  "p50SecondsToClosePulls": 27183,
+  "p50SecondsToCloseIssues": 334021,
+  "meanNumberOfNewPullsPerWeek": 66.82947976878613,
+  "meanNumberOfNewContributorsPerWeek": 5.991379310344827,
+  "meanSecondsToClosePulls": 130526.05067567568,
+  "meanSecondsToCloseIssues": 438498.7625
 }
