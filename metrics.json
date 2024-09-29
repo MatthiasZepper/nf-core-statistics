@@ -785,6 +785,7 @@
     "AlexVCaron",
     "mikemc",
     "tkchafin",
+    "mbruhns",
     "hmenager",
     "saharai",
     "seth-biorad",
@@ -1748,7 +1749,6 @@
     "Mahnaz-Shemirani",
     "vicpaton",
     "srusher",
-    "mbruhns",
     "dbdimitrov",
     "FrancescaB19",
     "epfarias",
@@ -2116,13 +2116,13 @@
     "lauren-tjoeka",
     "jml96"
   ],
-  "numberOfPullRequestNew": 480,
+  "numberOfPullRequestNew": 433,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 31044,
-  "p50SecondsToCloseIssues": 255199,
-  "meanNumberOfNewPullsPerWeek": 67.02890173410404,
+  "p50SecondsToClosePulls": 30488,
+  "p50SecondsToCloseIssues": 257078,
+  "meanNumberOfNewPullsPerWeek": 67.03179190751445,
   "meanNumberOfNewContributorsPerWeek": 6.011494252873563,
-  "meanSecondsToClosePulls": 148729.18125,
-  "meanSecondsToCloseIssues": 460159.61333333334
+  "meanSecondsToClosePulls": 147874.5819861432,
+  "meanSecondsToCloseIssues": 472478.90410958906
 }
