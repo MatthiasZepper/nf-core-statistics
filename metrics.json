@@ -2116,13 +2116,13 @@
     "lauren-tjoeka",
     "jml96"
   ],
-  "numberOfPullRequestNew": 433,
+  "numberOfPullRequestNew": 390,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 30488,
-  "p50SecondsToCloseIssues": 257078,
+  "p50SecondsToClosePulls": 39112,
+  "p50SecondsToCloseIssues": 255199,
   "meanNumberOfNewPullsPerWeek": 67.03179190751445,
   "meanNumberOfNewContributorsPerWeek": 6.011494252873563,
-  "meanSecondsToClosePulls": 147874.5819861432,
-  "meanSecondsToCloseIssues": 472478.90410958906
+  "meanSecondsToClosePulls": 142746.31794871794,
+  "meanSecondsToCloseIssues": 448721.32857142854
 }
