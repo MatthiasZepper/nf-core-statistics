@@ -2091,6 +2091,7 @@
     "chenhijy",
     "asogg",
     "sme229",
+    "KTMD-plant",
     "lauren-tjoeka",
     "jml96"
   ],
@@ -2113,16 +2114,17 @@
     "chenhijy",
     "asogg",
     "sme229",
+    "KTMD-plant",
     "lauren-tjoeka",
     "jml96"
   ],
-  "numberOfPullRequestNew": 418,
+  "numberOfPullRequestNew": 425,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 34652,
-  "p50SecondsToCloseIssues": 228919,
-  "meanNumberOfNewPullsPerWeek": 66.9250720461095,
-  "meanNumberOfNewContributorsPerWeek": 5.994269340974212,
-  "meanSecondsToClosePulls": 170916.55980861245,
-  "meanSecondsToCloseIssues": 437624.88732394367
+  "p50SecondsToClosePulls": 31966,
+  "p50SecondsToCloseIssues": 214215,
+  "meanNumberOfNewPullsPerWeek": 66.98847262247838,
+  "meanNumberOfNewContributorsPerWeek": 5.997134670487106,
+  "meanSecondsToClosePulls": 163400.83529411766,
+  "meanSecondsToCloseIssues": 444214.56962025317
 }
