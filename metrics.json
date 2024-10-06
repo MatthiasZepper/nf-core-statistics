@@ -2048,6 +2048,7 @@
     "fpsanz",
     "dgoswamia",
     "rekren",
+    "jml96",
     "lucidif",
     "allenyen",
     "casslitch",
@@ -2096,7 +2097,6 @@
     "sme229",
     "KTMD-plant",
     "lauren-tjoeka",
-    "jml96",
     "lukfor"
   ],
   "namesOfContributorsNew": [
@@ -2119,16 +2119,15 @@
     "sme229",
     "KTMD-plant",
     "lauren-tjoeka",
-    "jml96",
     "lukfor"
   ],
-  "numberOfPullRequestNew": 433,
+  "numberOfPullRequestNew": 388,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 24600,
-  "p50SecondsToCloseIssues": 204215,
-  "meanNumberOfNewPullsPerWeek": 67.23631123919309,
+  "p50SecondsToClosePulls": 23900,
+  "p50SecondsToCloseIssues": 166730,
+  "meanNumberOfNewPullsPerWeek": 67.2507204610951,
   "meanNumberOfNewContributorsPerWeek": 6.008595988538682,
-  "meanSecondsToClosePulls": 173677.40877598152,
-  "meanSecondsToCloseIssues": 445440.15789473685
+  "meanSecondsToClosePulls": 183467.3556701031,
+  "meanSecondsToCloseIssues": 385042.2083333333
 }
