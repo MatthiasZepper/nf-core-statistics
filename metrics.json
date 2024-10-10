@@ -405,6 +405,7 @@
     "chiarasch",
     "MargotCh",
     "lathikaa",
+    "lindenb",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -979,7 +980,6 @@
     "Thomieh73",
     "zackhenny",
     "camillevleal",
-    "lindenb",
     "ZandraFagernas",
     "scarlhoff",
     "96RadhikaJadhav",
@@ -2035,6 +2035,7 @@
     "MikeHala",
     "anushishah",
     "prot-devin",
+    "lauren-tjoeka",
     "johandahlberg",
     "ambarrio",
     "rezaeinfo",
@@ -2098,7 +2099,7 @@
     "chenhijy",
     "sme229",
     "KTMD-plant",
-    "lauren-tjoeka",
+    "cloud2266",
     "lukfor"
   ],
   "namesOfContributorsNew": [
@@ -2120,16 +2121,16 @@
     "chenhijy",
     "sme229",
     "KTMD-plant",
-    "lauren-tjoeka",
+    "cloud2266",
     "lukfor"
   ],
-  "numberOfPullRequestNew": 404,
+  "numberOfPullRequestNew": 525,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 18299,
-  "p50SecondsToCloseIssues": 116104,
-  "meanNumberOfNewPullsPerWeek": 67.16954022988506,
-  "meanNumberOfNewContributorsPerWeek": 5.997142857142857,
-  "meanSecondsToClosePulls": 178898.78465346535,
-  "meanSecondsToCloseIssues": 349628.9411764706
+  "p50SecondsToClosePulls": 55195,
+  "p50SecondsToCloseIssues": 136043,
+  "meanNumberOfNewPullsPerWeek": 67.62931034482759,
+  "meanNumberOfNewContributorsPerWeek": 6,
+  "meanSecondsToClosePulls": 160328.55238095237,
+  "meanSecondsToCloseIssues": 366575.22535211267
 }
