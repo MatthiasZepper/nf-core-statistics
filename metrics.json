@@ -1228,6 +1228,7 @@
     "ZheFrench",
     "Joshuasync",
     "vwucher",
+    "HCLbioinfo",
     "zalsafwani",
     "frenkiboy",
     "brunohhomem",
@@ -2083,6 +2084,7 @@
     "nicoaira",
     "geethavenk",
     "tanyasarkjain",
+    "J-Moravec",
     "mtinti",
     "kmpf",
     "paolamaragno",
@@ -2105,6 +2107,7 @@
   "namesOfContributorsNew": [
     "geethavenk",
     "tanyasarkjain",
+    "J-Moravec",
     "mtinti",
     "kmpf",
     "paolamaragno",
@@ -2124,13 +2127,13 @@
     "cloud2266",
     "lukfor"
   ],
-  "numberOfPullRequestNew": 525,
+  "numberOfPullRequestNew": 535,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 55195,
-  "p50SecondsToCloseIssues": 136043,
-  "meanNumberOfNewPullsPerWeek": 67.62931034482759,
-  "meanNumberOfNewContributorsPerWeek": 6,
-  "meanSecondsToClosePulls": 160328.55238095237,
-  "meanSecondsToCloseIssues": 366575.22535211267
+  "p50SecondsToClosePulls": 56225,
+  "p50SecondsToCloseIssues": 156498,
+  "meanNumberOfNewPullsPerWeek": 67.7183908045977,
+  "meanNumberOfNewContributorsPerWeek": 6.005714285714285,
+  "meanSecondsToClosePulls": 157949.14579439253,
+  "meanSecondsToCloseIssues": 376898.1690140845
 }
