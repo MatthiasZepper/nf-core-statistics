@@ -2128,13 +2128,13 @@
     "cloud2266",
     "lukfor"
   ],
-  "numberOfPullRequestNew": 625,
+  "numberOfPullRequestNew": 646,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 73492,
-  "p50SecondsToCloseIssues": 92152,
-  "meanNumberOfNewPullsPerWeek": 67.94269340974212,
+  "p50SecondsToClosePulls": 75494,
+  "p50SecondsToCloseIssues": 94063,
+  "meanNumberOfNewPullsPerWeek": 68.00859598853869,
   "meanNumberOfNewContributorsPerWeek": 5.997150997150997,
-  "meanSecondsToClosePulls": 143226.6368,
-  "meanSecondsToCloseIssues": 265600.89285714284
+  "meanSecondsToClosePulls": 149624.12848297213,
+  "meanSecondsToCloseIssues": 285721.7966101695
 }
