@@ -1383,6 +1383,7 @@
     "loipf",
     "rasmirnov",
     "giulioisac",
+    "zhanyinx",
     "bewt85",
     "angelovangel",
     "Shellfishgene",
@@ -2135,13 +2136,13 @@
     "cloud2266",
     "lukfor"
   ],
-  "numberOfPullRequestNew": 659,
+  "numberOfPullRequestNew": 645,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 78803,
+  "p50SecondsToClosePulls": 78901,
   "p50SecondsToCloseIssues": 135909,
-  "meanNumberOfNewPullsPerWeek": 68.243553008596,
-  "meanNumberOfNewContributorsPerWeek": 6.017094017094017,
-  "meanSecondsToClosePulls": 146109.25037936267,
-  "meanSecondsToCloseIssues": 318295.2631578947
+  "meanNumberOfNewPullsPerWeek": 68.25787965616045,
+  "meanNumberOfNewContributorsPerWeek": 6.01994301994302,
+  "meanSecondsToClosePulls": 145825.33178294572,
+  "meanSecondsToCloseIssues": 307515.85454545455
 }
