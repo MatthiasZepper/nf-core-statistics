@@ -2106,6 +2106,7 @@
     "oliverdesousa",
     "anastasiaprime",
     "Luke-ebbis",
+    "alexis-catherine",
     "JosephAgim",
     "delfiterradas",
     "lmfaber",
@@ -2124,6 +2125,7 @@
     "oliverdesousa",
     "anastasiaprime",
     "Luke-ebbis",
+    "alexis-catherine",
     "JosephAgim",
     "delfiterradas",
     "lmfaber",
@@ -2133,13 +2135,13 @@
     "cloud2266",
     "lukfor"
   ],
-  "numberOfPullRequestNew": 621,
+  "numberOfPullRequestNew": 643,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 81098,
+  "p50SecondsToClosePulls": 81103,
   "p50SecondsToCloseIssues": 156498,
-  "meanNumberOfNewPullsPerWeek": 68.27220630372493,
-  "meanNumberOfNewContributorsPerWeek": 6.01994301994302,
-  "meanSecondsToClosePulls": 141747.92592592593,
-  "meanSecondsToCloseIssues": 325948.52
+  "meanNumberOfNewPullsPerWeek": 68.15142857142857,
+  "meanNumberOfNewContributorsPerWeek": 6.005681818181818,
+  "meanSecondsToClosePulls": 145909.70451010886,
+  "meanSecondsToCloseIssues": 335598.6153846154
 }
