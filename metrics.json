@@ -1616,6 +1616,7 @@
     "radaniba",
     "cuppacuppa",
     "AndyBlake",
+    "kunstner",
     "sjaenick",
     "wheat2024",
     "fan040",
@@ -2159,13 +2160,13 @@
     "marcus-tutert",
     "lukfor"
   ],
-  "numberOfPullRequestNew": 728,
+  "numberOfPullRequestNew": 718,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 77471,
+  "p50SecondsToClosePulls": 78770,
   "p50SecondsToCloseIssues": 249310,
-  "meanNumberOfNewPullsPerWeek": 68.78571428571429,
-  "meanNumberOfNewContributorsPerWeek": 6.059659090909091,
-  "meanSecondsToClosePulls": 158821.21565934067,
-  "meanSecondsToCloseIssues": 426313.91025641025
+  "meanNumberOfNewPullsPerWeek": 68.80571428571429,
+  "meanNumberOfNewContributorsPerWeek": 6.0625,
+  "meanSecondsToClosePulls": 153980.06545961002,
+  "meanSecondsToCloseIssues": 413636.50666666665
 }
