@@ -2212,13 +2212,13 @@
     "fperezcobos",
     "tom-seqera"
   ],
-  "numberOfPullRequestNew": 758,
+  "numberOfPullRequestNew": 782,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 77871,
-  "p50SecondsToCloseIssues": 224961,
-  "meanNumberOfNewPullsPerWeek": 68.95738636363636,
+  "p50SecondsToClosePulls": 78770,
+  "p50SecondsToCloseIssues": 236401,
+  "meanNumberOfNewPullsPerWeek": 69.05681818181819,
   "meanNumberOfNewContributorsPerWeek": 6.1158192090395485,
-  "meanSecondsToClosePulls": 157926.13852242744,
-  "meanSecondsToCloseIssues": 358103.07216494845
+  "meanSecondsToClosePulls": 164329.5485933504,
+  "meanSecondsToCloseIssues": 358926.8469387755
 }
