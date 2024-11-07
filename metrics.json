@@ -2144,6 +2144,7 @@
     "MartinGrignard",
     "mathob",
     "pharmlovex",
+    "soccin",
     "allyssonallan",
     "ybdong919",
     "chaochaowong",
@@ -2189,6 +2190,7 @@
     "MartinGrignard",
     "mathob",
     "pharmlovex",
+    "soccin",
     "allyssonallan",
     "ybdong919",
     "chaochaowong",
@@ -2212,13 +2214,13 @@
     "fperezcobos",
     "tom-seqera"
   ],
-  "numberOfPullRequestNew": 782,
+  "numberOfPullRequestNew": 769,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 78770,
-  "p50SecondsToCloseIssues": 236401,
-  "meanNumberOfNewPullsPerWeek": 69.05681818181819,
-  "meanNumberOfNewContributorsPerWeek": 6.1158192090395485,
-  "meanSecondsToClosePulls": 164329.5485933504,
-  "meanSecondsToCloseIssues": 358926.8469387755
+  "p50SecondsToClosePulls": 78851,
+  "p50SecondsToCloseIssues": 247923,
+  "meanNumberOfNewPullsPerWeek": 69.10511363636364,
+  "meanNumberOfNewContributorsPerWeek": 6.11864406779661,
+  "meanSecondsToClosePulls": 168040.9089726918,
+  "meanSecondsToCloseIssues": 389542.125
 }
