@@ -420,6 +420,7 @@
     "Jorisvansteenbrugge",
     "FernandoDuarteF",
     "khersameesh24",
+    "mazzalab",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -1959,7 +1960,6 @@
     "Fabian-Boehm",
     "dmgie",
     "csittz",
-    "mazzalab",
     "ianyfchang",
     "yshen16",
     "SarahMaman",
@@ -2213,13 +2213,13 @@
     "fperezcobos",
     "tom-seqera"
   ],
-  "numberOfPullRequestNew": 512,
+  "numberOfPullRequestNew": 526,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 16751,
+  "p50SecondsToClosePulls": 16901,
   "p50SecondsToCloseIssues": 249603,
-  "meanNumberOfNewPullsPerWeek": 69.10198300283287,
+  "meanNumberOfNewPullsPerWeek": 69.15014164305948,
   "meanNumberOfNewContributorsPerWeek": 6.107042253521127,
-  "meanSecondsToClosePulls": 142983.380859375,
-  "meanSecondsToCloseIssues": 411248.37623762374
+  "meanSecondsToClosePulls": 140320.58365019012,
+  "meanSecondsToCloseIssues": 416691.09803921566
 }
