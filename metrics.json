@@ -1394,6 +1394,7 @@
     "nebo56",
     "hrydbeck",
     "Juan-Andres-cmd",
+    "mathob",
     "alina-bauer",
     "thomas-davis",
     "prakakrishna",
@@ -2145,7 +2146,6 @@
     "alexis-catherine",
     "fredjaya",
     "MartinGrignard",
-    "mathob",
     "pharmlovex",
     "soccin",
     "allyssonallan",
@@ -2189,7 +2189,6 @@
     "alexis-catherine",
     "fredjaya",
     "MartinGrignard",
-    "mathob",
     "pharmlovex",
     "soccin",
     "allyssonallan",
@@ -2215,13 +2214,13 @@
     "fperezcobos",
     "tom-seqera"
   ],
-  "numberOfPullRequestNew": 526,
+  "numberOfPullRequestNew": 528,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 14052,
-  "p50SecondsToCloseIssues": 247923,
-  "meanNumberOfNewPullsPerWeek": 69.22096317280453,
+  "p50SecondsToClosePulls": 13765,
+  "p50SecondsToCloseIssues": 251799,
+  "meanNumberOfNewPullsPerWeek": 69.29178470254958,
   "meanNumberOfNewContributorsPerWeek": 6.109859154929578,
-  "meanSecondsToClosePulls": 134502.23954372623,
-  "meanSecondsToCloseIssues": 432115.0101010101
+  "meanSecondsToClosePulls": 135633.6875,
+  "meanSecondsToCloseIssues": 442172.6732673267
 }
