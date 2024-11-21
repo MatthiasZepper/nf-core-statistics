@@ -422,6 +422,7 @@
     "FernandoDuarteF",
     "khersameesh24",
     "mazzalab",
+    "MeriamOs",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -1779,7 +1780,6 @@
     "delfiterradas",
     "lmfaber",
     "Schmytzi",
-    "MeriamOs",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2210,13 +2210,13 @@
     "fperezcobos",
     "tom-seqera"
   ],
-  "numberOfPullRequestNew": 515,
+  "numberOfPullRequestNew": 522,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 14046,
-  "p50SecondsToCloseIssues": 266189,
-  "meanNumberOfNewPullsPerWeek": 69.32768361581921,
+  "p50SecondsToClosePulls": 13765,
+  "p50SecondsToCloseIssues": 333853,
+  "meanNumberOfNewPullsPerWeek": 69.39830508474576,
   "meanNumberOfNewContributorsPerWeek": 6.098314606741573,
-  "meanSecondsToClosePulls": 138710.56893203885,
-  "meanSecondsToCloseIssues": 515225.5
+  "meanSecondsToClosePulls": 144660.20881226053,
+  "meanSecondsToCloseIssues": 521316.42718446604
 }
