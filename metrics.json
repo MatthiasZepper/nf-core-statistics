@@ -118,6 +118,7 @@
     "kenibrewer",
     "asp8200",
     "vickylaram",
+    "ctuni",
     "pmoris",
     "swampie",
     "sgaleraalq",
@@ -357,7 +358,6 @@
     "peterpru",
     "prototaxites",
     "klkeys",
-    "ctuni",
     "pawelciurkaardigen",
     "adamjtaylor",
     "LilyAnderssonLee",
@@ -2210,13 +2210,13 @@
     "fperezcobos",
     "tom-seqera"
   ],
-  "numberOfPullRequestNew": 453,
+  "numberOfPullRequestNew": 461,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 15850,
+  "p50SecondsToClosePulls": 14732,
   "p50SecondsToCloseIssues": 236401,
-  "meanNumberOfNewPullsPerWeek": 69.5677966101695,
-  "meanNumberOfNewContributorsPerWeek": 6.115168539325842,
-  "meanSecondsToClosePulls": 153535.353200883,
-  "meanSecondsToCloseIssues": 435175.49333333335
+  "meanNumberOfNewPullsPerWeek": 69.4169014084507,
+  "meanNumberOfNewContributorsPerWeek": 6.098039215686274,
+  "meanSecondsToClosePulls": 151081.5097613883,
+  "meanSecondsToCloseIssues": 431252.0512820513
 }
