@@ -2154,8 +2154,10 @@
     "majakuzman",
     "cakirb",
     "mggrami",
+    "ftabaro",
     "Drob84761",
     "themudo",
+    "FerrenaAlexander",
     "jscgh",
     "kopichris",
     "pharmlovex",
@@ -2177,6 +2179,7 @@
     "sarahjeeeze",
     "paulinefx",
     "fperezcobos",
+    "AwanAlKoerdi",
     "tom-seqera"
   ],
   "namesOfContributorsNew": [
@@ -2185,8 +2188,10 @@
     "majakuzman",
     "cakirb",
     "mggrami",
+    "ftabaro",
     "Drob84761",
     "themudo",
+    "FerrenaAlexander",
     "jscgh",
     "kopichris",
     "pharmlovex",
@@ -2208,15 +2213,16 @@
     "sarahjeeeze",
     "paulinefx",
     "fperezcobos",
+    "AwanAlKoerdi",
     "tom-seqera"
   ],
-  "numberOfPullRequestNew": 461,
+  "numberOfPullRequestNew": 486,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 14732,
+  "p50SecondsToClosePulls": 15850,
   "p50SecondsToCloseIssues": 236401,
-  "meanNumberOfNewPullsPerWeek": 69.4169014084507,
-  "meanNumberOfNewContributorsPerWeek": 6.098039215686274,
-  "meanSecondsToClosePulls": 151081.5097613883,
-  "meanSecondsToCloseIssues": 431252.0512820513
+  "meanNumberOfNewPullsPerWeek": 69.50704225352112,
+  "meanNumberOfNewContributorsPerWeek": 6.106442577030812,
+  "meanSecondsToClosePulls": 163194.60905349793,
+  "meanSecondsToCloseIssues": 404844.15
 }
