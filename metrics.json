@@ -1074,6 +1074,7 @@
     "0victormh0",
     "PCQuilis",
     "VerbalCant",
+    "themudo",
     "nvk747",
     "nanjalaruth",
     "PeterBailey",
@@ -2182,7 +2183,6 @@
     "cleargem",
     "mggrami",
     "ftabaro",
-    "themudo",
     "FerrenaAlexander",
     "jscgh",
     "soccin",
@@ -2197,7 +2197,6 @@
     "cleargem",
     "mggrami",
     "ftabaro",
-    "themudo",
     "FerrenaAlexander",
     "jscgh",
     "soccin",
@@ -2207,13 +2206,13 @@
     "oligomyeggo",
     "nbtm-sh"
   ],
-  "numberOfPullRequestNew": 417,
+  "numberOfPullRequestNew": 413,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 16976,
+  "p50SecondsToClosePulls": 16901,
   "p50SecondsToCloseIssues": 356238,
-  "meanNumberOfNewPullsPerWeek": 69.73239436619718,
+  "meanNumberOfNewPullsPerWeek": 69.7605633802817,
   "meanNumberOfNewContributorsPerWeek": 6.1344537815126055,
-  "meanSecondsToClosePulls": 142056.1918465228,
-  "meanSecondsToCloseIssues": 456846.9014084507
+  "meanSecondsToClosePulls": 132989.41404358353,
+  "meanSecondsToCloseIssues": 441634.72463768115
 }
