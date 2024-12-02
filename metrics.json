@@ -2206,13 +2206,13 @@
     "oligomyeggo",
     "nbtm-sh"
   ],
-  "numberOfPullRequestNew": 413,
+  "numberOfPullRequestNew": 408,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 16901,
+  "p50SecondsToClosePulls": 16808,
   "p50SecondsToCloseIssues": 356238,
-  "meanNumberOfNewPullsPerWeek": 69.7605633802817,
+  "meanNumberOfNewPullsPerWeek": 69.7661971830986,
   "meanNumberOfNewContributorsPerWeek": 6.1344537815126055,
-  "meanSecondsToClosePulls": 132989.41404358353,
+  "meanSecondsToClosePulls": 123689.5294117647,
   "meanSecondsToCloseIssues": 441634.72463768115
 }
