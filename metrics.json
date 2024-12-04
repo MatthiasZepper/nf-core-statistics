@@ -2183,6 +2183,8 @@
     "AwanAlKoerdi",
     "tom-seqera",
     "PanosProv",
+    "oligomyeggo",
+    "cihanerkut",
     "cleargem",
     "mggrami",
     "ftabaro",
@@ -2191,11 +2193,13 @@
     "soccin",
     "kristianunger",
     "alanmmobbs93",
-    "oligomyeggo",
-    "nbtm-sh"
+    "nbtm-sh",
+    "Pg-Pi3Gey"
   ],
   "namesOfContributorsNew": [
     "PanosProv",
+    "oligomyeggo",
+    "cihanerkut",
     "cleargem",
     "mggrami",
     "ftabaro",
@@ -2204,16 +2208,16 @@
     "soccin",
     "kristianunger",
     "alanmmobbs93",
-    "oligomyeggo",
-    "nbtm-sh"
+    "nbtm-sh",
+    "Pg-Pi3Gey"
   ],
-  "numberOfPullRequestNew": 424,
+  "numberOfPullRequestNew": 465,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 16976,
-  "p50SecondsToCloseIssues": 356238,
-  "meanNumberOfNewPullsPerWeek": 69.64606741573034,
-  "meanNumberOfNewContributorsPerWeek": 6.122905027932961,
-  "meanSecondsToClosePulls": 134464.79245283018,
-  "meanSecondsToCloseIssues": 450186.72222222225
+  "p50SecondsToClosePulls": 19256,
+  "p50SecondsToCloseIssues": 366485,
+  "meanNumberOfNewPullsPerWeek": 69.77247191011236,
+  "meanNumberOfNewContributorsPerWeek": 6.128491620111732,
+  "meanSecondsToClosePulls": 155500.4322580645,
+  "meanSecondsToCloseIssues": 516225.98863636365
 }
