@@ -2174,6 +2174,7 @@
     "brandon-hastings",
     "nicola-calonaci",
     "elena-buscaroli",
+    "valerianilucrezia",
     "erkutilaslan",
     "nggvs",
     "sarahjeeeze",
@@ -2198,7 +2199,8 @@
     "kristianunger",
     "Ge94",
     "nbtm-sh",
-    "Pg-Pi3Gey"
+    "Pg-Pi3Gey",
+    "Mathias-Boulanger"
   ],
   "namesOfContributorsNew": [
     "PanosProv",
@@ -2213,15 +2215,16 @@
     "kristianunger",
     "Ge94",
     "nbtm-sh",
-    "Pg-Pi3Gey"
+    "Pg-Pi3Gey",
+    "Mathias-Boulanger"
   ],
-  "numberOfPullRequestNew": 473,
+  "numberOfPullRequestNew": 483,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 18761,
+  "p50SecondsToClosePulls": 21961,
   "p50SecondsToCloseIssues": 366485,
-  "meanNumberOfNewPullsPerWeek": 69.84269662921348,
-  "meanNumberOfNewContributorsPerWeek": 6.139664804469274,
-  "meanSecondsToClosePulls": 151052.68498942917,
-  "meanSecondsToCloseIssues": 513743.64444444445
+  "meanNumberOfNewPullsPerWeek": 69.93258426966293,
+  "meanNumberOfNewContributorsPerWeek": 6.145251396648045,
+  "meanSecondsToClosePulls": 157396.3788819876,
+  "meanSecondsToCloseIssues": 503454.55445544556
 }
