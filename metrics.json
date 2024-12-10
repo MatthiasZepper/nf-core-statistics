@@ -2222,13 +2222,13 @@
     "Pg-Pi3Gey",
     "Mathias-Boulanger"
   ],
-  "numberOfPullRequestNew": 457,
+  "numberOfPullRequestNew": 488,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 22095,
+  "p50SecondsToClosePulls": 21961,
   "p50SecondsToCloseIssues": 347481,
-  "meanNumberOfNewPullsPerWeek": 70.01966292134831,
-  "meanNumberOfNewContributorsPerWeek": 6.153631284916201,
-  "meanSecondsToClosePulls": 150845.07221006564,
-  "meanSecondsToCloseIssues": 466754.67346938775
+  "meanNumberOfNewPullsPerWeek": 69.92436974789916,
+  "meanNumberOfNewContributorsPerWeek": 6.1364902506963785,
+  "meanSecondsToClosePulls": 153733.7663934426,
+  "meanSecondsToCloseIssues": 464826.88118811883
 }
