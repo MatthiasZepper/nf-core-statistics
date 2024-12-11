@@ -2097,6 +2097,7 @@
     "joannakraw",
     "bolenala",
     "jeremymsimon",
+    "AASTHAPAL9",
     "XanderC137",
     "jesseangelis",
     "gl9797",
@@ -2202,6 +2203,7 @@
     "kristianunger",
     "Ge94",
     "nbtm-sh",
+    "Motoufiq",
     "Pg-Pi3Gey",
     "Mathias-Boulanger"
   ],
@@ -2219,16 +2221,17 @@
     "kristianunger",
     "Ge94",
     "nbtm-sh",
+    "Motoufiq",
     "Pg-Pi3Gey",
     "Mathias-Boulanger"
   ],
-  "numberOfPullRequestNew": 488,
+  "numberOfPullRequestNew": 523,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 21961,
-  "p50SecondsToCloseIssues": 347481,
-  "meanNumberOfNewPullsPerWeek": 69.92436974789916,
-  "meanNumberOfNewContributorsPerWeek": 6.1364902506963785,
-  "meanSecondsToClosePulls": 153733.7663934426,
-  "meanSecondsToCloseIssues": 464826.88118811883
+  "p50SecondsToClosePulls": 20622,
+  "p50SecondsToCloseIssues": 366485,
+  "meanNumberOfNewPullsPerWeek": 70.03361344537815,
+  "meanNumberOfNewContributorsPerWeek": 6.142061281337047,
+  "meanSecondsToClosePulls": 159084.65391969407,
+  "meanSecondsToCloseIssues": 465669.61467889906
 }
