@@ -2033,6 +2033,7 @@
     "beginner984",
     "shenker",
     "k-florek",
+    "huawen-poppy",
     "shangguandong1996",
     "ILM-MLOlab",
     "Rhine86",
@@ -2194,6 +2195,7 @@
     "AwanAlKoerdi",
     "tom-seqera",
     "lmReef",
+    "Liripo",
     "svigneau",
     "oligomyeggo",
     "cihanerkut",
@@ -2213,6 +2215,7 @@
   ],
   "namesOfContributorsNew": [
     "lmReef",
+    "Liripo",
     "svigneau",
     "oligomyeggo",
     "cihanerkut",
@@ -2230,13 +2233,13 @@
     "Mathias-Boulanger",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 576,
+  "numberOfPullRequestNew": 584,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 18083,
+  "p50SecondsToClosePulls": 18761,
   "p50SecondsToCloseIssues": 419039,
-  "meanNumberOfNewPullsPerWeek": 70.36134453781513,
-  "meanNumberOfNewContributorsPerWeek": 6.153203342618385,
-  "meanSecondsToClosePulls": 169619.44965277778,
-  "meanSecondsToCloseIssues": 461930.4369747899
+  "meanNumberOfNewPullsPerWeek": 70.44817927170868,
+  "meanNumberOfNewContributorsPerWeek": 6.158774373259053,
+  "meanSecondsToClosePulls": 165142.06506849316,
+  "meanSecondsToCloseIssues": 464440.5508474576
 }
