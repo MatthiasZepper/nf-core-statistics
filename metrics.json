@@ -261,6 +261,7 @@
     "bioinfoMMS",
     "Adrian-Zet",
     "wvictor14",
+    "seynard",
     "drothen15",
     "gevro",
     "AdrijaK",
@@ -2233,13 +2234,13 @@
     "Mathias-Boulanger",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 562,
+  "numberOfPullRequestNew": 545,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 17037,
+  "p50SecondsToClosePulls": 18083,
   "p50SecondsToCloseIssues": 347361,
-  "meanNumberOfNewPullsPerWeek": 70.46498599439776,
-  "meanNumberOfNewContributorsPerWeek": 6.161559888579387,
-  "meanSecondsToClosePulls": 154592.5302491103,
-  "meanSecondsToCloseIssues": 437943.09433962265
+  "meanNumberOfNewPullsPerWeek": 70.47619047619048,
+  "meanNumberOfNewContributorsPerWeek": 6.164345403899722,
+  "meanSecondsToClosePulls": 153292.95412844035,
+  "meanSecondsToCloseIssues": 437872.85714285716
 }
