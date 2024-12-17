@@ -1029,7 +1029,9 @@
     "Thomieh73",
     "zackhenny",
     "camillevleal",
+    "uel3",
     "bawee",
+    "audy",
     "pdy1084",
     "lyisrae1",
     "ramirobarrantes",
@@ -2234,13 +2236,13 @@
     "Mathias-Boulanger",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 545,
-  "p50NumberOfNewPullsPerWeek": 54,
+  "numberOfPullRequestNew": 558,
+  "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 18083,
+  "p50SecondsToClosePulls": 16976,
   "p50SecondsToCloseIssues": 347361,
-  "meanNumberOfNewPullsPerWeek": 70.47619047619048,
-  "meanNumberOfNewContributorsPerWeek": 6.164345403899722,
-  "meanSecondsToClosePulls": 153292.95412844035,
-  "meanSecondsToCloseIssues": 437872.85714285716
+  "meanNumberOfNewPullsPerWeek": 70.34357541899442,
+  "meanNumberOfNewContributorsPerWeek": 6.152777777777778,
+  "meanSecondsToClosePulls": 155979.05555555556,
+  "meanSecondsToCloseIssues": 450116.4909090909
 }
