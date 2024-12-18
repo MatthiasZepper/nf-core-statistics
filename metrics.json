@@ -267,6 +267,7 @@
     "AdrijaK",
     "mpiersonsmela",
     "peterch405",
+    "OliverH96",
     "johncthomas",
     "chuan-wang",
     "likelet",
@@ -1152,7 +1153,6 @@
     "yamihn",
     "chunxuan-hs",
     "seiboldfyr",
-    "OliverH96",
     "LucasMcNU",
     "vishal7245",
     "ylang0825",
@@ -2201,6 +2201,7 @@
     "tom-seqera",
     "lmReef",
     "Liripo",
+    "dcarrillox",
     "svigneau",
     "cihanerkut",
     "cleargem",
@@ -2220,6 +2221,7 @@
   "namesOfContributorsNew": [
     "lmReef",
     "Liripo",
+    "dcarrillox",
     "svigneau",
     "cihanerkut",
     "cleargem",
@@ -2236,13 +2238,13 @@
     "Mathias-Boulanger",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 558,
+  "numberOfPullRequestNew": 573,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 16976,
-  "p50SecondsToCloseIssues": 347361,
-  "meanNumberOfNewPullsPerWeek": 70.34357541899442,
-  "meanNumberOfNewContributorsPerWeek": 6.152777777777778,
-  "meanSecondsToClosePulls": 155979.05555555556,
-  "meanSecondsToCloseIssues": 450116.4909090909
+  "p50SecondsToClosePulls": 15850,
+  "p50SecondsToCloseIssues": 352284,
+  "meanNumberOfNewPullsPerWeek": 70.40502793296089,
+  "meanNumberOfNewContributorsPerWeek": 6.155555555555556,
+  "meanSecondsToClosePulls": 158172.48691099478,
+  "meanSecondsToCloseIssues": 459282.01769911504
 }
