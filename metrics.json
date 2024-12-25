@@ -2248,10 +2248,10 @@
   "numberOfPullRequestNew": 626,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 62903,
-  "p50SecondsToCloseIssues": 249573,
-  "meanNumberOfNewPullsPerWeek": 70.72423398328691,
+  "p50SecondsToClosePulls": 61811,
+  "p50SecondsToCloseIssues": 251882,
+  "meanNumberOfNewPullsPerWeek": 70.73259052924791,
   "meanNumberOfNewContributorsPerWeek": 6.166204986149585,
-  "meanSecondsToClosePulls": 222613.1501597444,
-  "meanSecondsToCloseIssues": 414824.4583333333
+  "meanSecondsToClosePulls": 220901.93450479233,
+  "meanSecondsToCloseIssues": 419798.3775510204
 }
