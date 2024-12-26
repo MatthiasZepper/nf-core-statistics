@@ -435,6 +435,7 @@
     "stephenturner",
     "PanosProv",
     "ziadbkh",
+    "muabnezor",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -961,7 +962,6 @@
     "willros",
     "d-callan",
     "harper357",
-    "muabnezor",
     "jfourquet2",
     "ivelsko",
     "harryscholes",
@@ -2245,13 +2245,13 @@
     "Donbbit",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 626,
+  "numberOfPullRequestNew": 600,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 61811,
-  "p50SecondsToCloseIssues": 251882,
-  "meanNumberOfNewPullsPerWeek": 70.73259052924791,
+  "p50SecondsToClosePulls": 61094,
+  "p50SecondsToCloseIssues": 257487,
+  "meanNumberOfNewPullsPerWeek": 70.73537604456824,
   "meanNumberOfNewContributorsPerWeek": 6.166204986149585,
-  "meanSecondsToClosePulls": 220901.93450479233,
-  "meanSecondsToCloseIssues": 419798.3775510204
+  "meanSecondsToClosePulls": 219912.83666666667,
+  "meanSecondsToCloseIssues": 426301.07446808513
 }
