@@ -2245,13 +2245,13 @@
     "Donbbit",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 578,
+  "numberOfPullRequestNew": 560,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 61094,
-  "p50SecondsToCloseIssues": 322125,
-  "meanNumberOfNewPullsPerWeek": 70.74373259052925,
+  "p50SecondsToClosePulls": 61811,
+  "p50SecondsToCloseIssues": 328137,
+  "meanNumberOfNewPullsPerWeek": 70.74930362116991,
   "meanNumberOfNewContributorsPerWeek": 6.1689750692520775,
-  "meanSecondsToClosePulls": 221639.59342560553,
-  "meanSecondsToCloseIssues": 442651.6629213483
+  "meanSecondsToClosePulls": 224591.25714285715,
+  "meanSecondsToCloseIssues": 441891.72093023255
 }
