@@ -2137,6 +2137,7 @@
     "SergioManzano10",
     "tud03125",
     "KTMD-plant",
+    "Motoufiq",
     "brentp",
     "tobyaicher",
     "MikeHala",
@@ -2225,7 +2226,6 @@
     "baldikacti",
     "vdejager",
     "Ge94",
-    "Motoufiq",
     "Donbbit",
     "ftschirpke"
   ],
@@ -2241,17 +2241,16 @@
     "baldikacti",
     "vdejager",
     "Ge94",
-    "Motoufiq",
     "Donbbit",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 516,
+  "numberOfPullRequestNew": 508,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 62903,
+  "p50SecondsToClosePulls": 63068,
   "p50SecondsToCloseIssues": 251882,
-  "meanNumberOfNewPullsPerWeek": 70.75766016713092,
+  "meanNumberOfNewPullsPerWeek": 70.76323119777159,
   "meanNumberOfNewContributorsPerWeek": 6.1689750692520775,
-  "meanSecondsToClosePulls": 222146.98062015505,
-  "meanSecondsToCloseIssues": 382940.7162162162
+  "meanSecondsToClosePulls": 219963.2972440945,
+  "meanSecondsToCloseIssues": 375457.04054054053
 }
