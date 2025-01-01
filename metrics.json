@@ -228,7 +228,7 @@
     "RogerHw",
     "suhrig",
     "wassimsalam01",
-    "AugustDev",
+    "gluonfield",
     "ltosti-tagomics",
     "noecochetel",
     "fbnrst",
@@ -2244,13 +2244,13 @@
     "Donbbit",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 508,
+  "numberOfPullRequestNew": 504,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 63068,
+  "p50SecondsToClosePulls": 61811,
   "p50SecondsToCloseIssues": 251882,
-  "meanNumberOfNewPullsPerWeek": 70.76323119777159,
+  "meanNumberOfNewPullsPerWeek": 70.76601671309193,
   "meanNumberOfNewContributorsPerWeek": 6.1689750692520775,
-  "meanSecondsToClosePulls": 219963.2972440945,
-  "meanSecondsToCloseIssues": 375457.04054054053
+  "meanSecondsToClosePulls": 216843.54761904763,
+  "meanSecondsToCloseIssues": 367543.90410958906
 }
