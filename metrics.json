@@ -269,6 +269,7 @@
     "peterch405",
     "OliverH96",
     "johncthomas",
+    "torres-HI",
     "chuan-wang",
     "likelet",
     "christopher-mohr",
@@ -2114,7 +2115,6 @@
     "reginabohnert",
     "rcannood",
     "eseiler",
-    "torres-HI",
     "msanvicente",
     "metinyazar",
     "mschaffer-incyte",
@@ -2244,13 +2244,13 @@
     "Donbbit",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 504,
+  "numberOfPullRequestNew": 480,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 61811,
-  "p50SecondsToCloseIssues": 251882,
+  "p50SecondsToClosePulls": 60403,
+  "p50SecondsToCloseIssues": 264990,
   "meanNumberOfNewPullsPerWeek": 70.76601671309193,
   "meanNumberOfNewContributorsPerWeek": 6.1689750692520775,
-  "meanSecondsToClosePulls": 216843.54761904763,
-  "meanSecondsToCloseIssues": 367543.90410958906
+  "meanSecondsToClosePulls": 218881.91458333333,
+  "meanSecondsToCloseIssues": 374700.4769230769
 }
