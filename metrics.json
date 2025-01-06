@@ -440,6 +440,7 @@
     "ziadbkh",
     "muabnezor",
     "nicola-calonaci",
+    "svigneau",
     "Juke34",
     "danwiththeplan",
     "luantunez",
@@ -1524,7 +1525,6 @@
     "maggiebr0wn",
     "divyanshusrivastava",
     "JosephAgim",
-    "svigneau",
     "cmdoret",
     "robomics",
     "jzohren",
@@ -2230,6 +2230,7 @@
     "ChangxuFan",
     "baldikacti",
     "Ons14",
+    "Indianhedgehog",
     "ftschirpke"
   ],
   "namesOfContributorsNew": [
@@ -2241,15 +2242,16 @@
     "ChangxuFan",
     "baldikacti",
     "Ons14",
+    "Indianhedgehog",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 409,
+  "numberOfPullRequestNew": 388,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 65193,
+  "p50SecondsToClosePulls": 68175,
   "p50SecondsToCloseIssues": 257487,
-  "meanNumberOfNewPullsPerWeek": 70.59722222222223,
-  "meanNumberOfNewContributorsPerWeek": 6.1602209944751385,
-  "meanSecondsToClosePulls": 246813.83863080686,
-  "meanSecondsToCloseIssues": 371970.725
+  "meanNumberOfNewPullsPerWeek": 70.6,
+  "meanNumberOfNewContributorsPerWeek": 6.162983425414365,
+  "meanSecondsToClosePulls": 249444.53092783506,
+  "meanSecondsToCloseIssues": 336552.75675675675
 }
