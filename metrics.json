@@ -2226,11 +2226,13 @@
     "Liripo",
     "sebgoti",
     "panzhang666666",
+    "zyyy97",
     "Dedaniya08",
     "ChangxuFan",
     "baldikacti",
     "Ons14",
     "Indianhedgehog",
+    "emmacarli",
     "ftschirpke"
   ],
   "namesOfContributorsNew": [
@@ -2238,20 +2240,22 @@
     "Liripo",
     "sebgoti",
     "panzhang666666",
+    "zyyy97",
     "Dedaniya08",
     "ChangxuFan",
     "baldikacti",
     "Ons14",
     "Indianhedgehog",
+    "emmacarli",
     "ftschirpke"
   ],
-  "numberOfPullRequestNew": 388,
+  "numberOfPullRequestNew": 406,
   "p50NumberOfNewPullsPerWeek": 53,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 68175,
-  "p50SecondsToCloseIssues": 257487,
-  "meanNumberOfNewPullsPerWeek": 70.6,
-  "meanNumberOfNewContributorsPerWeek": 6.162983425414365,
-  "meanSecondsToClosePulls": 249444.53092783506,
-  "meanSecondsToCloseIssues": 336552.75675675675
+  "p50SecondsToClosePulls": 70529,
+  "p50SecondsToCloseIssues": 295061,
+  "meanNumberOfNewPullsPerWeek": 70.47091412742382,
+  "meanNumberOfNewContributorsPerWeek": 6.151515151515151,
+  "meanSecondsToClosePulls": 278495.70197044336,
+  "meanSecondsToCloseIssues": 454350.74418604653
 }
