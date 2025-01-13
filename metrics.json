@@ -215,6 +215,7 @@
     "alexlyttle",
     "marrip",
     "vagkaratzas",
+    "Liripo",
     "colindaven",
     "alesssia",
     "sb43",
@@ -1125,6 +1126,7 @@
     "CKComputomics",
     "wbau",
     "MagdalenaZZ",
+    "kopichris",
     "fedeago",
     "lcabus",
     "mlist",
@@ -1182,7 +1184,6 @@
     "lo-schwartz",
     "anastasiaprime",
     "sajjadasaf",
-    "kopichris",
     "asafpr",
     "dariader",
     "MatthewJM96",
@@ -2227,7 +2228,6 @@
     "AwanAlKoerdi",
     "tom-seqera",
     "asukachloe",
-    "Liripo",
     "sebgoti",
     "panzhang666666",
     "ladygagaclass",
@@ -2242,7 +2242,6 @@
   ],
   "namesOfContributorsNew": [
     "asukachloe",
-    "Liripo",
     "sebgoti",
     "panzhang666666",
     "ladygagaclass",
@@ -2255,13 +2254,13 @@
     "Indianhedgehog",
     "emmacarli"
   ],
-  "numberOfPullRequestNew": 254,
+  "numberOfPullRequestNew": 228,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 23745,
+  "p50SecondsToClosePulls": 26164,
   "p50SecondsToCloseIssues": 251882,
-  "meanNumberOfNewPullsPerWeek": 70.73407202216066,
+  "meanNumberOfNewPullsPerWeek": 70.74238227146814,
   "meanNumberOfNewContributorsPerWeek": 6.1652892561983474,
-  "meanSecondsToClosePulls": 276730.4094488189,
-  "meanSecondsToCloseIssues": 482116.5
+  "meanSecondsToClosePulls": 292726.9605263158,
+  "meanSecondsToCloseIssues": 486882.0740740741
 }
