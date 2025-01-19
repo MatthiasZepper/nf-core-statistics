@@ -2254,6 +2254,7 @@
     "ljwharbers",
     "CodingKaiser",
     "bumproo",
+    "jiawku",
     "Vivian0105",
     "Ons14",
     "anya-shm",
@@ -2284,6 +2285,7 @@
     "ljwharbers",
     "CodingKaiser",
     "bumproo",
+    "jiawku",
     "Vivian0105",
     "Ons14",
     "anya-shm",
@@ -2296,13 +2298,13 @@
     "ryan2han",
     "OlivierCoen"
   ],
-  "numberOfPullRequestNew": 296,
+  "numberOfPullRequestNew": 287,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 68501,
+  "p50SecondsToClosePulls": 65164,
   "p50SecondsToCloseIssues": 363982,
-  "meanNumberOfNewPullsPerWeek": 71.02762430939227,
-  "meanNumberOfNewContributorsPerWeek": 6.21978021978022,
-  "meanSecondsToClosePulls": 407464.2702702703,
-  "meanSecondsToCloseIssues": 617147.3720930233
+  "meanNumberOfNewPullsPerWeek": 71.05524861878453,
+  "meanNumberOfNewContributorsPerWeek": 6.222527472527473,
+  "meanSecondsToClosePulls": 384159.1324041812,
+  "meanSecondsToCloseIssues": 606504.0487804879
 }
