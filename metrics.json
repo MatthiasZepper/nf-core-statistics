@@ -1442,6 +1442,7 @@
     "fredjaya",
     "MartinGrignard",
     "jscgh",
+    "baldikacti",
     "amirshams84",
     "stela2502",
     "parlundin",
@@ -2250,7 +2251,6 @@
     "zyyy97",
     "nagendraKU",
     "JuliaGraf",
-    "baldikacti",
     "ljwharbers",
     "CodingKaiser",
     "bumproo",
@@ -2281,7 +2281,6 @@
     "zyyy97",
     "nagendraKU",
     "JuliaGraf",
-    "baldikacti",
     "ljwharbers",
     "CodingKaiser",
     "bumproo",
@@ -2298,13 +2297,13 @@
     "ryan2han",
     "OlivierCoen"
   ],
-  "numberOfPullRequestNew": 287,
+  "numberOfPullRequestNew": 235,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 65164,
-  "p50SecondsToCloseIssues": 363982,
-  "meanNumberOfNewPullsPerWeek": 71.05524861878453,
+  "p50SecondsToClosePulls": 51052,
+  "p50SecondsToCloseIssues": 250492,
+  "meanNumberOfNewPullsPerWeek": 71.06353591160222,
   "meanNumberOfNewContributorsPerWeek": 6.222527472527473,
-  "meanSecondsToClosePulls": 384159.1324041812,
-  "meanSecondsToCloseIssues": 606504.0487804879
+  "meanSecondsToClosePulls": 197860.56170212766,
+  "meanSecondsToCloseIssues": 442599.3714285714
 }
