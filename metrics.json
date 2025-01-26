@@ -2315,13 +2315,13 @@
     "ryan2han",
     "OlivierCoen"
   ],
-  "numberOfPullRequestNew": 364,
+  "numberOfPullRequestNew": 363,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
   "p50SecondsToClosePulls": 26056,
-  "p50SecondsToCloseIssues": 268153,
-  "meanNumberOfNewPullsPerWeek": 71.42148760330579,
+  "p50SecondsToCloseIssues": 295061,
+  "meanNumberOfNewPullsPerWeek": 71.43250688705234,
   "meanNumberOfNewContributorsPerWeek": 6.238356164383561,
-  "meanSecondsToClosePulls": 152344.70604395604,
-  "meanSecondsToCloseIssues": 419686.92
+  "meanSecondsToClosePulls": 142190.74655647384,
+  "meanSecondsToCloseIssues": 437374.2156862745
 }
