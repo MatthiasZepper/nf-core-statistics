@@ -218,6 +218,7 @@
     "vagkaratzas",
     "AlexVCaron",
     "Liripo",
+    "dialvarezs",
     "colindaven",
     "alesssia",
     "sb43",
@@ -830,7 +831,6 @@
     "lukbut",
     "tommasianna",
     "scheckley",
-    "dialvarezs",
     "vdauwera",
     "KamilMaliszArdigen",
     "grantn5",
@@ -2342,13 +2342,13 @@
     "emmacarli",
     "OlivierCoen"
   ],
-  "numberOfPullRequestNew": 636,
+  "numberOfPullRequestNew": 634,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 47035,
+  "p50SecondsToClosePulls": 43941,
   "p50SecondsToCloseIssues": 406676,
-  "meanNumberOfNewPullsPerWeek": 72.0989010989011,
+  "meanNumberOfNewPullsPerWeek": 72.10714285714286,
   "meanNumberOfNewContributorsPerWeek": 6.26775956284153,
-  "meanSecondsToClosePulls": 172849.94496855346,
-  "meanSecondsToCloseIssues": 452755.7894736842
+  "meanSecondsToClosePulls": 168621.28864353313,
+  "meanSecondsToCloseIssues": 452390.7733333333
 }
