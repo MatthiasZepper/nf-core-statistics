@@ -2342,13 +2342,13 @@
     "emmacarli",
     "OlivierCoen"
   ],
-  "numberOfPullRequestNew": 634,
+  "numberOfPullRequestNew": 635,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 43941,
+  "p50SecondsToClosePulls": 48548,
   "p50SecondsToCloseIssues": 406676,
-  "meanNumberOfNewPullsPerWeek": 72.10714285714286,
+  "meanNumberOfNewPullsPerWeek": 72.11263736263736,
   "meanNumberOfNewContributorsPerWeek": 6.26775956284153,
-  "meanSecondsToClosePulls": 168621.28864353313,
-  "meanSecondsToCloseIssues": 452390.7733333333
+  "meanSecondsToClosePulls": 172014.50078740157,
+  "meanSecondsToCloseIssues": 448220.1168831169
 }
