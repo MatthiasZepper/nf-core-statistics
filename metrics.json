@@ -2288,6 +2288,7 @@
     "samuell",
     "JuliaGraf",
     "MetteBoge",
+    "lijin0303",
     "CodingKaiser",
     "bumproo",
     "jiawku",
@@ -2307,6 +2308,7 @@
     "nitinShukla1912",
     "mvheetve",
     "regan-NV",
+    "pnolabs",
     "ugoiannacchero",
     "brainstorm"
   ],
@@ -2331,6 +2333,7 @@
     "samuell",
     "JuliaGraf",
     "MetteBoge",
+    "lijin0303",
     "CodingKaiser",
     "bumproo",
     "jiawku",
@@ -2350,16 +2353,17 @@
     "nitinShukla1912",
     "mvheetve",
     "regan-NV",
+    "pnolabs",
     "ugoiannacchero",
     "brainstorm"
   ],
-  "numberOfPullRequestNew": 714,
+  "numberOfPullRequestNew": 710,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 32177,
-  "p50SecondsToCloseIssues": 241305,
-  "meanNumberOfNewPullsPerWeek": 72.21584699453553,
-  "meanNumberOfNewContributorsPerWeek": 6.271739130434782,
-  "meanSecondsToClosePulls": 173264.406162465,
-  "meanSecondsToCloseIssues": 461297.0816326531
+  "p50SecondsToClosePulls": 27287,
+  "p50SecondsToCloseIssues": 269623,
+  "meanNumberOfNewPullsPerWeek": 72.27595628415301,
+  "meanNumberOfNewContributorsPerWeek": 6.2771739130434785,
+  "meanSecondsToClosePulls": 168650.17887323943,
+  "meanSecondsToCloseIssues": 460198.60638297873
 }
