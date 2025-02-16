@@ -1872,6 +1872,7 @@
     "Ge94",
     "kiei-rz",
     "msgr0",
+    "afombravo",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2304,7 +2305,6 @@
     "SaraTerzol",
     "zbaida-achraf",
     "BrunoGuillotin",
-    "afombravo",
     "BioWilko",
     "ochkalova",
     "andypohl",
@@ -2339,7 +2339,6 @@
     "SaraTerzol",
     "zbaida-achraf",
     "BrunoGuillotin",
-    "afombravo",
     "BioWilko",
     "ochkalova",
     "andypohl",
@@ -2348,13 +2347,13 @@
     "pnolabs",
     "brainstorm"
   ],
-  "numberOfPullRequestNew": 722,
+  "numberOfPullRequestNew": 705,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 21029,
-  "p50SecondsToCloseIssues": 236323,
-  "meanNumberOfNewPullsPerWeek": 72.46174863387978,
+  "p50SecondsToClosePulls": 21905,
+  "p50SecondsToCloseIssues": 201867,
+  "meanNumberOfNewPullsPerWeek": 72.47267759562841,
   "meanNumberOfNewContributorsPerWeek": 6.279891304347826,
-  "meanSecondsToClosePulls": 175745.42382271469,
-  "meanSecondsToCloseIssues": 425702.11904761905
+  "meanSecondsToClosePulls": 176201.24964539008,
+  "meanSecondsToCloseIssues": 404063.97530864197
 }
