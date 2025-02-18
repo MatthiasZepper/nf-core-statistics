@@ -2345,13 +2345,13 @@
     "pnolabs",
     "brainstorm"
   ],
-  "numberOfPullRequestNew": 680,
+  "numberOfPullRequestNew": 700,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 21905,
+  "p50SecondsToClosePulls": 19120,
   "p50SecondsToCloseIssues": 195417,
-  "meanNumberOfNewPullsPerWeek": 72.47540983606558,
-  "meanNumberOfNewContributorsPerWeek": 6.279891304347826,
-  "meanSecondsToClosePulls": 175142.94705882354,
-  "meanSecondsToCloseIssues": 373746.17333333334
+  "meanNumberOfNewPullsPerWeek": 72.35967302452316,
+  "meanNumberOfNewContributorsPerWeek": 6.262872628726288,
+  "meanSecondsToClosePulls": 175075.03,
+  "meanSecondsToCloseIssues": 372133.1891891892
 }
