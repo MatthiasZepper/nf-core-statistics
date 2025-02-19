@@ -1994,6 +1994,7 @@
     "Moslemecoh",
     "didiowen",
     "hkunerth",
+    "nitinShukla1912",
     "jeantristanb",
     "nmendozam",
     "MichalStachowiakArdigen",
@@ -2308,7 +2309,6 @@
     "BioWilko",
     "ochkalova",
     "andypohl",
-    "nitinShukla1912",
     "mvheetve",
     "pnolabs",
     "brainstorm"
@@ -2340,18 +2340,17 @@
     "BioWilko",
     "ochkalova",
     "andypohl",
-    "nitinShukla1912",
     "mvheetve",
     "pnolabs",
     "brainstorm"
   ],
-  "numberOfPullRequestNew": 700,
+  "numberOfPullRequestNew": 718,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 19120,
-  "p50SecondsToCloseIssues": 195417,
-  "meanNumberOfNewPullsPerWeek": 72.35967302452316,
+  "p50SecondsToClosePulls": 18116,
+  "p50SecondsToCloseIssues": 236323,
+  "meanNumberOfNewPullsPerWeek": 72.41961852861036,
   "meanNumberOfNewContributorsPerWeek": 6.262872628726288,
-  "meanSecondsToClosePulls": 175075.03,
-  "meanSecondsToCloseIssues": 372133.1891891892
+  "meanSecondsToClosePulls": 178501.08635097492,
+  "meanSecondsToCloseIssues": 425269.69333333336
 }
