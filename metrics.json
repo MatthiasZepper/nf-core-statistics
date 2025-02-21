@@ -2260,6 +2260,7 @@
     "progistar",
     "bebosudo",
     "dslarm",
+    "BioWilko",
     "ChillarAnand",
     "mptrsen",
     "EladH1",
@@ -2308,7 +2309,6 @@
     "SaraTerzol",
     "zbaida-achraf",
     "BrunoGuillotin",
-    "BioWilko",
     "ochkalova",
     "andypohl",
     "mvheetve",
@@ -2339,7 +2339,6 @@
     "SaraTerzol",
     "zbaida-achraf",
     "BrunoGuillotin",
-    "BioWilko",
     "ochkalova",
     "andypohl",
     "mvheetve",
@@ -2350,10 +2349,10 @@
   "numberOfPullRequestNew": 626,
   "p50NumberOfNewPullsPerWeek": 55,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 7915,
+  "p50SecondsToClosePulls": 7830,
   "p50SecondsToCloseIssues": 195417,
-  "meanNumberOfNewPullsPerWeek": 72.48773841961852,
+  "meanNumberOfNewPullsPerWeek": 72.56130790190736,
   "meanNumberOfNewContributorsPerWeek": 6.2710027100271,
-  "meanSecondsToClosePulls": 121713.64217252396,
-  "meanSecondsToCloseIssues": 414387.59210526315
+  "meanSecondsToClosePulls": 122691.48242811502,
+  "meanSecondsToCloseIssues": 422155.0256410256
 }
