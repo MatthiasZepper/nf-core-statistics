@@ -2349,13 +2349,13 @@
     "brainstorm",
     "bxskdh"
   ],
-  "numberOfPullRequestNew": 591,
+  "numberOfPullRequestNew": 612,
   "p50NumberOfNewPullsPerWeek": 54,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 8004,
-  "p50SecondsToCloseIssues": 194333,
-  "meanNumberOfNewPullsPerWeek": 72.51086956521739,
+  "p50SecondsToClosePulls": 8120,
+  "p50SecondsToCloseIssues": 193307,
+  "meanNumberOfNewPullsPerWeek": 72.58152173913044,
   "meanNumberOfNewContributorsPerWeek": 6.27027027027027,
-  "meanSecondsToClosePulls": 136876.19627749576,
-  "meanSecondsToCloseIssues": 419719.7868852459
+  "meanSecondsToClosePulls": 144531.9934640523,
+  "meanSecondsToCloseIssues": 412970.0483870968
 }
