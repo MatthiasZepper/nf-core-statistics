@@ -784,6 +784,7 @@
     "frederikkemarin",
     "gtmvish",
     "reshu23",
+    "audrey-bollas",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -874,6 +875,7 @@
     "marvinkobit",
     "jen-reeve",
     "rhassaine",
+    "JelPej",
     "hmenager",
     "saharai",
     "seth-biorad",
@@ -2309,8 +2311,6 @@
     "tom-seqera",
     "OlivierCoen",
     "Almo-o",
-    "audrey-bollas",
-    "JelPej",
     "juanesarango",
     "adolfmukama",
     "pmb59",
@@ -2333,8 +2333,6 @@
   ],
   "namesOfContributorsNew": [
     "Almo-o",
-    "audrey-bollas",
-    "JelPej",
     "juanesarango",
     "adolfmukama",
     "pmb59",
@@ -2355,13 +2353,13 @@
     "bxskdh",
     "Jessime"
   ],
-  "numberOfPullRequestNew": 521,
+  "numberOfPullRequestNew": 469,
   "p50NumberOfNewPullsPerWeek": 55,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 7402,
-  "p50SecondsToCloseIssues": 193307,
-  "meanNumberOfNewPullsPerWeek": 72.85054347826087,
+  "p50SecondsToClosePulls": 6999,
+  "p50SecondsToCloseIssues": 163640,
+  "meanNumberOfNewPullsPerWeek": 72.8586956521739,
   "meanNumberOfNewContributorsPerWeek": 6.294594594594595,
-  "meanSecondsToClosePulls": 122485.06142034549,
-  "meanSecondsToCloseIssues": 385743.8490566038
+  "meanSecondsToClosePulls": 112206.8592750533,
+  "meanSecondsToCloseIssues": 312326.1666666667
 }
