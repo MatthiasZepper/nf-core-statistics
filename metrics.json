@@ -911,6 +911,7 @@
     "lborcard",
     "mggrami",
     "axiba053",
+    "odagayev",
     "jkobject",
     "gppbioinfo",
     "Lehmann-Fabian",
@@ -2358,13 +2359,13 @@
     "bxskdh",
     "Jessime"
   ],
-  "numberOfPullRequestNew": 497,
+  "numberOfPullRequestNew": 529,
   "p50NumberOfNewPullsPerWeek": 55,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 6888,
-  "p50SecondsToCloseIssues": 194333,
-  "meanNumberOfNewPullsPerWeek": 72.75338753387534,
-  "meanNumberOfNewContributorsPerWeek": 6.285714285714286,
-  "meanSecondsToClosePulls": 112574.7726358149,
-  "meanSecondsToCloseIssues": 352552.23529411765
+  "p50SecondsToClosePulls": 6952,
+  "p50SecondsToCloseIssues": 203859,
+  "meanNumberOfNewPullsPerWeek": 72.84281842818429,
+  "meanNumberOfNewContributorsPerWeek": 6.288409703504043,
+  "meanSecondsToClosePulls": 120344.17580340264,
+  "meanSecondsToCloseIssues": 423423.41818181815
 }
