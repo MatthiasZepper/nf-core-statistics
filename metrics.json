@@ -921,6 +921,7 @@
     "mggrami",
     "axiba053",
     "odagayev",
+    "KurayiChawatama",
     "jkobject",
     "gppbioinfo",
     "Lehmann-Fabian",
@@ -2366,7 +2367,6 @@
     "garciafranciscomartn",
     "JulianFlesch",
     "JosuaCarl",
-    "KurayiChawatama",
     "MehrazRumman",
     "LauraT89",
     "chengmingbo",
@@ -2404,7 +2404,6 @@
     "garciafranciscomartn",
     "JulianFlesch",
     "JosuaCarl",
-    "KurayiChawatama",
     "MehrazRumman",
     "LauraT89",
     "chengmingbo",
@@ -2432,13 +2431,13 @@
     "Jessime",
     "fethalen"
   ],
-  "numberOfPullRequestNew": 559,
+  "numberOfPullRequestNew": 530,
   "p50NumberOfNewPullsPerWeek": 55,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 9549,
-  "p50SecondsToCloseIssues": 168063,
-  "meanNumberOfNewPullsPerWeek": 73.64594594594594,
+  "p50SecondsToClosePulls": 8643,
+  "p50SecondsToCloseIssues": 160794,
+  "meanNumberOfNewPullsPerWeek": 73.65135135135135,
   "meanNumberOfNewContributorsPerWeek": 6.43010752688172,
-  "meanSecondsToClosePulls": 107001.99105545616,
-  "meanSecondsToCloseIssues": 321558.17391304346
+  "meanSecondsToClosePulls": 96420.09811320755,
+  "meanSecondsToCloseIssues": 295939.51470588235
 }
