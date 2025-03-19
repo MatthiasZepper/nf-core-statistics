@@ -2383,6 +2383,7 @@
     "Xhepone",
     "isabel-wilkinson",
     "kalexandru",
+    "Dishalodha",
     "slebedeva",
     "Kuteliyafuka",
     "bioShaun",
@@ -2423,6 +2424,7 @@
     "Xhepone",
     "isabel-wilkinson",
     "kalexandru",
+    "Dishalodha",
     "slebedeva",
     "Kuteliyafuka",
     "bioShaun",
@@ -2437,13 +2439,13 @@
     "Jessime",
     "fethalen"
   ],
-  "numberOfPullRequestNew": 555,
+  "numberOfPullRequestNew": 581,
   "p50NumberOfNewPullsPerWeek": 55,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 9527,
+  "p50SecondsToClosePulls": 9617,
   "p50SecondsToCloseIssues": 203859,
-  "meanNumberOfNewPullsPerWeek": 73.52021563342318,
-  "meanNumberOfNewContributorsPerWeek": 6.420911528150134,
-  "meanSecondsToClosePulls": 107180.14774774775,
-  "meanSecondsToCloseIssues": 405127.5844155844
+  "meanNumberOfNewPullsPerWeek": 73.61185983827494,
+  "meanNumberOfNewContributorsPerWeek": 6.423592493297587,
+  "meanSecondsToClosePulls": 113388.23407917384,
+  "meanSecondsToCloseIssues": 403698.075
 }
