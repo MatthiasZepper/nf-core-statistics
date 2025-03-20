@@ -2344,6 +2344,7 @@
     "sarahjeeeze",
     "jiahang1234",
     "jantmo",
+    "ryandkuster",
     "nicoaira",
     "paulinefx",
     "marcus-tutert",
@@ -2439,13 +2440,13 @@
     "Jessime",
     "fethalen"
   ],
-  "numberOfPullRequestNew": 581,
+  "numberOfPullRequestNew": 570,
   "p50NumberOfNewPullsPerWeek": 55,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 9617,
+  "p50SecondsToClosePulls": 10913,
   "p50SecondsToCloseIssues": 203859,
-  "meanNumberOfNewPullsPerWeek": 73.61185983827494,
-  "meanNumberOfNewContributorsPerWeek": 6.423592493297587,
-  "meanSecondsToClosePulls": 113388.23407917384,
+  "meanNumberOfNewPullsPerWeek": 73.65498652291105,
+  "meanNumberOfNewContributorsPerWeek": 6.42627345844504,
+  "meanSecondsToClosePulls": 111980.88596491228,
   "meanSecondsToCloseIssues": 403698.075
 }
