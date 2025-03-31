@@ -1013,6 +1013,7 @@
     "willros",
     "d-callan",
     "harper357",
+    "IceGreb",
     "jfourquet2",
     "ivelsko",
     "harryscholes",
@@ -1954,7 +1955,6 @@
     "afombravo",
     "BioWilko",
     "ochkalova",
-    "IceGreb",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2606,13 +2606,13 @@
     "gabryvzz",
     "sillitoe"
   ],
-  "numberOfPullRequestNew": 844,
+  "numberOfPullRequestNew": 810,
   "p50NumberOfNewPullsPerWeek": 56,
   "p50NumberOfNewContributorsPerWeek": 5,
-  "p50SecondsToClosePulls": 16398,
-  "p50SecondsToCloseIssues": 425550,
+  "p50SecondsToClosePulls": 16605,
+  "p50SecondsToCloseIssues": 186006,
   "meanNumberOfNewPullsPerWeek": 74.83602150537635,
   "meanNumberOfNewContributorsPerWeek": 6.695187165775401,
-  "meanSecondsToClosePulls": 102387.9182464455,
-  "meanSecondsToCloseIssues": 743144.4769230769
+  "meanSecondsToClosePulls": 98356.3049382716,
+  "meanSecondsToCloseIssues": 385301.9114583333
 }
