@@ -1401,6 +1401,7 @@
     "HCLbioinfo",
     "zalsafwani",
     "frenkiboy",
+    "usama-khan1998",
     "yinfeitan",
     "tlaguna",
     "brunohhomem",
@@ -2633,13 +2634,13 @@
     "sillitoe",
     "juanjo255"
   ],
-  "numberOfPullRequestNew": 812,
+  "numberOfPullRequestNew": 833,
   "p50NumberOfNewPullsPerWeek": 57,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 16393,
-  "p50SecondsToCloseIssues": 210376,
-  "meanNumberOfNewPullsPerWeek": 75.15733333333333,
-  "meanNumberOfNewContributorsPerWeek": 6.737400530503979,
-  "meanSecondsToClosePulls": 120142.91256157635,
-  "meanSecondsToCloseIssues": 419649.72625698324
+  "p50SecondsToCloseIssues": 237150,
+  "meanNumberOfNewPullsPerWeek": 75.232,
+  "meanNumberOfNewContributorsPerWeek": 6.740053050397878,
+  "meanSecondsToClosePulls": 123629.83073229292,
+  "meanSecondsToCloseIssues": 436929.7197802198
 }
