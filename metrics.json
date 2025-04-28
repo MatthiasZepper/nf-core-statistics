@@ -826,6 +826,7 @@
     "Lara149",
     "slives-lab",
     "jen-reeve",
+    "PeterWang0502",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -2549,7 +2550,6 @@
     "gabryvzz",
     "sillitoe",
     "OlivierCoen",
-    "PeterWang0502",
     "Alexander17Z",
     "savagjh",
     "chaochungkuo",
@@ -2571,7 +2571,6 @@
     "ErinWeisbart"
   ],
   "namesOfContributorsNew": [
-    "PeterWang0502",
     "Alexander17Z",
     "savagjh",
     "chaochungkuo",
@@ -2592,13 +2591,13 @@
     "juanjo255",
     "ErinWeisbart"
   ],
-  "numberOfPullRequestNew": 472,
+  "numberOfPullRequestNew": 458,
   "p50NumberOfNewPullsPerWeek": 58,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 12217,
-  "p50SecondsToCloseIssues": 282881,
-  "meanNumberOfNewPullsPerWeek": 75.52659574468085,
+  "p50SecondsToClosePulls": 12035,
+  "p50SecondsToCloseIssues": 201008,
+  "meanNumberOfNewPullsPerWeek": 75.53191489361703,
   "meanNumberOfNewContributorsPerWeek": 6.7936507936507935,
-  "meanSecondsToClosePulls": 157672.25211864407,
-  "meanSecondsToCloseIssues": 466571.9516129032
+  "meanSecondsToClosePulls": 155863.10480349345,
+  "meanSecondsToCloseIssues": 434563.4482758621
 }
