@@ -2591,13 +2591,13 @@
     "juanjo255",
     "ErinWeisbart"
   ],
-  "numberOfPullRequestNew": 471,
+  "numberOfPullRequestNew": 492,
   "p50NumberOfNewPullsPerWeek": 58,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 12650,
-  "p50SecondsToCloseIssues": 201008,
-  "meanNumberOfNewPullsPerWeek": 75.37400530503979,
+  "p50SecondsToClosePulls": 11490,
+  "p50SecondsToCloseIssues": 181960,
+  "meanNumberOfNewPullsPerWeek": 75.44562334217507,
   "meanNumberOfNewContributorsPerWeek": 6.778364116094987,
-  "meanSecondsToClosePulls": 164983.6220806794,
-  "meanSecondsToCloseIssues": 429057.1929824561
+  "meanSecondsToClosePulls": 159445.60975609755,
+  "meanSecondsToCloseIssues": 416524.26666666666
 }
