@@ -1158,6 +1158,7 @@
     "mjfi2sb3",
     "dpelegri",
     "bjaysheel",
+    "ruqse",
     "ZandraFagernas",
     "scarlhoff",
     "96RadhikaJadhav",
@@ -1608,6 +1609,7 @@
     "Juan-Andres-cmd",
     "mathob",
     "vdejager",
+    "nicolasDelhomme",
     "alina-bauer",
     "thomas-davis",
     "prakakrishna",
@@ -2240,7 +2242,6 @@
     "DPI-NZ",
     "OZTaekOppa",
     "chenhijy",
-    "nicolasDelhomme",
     "tgbrooks",
     "charlotte-west",
     "serjisa",
@@ -2607,13 +2608,13 @@
     "tanashreebioinfo",
     "quentinblampey"
   ],
-  "numberOfPullRequestNew": 484,
+  "numberOfPullRequestNew": 451,
   "p50NumberOfNewPullsPerWeek": 58,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 9452,
+  "p50SecondsToClosePulls": 10143,
   "p50SecondsToCloseIssues": 239658,
-  "meanNumberOfNewPullsPerWeek": 75.94179894179894,
-  "meanNumberOfNewContributorsPerWeek": 6.8052631578947365,
-  "meanSecondsToClosePulls": 145140.43801652893,
-  "meanSecondsToCloseIssues": 408147.8703703704
+  "meanNumberOfNewPullsPerWeek": 75.94708994708995,
+  "meanNumberOfNewContributorsPerWeek": 6.807894736842106,
+  "meanSecondsToClosePulls": 145317.9578713969,
+  "meanSecondsToCloseIssues": 411225.92156862747
 }
