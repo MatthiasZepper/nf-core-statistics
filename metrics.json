@@ -2562,6 +2562,7 @@
     "LN-rich",
     "ryan2han",
     "alex-d13",
+    "LorenzoMerotto",
     "dppss90008",
     "shellywanamaker",
     "sandyjmacdonald",
@@ -2595,7 +2596,6 @@
     "HendrikGC02",
     "ntnn19",
     "bede",
-    "LorenzoMerotto",
     "asabjorklund",
     "jessicarowell",
     "quentinblampey",
@@ -2620,7 +2620,6 @@
     "HendrikGC02",
     "ntnn19",
     "bede",
-    "LorenzoMerotto",
     "asabjorklund",
     "jessicarowell",
     "quentinblampey",
@@ -2630,13 +2629,13 @@
     "gerbeldo",
     "vandhana-chezhiyan"
   ],
-  "numberOfPullRequestNew": 445,
+  "numberOfPullRequestNew": 452,
   "p50NumberOfNewPullsPerWeek": 58,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 9330,
-  "p50SecondsToCloseIssues": 201167,
-  "meanNumberOfNewPullsPerWeek": 76.13720316622691,
+  "p50SecondsToCloseIssues": 151948,
+  "meanNumberOfNewPullsPerWeek": 76.16358839050132,
   "meanNumberOfNewContributorsPerWeek": 6.832020997375328,
-  "meanSecondsToClosePulls": 153437.17528089887,
-  "meanSecondsToCloseIssues": 354533.679245283
+  "meanSecondsToClosePulls": 146570.68584070797,
+  "meanSecondsToCloseIssues": 354025.68
 }
