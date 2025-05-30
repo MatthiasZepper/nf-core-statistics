@@ -2615,6 +2615,7 @@
     "randombenj",
     "hyunhwan-jeong",
     "jgmedinaf",
+    "nsang0u",
     "Tuur-ds",
     "ditjacobs",
     "ShiganLuo",
@@ -2650,6 +2651,7 @@
     "randombenj",
     "hyunhwan-jeong",
     "jgmedinaf",
+    "nsang0u",
     "Tuur-ds",
     "ditjacobs",
     "ShiganLuo",
@@ -2668,13 +2670,13 @@
     "gerbeldo",
     "vandhana-chezhiyan"
   ],
-  "numberOfPullRequestNew": 568,
+  "numberOfPullRequestNew": 553,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 25007,
-  "p50SecondsToCloseIssues": 350516,
-  "meanNumberOfNewPullsPerWeek": 76.64304461942257,
-  "meanNumberOfNewContributorsPerWeek": 6.869451697127937,
-  "meanSecondsToClosePulls": 201707.06690140846,
-  "meanSecondsToCloseIssues": 535117.262295082
+  "p50SecondsToClosePulls": 29207,
+  "p50SecondsToCloseIssues": 261787,
+  "meanNumberOfNewPullsPerWeek": 76.68241469816273,
+  "meanNumberOfNewContributorsPerWeek": 6.872062663185378,
+  "meanSecondsToClosePulls": 213268.26039783002,
+  "meanSecondsToCloseIssues": 518712.58928571426
 }
