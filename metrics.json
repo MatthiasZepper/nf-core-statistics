@@ -2668,13 +2668,13 @@
     "gerbeldo",
     "vandhana-chezhiyan"
   ],
-  "numberOfPullRequestNew": 470,
+  "numberOfPullRequestNew": 464,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 20280,
-  "p50SecondsToCloseIssues": 256144,
-  "meanNumberOfNewPullsPerWeek": 76.69816272965879,
+  "p50SecondsToClosePulls": 20785,
+  "p50SecondsToCloseIssues": 184098,
+  "meanNumberOfNewPullsPerWeek": 76.71128608923884,
   "meanNumberOfNewContributorsPerWeek": 6.87467362924282,
-  "meanSecondsToClosePulls": 138327.51914893618,
-  "meanSecondsToCloseIssues": 475580.98039215687
+  "meanSecondsToClosePulls": 138634.8900862069,
+  "meanSecondsToCloseIssues": 460146.76
 }
