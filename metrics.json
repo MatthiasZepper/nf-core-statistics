@@ -489,6 +489,7 @@
     "cavenel",
     "delfiterradas",
     "johandahlberg",
+    "ErinWeisbart",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -2606,7 +2607,6 @@
     "sillitoe",
     "juanjo255",
     "OlivierCoen",
-    "ErinWeisbart",
     "quentinblampey",
     "francops1722",
     "fntlnz",
@@ -2670,13 +2670,13 @@
     "gerbeldo",
     "vandhana-chezhiyan"
   ],
-  "numberOfPullRequestNew": 483,
+  "numberOfPullRequestNew": 467,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 20280,
-  "p50SecondsToCloseIssues": 318043,
-  "meanNumberOfNewPullsPerWeek": 76.96858638743456,
+  "p50SecondsToClosePulls": 20816,
+  "p50SecondsToCloseIssues": 256144,
+  "meanNumberOfNewPullsPerWeek": 76.97905759162303,
   "meanNumberOfNewContributorsPerWeek": 6.8671875,
-  "meanSecondsToClosePulls": 164825.15320910973,
-  "meanSecondsToCloseIssues": 523172.0816326531
+  "meanSecondsToClosePulls": 163405.95717344753,
+  "meanSecondsToCloseIssues": 521732.4166666667
 }
