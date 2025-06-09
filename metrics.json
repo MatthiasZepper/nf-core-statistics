@@ -490,6 +490,7 @@
     "delfiterradas",
     "johandahlberg",
     "ErinWeisbart",
+    "JohannesKersting",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -738,7 +739,6 @@
     "li1311139481",
     "wzheng0520",
     "user-mb",
-    "JohannesKersting",
     "rybednarek",
     "aghr",
     "guilledelavega",
@@ -2058,6 +2058,7 @@
     "Schmytzi",
     "ybdong919",
     "chaochaowong",
+    "LucilleAugusta",
     "bojangles2002",
     "tombch",
     "muneebdev7",
@@ -2670,13 +2671,13 @@
     "gerbeldo",
     "vandhana-chezhiyan"
   ],
-  "numberOfPullRequestNew": 467,
+  "numberOfPullRequestNew": 446,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 20816,
+  "p50SecondsToClosePulls": 24772,
   "p50SecondsToCloseIssues": 256144,
-  "meanNumberOfNewPullsPerWeek": 76.97905759162303,
-  "meanNumberOfNewContributorsPerWeek": 6.8671875,
-  "meanSecondsToClosePulls": 163405.95717344753,
-  "meanSecondsToCloseIssues": 521732.4166666667
+  "meanNumberOfNewPullsPerWeek": 77.00261780104712,
+  "meanNumberOfNewContributorsPerWeek": 6.869791666666667,
+  "meanSecondsToClosePulls": 155889.23766816143,
+  "meanSecondsToCloseIssues": 510788.42553191487
 }
