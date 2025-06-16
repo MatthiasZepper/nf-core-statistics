@@ -494,6 +494,7 @@
     "ErinWeisbart",
     "JohannesKersting",
     "HaidYi",
+    "elmedjadjirayane",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -2448,13 +2449,13 @@
     "alex000kim",
     "tlitfin-unsw",
     "lee-t",
+    "keiran-rowell-unsw",
     "nfg-interline",
     "ArlindNocaj",
     "nash73b91203005",
     "ajfriedman18",
     "Madhumitha0206",
     "Qiangong2",
-    "keiran-rowell-unsw",
     "haeyam-taiy",
     "nemartins",
     "BrunoBertolasi",
@@ -2633,7 +2634,6 @@
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
-    "elmedjadjirayane",
     "saima-tithi-stjude",
     "giorgiagandolfi",
     "Thibault-Poinsignon",
@@ -2658,7 +2658,6 @@
     "nadjano"
   ],
   "namesOfContributorsNew": [
-    "elmedjadjirayane",
     "saima-tithi-stjude",
     "giorgiagandolfi",
     "Thibault-Poinsignon",
@@ -2682,13 +2681,13 @@
     "YiJin-Xiong",
     "nadjano"
   ],
-  "numberOfPullRequestNew": 423,
+  "numberOfPullRequestNew": 404,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 20711,
-  "p50SecondsToCloseIssues": 187055,
-  "meanNumberOfNewPullsPerWeek": 77.12271540469973,
+  "p50SecondsToClosePulls": 15073,
+  "p50SecondsToCloseIssues": 232631,
+  "meanNumberOfNewPullsPerWeek": 77.13054830287206,
   "meanNumberOfNewContributorsPerWeek": 6.896103896103896,
-  "meanSecondsToClosePulls": 164567.64302600472,
-  "meanSecondsToCloseIssues": 428035.2444444444
+  "meanSecondsToClosePulls": 149794.099009901,
+  "meanSecondsToCloseIssues": 457192.5
 }
