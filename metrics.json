@@ -2681,13 +2681,13 @@
     "YiJin-Xiong",
     "nadjano"
   ],
-  "numberOfPullRequestNew": 404,
+  "numberOfPullRequestNew": 432,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15073,
+  "p50SecondsToClosePulls": 16916,
   "p50SecondsToCloseIssues": 232631,
-  "meanNumberOfNewPullsPerWeek": 77.13054830287206,
-  "meanNumberOfNewContributorsPerWeek": 6.896103896103896,
-  "meanSecondsToClosePulls": 149794.099009901,
+  "meanNumberOfNewPullsPerWeek": 77.0234375,
+  "meanNumberOfNewContributorsPerWeek": 6.8782383419689115,
+  "meanSecondsToClosePulls": 173336.03240740742,
   "meanSecondsToCloseIssues": 457192.5
 }
