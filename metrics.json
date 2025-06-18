@@ -2649,6 +2649,7 @@
     "Tuur-ds",
     "ditjacobs",
     "JacquelineAldridge",
+    "snehaag006",
     "madhavajay",
     "uretaj",
     "AtaJadidAhari",
@@ -2673,6 +2674,7 @@
     "Tuur-ds",
     "ditjacobs",
     "JacquelineAldridge",
+    "snehaag006",
     "madhavajay",
     "uretaj",
     "AtaJadidAhari",
@@ -2681,13 +2683,13 @@
     "YiJin-Xiong",
     "nadjano"
   ],
-  "numberOfPullRequestNew": 432,
+  "numberOfPullRequestNew": 462,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 16916,
+  "p50SecondsToClosePulls": 16680,
   "p50SecondsToCloseIssues": 232631,
-  "meanNumberOfNewPullsPerWeek": 77.0234375,
-  "meanNumberOfNewContributorsPerWeek": 6.8782383419689115,
-  "meanSecondsToClosePulls": 173336.03240740742,
-  "meanSecondsToCloseIssues": 457192.5
+  "meanNumberOfNewPullsPerWeek": 77.13020833333333,
+  "meanNumberOfNewContributorsPerWeek": 6.880829015544041,
+  "meanSecondsToClosePulls": 181677.69696969696,
+  "meanSecondsToCloseIssues": 479770.2727272727
 }
