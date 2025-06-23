@@ -1625,6 +1625,7 @@
     "trombitomi",
     "cbrueffer",
     "mvheetve",
+    "eternal-flame-AD",
     "ardalana",
     "amirshams84",
     "parlundin",
@@ -2642,6 +2643,7 @@
     "quentinblampey",
     "francops1722",
     "PengNi",
+    "nadjano",
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
@@ -2660,7 +2662,6 @@
     "madhavajay",
     "uretaj",
     "gichas",
-    "nadjano",
     "paytoncarter14"
   ],
   "namesOfContributorsNew": [
@@ -2679,16 +2680,15 @@
     "madhavajay",
     "uretaj",
     "gichas",
-    "nadjano",
     "paytoncarter14"
   ],
-  "numberOfPullRequestNew": 426,
+  "numberOfPullRequestNew": 413,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 16105,
-  "p50SecondsToCloseIssues": 232631,
-  "meanNumberOfNewPullsPerWeek": 77.31510416666667,
-  "meanNumberOfNewContributorsPerWeek": 6.893782383419689,
-  "meanSecondsToClosePulls": 180979.72769953051,
-  "meanSecondsToCloseIssues": 440877.10256410256
+  "p50SecondsToClosePulls": 17390,
+  "p50SecondsToCloseIssues": 187055,
+  "meanNumberOfNewPullsPerWeek": 77.33333333333333,
+  "meanNumberOfNewContributorsPerWeek": 6.896373056994818,
+  "meanSecondsToClosePulls": 186406.26392251815,
+  "meanSecondsToCloseIssues": 455170.2368421053
 }
