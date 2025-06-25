@@ -1679,6 +1679,7 @@
     "rvijay-seqcoast",
     "sralchemab",
     "SchwarzMarek",
+    "albatalavera",
     "leipzig",
     "zhewa",
     "Vivian-chen16",
@@ -2456,6 +2457,7 @@
     "rjpbonnal",
     "eliasball",
     "alex000kim",
+    "ppenev-eligo",
     "tlitfin-unsw",
     "lee-t",
     "keiran-rowell-unsw",
@@ -2555,6 +2557,7 @@
     "ajw2329",
     "thangnx1012",
     "kittysher",
+    "sheerenbiol",
     "cahuparo",
     "marinawitherell",
     "masudermann",
@@ -2691,13 +2694,13 @@
     "gichas",
     "paytoncarter14"
   ],
-  "numberOfPullRequestNew": 431,
+  "numberOfPullRequestNew": 460,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15982,
+  "p50SecondsToClosePulls": 19376,
   "p50SecondsToCloseIssues": 173684,
-  "meanNumberOfNewPullsPerWeek": 77.21558441558442,
-  "meanNumberOfNewContributorsPerWeek": 6.891472868217054,
-  "meanSecondsToClosePulls": 210552.03712296984,
-  "meanSecondsToCloseIssues": 438160.9534883721
+  "meanNumberOfNewPullsPerWeek": 77.6,
+  "meanNumberOfNewContributorsPerWeek": 6.89922480620155,
+  "meanSecondsToClosePulls": 224158.71956521738,
+  "meanSecondsToCloseIssues": 455548.2727272727
 }
