@@ -2636,6 +2636,7 @@
     "BenjaminATaylor",
     "tanashreebioinfo",
     "tom-seqera",
+    "mbxss25",
     "GiatrasKon",
     "ChrisTzaferis",
     "gabryvzz",
@@ -2699,13 +2700,13 @@
     "Lenbok",
     "paytoncarter14"
   ],
-  "numberOfPullRequestNew": 461,
+  "numberOfPullRequestNew": 439,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 27125,
-  "p50SecondsToCloseIssues": 232631,
-  "meanNumberOfNewPullsPerWeek": 77.67272727272727,
-  "meanNumberOfNewContributorsPerWeek": 6.906976744186046,
-  "meanSecondsToClosePulls": 241355.48156182212,
-  "meanSecondsToCloseIssues": 482285.5813953488
+  "p50SecondsToCloseIssues": 187055,
+  "meanNumberOfNewPullsPerWeek": 77.72207792207791,
+  "meanNumberOfNewContributorsPerWeek": 6.909560723514212,
+  "meanSecondsToClosePulls": 244569.89749430525,
+  "meanSecondsToCloseIssues": 416587.22222222225
 }
