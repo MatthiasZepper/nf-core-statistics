@@ -2700,13 +2700,13 @@
     "Lenbok",
     "paytoncarter14"
   ],
-  "numberOfPullRequestNew": 439,
+  "numberOfPullRequestNew": 428,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 27125,
+  "p50SecondsToClosePulls": 20226,
   "p50SecondsToCloseIssues": 187055,
-  "meanNumberOfNewPullsPerWeek": 77.72207792207791,
+  "meanNumberOfNewPullsPerWeek": 77.75064935064935,
   "meanNumberOfNewContributorsPerWeek": 6.909560723514212,
-  "meanSecondsToClosePulls": 244569.89749430525,
-  "meanSecondsToCloseIssues": 416587.22222222225
+  "meanSecondsToClosePulls": 242689.56542056074,
+  "meanSecondsToCloseIssues": 404653.7555555556
 }
