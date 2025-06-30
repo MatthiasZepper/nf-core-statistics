@@ -2124,6 +2124,7 @@
     "nsang0u",
     "Tuur-ds",
     "ditjacobs",
+    "mcmero",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2179,7 +2180,6 @@
     "andypohl",
     "Dishalodha",
     "Lupphes",
-    "mcmero",
     "caspargross",
     "matthewstuartedwards",
     "RareSeas-Asimov",
@@ -2698,13 +2698,13 @@
     "Lenbok",
     "paytoncarter14"
   ],
-  "numberOfPullRequestNew": 419,
+  "numberOfPullRequestNew": 413,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 19944,
-  "p50SecondsToCloseIssues": 187055,
+  "p50SecondsToClosePulls": 16982,
+  "p50SecondsToCloseIssues": 173684,
   "meanNumberOfNewPullsPerWeek": 77.75064935064935,
   "meanNumberOfNewContributorsPerWeek": 6.909560723514212,
-  "meanSecondsToClosePulls": 241733.34367541765,
-  "meanSecondsToCloseIssues": 414063.5581395349
+  "meanSecondsToClosePulls": 232848.1234866828,
+  "meanSecondsToCloseIssues": 418383.38095238095
 }
