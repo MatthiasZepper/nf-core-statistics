@@ -2669,6 +2669,7 @@
     "Y-Pei",
     "vvvirgy",
     "yz533cb",
+    "KondratievaOlesya",
     "madhavajay",
     "uretaj",
     "danielhmendoza01",
@@ -2691,6 +2692,7 @@
     "Y-Pei",
     "vvvirgy",
     "yz533cb",
+    "KondratievaOlesya",
     "madhavajay",
     "uretaj",
     "danielhmendoza01",
@@ -2698,13 +2700,13 @@
     "Lenbok",
     "paytoncarter14"
   ],
-  "numberOfPullRequestNew": 413,
+  "numberOfPullRequestNew": 432,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 16982,
-  "p50SecondsToCloseIssues": 173684,
-  "meanNumberOfNewPullsPerWeek": 77.75064935064935,
-  "meanNumberOfNewContributorsPerWeek": 6.909560723514212,
-  "meanSecondsToClosePulls": 232848.1234866828,
-  "meanSecondsToCloseIssues": 418383.38095238095
+  "p50SecondsToClosePulls": 17510,
+  "p50SecondsToCloseIssues": 250709,
+  "meanNumberOfNewPullsPerWeek": 77.60621761658031,
+  "meanNumberOfNewContributorsPerWeek": 6.894329896907217,
+  "meanSecondsToClosePulls": 252116.39814814815,
+  "meanSecondsToCloseIssues": 486178.47826086957
 }
