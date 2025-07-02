@@ -496,7 +496,7 @@
     "HaidYi",
     "elmedjadjirayane",
     "saima-tithi-stjude",
-    "Katerina10-cloud",
+    "kdavydzenka",
     "giorgiagandolfi",
     "danwiththeplan",
     "luantunez",
@@ -2700,13 +2700,13 @@
     "Lenbok",
     "paytoncarter14"
   ],
-  "numberOfPullRequestNew": 432,
+  "numberOfPullRequestNew": 451,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 17510,
+  "p50SecondsToClosePulls": 16105,
   "p50SecondsToCloseIssues": 250709,
-  "meanNumberOfNewPullsPerWeek": 77.60621761658031,
+  "meanNumberOfNewPullsPerWeek": 77.67357512953367,
   "meanNumberOfNewContributorsPerWeek": 6.894329896907217,
-  "meanSecondsToClosePulls": 252116.39814814815,
-  "meanSecondsToCloseIssues": 486178.47826086957
+  "meanSecondsToClosePulls": 235080.60753880267,
+  "meanSecondsToCloseIssues": 477468.87234042556
 }
