@@ -2588,6 +2588,7 @@
     "mrvictorica",
     "eugeniafontecha",
     "hemanoel",
+    "gichas",
     "nitzcovich",
     "random-annoym",
     "bxskdh",
@@ -2661,6 +2662,7 @@
     "francops1722",
     "PengNi",
     "nadjano",
+    "paytoncarter14",
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
@@ -2682,9 +2684,7 @@
     "cehtolonen",
     "uretaj",
     "danielhmendoza01",
-    "gichas",
-    "Lenbok",
-    "paytoncarter14"
+    "Lenbok"
   ],
   "namesOfContributorsNew": [
     "ivanmilevtues",
@@ -2705,17 +2705,15 @@
     "cehtolonen",
     "uretaj",
     "danielhmendoza01",
-    "gichas",
-    "Lenbok",
-    "paytoncarter14"
+    "Lenbok"
   ],
-  "numberOfPullRequestNew": 413,
+  "numberOfPullRequestNew": 389,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 13585,
-  "p50SecondsToCloseIssues": 248347,
-  "meanNumberOfNewPullsPerWeek": 77.83419689119171,
+  "p50SecondsToCloseIssues": 187055,
+  "meanNumberOfNewPullsPerWeek": 77.83937823834196,
   "meanNumberOfNewContributorsPerWeek": 6.917525773195877,
-  "meanSecondsToClosePulls": 182637.98547215498,
-  "meanSecondsToCloseIssues": 517238.6923076923
+  "meanSecondsToClosePulls": 160985.8766066838,
+  "meanSecondsToCloseIssues": 424695.44897959183
 }
