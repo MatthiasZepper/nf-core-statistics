@@ -2712,13 +2712,13 @@
     "danielhmendoza01",
     "Lenbok"
   ],
-  "numberOfPullRequestNew": 387,
+  "numberOfPullRequestNew": 405,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 13585,
+  "p50SecondsToClosePulls": 11930,
   "p50SecondsToCloseIssues": 248347,
-  "meanNumberOfNewPullsPerWeek": 77.70284237726098,
+  "meanNumberOfNewPullsPerWeek": 77.8656330749354,
   "meanNumberOfNewContributorsPerWeek": 6.907455012853471,
-  "meanSecondsToClosePulls": 158771.60723514212,
-  "meanSecondsToCloseIssues": 426503.4693877551
+  "meanSecondsToClosePulls": 154982.5185185185,
+  "meanSecondsToCloseIssues": 397203
 }
