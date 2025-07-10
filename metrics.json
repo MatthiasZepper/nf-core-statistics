@@ -1481,6 +1481,7 @@
     "yinfeitan",
     "tlaguna",
     "emilyise",
+    "tkcaccia",
     "antoine-buetti",
     "Emeerdink",
     "brunohhomem",
@@ -2674,7 +2675,6 @@
     "snehaag006",
     "micrrwd",
     "CristianNa",
-    "tkcaccia",
     "derrik-gratz",
     "Y-Pei",
     "vvvirgy",
@@ -2697,7 +2697,6 @@
     "snehaag006",
     "micrrwd",
     "CristianNa",
-    "tkcaccia",
     "derrik-gratz",
     "Y-Pei",
     "vvvirgy",
@@ -2712,13 +2711,13 @@
     "danielhmendoza01",
     "Lenbok"
   ],
-  "numberOfPullRequestNew": 405,
+  "numberOfPullRequestNew": 410,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 11930,
+  "p50SecondsToClosePulls": 12519,
   "p50SecondsToCloseIssues": 248347,
-  "meanNumberOfNewPullsPerWeek": 77.8656330749354,
+  "meanNumberOfNewPullsPerWeek": 77.90697674418605,
   "meanNumberOfNewContributorsPerWeek": 6.907455012853471,
-  "meanSecondsToClosePulls": 154982.5185185185,
-  "meanSecondsToCloseIssues": 397203
+  "meanSecondsToClosePulls": 153298.44146341464,
+  "meanSecondsToCloseIssues": 444685.84
 }
