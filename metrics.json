@@ -503,6 +503,7 @@
     "giorgiagandolfi",
     "Thibault-Poinsignon",
     "valerianilucrezia",
+    "elena-buscaroli",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -2622,7 +2623,6 @@
     "AtaJadidAhari",
     "fethalen",
     "brandon-hastings",
-    "elena-buscaroli",
     "charlie-pugh",
     "asundaresan1",
     "erkutilaslan",
@@ -2716,13 +2716,13 @@
     "danielhmendoza01",
     "Lenbok"
   ],
-  "numberOfPullRequestNew": 380,
+  "numberOfPullRequestNew": 367,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 16936,
   "p50SecondsToCloseIssues": 176007,
-  "meanNumberOfNewPullsPerWeek": 78.01808785529715,
+  "meanNumberOfNewPullsPerWeek": 78.02067183462532,
   "meanNumberOfNewContributorsPerWeek": 6.922879177377892,
-  "meanSecondsToClosePulls": 150967.75263157894,
-  "meanSecondsToCloseIssues": 363912.1621621622
+  "meanSecondsToClosePulls": 147601.60490463214,
+  "meanSecondsToCloseIssues": 391624.0263157895
 }
