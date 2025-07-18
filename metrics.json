@@ -2043,6 +2043,7 @@
     "anwarMZ",
     "tfalkarkea",
     "alkc",
+    "stavgrossfeld",
     "MartinPippel",
     "DavyCats",
     "rnaidu",
@@ -2177,7 +2178,6 @@
     "srusher",
     "minigonche",
     "jonbra",
-    "stavgrossfeld",
     "youpze",
     "dbdimitrov",
     "FrancescaB19",
@@ -2698,7 +2698,8 @@
     "kameelsky",
     "danielhmendoza01",
     "Lenbok",
-    "mfiosins"
+    "mfiosins",
+    "SAADAT-Abu"
   ],
   "namesOfContributorsNew": [
     "ivanmilevtues",
@@ -2720,15 +2721,16 @@
     "kameelsky",
     "danielhmendoza01",
     "Lenbok",
-    "mfiosins"
+    "mfiosins",
+    "SAADAT-Abu"
   ],
-  "numberOfPullRequestNew": 381,
+  "numberOfPullRequestNew": 361,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 16936,
-  "p50SecondsToCloseIssues": 176007,
-  "meanNumberOfNewPullsPerWeek": 77.99742268041237,
-  "meanNumberOfNewContributorsPerWeek": 6.917948717948718,
-  "meanSecondsToClosePulls": 188693.37007874015,
-  "meanSecondsToCloseIssues": 410020.8
+  "p50SecondsToClosePulls": 20853,
+  "p50SecondsToCloseIssues": 269388,
+  "meanNumberOfNewPullsPerWeek": 78.0360824742268,
+  "meanNumberOfNewContributorsPerWeek": 6.920512820512821,
+  "meanSecondsToClosePulls": 186033.59833795013,
+  "meanSecondsToCloseIssues": 524684.1818181818
 }
