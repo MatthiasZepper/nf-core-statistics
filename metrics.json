@@ -147,6 +147,7 @@
     "nikhil",
     "fntlnz",
     "TimD1",
+    "nictru",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -447,7 +448,6 @@
     "iraiosub",
     "U13bs1125",
     "ilight1542",
-    "nictru",
     "avani-bhojwani",
     "kokul-atx",
     "dgemperline-lilly",
@@ -2724,13 +2724,13 @@
     "mfiosins",
     "SAADAT-Abu"
   ],
-  "numberOfPullRequestNew": 340,
+  "numberOfPullRequestNew": 330,
   "p50NumberOfNewPullsPerWeek": 59,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 22881,
-  "p50SecondsToCloseIssues": 248347,
-  "meanNumberOfNewPullsPerWeek": 78.08505154639175,
+  "p50SecondsToClosePulls": 22494,
+  "p50SecondsToCloseIssues": 250709,
+  "meanNumberOfNewPullsPerWeek": 78.08762886597938,
   "meanNumberOfNewContributorsPerWeek": 6.9282051282051285,
-  "meanSecondsToClosePulls": 175104.75294117647,
-  "meanSecondsToCloseIssues": 475461.675
+  "meanSecondsToClosePulls": 165426.20606060605,
+  "meanSecondsToCloseIssues": 496676.15789473685
 }
