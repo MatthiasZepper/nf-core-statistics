@@ -2733,13 +2733,13 @@
     "mfiosins",
     "SAADAT-Abu"
   ],
-  "numberOfPullRequestNew": 346,
+  "numberOfPullRequestNew": 330,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 24816,
+  "p50SecondsToClosePulls": 25045,
   "p50SecondsToCloseIssues": 176007,
-  "meanNumberOfNewPullsPerWeek": 78.1491002570694,
+  "meanNumberOfNewPullsPerWeek": 78.15167095115682,
   "meanNumberOfNewContributorsPerWeek": 6.930946291560102,
-  "meanSecondsToClosePulls": 192860.93352601156,
-  "meanSecondsToCloseIssues": 423685.9487179487
+  "meanSecondsToClosePulls": 197785.8909090909,
+  "meanSecondsToCloseIssues": 436247.2162162162
 }
