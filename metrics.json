@@ -2075,6 +2075,7 @@
     "LaurenGonsalves",
     "jennylsmith",
     "thomgiles",
+    "juliaphilipp",
     "diegomscoelho",
     "MrTomRod",
     "caraiz2001",
@@ -2207,6 +2208,7 @@
     "Dishalodha",
     "Lupphes",
     "KondratievaOlesya",
+    "akaviaLab",
     "caspargross",
     "matthewstuartedwards",
     "RareSeas-Asimov",
@@ -2733,13 +2735,13 @@
     "mfiosins",
     "SAADAT-Abu"
   ],
-  "numberOfPullRequestNew": 330,
+  "numberOfPullRequestNew": 321,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 25045,
-  "p50SecondsToCloseIssues": 176007,
-  "meanNumberOfNewPullsPerWeek": 78.15167095115682,
-  "meanNumberOfNewContributorsPerWeek": 6.930946291560102,
-  "meanSecondsToClosePulls": 197785.8909090909,
-  "meanSecondsToCloseIssues": 436247.2162162162
+  "p50SecondsToClosePulls": 28402,
+  "p50SecondsToCloseIssues": 97285,
+  "meanNumberOfNewPullsPerWeek": 78.16195372750643,
+  "meanNumberOfNewContributorsPerWeek": 6.936061381074169,
+  "meanSecondsToClosePulls": 198458.73520249221,
+  "meanSecondsToCloseIssues": 411189.67647058825
 }
