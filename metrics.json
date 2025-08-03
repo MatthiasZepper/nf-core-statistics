@@ -2703,6 +2703,7 @@
     "ivanmilevtues",
     "Alexaz13",
     "bpark-research",
+    "mingmingpei001",
     "Copilot",
     "StuntsPT",
     "andreyhgl",
@@ -2723,6 +2724,7 @@
     "ivanmilevtues",
     "Alexaz13",
     "bpark-research",
+    "mingmingpei001",
     "Copilot",
     "StuntsPT",
     "andreyhgl",
@@ -2739,13 +2741,13 @@
     "mfiosins",
     "SAADAT-Abu"
   ],
-  "numberOfPullRequestNew": 346,
+  "numberOfPullRequestNew": 338,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 45787,
+  "p50SecondsToClosePulls": 42274,
   "p50SecondsToCloseIssues": 162468,
-  "meanNumberOfNewPullsPerWeek": 78.23333333333333,
-  "meanNumberOfNewContributorsPerWeek": 6.9311224489795915,
-  "meanSecondsToClosePulls": 250865.1647398844,
-  "meanSecondsToCloseIssues": 356474.0571428572
+  "meanNumberOfNewPullsPerWeek": 78.25384615384615,
+  "meanNumberOfNewContributorsPerWeek": 6.933673469387755,
+  "meanSecondsToClosePulls": 250410.95857988167,
+  "meanSecondsToCloseIssues": 384836.9142857143
 }
