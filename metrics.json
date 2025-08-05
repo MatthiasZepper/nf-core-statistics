@@ -1502,6 +1502,7 @@
     "ricardojacomini",
     "steffenlem",
     "JuliaGraf",
+    "janaHoffmann1",
     "NikdAK",
     "ATPs",
     "HeshamElAbd",
@@ -2128,6 +2129,7 @@
     "ignatiusm",
     "kc-moharana",
     "ktrappe",
+    "rachwalp",
     "mantisps",
     "D-Pankey",
     "mikefeixu",
@@ -2737,13 +2739,13 @@
     "mgeaghan",
     "mfiosins"
   ],
-  "numberOfPullRequestNew": 326,
+  "numberOfPullRequestNew": 335,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 45787,
-  "p50SecondsToCloseIssues": 97285,
-  "meanNumberOfNewPullsPerWeek": 78.25897435897436,
-  "meanNumberOfNewContributorsPerWeek": 6.936224489795919,
-  "meanSecondsToClosePulls": 249028.64110429448,
-  "meanSecondsToCloseIssues": 329011.22580645164
+  "p50SecondsToCloseIssues": 118149,
+  "meanNumberOfNewPullsPerWeek": 78.0920716112532,
+  "meanNumberOfNewContributorsPerWeek": 6.923664122137405,
+  "meanSecondsToClosePulls": 240498.14925373133,
+  "meanSecondsToCloseIssues": 335689.45454545453
 }
