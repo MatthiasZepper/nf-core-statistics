@@ -2700,9 +2700,9 @@
     "fmobegi",
     "OlivierCoen",
     "YiJin-Xiong",
+    "quentinblampey",
     "jessicarowell",
     "ythaworn",
-    "quentinblampey",
     "francops1722",
     "PengNi",
     "nadjano",
@@ -2740,13 +2740,13 @@
     "mgeaghan",
     "mfiosins"
   ],
-  "numberOfPullRequestNew": 295,
+  "numberOfPullRequestNew": 281,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 21158,
-  "p50SecondsToCloseIssues": 121666,
-  "meanNumberOfNewPullsPerWeek": 78.23529411764706,
+  "p50SecondsToClosePulls": 19272,
+  "p50SecondsToCloseIssues": 118149,
+  "meanNumberOfNewPullsPerWeek": 78.2378516624041,
   "meanNumberOfNewContributorsPerWeek": 6.928753180661578,
-  "meanSecondsToClosePulls": 168355.89491525423,
-  "meanSecondsToCloseIssues": 295775.8095238095
+  "meanSecondsToClosePulls": 154836.38434163702,
+  "meanSecondsToCloseIssues": 280578.8
 }
