@@ -2740,13 +2740,13 @@
     "mgeaghan",
     "mfiosins"
   ],
-  "numberOfPullRequestNew": 281,
+  "numberOfPullRequestNew": 283,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 19272,
-  "p50SecondsToCloseIssues": 118149,
-  "meanNumberOfNewPullsPerWeek": 78.2378516624041,
+  "p50SecondsToCloseIssues": 121666,
+  "meanNumberOfNewPullsPerWeek": 78.25831202046035,
   "meanNumberOfNewContributorsPerWeek": 6.928753180661578,
-  "meanSecondsToClosePulls": 154836.38434163702,
-  "meanSecondsToCloseIssues": 280578.8
+  "meanSecondsToClosePulls": 155832.63957597173,
+  "meanSecondsToCloseIssues": 280474.56097560975
 }
