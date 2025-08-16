@@ -2769,13 +2769,13 @@
     "IngiumDev",
     "mgeaghan"
   ],
-  "numberOfPullRequestNew": 323,
+  "numberOfPullRequestNew": 324,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 26815,
+  "p50SecondsToClosePulls": 21158,
   "p50SecondsToCloseIssues": 256608,
-  "meanNumberOfNewPullsPerWeek": 78.29081632653062,
+  "meanNumberOfNewPullsPerWeek": 78.32908163265306,
   "meanNumberOfNewContributorsPerWeek": 6.961928934010152,
-  "meanSecondsToClosePulls": 180094.6253869969,
-  "meanSecondsToCloseIssues": 534364.6129032258
+  "meanSecondsToClosePulls": 175662.53395061727,
+  "meanSecondsToCloseIssues": 536552.4444444445
 }
