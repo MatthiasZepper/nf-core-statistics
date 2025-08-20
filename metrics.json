@@ -148,7 +148,6 @@
     "fntlnz",
     "TimD1",
     "nictru",
-    "ivanmilevtues",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -2739,6 +2738,7 @@
     "dwells-eit",
     "julietmWM",
     "norapluto",
+    "ranikay",
     "anhong11",
     "ToshihiroJJH",
     "davidvilanova",
@@ -2760,6 +2760,7 @@
     "dwells-eit",
     "julietmWM",
     "norapluto",
+    "ranikay",
     "anhong11",
     "ToshihiroJJH",
     "davidvilanova",
@@ -2769,13 +2770,13 @@
     "IngiumDev",
     "mgeaghan"
   ],
-  "numberOfPullRequestNew": 314,
+  "numberOfPullRequestNew": 335,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 18663,
+  "p50SecondsToClosePulls": 20740,
   "p50SecondsToCloseIssues": 272422,
-  "meanNumberOfNewPullsPerWeek": 78.18320610687023,
+  "meanNumberOfNewPullsPerWeek": 78.2442748091603,
   "meanNumberOfNewContributorsPerWeek": 6.951898734177215,
-  "meanSecondsToClosePulls": 163419.70063694267,
-  "meanSecondsToCloseIssues": 501389.8474576271
+  "meanSecondsToClosePulls": 180796.74925373134,
+  "meanSecondsToCloseIssues": 511552.24590163934
 }
