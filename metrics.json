@@ -512,6 +512,7 @@
     "snehaag006",
     "gichas",
     "JuliaGraf",
+    "mcmero",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -2172,7 +2173,6 @@
     "JeronimoVazquez",
     "Tuur-ds",
     "ditjacobs",
-    "mcmero",
     "JacquelineAldridge",
     "Y-Pei",
     "vvvirgy",
@@ -2777,13 +2777,13 @@
     "rajdbs32",
     "IngiumDev"
   ],
-  "numberOfPullRequestNew": 329,
+  "numberOfPullRequestNew": 312,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 17852,
+  "p50SecondsToClosePulls": 17409,
   "p50SecondsToCloseIssues": 272422,
-  "meanNumberOfNewPullsPerWeek": 78.42748091603053,
+  "meanNumberOfNewPullsPerWeek": 78.43256997455471,
   "meanNumberOfNewContributorsPerWeek": 6.972151898734177,
-  "meanSecondsToClosePulls": 165188.085106383,
+  "meanSecondsToClosePulls": 162406.78846153847,
   "meanSecondsToCloseIssues": 465446.39215686277
 }
