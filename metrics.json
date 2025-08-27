@@ -2745,6 +2745,7 @@
     "alialhadithi",
     "esamorodnitsky",
     "dwells-eit",
+    "alexiandra97",
     "julietmWM",
     "norapluto",
     "ranikay",
@@ -2766,6 +2767,7 @@
     "alialhadithi",
     "esamorodnitsky",
     "dwells-eit",
+    "alexiandra97",
     "julietmWM",
     "norapluto",
     "ranikay",
@@ -2778,13 +2780,13 @@
     "rajdbs32",
     "IngiumDev"
   ],
-  "numberOfPullRequestNew": 326,
+  "numberOfPullRequestNew": 345,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 17800,
-  "p50SecondsToCloseIssues": 276305,
-  "meanNumberOfNewPullsPerWeek": 78.28172588832487,
-  "meanNumberOfNewContributorsPerWeek": 6.957070707070707,
-  "meanSecondsToClosePulls": 171098.9417177914,
-  "meanSecondsToCloseIssues": 529226.6964285715
+  "p50SecondsToClosePulls": 17852,
+  "p50SecondsToCloseIssues": 340032,
+  "meanNumberOfNewPullsPerWeek": 78.33502538071066,
+  "meanNumberOfNewContributorsPerWeek": 6.959595959595959,
+  "meanSecondsToClosePulls": 172257.10144927536,
+  "meanSecondsToCloseIssues": 530566.0350877193
 }
