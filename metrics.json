@@ -148,6 +148,7 @@
     "fntlnz",
     "TimD1",
     "nictru",
+    "ivanmilevtues",
     "Nisarg908",
     "jonasscheid",
     "shenkers",
@@ -2751,6 +2752,7 @@
     "4less",
     "VincentAaskov",
     "cpearse",
+    "EddieLF",
     "alialhadithi",
     "esamorodnitsky",
     "dwells-eit",
@@ -2775,6 +2777,7 @@
     "4less",
     "VincentAaskov",
     "cpearse",
+    "EddieLF",
     "alialhadithi",
     "esamorodnitsky",
     "dwells-eit",
@@ -2791,13 +2794,13 @@
     "rajdbs32",
     "sathyasjali"
   ],
-  "numberOfPullRequestNew": 357,
+  "numberOfPullRequestNew": 347,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 28270,
-  "p50SecondsToCloseIssues": 272422,
-  "meanNumberOfNewPullsPerWeek": 78.5,
-  "meanNumberOfNewContributorsPerWeek": 6.982323232323233,
-  "meanSecondsToClosePulls": 186277.9019607843,
-  "meanSecondsToCloseIssues": 511325.83636363636
+  "p50SecondsToCloseIssues": 232572,
+  "meanNumberOfNewPullsPerWeek": 78.50507614213198,
+  "meanNumberOfNewContributorsPerWeek": 6.987373737373737,
+  "meanSecondsToClosePulls": 174205.72622478387,
+  "meanSecondsToCloseIssues": 437235.43396226416
 }
