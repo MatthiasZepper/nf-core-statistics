@@ -2229,6 +2229,7 @@
     "EKarpulevich",
     "gesavoigt",
     "SumeetTiwari07",
+    "vd4mmind",
     "yfukai",
     "FrederickMappin",
     "ulyssebaruchel",
@@ -2794,13 +2795,13 @@
     "rajdbs32",
     "sathyasjali"
   ],
-  "numberOfPullRequestNew": 347,
+  "numberOfPullRequestNew": 331,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 28270,
-  "p50SecondsToCloseIssues": 232572,
-  "meanNumberOfNewPullsPerWeek": 78.50507614213198,
-  "meanNumberOfNewContributorsPerWeek": 6.987373737373737,
-  "meanSecondsToClosePulls": 174205.72622478387,
-  "meanSecondsToCloseIssues": 437235.43396226416
+  "p50SecondsToClosePulls": 22024,
+  "p50SecondsToCloseIssues": 221663,
+  "meanNumberOfNewPullsPerWeek": 78.50761421319797,
+  "meanNumberOfNewContributorsPerWeek": 6.98989898989899,
+  "meanSecondsToClosePulls": 160680.77945619336,
+  "meanSecondsToCloseIssues": 384881.3137254902
 }
