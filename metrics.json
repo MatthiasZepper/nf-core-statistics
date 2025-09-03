@@ -2425,6 +2425,7 @@
     "mariaUCL",
     "bioShaun",
     "jpfry327",
+    "Riskerino",
     "SarahMaman",
     "ecapriotti",
     "jackkamm",
@@ -2769,6 +2770,7 @@
     "ptajvar",
     "dhana2403",
     "rajdbs32",
+    "nan5895",
     "sathyasjali"
   ],
   "namesOfContributorsNew": [
@@ -2793,15 +2795,16 @@
     "ptajvar",
     "dhana2403",
     "rajdbs32",
+    "nan5895",
     "sathyasjali"
   ],
-  "numberOfPullRequestNew": 336,
+  "numberOfPullRequestNew": 349,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 22024,
+  "p50SecondsToClosePulls": 24364,
   "p50SecondsToCloseIssues": 232572,
-  "meanNumberOfNewPullsPerWeek": 78.33924050632912,
-  "meanNumberOfNewContributorsPerWeek": 6.974811083123425,
-  "meanSecondsToClosePulls": 161006.58630952382,
-  "meanSecondsToCloseIssues": 383802.3396226415
+  "meanNumberOfNewPullsPerWeek": 78.38481012658228,
+  "meanNumberOfNewContributorsPerWeek": 6.979848866498741,
+  "meanSecondsToClosePulls": 169951.23782234956,
+  "meanSecondsToCloseIssues": 389581.5714285714
 }
