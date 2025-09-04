@@ -623,7 +623,7 @@
     "mshulewitz",
     "hreinwal",
     "galanisl",
-    "Jokendo-collab",
+    "okendojo",
     "tskrzyp",
     "jgolob",
     "OlgaVT",
@@ -1216,6 +1216,7 @@
     "AlexHoratio",
     "Gabriel-QIN",
     "vinisalazar",
+    "palec87",
     "ZandraFagernas",
     "scarlhoff",
     "96RadhikaJadhav",
@@ -2798,13 +2799,13 @@
     "nan5895",
     "sathyasjali"
   ],
-  "numberOfPullRequestNew": 349,
+  "numberOfPullRequestNew": 344,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 24364,
-  "p50SecondsToCloseIssues": 232572,
-  "meanNumberOfNewPullsPerWeek": 78.38481012658228,
-  "meanNumberOfNewContributorsPerWeek": 6.979848866498741,
-  "meanSecondsToClosePulls": 169951.23782234956,
-  "meanSecondsToCloseIssues": 389581.5714285714
+  "p50SecondsToClosePulls": 19284,
+  "p50SecondsToCloseIssues": 272618,
+  "meanNumberOfNewPullsPerWeek": 78.4253164556962,
+  "meanNumberOfNewContributorsPerWeek": 6.982367758186398,
+  "meanSecondsToClosePulls": 173854.77034883722,
+  "meanSecondsToCloseIssues": 400474.92727272725
 }
