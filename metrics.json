@@ -246,6 +246,7 @@
     "eparisis",
     "taylorlynch",
     "tstark-cdc",
+    "imLew",
     "PascalIversen",
     "JudithBernett",
     "FloWuenne",
@@ -2191,6 +2192,7 @@
     "pontushojer",
     "akaviaLab",
     "ugoiannacchero",
+    "Lupphes",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2244,7 +2246,6 @@
     "blancoheredia",
     "andypohl",
     "Dishalodha",
-    "Lupphes",
     "KondratievaOlesya",
     "caspargross",
     "matthewstuartedwards",
@@ -2750,7 +2751,6 @@
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
-    "imLew",
     "mpampuch",
     "shivangi-7",
     "4less",
@@ -2778,7 +2778,6 @@
     "sathyasjali"
   ],
   "namesOfContributorsNew": [
-    "imLew",
     "mpampuch",
     "shivangi-7",
     "4less",
@@ -2805,13 +2804,13 @@
     "nan5895",
     "sathyasjali"
   ],
-  "numberOfPullRequestNew": 351,
+  "numberOfPullRequestNew": 336,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 17800,
-  "p50SecondsToCloseIssues": 272618,
+  "p50SecondsToClosePulls": 17409,
+  "p50SecondsToCloseIssues": 221663,
   "meanNumberOfNewPullsPerWeek": 78.50886075949367,
   "meanNumberOfNewContributorsPerWeek": 6.98992443324937,
-  "meanSecondsToClosePulls": 159852.41595441595,
-  "meanSecondsToCloseIssues": 457206.875
+  "meanSecondsToClosePulls": 158295.9255952381,
+  "meanSecondsToCloseIssues": 451966.98
 }
