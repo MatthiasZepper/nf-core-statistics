@@ -290,7 +290,6 @@
     "pterzian",
     "dataMaster-Kris",
     "adeslatt",
-    "tuln128",
     "PanZiwei",
     "liuyang2006",
     "DanBeaton",
@@ -2802,13 +2801,13 @@
     "nan5895",
     "sathyasjali"
   ],
-  "numberOfPullRequestNew": 323,
+  "numberOfPullRequestNew": 335,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 17800,
-  "p50SecondsToCloseIssues": 232572,
-  "meanNumberOfNewPullsPerWeek": 78.51139240506329,
-  "meanNumberOfNewContributorsPerWeek": 6.98992443324937,
-  "meanSecondsToClosePulls": 149231.41795665634,
-  "meanSecondsToCloseIssues": 465292.0833333333
+  "p50SecondsToClosePulls": 18114,
+  "p50SecondsToCloseIssues": 272618,
+  "meanNumberOfNewPullsPerWeek": 78.35353535353535,
+  "meanNumberOfNewContributorsPerWeek": 6.969849246231155,
+  "meanSecondsToClosePulls": 158515.1104477612,
+  "meanSecondsToCloseIssues": 475115.0425531915
 }
