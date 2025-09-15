@@ -2807,13 +2807,13 @@
     "rajdbs32",
     "nan5895"
   ],
-  "numberOfPullRequestNew": 334,
+  "numberOfPullRequestNew": 313,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 18114,
+  "p50SecondsToClosePulls": 17800,
   "p50SecondsToCloseIssues": 441829,
   "meanNumberOfNewPullsPerWeek": 78.57070707070707,
   "meanNumberOfNewContributorsPerWeek": 6.982412060301508,
-  "meanSecondsToClosePulls": 163023.0598802395,
+  "meanSecondsToClosePulls": 160017.31309904152,
   "meanSecondsToCloseIssues": 520849.8409090909
 }
