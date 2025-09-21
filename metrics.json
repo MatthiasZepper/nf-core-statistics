@@ -247,6 +247,7 @@
     "taylorlynch",
     "tstark-cdc",
     "imLew",
+    "mpampuch",
     "PascalIversen",
     "JudithBernett",
     "FloWuenne",
@@ -2764,7 +2765,6 @@
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
-    "mpampuch",
     "shivangi-7",
     "nadiaxaidan",
     "kravneet",
@@ -2789,7 +2789,6 @@
     "arvindsundaram"
   ],
   "namesOfContributorsNew": [
-    "mpampuch",
     "shivangi-7",
     "nadiaxaidan",
     "kravneet",
@@ -2813,13 +2812,13 @@
     "nan5895",
     "arvindsundaram"
   ],
-  "numberOfPullRequestNew": 383,
+  "numberOfPullRequestNew": 369,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 13492,
-  "p50SecondsToCloseIssues": 426565,
-  "meanNumberOfNewPullsPerWeek": 78.7455919395466,
+  "p50SecondsToClosePulls": 16690,
+  "p50SecondsToCloseIssues": 368005,
+  "meanNumberOfNewPullsPerWeek": 78.75314861460957,
   "meanNumberOfNewContributorsPerWeek": 6.982456140350878,
-  "meanSecondsToClosePulls": 158954.94255874673,
-  "meanSecondsToCloseIssues": 517727.79591836734
+  "meanSecondsToClosePulls": 162512.11382113822,
+  "meanSecondsToCloseIssues": 516125.5416666667
 }
