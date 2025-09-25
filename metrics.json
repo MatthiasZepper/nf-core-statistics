@@ -1688,6 +1688,7 @@
     "mathob",
     "vdejager",
     "nicolasDelhomme",
+    "EddieLF",
     "alina-bauer",
     "thomas-davis",
     "axelwalter",
@@ -2773,6 +2774,7 @@
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
+    "rrahn",
     "vanadiuz",
     "shivangi-7",
     "nadiaxaidan",
@@ -2782,7 +2784,6 @@
     "zmudge3",
     "VincentAaskov",
     "cpearse",
-    "EddieLF",
     "JosephLalli",
     "sathyasjali",
     "jchchiu",
@@ -2796,6 +2797,7 @@
     "arvindsundaram"
   ],
   "namesOfContributorsNew": [
+    "rrahn",
     "vanadiuz",
     "shivangi-7",
     "nadiaxaidan",
@@ -2805,7 +2807,6 @@
     "zmudge3",
     "VincentAaskov",
     "cpearse",
-    "EddieLF",
     "JosephLalli",
     "sathyasjali",
     "jchchiu",
@@ -2818,13 +2819,13 @@
     "ammaraziz",
     "arvindsundaram"
   ],
-  "numberOfPullRequestNew": 380,
+  "numberOfPullRequestNew": 388,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 10986,
+  "p50SecondsToClosePulls": 13119,
   "p50SecondsToCloseIssues": 349836,
-  "meanNumberOfNewPullsPerWeek": 78.65075376884423,
-  "meanNumberOfNewContributorsPerWeek": 6.9825,
-  "meanSecondsToClosePulls": 165168.04210526316,
-  "meanSecondsToCloseIssues": 459116.18
+  "meanNumberOfNewPullsPerWeek": 78.70603015075378,
+  "meanNumberOfNewContributorsPerWeek": 6.985,
+  "meanSecondsToClosePulls": 160626.07216494845,
+  "meanSecondsToCloseIssues": 489213.9183673469
 }
