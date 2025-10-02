@@ -2829,13 +2829,13 @@
     "splaisan",
     "ammaraziz"
   ],
-  "numberOfPullRequestNew": 395,
+  "numberOfPullRequestNew": 402,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 9897,
-  "p50SecondsToCloseIssues": 177868,
-  "meanNumberOfNewPullsPerWeek": 78.77694235588973,
+  "p50SecondsToClosePulls": 10766,
+  "p50SecondsToCloseIssues": 124691,
+  "meanNumberOfNewPullsPerWeek": 78.83458646616542,
   "meanNumberOfNewContributorsPerWeek": 7.00498753117207,
-  "meanSecondsToClosePulls": 137968.31139240507,
-  "meanSecondsToCloseIssues": 451793.8510638298
+  "meanSecondsToClosePulls": 147630.87313432837,
+  "meanSecondsToCloseIssues": 370812.3488372093
 }
