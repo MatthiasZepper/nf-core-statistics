@@ -2809,7 +2809,9 @@
     "annaasklof",
     "cjjossart",
     "splaisan",
-    "ammaraziz"
+    "Chuang1118",
+    "ammaraziz",
+    "e-felici"
   ],
   "namesOfContributorsNew": [
     "rrahn",
@@ -2827,15 +2829,17 @@
     "annaasklof",
     "cjjossart",
     "splaisan",
-    "ammaraziz"
+    "Chuang1118",
+    "ammaraziz",
+    "e-felici"
   ],
-  "numberOfPullRequestNew": 402,
-  "p50NumberOfNewPullsPerWeek": 60,
+  "numberOfPullRequestNew": 418,
+  "p50NumberOfNewPullsPerWeek": 62,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 10766,
+  "p50SecondsToClosePulls": 11686,
   "p50SecondsToCloseIssues": 124691,
-  "meanNumberOfNewPullsPerWeek": 78.83458646616542,
-  "meanNumberOfNewContributorsPerWeek": 7.00498753117207,
-  "meanSecondsToClosePulls": 147630.87313432837,
-  "meanSecondsToCloseIssues": 370812.3488372093
+  "meanNumberOfNewPullsPerWeek": 78.91478696741855,
+  "meanNumberOfNewContributorsPerWeek": 7.0099750623441395,
+  "meanSecondsToClosePulls": 151670.6100478469,
+  "meanSecondsToCloseIssues": 419529.9318181818
 }
