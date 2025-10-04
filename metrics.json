@@ -2221,6 +2221,7 @@
     "alexiandra97",
     "eduard-watchmaker",
     "sathyasjali",
+    "padraicc",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2798,7 +2799,6 @@
     "SZhengP",
     "vanadiuz",
     "nadiaxaidan",
-    "padraicc",
     "zmudge3",
     "JosephLalli",
     "jchchiu",
@@ -2818,7 +2818,6 @@
     "SZhengP",
     "vanadiuz",
     "nadiaxaidan",
-    "padraicc",
     "zmudge3",
     "JosephLalli",
     "jchchiu",
@@ -2833,13 +2832,13 @@
     "ammaraziz",
     "e-felici"
   ],
-  "numberOfPullRequestNew": 418,
+  "numberOfPullRequestNew": 416,
   "p50NumberOfNewPullsPerWeek": 62,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 11686,
+  "p50SecondsToClosePulls": 10986,
   "p50SecondsToCloseIssues": 124691,
-  "meanNumberOfNewPullsPerWeek": 78.91478696741855,
+  "meanNumberOfNewPullsPerWeek": 78.94736842105263,
   "meanNumberOfNewContributorsPerWeek": 7.0099750623441395,
-  "meanSecondsToClosePulls": 151670.6100478469,
-  "meanSecondsToCloseIssues": 419529.9318181818
+  "meanSecondsToClosePulls": 142255.26682692306,
+  "meanSecondsToCloseIssues": 456998.3023255814
 }
