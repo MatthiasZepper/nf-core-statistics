@@ -2832,13 +2832,13 @@
     "ammaraziz",
     "e-felici"
   ],
-  "numberOfPullRequestNew": 390,
-  "p50NumberOfNewPullsPerWeek": 62,
+  "numberOfPullRequestNew": 411,
+  "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 11686,
-  "p50SecondsToCloseIssues": 94343,
-  "meanNumberOfNewPullsPerWeek": 78.95989974937343,
-  "meanNumberOfNewContributorsPerWeek": 7.012468827930174,
-  "meanSecondsToClosePulls": 140020.25897435896,
-  "meanSecondsToCloseIssues": 416113.63157894736
+  "p50SecondsToCloseIssues": 112770,
+  "meanNumberOfNewPullsPerWeek": 78.82,
+  "meanNumberOfNewContributorsPerWeek": 6.9950248756218905,
+  "meanSecondsToClosePulls": 144572.4890510949,
+  "meanSecondsToCloseIssues": 410128.85
 }
