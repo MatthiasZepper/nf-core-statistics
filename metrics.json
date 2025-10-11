@@ -2224,6 +2224,7 @@
     "sathyasjali",
     "padraicc",
     "jchchiu",
+    "apetizerr",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2809,7 +2810,6 @@
     "jonasfreimuth",
     "JosephLalli",
     "brookezanco",
-    "apetizerr",
     "manascripts",
     "inemesb",
     "eduardcasas",
@@ -2829,7 +2829,6 @@
     "jonasfreimuth",
     "JosephLalli",
     "brookezanco",
-    "apetizerr",
     "manascripts",
     "inemesb",
     "eduardcasas",
@@ -2839,13 +2838,13 @@
     "hyphaltip",
     "e-felici"
   ],
-  "numberOfPullRequestNew": 423,
+  "numberOfPullRequestNew": 422,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 11434,
-  "p50SecondsToCloseIssues": 88142,
-  "meanNumberOfNewPullsPerWeek": 78.9425,
+  "p50SecondsToCloseIssues": 94343,
+  "meanNumberOfNewPullsPerWeek": 78.9875,
   "meanNumberOfNewContributorsPerWeek": 7.007462686567164,
-  "meanSecondsToClosePulls": 148096.02364066194,
-  "meanSecondsToCloseIssues": 383007.5833333333
+  "meanSecondsToClosePulls": 148933.0355450237,
+  "meanSecondsToCloseIssues": 372660.74
 }
