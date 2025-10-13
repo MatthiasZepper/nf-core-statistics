@@ -534,6 +534,7 @@
     "BioWilko",
     "shivangi-7",
     "eduard-watchmaker",
+    "nadiaxaidan",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -2225,7 +2226,6 @@
     "padraicc",
     "jchchiu",
     "apetizerr",
-    "nadiaxaidan",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2837,13 +2837,13 @@
     "hyphaltip",
     "e-felici"
   ],
-  "numberOfPullRequestNew": 397,
+  "numberOfPullRequestNew": 381,
   "p50NumberOfNewPullsPerWeek": 60,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 12767,
-  "p50SecondsToCloseIssues": 103376,
-  "meanNumberOfNewPullsPerWeek": 78.9925,
+  "p50SecondsToClosePulls": 13119,
+  "p50SecondsToCloseIssues": 88142,
+  "meanNumberOfNewPullsPerWeek": 78.995,
   "meanNumberOfNewContributorsPerWeek": 7.007462686567164,
-  "meanSecondsToClosePulls": 141206.1410579345,
-  "meanSecondsToCloseIssues": 372841.4
+  "meanSecondsToClosePulls": 137364.02624671915,
+  "meanSecondsToCloseIssues": 296769.3191489362
 }
