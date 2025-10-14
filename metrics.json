@@ -810,7 +810,7 @@
     "rachidelfermi",
     "ewallace",
     "azedinez",
-    "RamiyapriyaS",
+    "RamiyapriyaS-Deloitte",
     "namplusot",
     "felixm3",
     "kvn95ss",
@@ -2837,13 +2837,13 @@
     "hyphaltip",
     "e-felici"
   ],
-  "numberOfPullRequestNew": 381,
-  "p50NumberOfNewPullsPerWeek": 60,
+  "numberOfPullRequestNew": 390,
+  "p50NumberOfNewPullsPerWeek": 62,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 13119,
+  "p50SecondsToClosePulls": 13492,
   "p50SecondsToCloseIssues": 88142,
-  "meanNumberOfNewPullsPerWeek": 78.995,
-  "meanNumberOfNewContributorsPerWeek": 7.007462686567164,
-  "meanSecondsToClosePulls": 137364.02624671915,
-  "meanSecondsToCloseIssues": 296769.3191489362
+  "meanNumberOfNewPullsPerWeek": 78.82543640897755,
+  "meanNumberOfNewContributorsPerWeek": 6.990074441687345,
+  "meanSecondsToClosePulls": 138795.51794871796,
+  "meanSecondsToCloseIssues": 289776.4583333333
 }
