@@ -155,6 +155,7 @@
     "Copilot",
     "prototaxites",
     "rrahn",
+    "SZhengP",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -2754,6 +2755,7 @@
     "Jessime",
     "AtaJadidAhari",
     "fethalen",
+    "e-felici",
     "brandon-hastings",
     "charlie-pugh",
     "a-sundaresan",
@@ -2764,6 +2766,7 @@
     "jiahang1234",
     "GustavoYnada",
     "nkongenelly",
+    "agrima2010",
     "fulaibaowang",
     "arvindsundaram",
     "jantmo",
@@ -2816,8 +2819,8 @@
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
-    "SZhengP",
     "jazberna1",
+    "GERMAN00VP",
     "joao1980",
     "HannahBenisty",
     "itirg",
@@ -2832,11 +2835,11 @@
     "khoroshevskyi",
     "YangJingqii",
     "hyphaltip",
-    "e-felici"
+    "KateSakharova"
   ],
   "namesOfContributorsNew": [
-    "SZhengP",
     "jazberna1",
+    "GERMAN00VP",
     "joao1980",
     "HannahBenisty",
     "itirg",
@@ -2851,15 +2854,15 @@
     "khoroshevskyi",
     "YangJingqii",
     "hyphaltip",
-    "e-felici"
+    "KateSakharova"
   ],
-  "numberOfPullRequestNew": 404,
+  "numberOfPullRequestNew": 412,
   "p50NumberOfNewPullsPerWeek": 62,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 16268,
+  "p50SecondsToClosePulls": 13892,
   "p50SecondsToCloseIssues": 254299,
-  "meanNumberOfNewPullsPerWeek": 79.2636815920398,
-  "meanNumberOfNewContributorsPerWeek": 7.00990099009901,
-  "meanSecondsToClosePulls": 141901.41584158415,
-  "meanSecondsToCloseIssues": 368084.50877192983
+  "meanNumberOfNewPullsPerWeek": 79.3407960199005,
+  "meanNumberOfNewContributorsPerWeek": 7.017326732673268,
+  "meanSecondsToClosePulls": 155068.95388349515,
+  "meanSecondsToCloseIssues": 344960.649122807
 }
