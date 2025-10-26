@@ -2856,13 +2856,13 @@
     "hyphaltip",
     "KateSakharova"
   ],
-  "numberOfPullRequestNew": 412,
+  "numberOfPullRequestNew": 393,
   "p50NumberOfNewPullsPerWeek": 62,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 13892,
-  "p50SecondsToCloseIssues": 254299,
-  "meanNumberOfNewPullsPerWeek": 79.3407960199005,
+  "p50SecondsToClosePulls": 13903,
+  "p50SecondsToCloseIssues": 331524,
+  "meanNumberOfNewPullsPerWeek": 79.3457711442786,
   "meanNumberOfNewContributorsPerWeek": 7.017326732673268,
-  "meanSecondsToClosePulls": 155068.95388349515,
-  "meanSecondsToCloseIssues": 344960.649122807
+  "meanSecondsToClosePulls": 151230.8651399491,
+  "meanSecondsToCloseIssues": 360201.5
 }
