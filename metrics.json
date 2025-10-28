@@ -2824,6 +2824,7 @@
     "joao1980",
     "HannahBenisty",
     "itirg",
+    "colsen",
     "emilysouthworth",
     "CMonnin",
     "tgelafr-pfzr",
@@ -2844,6 +2845,7 @@
     "joao1980",
     "HannahBenisty",
     "itirg",
+    "colsen",
     "emilysouthworth",
     "CMonnin",
     "tgelafr-pfzr",
@@ -2858,13 +2860,13 @@
     "hyphaltip",
     "KateSakharova"
   ],
-  "numberOfPullRequestNew": 381,
+  "numberOfPullRequestNew": 399,
   "p50NumberOfNewPullsPerWeek": 62,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 13892,
+  "p50SecondsToClosePulls": 16088,
   "p50SecondsToCloseIssues": 331524,
-  "meanNumberOfNewPullsPerWeek": 79.35572139303483,
-  "meanNumberOfNewContributorsPerWeek": 7.01980198019802,
-  "meanSecondsToClosePulls": 147726.6062992126,
-  "meanSecondsToCloseIssues": 339060.98076923075
+  "meanNumberOfNewPullsPerWeek": 79.21091811414392,
+  "meanNumberOfNewContributorsPerWeek": 7.004938271604939,
+  "meanSecondsToClosePulls": 157233.81203007518,
+  "meanSecondsToCloseIssues": 343874.2037037037
 }
