@@ -540,6 +540,7 @@
     "eduard-watchmaker",
     "nadiaxaidan",
     "padraicc",
+    "gburnett-nvidia",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -2179,7 +2180,6 @@
     "kiei-rz",
     "msgr0",
     "afombravo",
-    "gburnett-nvidia",
     "blajoie",
     "ochkalova",
     "jblancoheredia",
@@ -2899,10 +2899,10 @@
   "numberOfPullRequestNew": 456,
   "p50NumberOfNewPullsPerWeek": 64,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 17441,
-  "p50SecondsToCloseIssues": 268166,
-  "meanNumberOfNewPullsPerWeek": 79.48883374689827,
+  "p50SecondsToClosePulls": 16268,
+  "p50SecondsToCloseIssues": 297829,
+  "meanNumberOfNewPullsPerWeek": 79.55334987593052,
   "meanNumberOfNewContributorsPerWeek": 7.054320987654321,
-  "meanSecondsToClosePulls": 162614.09868421053,
-  "meanSecondsToCloseIssues": 317153.988372093
+  "meanSecondsToClosePulls": 160649.84649122806,
+  "meanSecondsToCloseIssues": 304404.28723404254
 }
