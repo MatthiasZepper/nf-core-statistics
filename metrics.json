@@ -2847,6 +2847,7 @@
     "maia-munteanu",
     "kornkv",
     "trangdo-hsc",
+    "mkatsanto",
     "Baksic-Ivan",
     "ninaxiong11",
     "UtaHar",
@@ -2884,6 +2885,7 @@
     "maia-munteanu",
     "kornkv",
     "trangdo-hsc",
+    "mkatsanto",
     "Baksic-Ivan",
     "ninaxiong11",
     "UtaHar",
@@ -2896,13 +2898,13 @@
     "alisha246",
     "ribaribaworking"
   ],
-  "numberOfPullRequestNew": 456,
+  "numberOfPullRequestNew": 439,
   "p50NumberOfNewPullsPerWeek": 64,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 16268,
-  "p50SecondsToCloseIssues": 297829,
-  "meanNumberOfNewPullsPerWeek": 79.55334987593052,
-  "meanNumberOfNewContributorsPerWeek": 7.054320987654321,
-  "meanSecondsToClosePulls": 160649.84649122806,
-  "meanSecondsToCloseIssues": 304404.28723404254
+  "p50SecondsToClosePulls": 16508,
+  "p50SecondsToCloseIssues": 254299,
+  "meanNumberOfNewPullsPerWeek": 79.56575682382135,
+  "meanNumberOfNewContributorsPerWeek": 7.05679012345679,
+  "meanSecondsToClosePulls": 156483.76993166286,
+  "meanSecondsToCloseIssues": 298262.79347826086
 }
