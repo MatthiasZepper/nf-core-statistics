@@ -2032,6 +2032,7 @@
     "sgrossfeld-arcusbio",
     "serenalotreck",
     "GCAT01",
+    "brookezanco",
     "aboyd003",
     "gk1610",
     "adamd3",
@@ -2837,7 +2838,6 @@
     "tgelafr-pfzr",
     "reJELIN",
     "ctcncgr",
-    "brookezanco",
     "j-gillespie-dna",
     "bmaxim7",
     "khoroshevskyi",
@@ -2875,7 +2875,6 @@
     "tgelafr-pfzr",
     "reJELIN",
     "ctcncgr",
-    "brookezanco",
     "j-gillespie-dna",
     "bmaxim7",
     "khoroshevskyi",
@@ -2900,13 +2899,13 @@
     "alisha246",
     "ribaribaworking"
   ],
-  "numberOfPullRequestNew": 467,
+  "numberOfPullRequestNew": 491,
   "p50NumberOfNewPullsPerWeek": 62,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 25059,
-  "p50SecondsToCloseIssues": 297973,
-  "meanNumberOfNewPullsPerWeek": 79.49257425742574,
+  "p50SecondsToCloseIssues": 298010,
+  "meanNumberOfNewPullsPerWeek": 79.5990099009901,
   "meanNumberOfNewContributorsPerWeek": 7.044334975369458,
-  "meanSecondsToClosePulls": 177865.1948608137,
-  "meanSecondsToCloseIssues": 335486.0210526316
+  "meanSecondsToClosePulls": 176632.8452138493,
+  "meanSecondsToCloseIssues": 338880.38144329895
 }
