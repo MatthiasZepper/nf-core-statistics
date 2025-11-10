@@ -1245,6 +1245,7 @@
     "AlexHoratio",
     "Gabriel-QIN",
     "palec87",
+    "joao1980",
     "ZandraFagernas",
     "scarlhoff",
     "96RadhikaJadhav",
@@ -2299,6 +2300,7 @@
     "blancoheredia",
     "andypohl",
     "Dishalodha",
+    "emmcauley",
     "KondratievaOlesya",
     "annaasklof",
     "caspargross",
@@ -2834,7 +2836,6 @@
     "vandhana-chezhiyan",
     "Colorstorm",
     "enryH",
-    "joao1980",
     "HannahBenisty",
     "itirg",
     "colsen",
@@ -2870,7 +2871,6 @@
   "namesOfContributorsNew": [
     "Colorstorm",
     "enryH",
-    "joao1980",
     "HannahBenisty",
     "itirg",
     "colsen",
@@ -2903,13 +2903,13 @@
     "alisha246",
     "ribaribaworking"
   ],
-  "numberOfPullRequestNew": 503,
+  "numberOfPullRequestNew": 494,
   "p50NumberOfNewPullsPerWeek": 64,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 16508,
-  "p50SecondsToCloseIssues": 297829,
-  "meanNumberOfNewPullsPerWeek": 79.75247524752476,
-  "meanNumberOfNewContributorsPerWeek": 7.056650246305419,
-  "meanSecondsToClosePulls": 188975.32803180916,
-  "meanSecondsToCloseIssues": 327297.1111111111
+  "p50SecondsToClosePulls": 16088,
+  "p50SecondsToCloseIssues": 297909,
+  "meanNumberOfNewPullsPerWeek": 79.76980198019803,
+  "meanNumberOfNewContributorsPerWeek": 7.059113300492611,
+  "meanSecondsToClosePulls": 189872.77327935223,
+  "meanSecondsToCloseIssues": 336712.8202247191
 }
