@@ -2313,6 +2313,8 @@
     "blancoheredia",
     "andypohl",
     "Dishalodha",
+    "stikos",
+    "svermai",
     "emmcauley",
     "KondratievaOlesya",
     "annaasklof",
@@ -2920,13 +2922,13 @@
     "alisha246",
     "ribaribaworking"
   ],
-  "numberOfPullRequestNew": 536,
+  "numberOfPullRequestNew": 513,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 10907,
-  "p50SecondsToCloseIssues": 297909,
-  "meanNumberOfNewPullsPerWeek": 80.05185185185185,
-  "meanNumberOfNewContributorsPerWeek": 7.0884520884520885,
-  "meanSecondsToClosePulls": 148435.69029850746,
-  "meanSecondsToCloseIssues": 392199.5208333333
+  "p50SecondsToClosePulls": 10991,
+  "p50SecondsToCloseIssues": 297973,
+  "meanNumberOfNewPullsPerWeek": 80.05925925925926,
+  "meanNumberOfNewContributorsPerWeek": 7.093366093366093,
+  "meanSecondsToClosePulls": 143036.05263157896,
+  "meanSecondsToCloseIssues": 400203.6914893617
 }
