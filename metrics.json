@@ -2939,13 +2939,13 @@
     "alisha246",
     "ribaribaworking"
   ],
-  "numberOfPullRequestNew": 574,
+  "numberOfPullRequestNew": 557,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 11968,
-  "p50SecondsToCloseIssues": 298090,
-  "meanNumberOfNewPullsPerWeek": 80.27832512315271,
+  "p50SecondsToClosePulls": 12388,
+  "p50SecondsToCloseIssues": 244560,
+  "meanNumberOfNewPullsPerWeek": 80.2807881773399,
   "meanNumberOfNewContributorsPerWeek": 7.107843137254902,
-  "meanSecondsToClosePulls": 157489.41289198605,
-  "meanSecondsToCloseIssues": 375530.80373831774
+  "meanSecondsToClosePulls": 159897.44524236984,
+  "meanSecondsToCloseIssues": 363665.623655914
 }
