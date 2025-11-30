@@ -1856,6 +1856,7 @@
     "Yaxiong293",
     "LizEve",
     "esamorodnitsky",
+    "reJELIN",
     "cmdoret",
     "robomics",
     "jzohren",
@@ -2898,7 +2899,6 @@
     "MicroSeq",
     "SanSanMX",
     "ADGM",
-    "reJELIN",
     "ccrrhodes",
     "johnvusich",
     "mnehmens",
@@ -2925,7 +2925,6 @@
     "MicroSeq",
     "SanSanMX",
     "ADGM",
-    "reJELIN",
     "ccrrhodes",
     "johnvusich",
     "mnehmens",
@@ -2944,13 +2943,13 @@
     "leapicard",
     "sarata00"
   ],
-  "numberOfPullRequestNew": 576,
+  "numberOfPullRequestNew": 575,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 12875,
   "p50SecondsToCloseIssues": 330973,
-  "meanNumberOfNewPullsPerWeek": 80.49385749385749,
+  "meanNumberOfNewPullsPerWeek": 80.5036855036855,
   "meanNumberOfNewContributorsPerWeek": 7.127139364303178,
-  "meanSecondsToClosePulls": 164748.92013888888,
-  "meanSecondsToCloseIssues": 381678.22388059704
+  "meanSecondsToClosePulls": 164185.58782608696,
+  "meanSecondsToCloseIssues": 386496.7619047619
 }
