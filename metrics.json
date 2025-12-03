@@ -2605,6 +2605,7 @@
     "liuxiawei",
     "kdommaraju",
     "J-Burgess",
+    "xXFloBaerXx",
     "Sophiekut",
     "ayushkamat",
     "andreirie",
@@ -2911,6 +2912,7 @@
     "SJ-31",
     "Laurenz0908",
     "Manonboo089",
+    "dungtran2612",
     "mozack",
     "jonathan-f",
     "Biocentric",
@@ -2938,6 +2940,7 @@
     "SJ-31",
     "Laurenz0908",
     "Manonboo089",
+    "dungtran2612",
     "mozack",
     "jonathan-f",
     "Biocentric",
@@ -2948,13 +2951,13 @@
     "leapicard",
     "sarata00"
   ],
-  "numberOfPullRequestNew": 563,
+  "numberOfPullRequestNew": 585,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 12813,
+  "p50SecondsToClosePulls": 15019,
   "p50SecondsToCloseIssues": 348823,
-  "meanNumberOfNewPullsPerWeek": 80.36764705882354,
-  "meanNumberOfNewContributorsPerWeek": 7.119512195121951,
-  "meanSecondsToClosePulls": 157338.50621669626,
-  "meanSecondsToCloseIssues": 415215.46268656716
+  "meanNumberOfNewPullsPerWeek": 80.43137254901961,
+  "meanNumberOfNewContributorsPerWeek": 7.124390243902439,
+  "meanSecondsToClosePulls": 163440.42905982907,
+  "meanSecondsToCloseIssues": 404944.04225352115
 }
