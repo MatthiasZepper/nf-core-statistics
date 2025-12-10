@@ -2920,6 +2920,7 @@
     "ADGM",
     "johnvusich",
     "bagnacan",
+    "eliottBo",
     "twrightsman",
     "Laurenz0908",
     "dungtran2612",
@@ -2944,6 +2945,7 @@
     "ADGM",
     "johnvusich",
     "bagnacan",
+    "eliottBo",
     "twrightsman",
     "Laurenz0908",
     "dungtran2612",
@@ -2954,13 +2956,13 @@
     "TanyaM3",
     "beatrizsavinhas"
   ],
-  "numberOfPullRequestNew": 539,
+  "numberOfPullRequestNew": 566,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 17565,
-  "p50SecondsToCloseIssues": 325159,
-  "meanNumberOfNewPullsPerWeek": 80.51833740831296,
-  "meanNumberOfNewContributorsPerWeek": 7.124087591240876,
-  "meanSecondsToClosePulls": 155188.25788497218,
-  "meanSecondsToCloseIssues": 349754.14545454545
+  "p50SecondsToClosePulls": 18928,
+  "p50SecondsToCloseIssues": 345356,
+  "meanNumberOfNewPullsPerWeek": 80.5916870415648,
+  "meanNumberOfNewContributorsPerWeek": 7.126520681265207,
+  "meanSecondsToClosePulls": 167523.22261484098,
+  "meanSecondsToCloseIssues": 378899.71186440677
 }
