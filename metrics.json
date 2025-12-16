@@ -2964,13 +2964,13 @@
     "beatrizsavinhas",
     "KarlKaise"
   ],
-  "numberOfPullRequestNew": 535,
-  "p50NumberOfNewPullsPerWeek": 66,
+  "numberOfPullRequestNew": 556,
+  "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 27586,
+  "p50SecondsToClosePulls": 28304,
   "p50SecondsToCloseIssues": 352143,
-  "meanNumberOfNewPullsPerWeek": 80.90220048899755,
-  "meanNumberOfNewContributorsPerWeek": 7.145985401459854,
-  "meanSecondsToClosePulls": 202347.60373831776,
+  "meanNumberOfNewPullsPerWeek": 80.77073170731707,
+  "meanNumberOfNewContributorsPerWeek": 7.128640776699029,
+  "meanSecondsToClosePulls": 208938.4154676259,
   "meanSecondsToCloseIssues": 475248.5862068966
 }
