@@ -2628,6 +2628,7 @@
     "ayushkamat",
     "andreirie",
     "bustand0",
+    "SkyLexS",
     "zmahnoor14",
     "akp1d12",
     "sunitj",
@@ -2895,6 +2896,7 @@
     "MaximilianStammnitz",
     "leapicard",
     "quentinblampey",
+    "KarlKaise",
     "jessicarowell",
     "ythaworn",
     "francops1722",
@@ -2942,7 +2944,6 @@
     "clintval",
     "wtbxsjy",
     "beatrizsavinhas",
-    "KarlKaise",
     "huihai828"
   ],
   "namesOfContributorsNew": [
@@ -2965,16 +2966,15 @@
     "clintval",
     "wtbxsjy",
     "beatrizsavinhas",
-    "KarlKaise",
     "huihai828"
   ],
-  "numberOfPullRequestNew": 487,
+  "numberOfPullRequestNew": 467,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 32207,
-  "p50SecondsToCloseIssues": 404165,
-  "meanNumberOfNewPullsPerWeek": 80.94878048780488,
-  "meanNumberOfNewContributorsPerWeek": 7.143203883495145,
-  "meanSecondsToClosePulls": 188138.00821355236,
-  "meanSecondsToCloseIssues": 576091.9803921569
+  "p50SecondsToClosePulls": 30524,
+  "p50SecondsToCloseIssues": 352143,
+  "meanNumberOfNewPullsPerWeek": 80.95121951219512,
+  "meanNumberOfNewContributorsPerWeek": 7.145631067961165,
+  "meanSecondsToClosePulls": 176576.8436830835,
+  "meanSecondsToCloseIssues": 551844.96
 }
