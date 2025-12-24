@@ -2939,6 +2939,7 @@
     "amitfenn",
     "rdistefano",
     "eliottBo",
+    "PeterKnealeCMRI",
     "PeterKneale",
     "twrightsman",
     "dungtran2612",
@@ -2959,6 +2960,7 @@
     "amitfenn",
     "rdistefano",
     "eliottBo",
+    "PeterKnealeCMRI",
     "PeterKneale",
     "twrightsman",
     "dungtran2612",
@@ -2966,13 +2968,13 @@
     "beatrizsavinhas",
     "huihai828"
   ],
-  "numberOfPullRequestNew": 470,
-  "p50NumberOfNewPullsPerWeek": 65,
+  "numberOfPullRequestNew": 474,
+  "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 28304,
-  "p50SecondsToCloseIssues": 352143,
-  "meanNumberOfNewPullsPerWeek": 80.77372262773723,
-  "meanNumberOfNewContributorsPerWeek": 7.128329297820823,
-  "meanSecondsToClosePulls": 171106.60212765957,
-  "meanSecondsToCloseIssues": 547712.8039215687
+  "p50SecondsToClosePulls": 28772,
+  "p50SecondsToCloseIssues": 341105,
+  "meanNumberOfNewPullsPerWeek": 80.79075425790754,
+  "meanNumberOfNewContributorsPerWeek": 7.1307506053268765,
+  "meanSecondsToClosePulls": 170418.6012658228,
+  "meanSecondsToCloseIssues": 529995.6603773584
 }
