@@ -2299,6 +2299,7 @@
     "ninaxiong11",
     "dhtt",
     "bagnacan",
+    "nathanweeks",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -2659,7 +2660,6 @@
     "splaisan",
     "megannj",
     "Laurenz0908",
-    "nathanweeks",
     "vinsilico",
     "mhjiang97",
     "lealiaxiong",
@@ -2968,13 +2968,13 @@
     "beatrizsavinhas",
     "huihai828"
   ],
-  "numberOfPullRequestNew": 474,
+  "numberOfPullRequestNew": 453,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 28772,
+  "p50SecondsToClosePulls": 28142,
   "p50SecondsToCloseIssues": 341105,
-  "meanNumberOfNewPullsPerWeek": 80.79075425790754,
+  "meanNumberOfNewPullsPerWeek": 80.7956204379562,
   "meanNumberOfNewContributorsPerWeek": 7.1307506053268765,
-  "meanSecondsToClosePulls": 170418.6012658228,
-  "meanSecondsToCloseIssues": 529995.6603773584
+  "meanSecondsToClosePulls": 171064.0132450331,
+  "meanSecondsToCloseIssues": 523935.7843137255
 }
