@@ -1287,6 +1287,7 @@
     "ystone1101",
     "tkcaccia",
     "fconstancias",
+    "ADGM",
     "ZandraFagernas",
     "scarlhoff",
     "96RadhikaJadhav",
@@ -2937,7 +2938,6 @@
     "tylerstahl",
     "stvdsomp",
     "sisterdot",
-    "ADGM",
     "carsharp",
     "wangjiawen2013",
     "rdistefano",
@@ -2951,7 +2951,6 @@
     "tylerstahl",
     "stvdsomp",
     "sisterdot",
-    "ADGM",
     "carsharp",
     "wangjiawen2013",
     "rdistefano",
@@ -2961,13 +2960,13 @@
     "dungtran2612",
     "huihai828"
   ],
-  "numberOfPullRequestNew": 384,
+  "numberOfPullRequestNew": 358,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 28142,
-  "p50SecondsToCloseIssues": 199835,
-  "meanNumberOfNewPullsPerWeek": 80.7956204379562,
+  "p50SecondsToClosePulls": 28144,
+  "p50SecondsToCloseIssues": 195390,
+  "meanNumberOfNewPullsPerWeek": 80.79805352798054,
   "meanNumberOfNewContributorsPerWeek": 7.1307506053268765,
-  "meanSecondsToClosePulls": 154639.35677083334,
-  "meanSecondsToCloseIssues": 438404.7619047619
+  "meanSecondsToClosePulls": 156332.56703910616,
+  "meanSecondsToCloseIssues": 397384.8947368421
 }
