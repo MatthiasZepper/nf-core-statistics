@@ -2943,6 +2943,7 @@
     "wangjiawen2013",
     "rdistefano",
     "eliottBo",
+    "Zacharyr41",
     "PeterKnealeCMRI",
     "twrightsman",
     "huihai828"
@@ -2954,6 +2955,7 @@
     "wangjiawen2013",
     "rdistefano",
     "eliottBo",
+    "Zacharyr41",
     "PeterKnealeCMRI",
     "twrightsman",
     "huihai828"
@@ -2961,10 +2963,10 @@
   "numberOfPullRequestNew": 344,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 28142,
+  "p50SecondsToClosePulls": 28144,
   "p50SecondsToCloseIssues": 178897,
-  "meanNumberOfNewPullsPerWeek": 80.79805352798054,
-  "meanNumberOfNewContributorsPerWeek": 7.1307506053268765,
-  "meanSecondsToClosePulls": 146539.25872093023,
-  "meanSecondsToCloseIssues": 362104.6111111111
+  "meanNumberOfNewPullsPerWeek": 80.8029197080292,
+  "meanNumberOfNewContributorsPerWeek": 7.13317191283293,
+  "meanSecondsToClosePulls": 148136.53488372092,
+  "meanSecondsToCloseIssues": 346754.4166666667
 }
