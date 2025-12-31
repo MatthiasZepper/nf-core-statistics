@@ -937,6 +937,7 @@
     "ahwanpandey",
     "RolantusdataExp",
     "RobAlbn",
+    "sisterdot",
     "Rotholandus",
     "evanfloden",
     "sk-sahu",
@@ -2938,7 +2939,6 @@
     "alisha246",
     "ribaribaworking",
     "stvdsomp",
-    "sisterdot",
     "carsharp",
     "wangjiawen2013",
     "rdistefano",
@@ -2950,7 +2950,6 @@
   ],
   "namesOfContributorsNew": [
     "stvdsomp",
-    "sisterdot",
     "carsharp",
     "wangjiawen2013",
     "rdistefano",
@@ -2960,13 +2959,13 @@
     "twrightsman",
     "huihai828"
   ],
-  "numberOfPullRequestNew": 344,
+  "numberOfPullRequestNew": 345,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 28144,
   "p50SecondsToCloseIssues": 178897,
-  "meanNumberOfNewPullsPerWeek": 80.8029197080292,
+  "meanNumberOfNewPullsPerWeek": 80.81021897810218,
   "meanNumberOfNewContributorsPerWeek": 7.13317191283293,
-  "meanSecondsToClosePulls": 148136.53488372092,
-  "meanSecondsToCloseIssues": 346754.4166666667
+  "meanSecondsToClosePulls": 145057.44057971015,
+  "meanSecondsToCloseIssues": 347371.4285714286
 }
