@@ -2959,13 +2959,13 @@
     "twrightsman",
     "huihai828"
   ],
-  "numberOfPullRequestNew": 345,
+  "numberOfPullRequestNew": 316,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 28144,
+  "p50SecondsToClosePulls": 21156,
   "p50SecondsToCloseIssues": 178897,
-  "meanNumberOfNewPullsPerWeek": 80.81021897810218,
+  "meanNumberOfNewPullsPerWeek": 80.81751824817518,
   "meanNumberOfNewContributorsPerWeek": 7.13317191283293,
-  "meanSecondsToClosePulls": 145057.44057971015,
-  "meanSecondsToCloseIssues": 347371.4285714286
+  "meanSecondsToClosePulls": 137238.28164556963,
+  "meanSecondsToCloseIssues": 357871.46875
 }
