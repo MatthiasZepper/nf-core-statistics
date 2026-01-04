@@ -557,6 +557,7 @@
     "AnnaNoren",
     "BenjaminWehnert1008",
     "sainsachiko",
+    "stvdsomp",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -2371,6 +2372,7 @@
     "annaasklof",
     "jolespin",
     "PeterKneale",
+    "twrightsman",
     "caspargross",
     "matthewstuartedwards",
     "RareSeas-Asimov",
@@ -2931,6 +2933,7 @@
     "miguelrosell",
     "Zikun-Yang",
     "sarata00",
+    "huihai828",
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
@@ -2939,32 +2942,26 @@
     "vcepeda",
     "alisha246",
     "ribaribaworking",
-    "stvdsomp",
     "carsharp",
     "wangjiawen2013",
     "rdistefano",
     "Zacharyr41",
-    "PeterKnealeCMRI",
-    "twrightsman",
-    "huihai828"
+    "PeterKnealeCMRI"
   ],
   "namesOfContributorsNew": [
-    "stvdsomp",
     "carsharp",
     "wangjiawen2013",
     "rdistefano",
     "Zacharyr41",
-    "PeterKnealeCMRI",
-    "twrightsman",
-    "huihai828"
+    "PeterKnealeCMRI"
   ],
-  "numberOfPullRequestNew": 273,
+  "numberOfPullRequestNew": 245,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 22482,
-  "p50SecondsToCloseIssues": 163786,
+  "p50SecondsToClosePulls": 16288,
+  "p50SecondsToCloseIssues": 90829,
   "meanNumberOfNewPullsPerWeek": 80.63349514563107,
   "meanNumberOfNewContributorsPerWeek": 7.115942028985507,
-  "meanSecondsToClosePulls": 122555.62637362638,
-  "meanSecondsToCloseIssues": 374274.9285714286
+  "meanSecondsToClosePulls": 105974.69387755102,
+  "meanSecondsToCloseIssues": 301333.9090909091
 }
