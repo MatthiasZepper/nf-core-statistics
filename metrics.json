@@ -2955,13 +2955,13 @@
     "Zacharyr41",
     "PeterKnealeCMRI"
   ],
-  "numberOfPullRequestNew": 227,
+  "numberOfPullRequestNew": 225,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 16288,
-  "p50SecondsToCloseIssues": 83095,
-  "meanNumberOfNewPullsPerWeek": 80.63349514563107,
-  "meanNumberOfNewContributorsPerWeek": 7.115942028985507,
-  "meanSecondsToClosePulls": 98396.80616740088,
-  "meanSecondsToCloseIssues": 245635.75
+  "p50SecondsToClosePulls": 15442,
+  "p50SecondsToCloseIssues": 90829,
+  "meanNumberOfNewPullsPerWeek": 80.45762711864407,
+  "meanNumberOfNewContributorsPerWeek": 7.098795180722892,
+  "meanSecondsToClosePulls": 117944.39111111111,
+  "meanSecondsToCloseIssues": 262475.14285714284
 }
