@@ -2942,26 +2942,30 @@
     "vcepeda",
     "alisha246",
     "ribaribaworking",
+    "bontix-77",
     "carsharp",
     "wangjiawen2013",
+    "philipperuiz",
     "rdistefano",
     "Zacharyr41",
     "PeterKnealeCMRI"
   ],
   "namesOfContributorsNew": [
+    "bontix-77",
     "carsharp",
     "wangjiawen2013",
+    "philipperuiz",
     "rdistefano",
     "Zacharyr41",
     "PeterKnealeCMRI"
   ],
-  "numberOfPullRequestNew": 225,
+  "numberOfPullRequestNew": 227,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15442,
-  "p50SecondsToCloseIssues": 90829,
-  "meanNumberOfNewPullsPerWeek": 80.45762711864407,
-  "meanNumberOfNewContributorsPerWeek": 7.098795180722892,
-  "meanSecondsToClosePulls": 117944.39111111111,
-  "meanSecondsToCloseIssues": 262475.14285714284
+  "p50SecondsToClosePulls": 16183,
+  "p50SecondsToCloseIssues": 83095,
+  "meanNumberOfNewPullsPerWeek": 80.47457627118644,
+  "meanNumberOfNewContributorsPerWeek": 7.103614457831325,
+  "meanSecondsToClosePulls": 140708.8898678414,
+  "meanSecondsToCloseIssues": 253323.36363636365
 }
