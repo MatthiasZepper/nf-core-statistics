@@ -2948,23 +2948,27 @@
     "bontix-77",
     "wangjiawen2013",
     "philipperuiz",
+    "Ales-ibt",
     "Zacharyr41",
-    "PeterKnealeCMRI"
+    "PeterKnealeCMRI",
+    "vincent-van-hoef"
   ],
   "namesOfContributorsNew": [
     "bontix-77",
     "wangjiawen2013",
     "philipperuiz",
+    "Ales-ibt",
     "Zacharyr41",
-    "PeterKnealeCMRI"
+    "PeterKnealeCMRI",
+    "vincent-van-hoef"
   ],
-  "numberOfPullRequestNew": 215,
+  "numberOfPullRequestNew": 214,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 12473,
-  "p50SecondsToCloseIssues": 83095,
-  "meanNumberOfNewPullsPerWeek": 80.50847457627118,
-  "meanNumberOfNewContributorsPerWeek": 7.106024096385542,
-  "meanSecondsToClosePulls": 172061.8,
-  "meanSecondsToCloseIssues": 437843
+  "p50SecondsToClosePulls": 15442,
+  "p50SecondsToCloseIssues": 73322,
+  "meanNumberOfNewPullsPerWeek": 80.55690072639226,
+  "meanNumberOfNewContributorsPerWeek": 7.110843373493976,
+  "meanSecondsToClosePulls": 208970.0327102804,
+  "meanSecondsToCloseIssues": 500747.13636363635
 }
