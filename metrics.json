@@ -2891,6 +2891,7 @@
     "LN-rich",
     "addityea",
     "mgeaghan",
+    "ECM893",
     "ryan2han",
     "alex-d13",
     "LorenzoMerotto",
@@ -2902,6 +2903,7 @@
     "sandyjmacdonald",
     "ftschirpke",
     "lukfor",
+    "SinaMhdn95",
     "tm4zza",
     "fperezcobos",
     "LaurenHuet",
@@ -2963,13 +2965,13 @@
     "PeterKnealeCMRI",
     "vincent-van-hoef"
   ],
-  "numberOfPullRequestNew": 196,
+  "numberOfPullRequestNew": 162,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 20543,
+  "p50SecondsToClosePulls": 12396,
   "p50SecondsToCloseIssues": 61136,
-  "meanNumberOfNewPullsPerWeek": 80.60290556900726,
-  "meanNumberOfNewContributorsPerWeek": 7.11566265060241,
-  "meanSecondsToClosePulls": 229022.556122449,
-  "meanSecondsToCloseIssues": 471795.86363636365
+  "meanNumberOfNewPullsPerWeek": 80.6319612590799,
+  "meanNumberOfNewContributorsPerWeek": 7.120481927710843,
+  "meanSecondsToClosePulls": 227402.66666666666,
+  "meanSecondsToCloseIssues": 340967.85
 }
