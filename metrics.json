@@ -2965,13 +2965,13 @@
     "PeterKnealeCMRI",
     "vincent-van-hoef"
   ],
-  "numberOfPullRequestNew": 162,
+  "numberOfPullRequestNew": 146,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 12396,
   "p50SecondsToCloseIssues": 61136,
   "meanNumberOfNewPullsPerWeek": 80.6319612590799,
   "meanNumberOfNewContributorsPerWeek": 7.120481927710843,
-  "meanSecondsToClosePulls": 227402.66666666666,
+  "meanSecondsToClosePulls": 238176.61643835617,
   "meanSecondsToCloseIssues": 340967.85
 }
