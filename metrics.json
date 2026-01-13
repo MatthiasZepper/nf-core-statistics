@@ -2299,6 +2299,7 @@
     "dwells-eit",
     "alexiandra97",
     "sathyasjali",
+    "emmcauley",
     "jchchiu",
     "apetizerr",
     "manascripts",
@@ -2375,7 +2376,6 @@
     "ddomenico",
     "stikos",
     "svermai",
-    "emmcauley",
     "KondratievaOlesya",
     "annaasklof",
     "jolespin",
@@ -2965,13 +2965,13 @@
     "PeterKnealeCMRI",
     "vincent-van-hoef"
   ],
-  "numberOfPullRequestNew": 146,
+  "numberOfPullRequestNew": 155,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 12396,
-  "p50SecondsToCloseIssues": 61136,
-  "meanNumberOfNewPullsPerWeek": 80.6319612590799,
-  "meanNumberOfNewContributorsPerWeek": 7.120481927710843,
-  "meanSecondsToClosePulls": 238176.61643835617,
-  "meanSecondsToCloseIssues": 340967.85
+  "p50SecondsToClosePulls": 16183,
+  "p50SecondsToCloseIssues": 73322,
+  "meanNumberOfNewPullsPerWeek": 80.46859903381643,
+  "meanNumberOfNewContributorsPerWeek": 7.103365384615385,
+  "meanSecondsToClosePulls": 257530.67096774193,
+  "meanSecondsToCloseIssues": 365619.6666666667
 }
