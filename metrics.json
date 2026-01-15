@@ -1801,6 +1801,7 @@
     "giulioisac",
     "zhanyinx",
     "igortru",
+    "obrien-james",
     "fenouil-r",
     "BirkirRey",
     "alialhadithi",
@@ -2090,6 +2091,7 @@
     "mi3112",
     "pnolabs",
     "vikramadhithyaThotam22",
+    "tanas80",
     "romagnolid",
     "um-pdavila",
     "phonegor95",
@@ -2957,6 +2959,7 @@
     "Ales-ibt",
     "Zacharyr41",
     "PeterKnealeCMRI",
+    "hanalysis",
     "bfixman",
     "vincent-van-hoef"
   ],
@@ -2968,16 +2971,17 @@
     "Ales-ibt",
     "Zacharyr41",
     "PeterKnealeCMRI",
+    "hanalysis",
     "bfixman",
     "vincent-van-hoef"
   ],
-  "numberOfPullRequestNew": 176,
+  "numberOfPullRequestNew": 182,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 34295,
   "p50SecondsToCloseIssues": 83095,
-  "meanNumberOfNewPullsPerWeek": 80.52657004830918,
-  "meanNumberOfNewContributorsPerWeek": 7.110576923076923,
-  "meanSecondsToClosePulls": 317576.2159090909,
-  "meanSecondsToCloseIssues": 494909.5652173913
+  "meanNumberOfNewPullsPerWeek": 80.58212560386474,
+  "meanNumberOfNewContributorsPerWeek": 7.117788461538462,
+  "meanSecondsToClosePulls": 319186.5054945055,
+  "meanSecondsToCloseIssues": 447933.35714285716
 }
