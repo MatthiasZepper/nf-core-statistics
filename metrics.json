@@ -2983,13 +2983,13 @@
     "vincent-van-hoef",
     "averagehat"
   ],
-  "numberOfPullRequestNew": 173,
+  "numberOfPullRequestNew": 160,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 20543,
+  "p50SecondsToClosePulls": 22938,
   "p50SecondsToCloseIssues": 85109,
-  "meanNumberOfNewPullsPerWeek": 80.71014492753623,
+  "meanNumberOfNewPullsPerWeek": 80.71739130434783,
   "meanNumberOfNewContributorsPerWeek": 7.137019230769231,
-  "meanSecondsToClosePulls": 212294.45086705202,
+  "meanSecondsToClosePulls": 162106.36875,
   "meanSecondsToCloseIssues": 346232.7083333333
 }
