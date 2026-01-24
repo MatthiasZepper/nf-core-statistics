@@ -1832,6 +1832,7 @@
     "hazlemhub",
     "IBEXCluster",
     "albatalavera",
+    "kaokaoshuangyu",
     "leipzig",
     "zhewa",
     "Vivian-chen16",
@@ -2703,6 +2704,7 @@
     "aguang",
     "LucFrancisENX",
     "gboscagli",
+    "vella12-osu",
     "rjpbonnal",
     "eliasball",
     "alex000kim",
@@ -2991,13 +2993,13 @@
     "vincent-van-hoef",
     "averagehat"
   ],
-  "numberOfPullRequestNew": 268,
+  "numberOfPullRequestNew": 312,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 13343,
-  "p50SecondsToCloseIssues": 259306,
-  "meanNumberOfNewPullsPerWeek": 80.855421686747,
-  "meanNumberOfNewContributorsPerWeek": 7.136690647482014,
-  "meanSecondsToClosePulls": 142658.42164179104,
-  "meanSecondsToCloseIssues": 459586.0833333333
+  "p50SecondsToClosePulls": 15646,
+  "p50SecondsToCloseIssues": 438097,
+  "meanNumberOfNewPullsPerWeek": 80.97590361445783,
+  "meanNumberOfNewContributorsPerWeek": 7.141486810551559,
+  "meanSecondsToClosePulls": 147806.73397435897,
+  "meanSecondsToCloseIssues": 479664.8378378378
 }
