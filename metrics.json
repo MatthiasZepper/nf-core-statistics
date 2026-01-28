@@ -2720,6 +2720,7 @@
     "Qiangong2",
     "haeyam-taiy",
     "Manonboo089",
+    "Dimon821",
     "dungtran2612",
     "nemartins",
     "BrunoBertolasi",
@@ -3001,13 +3002,13 @@
     "averagehat",
     "mirG123"
   ],
-  "numberOfPullRequestNew": 346,
+  "numberOfPullRequestNew": 361,
   "p50NumberOfNewPullsPerWeek": 65,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 17643,
-  "p50SecondsToCloseIssues": 438097,
-  "meanNumberOfNewPullsPerWeek": 80.87740384615384,
-  "meanNumberOfNewContributorsPerWeek": 7.136363636363637,
-  "meanSecondsToClosePulls": 145175.17630057802,
-  "meanSecondsToCloseIssues": 487423.89743589744
+  "p50SecondsToClosePulls": 19494,
+  "p50SecondsToCloseIssues": 175080,
+  "meanNumberOfNewPullsPerWeek": 80.91346153846153,
+  "meanNumberOfNewContributorsPerWeek": 7.138755980861244,
+  "meanSecondsToClosePulls": 148598.93351800554,
+  "meanSecondsToCloseIssues": 454633.9285714286
 }
