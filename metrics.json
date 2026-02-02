@@ -3008,13 +3008,13 @@
     "vincent-van-hoef",
     "mirG123"
   ],
-  "numberOfPullRequestNew": 446,
+  "numberOfPullRequestNew": 442,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 15646,
   "p50SecondsToCloseIssues": 342040,
-  "meanNumberOfNewPullsPerWeek": 81.17788461538461,
+  "meanNumberOfNewPullsPerWeek": 81.1826923076923,
   "meanNumberOfNewContributorsPerWeek": 7.15311004784689,
-  "meanSecondsToClosePulls": 134145.64349775785,
-  "meanSecondsToCloseIssues": 490597.0961538461
+  "meanSecondsToClosePulls": 134678.8076923077,
+  "meanSecondsToCloseIssues": 483380.2549019608
 }
