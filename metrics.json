@@ -160,6 +160,7 @@
     "tgelafr-pfzr",
     "dialvarezs",
     "andresferben",
+    "mgeaghan",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -2915,7 +2916,6 @@
     "paulinefx",
     "LN-rich",
     "addityea",
-    "mgeaghan",
     "ECM893",
     "ryan2han",
     "alex-d13",
@@ -2989,6 +2989,7 @@
     "hanalysis",
     "takiifujita-ui",
     "jdc-eit",
+    "MohineTAlam",
     "vincent-van-hoef",
     "mirG123"
   ],
@@ -3005,16 +3006,17 @@
     "hanalysis",
     "takiifujita-ui",
     "jdc-eit",
+    "MohineTAlam",
     "vincent-van-hoef",
     "mirG123"
   ],
-  "numberOfPullRequestNew": 442,
+  "numberOfPullRequestNew": 486,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15646,
-  "p50SecondsToCloseIssues": 342040,
-  "meanNumberOfNewPullsPerWeek": 81.1826923076923,
-  "meanNumberOfNewContributorsPerWeek": 7.15311004784689,
-  "meanSecondsToClosePulls": 134678.8076923077,
-  "meanSecondsToCloseIssues": 483380.2549019608
+  "p50SecondsToClosePulls": 15606,
+  "p50SecondsToCloseIssues": 340988,
+  "meanNumberOfNewPullsPerWeek": 81.11270983213429,
+  "meanNumberOfNewContributorsPerWeek": 7.138424821002387,
+  "meanSecondsToClosePulls": 144059.1913580247,
+  "meanSecondsToCloseIssues": 471583.62264150946
 }
