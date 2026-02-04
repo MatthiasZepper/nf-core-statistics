@@ -2982,6 +2982,7 @@
     "bontix-77",
     "nttg8100",
     "huangkevin-apr",
+    "J22160",
     "nborodin30",
     "Chiyun-Lee",
     "ayeletperes",
@@ -2999,6 +3000,7 @@
     "bontix-77",
     "nttg8100",
     "huangkevin-apr",
+    "J22160",
     "nborodin30",
     "Chiyun-Lee",
     "ayeletperes",
@@ -3010,13 +3012,13 @@
     "vincent-van-hoef",
     "mirG123"
   ],
-  "numberOfPullRequestNew": 486,
+  "numberOfPullRequestNew": 539,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15606,
+  "p50SecondsToClosePulls": 16664,
   "p50SecondsToCloseIssues": 340988,
-  "meanNumberOfNewPullsPerWeek": 81.11270983213429,
-  "meanNumberOfNewContributorsPerWeek": 7.138424821002387,
-  "meanSecondsToClosePulls": 144059.1913580247,
-  "meanSecondsToCloseIssues": 471583.62264150946
+  "meanNumberOfNewPullsPerWeek": 81.24700239808153,
+  "meanNumberOfNewContributorsPerWeek": 7.140811455847255,
+  "meanSecondsToClosePulls": 139689.07606679035,
+  "meanSecondsToCloseIssues": 488001.9285714286
 }
