@@ -3013,13 +3013,13 @@
     "vincent-van-hoef",
     "mirG123"
   ],
-  "numberOfPullRequestNew": 583,
+  "numberOfPullRequestNew": 617,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15398,
-  "p50SecondsToCloseIssues": 340988,
-  "meanNumberOfNewPullsPerWeek": 81.37170263788968,
+  "p50SecondsToClosePulls": 13813,
+  "p50SecondsToCloseIssues": 175080,
+  "meanNumberOfNewPullsPerWeek": 81.47721822541966,
   "meanNumberOfNewContributorsPerWeek": 7.145584725536993,
-  "meanSecondsToClosePulls": 136434.73241852486,
-  "meanSecondsToCloseIssues": 477364.83050847455
+  "meanSecondsToClosePulls": 132395.16369529985,
+  "meanSecondsToCloseIssues": 446085.5833333333
 }
