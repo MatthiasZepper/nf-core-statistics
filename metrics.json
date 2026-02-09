@@ -3016,13 +3016,13 @@
     "smagala",
     "mirG123"
   ],
-  "numberOfPullRequestNew": 624,
+  "numberOfPullRequestNew": 612,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15302,
-  "p50SecondsToCloseIssues": 172642,
-  "meanNumberOfNewPullsPerWeek": 81.57074340527578,
+  "p50SecondsToClosePulls": 14916,
+  "p50SecondsToCloseIssues": 122029,
+  "meanNumberOfNewPullsPerWeek": 81.57553956834532,
   "meanNumberOfNewContributorsPerWeek": 7.152744630071599,
-  "meanSecondsToClosePulls": 137721.67307692306,
-  "meanSecondsToCloseIssues": 396412.1964285714
+  "meanSecondsToClosePulls": 134729.5473856209,
+  "meanSecondsToCloseIssues": 348908.02
 }
