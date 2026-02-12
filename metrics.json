@@ -1227,7 +1227,6 @@
     "nayeimkhan",
     "bbagy",
     "fbcorrea",
-    "microbemarsh",
     "srajedwin",
     "rialc13",
     "Irah-hari",
@@ -2999,10 +2998,12 @@
     "Chiyun-Lee",
     "ayeletperes",
     "Tina04021997",
+    "anmolee",
     "takiifujita-ui",
     "jdc-eit",
     "MohineTAlam",
-    "smagala"
+    "smagala",
+    "carlacummins"
   ],
   "namesOfContributorsNew": [
     "tckumarasekara",
@@ -3016,18 +3017,20 @@
     "Chiyun-Lee",
     "ayeletperes",
     "Tina04021997",
+    "anmolee",
     "takiifujita-ui",
     "jdc-eit",
     "MohineTAlam",
-    "smagala"
+    "smagala",
+    "carlacummins"
   ],
-  "numberOfPullRequestNew": 692,
+  "numberOfPullRequestNew": 723,
   "p50NumberOfNewPullsPerWeek": 66,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 14894,
-  "p50SecondsToCloseIssues": 172642,
-  "meanNumberOfNewPullsPerWeek": 81.61244019138756,
-  "meanNumberOfNewContributorsPerWeek": 7.147619047619048,
-  "meanSecondsToClosePulls": 137357.85693641618,
-  "meanSecondsToCloseIssues": 380762.0576923077
+  "p50SecondsToClosePulls": 15398,
+  "p50SecondsToCloseIssues": 110188,
+  "meanNumberOfNewPullsPerWeek": 81.72248803827752,
+  "meanNumberOfNewContributorsPerWeek": 7.15,
+  "meanSecondsToClosePulls": 141603.8907330567,
+  "meanSecondsToCloseIssues": 349108.0181818182
 }
