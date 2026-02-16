@@ -333,7 +333,7 @@
     "johncthomas",
     "torres-HI",
     "trum994",
-    "CHOWDHURY098",
+    "geekhriday",
     "MichalStachowiakArdigen",
     "jen-reeve",
     "trombitomi",
@@ -625,6 +625,7 @@
     "kravneet",
     "pontushojer",
     "EladH1",
+    "adamhowardprice",
     "aubinthomas",
     "mhebrard",
     "tiagochst",
@@ -3001,7 +3002,6 @@
     "alisha246",
     "ribaribaworking",
     "tckumarasekara",
-    "adamhowardprice",
     "nttg8100",
     "JKing2000",
     "J22160",
@@ -3019,7 +3019,6 @@
   ],
   "namesOfContributorsNew": [
     "tckumarasekara",
-    "adamhowardprice",
     "nttg8100",
     "JKing2000",
     "J22160",
@@ -3035,13 +3034,13 @@
     "carlacummins",
     "avalind"
   ],
-  "numberOfPullRequestNew": 757,
+  "numberOfPullRequestNew": 738,
   "p50NumberOfNewPullsPerWeek": 67,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 13369,
-  "p50SecondsToCloseIssues": 165659,
-  "meanNumberOfNewPullsPerWeek": 82.11722488038278,
+  "p50SecondsToClosePulls": 13033,
+  "p50SecondsToCloseIssues": 149468,
+  "meanNumberOfNewPullsPerWeek": 82.12918660287082,
   "meanNumberOfNewContributorsPerWeek": 7.178571428571429,
-  "meanSecondsToClosePulls": 129097.59445178336,
-  "meanSecondsToCloseIssues": 415565.1525423729
+  "meanSecondsToClosePulls": 124018.9376693767,
+  "meanSecondsToCloseIssues": 411130.2
 }
