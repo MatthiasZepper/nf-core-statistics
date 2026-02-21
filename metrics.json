@@ -2157,7 +2157,7 @@
     "IsmaelHC1994",
     "MostafaYA",
     "creamerk",
-    "craigwindell",
+    "craigwindellatqut",
     "JavariaAshraf",
     "ikhanganin",
     "lekhakaranam",
@@ -3065,13 +3065,13 @@
     "carlacummins",
     "avalind"
   ],
-  "numberOfPullRequestNew": 811,
+  "numberOfPullRequestNew": 804,
   "p50NumberOfNewPullsPerWeek": 67,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 14422,
   "p50SecondsToCloseIssues": 149468,
-  "meanNumberOfNewPullsPerWeek": 82.30310262529832,
+  "meanNumberOfNewPullsPerWeek": 82.34844868735084,
   "meanNumberOfNewContributorsPerWeek": 7.223277909738718,
-  "meanSecondsToClosePulls": 131612.401972873,
-  "meanSecondsToCloseIssues": 334689.8615384615
+  "meanSecondsToClosePulls": 130815.4539800995,
+  "meanSecondsToCloseIssues": 310795.7868852459
 }
