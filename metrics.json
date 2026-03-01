@@ -2797,7 +2797,7 @@
     "dkoppstein",
     "Kevin2197",
     "Qingru44004",
-    "bio-info-guy",
+    "yangqi-su",
     "GimenaA",
     "fcastillo1",
     "spraeger",
@@ -3076,13 +3076,13 @@
     "carlacummins",
     "avalind"
   ],
-  "numberOfPullRequestNew": 790,
+  "numberOfPullRequestNew": 765,
   "p50NumberOfNewPullsPerWeek": 67,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 12730,
-  "p50SecondsToCloseIssues": 103063,
-  "meanNumberOfNewPullsPerWeek": 82.56666666666666,
+  "p50SecondsToClosePulls": 12793,
+  "p50SecondsToCloseIssues": 98021,
+  "meanNumberOfNewPullsPerWeek": 82.57142857142857,
   "meanNumberOfNewContributorsPerWeek": 7.225118483412322,
-  "meanSecondsToClosePulls": 126095.83797468354,
-  "meanSecondsToCloseIssues": 308295.94444444444
+  "meanSecondsToClosePulls": 121744.46013071896,
+  "meanSecondsToCloseIssues": 287814.6666666667
 }
