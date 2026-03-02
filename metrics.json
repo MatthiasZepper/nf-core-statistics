@@ -3076,13 +3076,13 @@
     "carlacummins",
     "avalind"
   ],
-  "numberOfPullRequestNew": 765,
+  "numberOfPullRequestNew": 727,
   "p50NumberOfNewPullsPerWeek": 67,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 12793,
-  "p50SecondsToCloseIssues": 98021,
-  "meanNumberOfNewPullsPerWeek": 82.57142857142857,
+  "p50SecondsToClosePulls": 14803,
+  "p50SecondsToCloseIssues": 97576,
+  "meanNumberOfNewPullsPerWeek": 82.57380952380953,
   "meanNumberOfNewContributorsPerWeek": 7.225118483412322,
-  "meanSecondsToClosePulls": 121744.46013071896,
-  "meanSecondsToCloseIssues": 287814.6666666667
+  "meanSecondsToClosePulls": 121406.33562585969,
+  "meanSecondsToCloseIssues": 262454.796875
 }
