@@ -571,6 +571,7 @@
     "tckumarasekara",
     "Laurenz0908",
     "EladH1",
+    "bagnacan",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -2379,7 +2380,6 @@
     "Baksic-Ivan",
     "ninaxiong11",
     "dhtt",
-    "bagnacan",
     "nathanweeks",
     "mmYeung",
     "Ales-ibt",
@@ -2538,7 +2538,6 @@
     "thomasbtf",
     "Mewgia",
     "alethomas",
-    "Yelbur",
     "Aqsakhalid30",
     "Rooksie",
     "ddomman",
@@ -3050,6 +3049,7 @@
     "vcepeda",
     "alisha246",
     "ribaribaworking",
+    "askmadsen",
     "Christopher-Ng",
     "ivirshup",
     "amesma",
@@ -3077,6 +3077,7 @@
     "Tabea01"
   ],
   "namesOfContributorsNew": [
+    "askmadsen",
     "Christopher-Ng",
     "ivirshup",
     "amesma",
@@ -3103,13 +3104,13 @@
     "avalind",
     "Tabea01"
   ],
-  "numberOfPullRequestNew": 743,
+  "numberOfPullRequestNew": 767,
   "p50NumberOfNewPullsPerWeek": 67,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 17725,
-  "p50SecondsToCloseIssues": 229608,
-  "meanNumberOfNewPullsPerWeek": 82.86255924170617,
+  "p50SecondsToClosePulls": 16370,
+  "p50SecondsToCloseIssues": 192883,
+  "meanNumberOfNewPullsPerWeek": 82.92890995260663,
   "meanNumberOfNewContributorsPerWeek": 7.25,
-  "meanSecondsToClosePulls": 143924.00269179005,
-  "meanSecondsToCloseIssues": 352349.40506329114
+  "meanSecondsToClosePulls": 141936.34159061278,
+  "meanSecondsToCloseIssues": 342961.2117647059
 }
