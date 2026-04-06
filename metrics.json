@@ -577,6 +577,7 @@
     "vinisalazar",
     "ramsainanduri",
     "nickp60",
+    "ieduba",
     "danwiththeplan",
     "luantunez",
     "rsuchecki",
@@ -2500,7 +2501,6 @@
     "annaasklof",
     "jolespin",
     "twrightsman",
-    "ieduba",
     "caspargross",
     "matthewstuartedwards",
     "RareSeas-Asimov",
@@ -3247,13 +3247,13 @@
     "rrari84",
     "nkadak-lgtm"
   ],
-  "numberOfPullRequestNew": 1066,
+  "numberOfPullRequestNew": 1026,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 18846,
-  "p50SecondsToCloseIssues": 136876,
-  "meanNumberOfNewPullsPerWeek": 84.95294117647059,
+  "p50SecondsToClosePulls": 18221,
+  "p50SecondsToCloseIssues": 119024,
+  "meanNumberOfNewPullsPerWeek": 84.96,
   "meanNumberOfNewContributorsPerWeek": 7.423887587822014,
-  "meanSecondsToClosePulls": 139611.82833020636,
-  "meanSecondsToCloseIssues": 303826.5382585752
+  "meanSecondsToClosePulls": 130383.79824561403,
+  "meanSecondsToCloseIssues": 285635.88108108105
 }
