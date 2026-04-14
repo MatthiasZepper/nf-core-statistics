@@ -2434,6 +2434,7 @@
     "dhtt",
     "nathanweeks",
     "mmYeung",
+    "SkyLexS",
     "Ales-ibt",
     "Zacharyr41",
     "PeterKnealeCMRI",
@@ -2449,7 +2450,6 @@
     "PeterKneale",
     "maxcumminsandfred-lab",
     "LiaOb21",
-    "SkyLexS",
     "saraamenasantamaria",
     "isgenome",
     "carolineclbcq-fr",
@@ -2481,9 +2481,9 @@
     "santiagotariza",
     "Anifowak",
     "gleisonm",
+    "SevaNur",
     "emanueleriontino",
     "Hazelhuangup",
-    "SevaNur",
     "sbreuch",
     "zhangdongqin",
     "HediaTnani",
@@ -3179,6 +3179,7 @@
     "birkiy",
     "Odulhin",
     "emmadizdarevic",
+    "jonasmac16",
     "GiselaHKopp"
   ],
   "namesOfContributorsNew": [
@@ -3198,15 +3199,16 @@
     "birkiy",
     "Odulhin",
     "emmadizdarevic",
+    "jonasmac16",
     "GiselaHKopp"
   ],
-  "numberOfPullRequestNew": 636,
+  "numberOfPullRequestNew": 645,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 23724,
-  "p50SecondsToCloseIssues": 161237,
-  "meanNumberOfNewPullsPerWeek": 85.22535211267606,
-  "meanNumberOfNewContributorsPerWeek": 7.427570093457944,
-  "meanSecondsToClosePulls": 164027.38522012578,
-  "meanSecondsToCloseIssues": 422139.08450704225
+  "p50SecondsToClosePulls": 21589,
+  "p50SecondsToCloseIssues": 195576,
+  "meanNumberOfNewPullsPerWeek": 85.10772833723654,
+  "meanNumberOfNewContributorsPerWeek": 7.4125874125874125,
+  "meanSecondsToClosePulls": 170349.2015503876,
+  "meanSecondsToCloseIssues": 433877.08
 }
