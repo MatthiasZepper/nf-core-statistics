@@ -166,6 +166,7 @@
     "nbtm-sh",
     "amarinderthind",
     "znorgaard",
+    "beatrizsavinhas",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -268,7 +269,6 @@
     "Colorstorm",
     "dcrp1234",
     "chriswyatt1",
-    "beatrizsavinhas",
     "PascalIversen",
     "JudithBernett",
     "FloWuenne",
@@ -1853,6 +1853,7 @@
     "philipperuiz",
     "ynanyam",
     "CormacKinsella",
+    "kjellinjonas",
     "amirshams84",
     "parlundin",
     "claus-h-g",
@@ -2047,7 +2048,6 @@
     "pharmlovex",
     "soccin",
     "johnoooh",
-    "kjellinjonas",
     "thiago-miller",
     "tsnowlan",
     "JosephLalli",
@@ -3172,6 +3172,7 @@
     "alisha246",
     "ribaribaworking",
     "timrozday-mgnify",
+    "GiselaHKopp",
     "rrari84",
     "nkadak-lgtm",
     "aripitek",
@@ -3191,8 +3192,7 @@
     "Adamtaranto",
     "birkiy",
     "emmadizdarevic",
-    "jonasmac16",
-    "GiselaHKopp"
+    "jonasmac16"
   ],
   "namesOfContributorsNew": [
     "aripitek",
@@ -3212,16 +3212,15 @@
     "Adamtaranto",
     "birkiy",
     "emmadizdarevic",
-    "jonasmac16",
-    "GiselaHKopp"
+    "jonasmac16"
   ],
-  "numberOfPullRequestNew": 662,
+  "numberOfPullRequestNew": 625,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 19471,
+  "p50SecondsToClosePulls": 20568,
   "p50SecondsToCloseIssues": 253642,
-  "meanNumberOfNewPullsPerWeek": 85.48711943793911,
+  "meanNumberOfNewPullsPerWeek": 85.49648711943794,
   "meanNumberOfNewContributorsPerWeek": 7.440559440559441,
-  "meanSecondsToClosePulls": 153508.2734138973,
-  "meanSecondsToCloseIssues": 457964.375
+  "meanSecondsToClosePulls": 155709.9664,
+  "meanSecondsToCloseIssues": 434313.0273972603
 }
