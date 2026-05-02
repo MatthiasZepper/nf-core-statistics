@@ -2508,6 +2508,7 @@
     "ayirm",
     "sbreuch",
     "birkiy",
+    "Odulhin",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -3196,7 +3197,6 @@
     "rboz1",
     "Vicbeg",
     "werner291",
-    "Odulhin",
     "cwang-lilly",
     "peachgabba22",
     "smhaider",
@@ -3227,7 +3227,6 @@
     "rboz1",
     "Vicbeg",
     "werner291",
-    "Odulhin",
     "cwang-lilly",
     "peachgabba22",
     "smhaider",
@@ -3252,13 +3251,13 @@
     "nihit14",
     "benjibromberg"
   ],
-  "numberOfPullRequestNew": 747,
+  "numberOfPullRequestNew": 733,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15873,
-  "p50SecondsToCloseIssues": 79833,
-  "meanNumberOfNewPullsPerWeek": 86.21678321678321,
+  "p50SecondsToClosePulls": 15535,
+  "p50SecondsToCloseIssues": 81323,
+  "meanNumberOfNewPullsPerWeek": 86.25874125874125,
   "meanNumberOfNewContributorsPerWeek": 7.468677494199536,
-  "meanSecondsToClosePulls": 135005.38955823294,
-  "meanSecondsToCloseIssues": 251548.3725490196
+  "meanSecondsToClosePulls": 121867.64256480218,
+  "meanSecondsToCloseIssues": 262199.3663366337
 }
