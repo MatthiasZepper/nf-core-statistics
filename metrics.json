@@ -3193,6 +3193,7 @@
     "rrari84",
     "nkadak-lgtm",
     "MasterOfFeelingFish",
+    "chaitanyakasaraneni",
     "kristinebilgrav",
     "rboz1",
     "Vicbeg",
@@ -3223,6 +3224,7 @@
   ],
   "namesOfContributorsNew": [
     "MasterOfFeelingFish",
+    "chaitanyakasaraneni",
     "kristinebilgrav",
     "rboz1",
     "Vicbeg",
@@ -3251,13 +3253,13 @@
     "nihit14",
     "benjibromberg"
   ],
-  "numberOfPullRequestNew": 733,
+  "numberOfPullRequestNew": 712,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15535,
-  "p50SecondsToCloseIssues": 81323,
-  "meanNumberOfNewPullsPerWeek": 86.25874125874125,
-  "meanNumberOfNewContributorsPerWeek": 7.468677494199536,
-  "meanSecondsToClosePulls": 121867.64256480218,
-  "meanSecondsToCloseIssues": 262199.3663366337
+  "p50SecondsToClosePulls": 14890,
+  "p50SecondsToCloseIssues": 79833,
+  "meanNumberOfNewPullsPerWeek": 86.26806526806527,
+  "meanNumberOfNewContributorsPerWeek": 7.470997679814385,
+  "meanSecondsToClosePulls": 116638.39325842696,
+  "meanSecondsToCloseIssues": 217092.79381443298
 }
