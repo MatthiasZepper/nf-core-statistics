@@ -665,6 +665,7 @@
     "pontushojer",
     "adamhowardprice",
     "emrunali",
+    "Odulhin",
     "aubinthomas",
     "mhebrard",
     "tiagochst",
@@ -2508,7 +2509,6 @@
     "ayirm",
     "sbreuch",
     "birkiy",
-    "Odulhin",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -3253,13 +3253,13 @@
     "nihit14",
     "benjibromberg"
   ],
-  "numberOfPullRequestNew": 712,
+  "numberOfPullRequestNew": 707,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 14890,
+  "p50SecondsToClosePulls": 14587,
   "p50SecondsToCloseIssues": 79833,
-  "meanNumberOfNewPullsPerWeek": 86.26806526806527,
+  "meanNumberOfNewPullsPerWeek": 86.27039627039628,
   "meanNumberOfNewContributorsPerWeek": 7.470997679814385,
-  "meanSecondsToClosePulls": 116638.39325842696,
+  "meanSecondsToClosePulls": 114467.53889674682,
   "meanSecondsToCloseIssues": 217092.79381443298
 }
