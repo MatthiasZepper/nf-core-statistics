@@ -2509,6 +2509,7 @@
     "ayirm",
     "sbreuch",
     "birkiy",
+    "edogiuili",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -3218,6 +3219,7 @@
     "Leilanasd",
     "nilay-p",
     "racng",
+    "gavin-peng",
     "nrminor",
     "nihit14",
     "benjibromberg"
@@ -3249,17 +3251,18 @@
     "Leilanasd",
     "nilay-p",
     "racng",
+    "gavin-peng",
     "nrminor",
     "nihit14",
     "benjibromberg"
   ],
-  "numberOfPullRequestNew": 707,
+  "numberOfPullRequestNew": 735,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 14587,
-  "p50SecondsToCloseIssues": 79833,
-  "meanNumberOfNewPullsPerWeek": 86.27039627039628,
-  "meanNumberOfNewContributorsPerWeek": 7.470997679814385,
-  "meanSecondsToClosePulls": 114467.53889674682,
-  "meanSecondsToCloseIssues": 217092.79381443298
+  "p50SecondsToClosePulls": 16846,
+  "p50SecondsToCloseIssues": 72877,
+  "meanNumberOfNewPullsPerWeek": 86.14883720930233,
+  "meanNumberOfNewContributorsPerWeek": 7.458333333333333,
+  "meanSecondsToClosePulls": 125177.8,
+  "meanSecondsToCloseIssues": 191884.38392857142
 }
