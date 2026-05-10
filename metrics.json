@@ -3183,6 +3183,7 @@
     "Svenvdm",
     "pritampanda15",
     "Tabea01",
+    "nihit14",
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
@@ -3223,7 +3224,6 @@
     "racng",
     "gavin-peng",
     "jfallmann",
-    "nihit14",
     "benjibromberg"
   ],
   "namesOfContributorsNew": [
@@ -3251,16 +3251,15 @@
     "racng",
     "gavin-peng",
     "jfallmann",
-    "nihit14",
     "benjibromberg"
   ],
-  "numberOfPullRequestNew": 803,
+  "numberOfPullRequestNew": 778,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 20489,
-  "p50SecondsToCloseIssues": 92960,
-  "meanNumberOfNewPullsPerWeek": 86.5093023255814,
+  "p50SecondsToClosePulls": 21112,
+  "p50SecondsToCloseIssues": 92949,
+  "meanNumberOfNewPullsPerWeek": 86.51162790697674,
   "meanNumberOfNewContributorsPerWeek": 7.462962962962963,
-  "meanSecondsToClosePulls": 133563.27397260274,
-  "meanSecondsToCloseIssues": 203595.6083916084
+  "meanSecondsToClosePulls": 135032.3213367609,
+  "meanSecondsToCloseIssues": 175313.95555555556
 }
