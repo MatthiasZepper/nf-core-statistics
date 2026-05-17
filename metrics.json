@@ -3273,13 +3273,13 @@
     "benjibromberg",
     "j5884p5g"
   ],
-  "numberOfPullRequestNew": 781,
+  "numberOfPullRequestNew": 758,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 41770,
-  "p50SecondsToCloseIssues": 91902,
-  "meanNumberOfNewPullsPerWeek": 86.66357308584686,
+  "p50SecondsToClosePulls": 42651,
+  "p50SecondsToCloseIssues": 88120,
+  "meanNumberOfNewPullsPerWeek": 86.67749419953596,
   "meanNumberOfNewContributorsPerWeek": 7.478060046189376,
-  "meanSecondsToClosePulls": 182265.781049936,
-  "meanSecondsToCloseIssues": 204043.81935483872
+  "meanSecondsToClosePulls": 186043.34960422164,
+  "meanSecondsToCloseIssues": 196751.71523178808
 }
