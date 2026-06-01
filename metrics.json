@@ -613,6 +613,7 @@
     "kristinebilgrav",
     "rboz1",
     "ayeletperes",
+    "Vivian0105",
     "danwiththeplan",
     "luantunez",
     "Vicbeg",
@@ -1927,7 +1928,6 @@
     "gianfilippo",
     "zhenzuo2",
     "mdeboth",
-    "Vivian0105",
     "yyoshiaki",
     "fabio-t",
     "aislinnjennings",
@@ -3287,13 +3287,13 @@
     "jy3l40c9",
     "j5884p5g"
   ],
-  "numberOfPullRequestNew": 535,
+  "numberOfPullRequestNew": 517,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 39838,
-  "p50SecondsToCloseIssues": 197956,
-  "meanNumberOfNewPullsPerWeek": 87.20092378752886,
+  "p50SecondsToClosePulls": 32641,
+  "p50SecondsToCloseIssues": 186034,
+  "meanNumberOfNewPullsPerWeek": 87.20323325635104,
   "meanNumberOfNewContributorsPerWeek": 7.510344827586207,
-  "meanSecondsToClosePulls": 155257.93457943926,
-  "meanSecondsToCloseIssues": 312739.27167630056
+  "meanSecondsToClosePulls": 143109.332688588,
+  "meanSecondsToCloseIssues": 299762.1084337349
 }
