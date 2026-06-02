@@ -3261,6 +3261,7 @@
     "Eldergenix",
     "deathstar550",
     "olaflaitinen",
+    "eascarrunz",
     "kn0vd3h1",
     "chris-mbiomics",
     "gavin-peng",
@@ -3279,6 +3280,7 @@
     "Eldergenix",
     "deathstar550",
     "olaflaitinen",
+    "eascarrunz",
     "kn0vd3h1",
     "chris-mbiomics",
     "gavin-peng",
@@ -3287,13 +3289,13 @@
     "jy3l40c9",
     "j5884p5g"
   ],
-  "numberOfPullRequestNew": 517,
+  "numberOfPullRequestNew": 536,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 32641,
-  "p50SecondsToCloseIssues": 186034,
-  "meanNumberOfNewPullsPerWeek": 87.20323325635104,
-  "meanNumberOfNewContributorsPerWeek": 7.510344827586207,
-  "meanSecondsToClosePulls": 143109.332688588,
-  "meanSecondsToCloseIssues": 299762.1084337349
+  "p50SecondsToClosePulls": 31381,
+  "p50SecondsToCloseIssues": 189820,
+  "meanNumberOfNewPullsPerWeek": 87.06912442396313,
+  "meanNumberOfNewContributorsPerWeek": 7.495412844036697,
+  "meanSecondsToClosePulls": 144050.53358208956,
+  "meanSecondsToCloseIssues": 302707.79069767444
 }
