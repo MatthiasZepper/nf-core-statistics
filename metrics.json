@@ -2284,6 +2284,7 @@
     "anmolee",
     "tommasoregoli",
     "Adamtaranto",
+    "lucafynn",
     "markjschreiber",
     "ferenckata",
     "aboyd003",
@@ -3127,6 +3128,7 @@
     "bxskdh",
     "ntnn19",
     "picciama",
+    "Sawakotx",
     "quirinmanz",
     "quimaguirre",
     "lspindler2509",
@@ -3288,13 +3290,13 @@
     "jy3l40c9",
     "j5884p5g"
   ],
-  "numberOfPullRequestNew": 553,
+  "numberOfPullRequestNew": 563,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 37943,
-  "p50SecondsToCloseIssues": 184751,
-  "meanNumberOfNewPullsPerWeek": 87.1221198156682,
-  "meanNumberOfNewContributorsPerWeek": 7.497706422018348,
-  "meanSecondsToClosePulls": 148162.62567811934,
-  "meanSecondsToCloseIssues": 293983.1685393258
+  "p50SecondsToClosePulls": 31899,
+  "p50SecondsToCloseIssues": 172381,
+  "meanNumberOfNewPullsPerWeek": 87.19354838709677,
+  "meanNumberOfNewContributorsPerWeek": 7.502293577981652,
+  "meanSecondsToClosePulls": 146668.44760213143,
+  "meanSecondsToCloseIssues": 293818.676056338
 }
