@@ -3292,13 +3292,13 @@
     "jy3l40c9",
     "j5884p5g"
   ],
-  "numberOfPullRequestNew": 556,
+  "numberOfPullRequestNew": 536,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 29112,
+  "p50SecondsToClosePulls": 29954,
   "p50SecondsToCloseIssues": 147243,
-  "meanNumberOfNewPullsPerWeek": 87.32488479262673,
+  "meanNumberOfNewPullsPerWeek": 87.37096774193549,
   "meanNumberOfNewContributorsPerWeek": 7.506880733944954,
-  "meanSecondsToClosePulls": 148828.25899280576,
-  "meanSecondsToCloseIssues": 247859.3734939759
+  "meanSecondsToClosePulls": 149691.93470149254,
+  "meanSecondsToCloseIssues": 245075.33333333334
 }
