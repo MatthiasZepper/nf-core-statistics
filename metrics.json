@@ -3288,6 +3288,7 @@
     "Jonahnki",
     "ASendellPrice",
     "JP-Bro",
+    "Harshita-sriv",
     "EmmanuelLabaronne",
     "TeresaRubio",
     "oneillkza",
@@ -3313,6 +3314,7 @@
     "Jonahnki",
     "ASendellPrice",
     "JP-Bro",
+    "Harshita-sriv",
     "EmmanuelLabaronne",
     "TeresaRubio",
     "oneillkza",
@@ -3321,13 +3323,13 @@
     "JTL-lab",
     "pwoods2"
   ],
-  "numberOfPullRequestNew": 573,
+  "numberOfPullRequestNew": 600,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 26572,
-  "p50SecondsToCloseIssues": 92121,
-  "meanNumberOfNewPullsPerWeek": 87.63218390804597,
-  "meanNumberOfNewContributorsPerWeek": 7.537757437070939,
-  "meanSecondsToClosePulls": 155360.1762652705,
-  "meanSecondsToCloseIssues": 271287.1632653061
+  "p50SecondsToClosePulls": 28312,
+  "p50SecondsToCloseIssues": 112121,
+  "meanNumberOfNewPullsPerWeek": 87.51146788990826,
+  "meanNumberOfNewContributorsPerWeek": 7.5228310502283104,
+  "meanSecondsToClosePulls": 161470.03833333333,
+  "meanSecondsToCloseIssues": 294718.1066666667
 }
