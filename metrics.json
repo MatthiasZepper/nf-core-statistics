@@ -3323,13 +3323,13 @@
     "elhb",
     "pwoods2"
   ],
-  "numberOfPullRequestNew": 564,
+  "numberOfPullRequestNew": 539,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 16893,
-  "p50SecondsToCloseIssues": 137926,
-  "meanNumberOfNewPullsPerWeek": 87.80963302752293,
+  "p50SecondsToCloseIssues": 137931,
+  "meanNumberOfNewPullsPerWeek": 87.82339449541284,
   "meanNumberOfNewContributorsPerWeek": 7.531963470319635,
-  "meanSecondsToClosePulls": 151439.77836879433,
-  "meanSecondsToCloseIssues": 330326.2357142857
+  "meanSecondsToClosePulls": 131356.88868274583,
+  "meanSecondsToCloseIssues": 317279.47857142857
 }
