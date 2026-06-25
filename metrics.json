@@ -3305,6 +3305,7 @@
     "eascarrunz",
     "sun-fei2026",
     "fjcobu14",
+    "MartinaCardinali",
     "pwoods2"
   ],
   "namesOfContributorsNew": [
@@ -3332,15 +3333,16 @@
     "eascarrunz",
     "sun-fei2026",
     "fjcobu14",
+    "MartinaCardinali",
     "pwoods2"
   ],
-  "numberOfPullRequestNew": 600,
+  "numberOfPullRequestNew": 611,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 14394,
-  "p50SecondsToCloseIssues": 156839,
-  "meanNumberOfNewPullsPerWeek": 87.81922196796339,
-  "meanNumberOfNewContributorsPerWeek": 7.528473804100228,
-  "meanSecondsToClosePulls": 139901.495,
-  "meanSecondsToCloseIssues": 332297.1913580247
+  "p50SecondsToClosePulls": 14178,
+  "p50SecondsToCloseIssues": 191690,
+  "meanNumberOfNewPullsPerWeek": 87.88787185354691,
+  "meanNumberOfNewContributorsPerWeek": 7.530751708428246,
+  "meanSecondsToClosePulls": 133707.43371522095,
+  "meanSecondsToCloseIssues": 347664.7852760736
 }
