@@ -3268,6 +3268,7 @@
     "pritampanda15",
     "aerusakovich",
     "nihit14",
+    "MartinaCardinali",
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
@@ -3310,7 +3311,6 @@
     "eascarrunz",
     "sun-fei2026",
     "fjcobu14",
-    "MartinaCardinali",
     "pwoods2"
   ],
   "namesOfContributorsNew": [
@@ -3339,16 +3339,15 @@
     "eascarrunz",
     "sun-fei2026",
     "fjcobu14",
-    "MartinaCardinali",
     "pwoods2"
   ],
-  "numberOfPullRequestNew": 626,
+  "numberOfPullRequestNew": 623,
   "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 15220,
-  "p50SecondsToCloseIssues": 191690,
-  "meanNumberOfNewPullsPerWeek": 87.97940503432494,
+  "p50SecondsToClosePulls": 17378,
+  "p50SecondsToCloseIssues": 227876,
+  "meanNumberOfNewPullsPerWeek": 88.07780320366133,
   "meanNumberOfNewContributorsPerWeek": 7.542141230068337,
-  "meanSecondsToClosePulls": 137941.36900958465,
-  "meanSecondsToCloseIssues": 350042.8475609756
+  "meanSecondsToClosePulls": 147161.75120385233,
+  "meanSecondsToCloseIssues": 364755.5864197531
 }
