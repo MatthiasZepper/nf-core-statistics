@@ -2985,6 +2985,7 @@
     "Dimon821",
     "dungtran2612",
     "eileen-xue",
+    "eascarrunz",
     "nemartins",
     "BrunoBertolasi",
     "fka21",
@@ -3306,7 +3307,6 @@
     "apolitics",
     "TeresaRubio",
     "oneillkza",
-    "eascarrunz",
     "sun-fei2026",
     "fjcobu14",
     "pwoods2"
@@ -3333,18 +3333,17 @@
     "apolitics",
     "TeresaRubio",
     "oneillkza",
-    "eascarrunz",
     "sun-fei2026",
     "fjcobu14",
     "pwoods2"
   ],
-  "numberOfPullRequestNew": 606,
+  "numberOfPullRequestNew": 585,
   "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 18286,
-  "p50SecondsToCloseIssues": 227876,
-  "meanNumberOfNewPullsPerWeek": 88.10526315789474,
+  "p50SecondsToCloseIssues": 210062,
+  "meanNumberOfNewPullsPerWeek": 88.11212814645309,
   "meanNumberOfNewContributorsPerWeek": 7.537585421412301,
-  "meanSecondsToClosePulls": 142350.52640264027,
-  "meanSecondsToCloseIssues": 360421.9125
+  "meanSecondsToClosePulls": 133000.98119658118,
+  "meanSecondsToCloseIssues": 355516.1346153846
 }
