@@ -3342,13 +3342,13 @@
     "fjcobu14",
     "pwoods2"
   ],
-  "numberOfPullRequestNew": 639,
+  "numberOfPullRequestNew": 663,
   "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 20584,
-  "p50SecondsToCloseIssues": 345118,
-  "meanNumberOfNewPullsPerWeek": 88.38584474885845,
-  "meanNumberOfNewContributorsPerWeek": 7.543181818181818,
-  "meanSecondsToClosePulls": 149253.87636932707,
-  "meanSecondsToCloseIssues": 486033.7886178862
+  "p50SecondsToClosePulls": 21463,
+  "p50SecondsToCloseIssues": 426147,
+  "meanNumberOfNewPullsPerWeek": 88.28246013667426,
+  "meanNumberOfNewContributorsPerWeek": 7.526077097505669,
+  "meanSecondsToClosePulls": 155864.1055806938,
+  "meanSecondsToCloseIssues": 562488.4779411765
 }
