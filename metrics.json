@@ -2894,6 +2894,7 @@
     "ShimiraOleg",
     "madhavajay",
     "benstory",
+    "apolitics",
     "henrikstranneheim",
     "barissalman",
     "chels0",
@@ -3327,14 +3328,14 @@
     "akbaselya",
     "razmia02",
     "jorondo1",
+    "sapunyangkut",
     "NicoDeVeaux",
     "wlason",
     "artorias111",
     "gbadedata",
     "snunzi",
     "jomoxi",
-    "apolitics",
-    "sapunyangkut"
+    "Tim-Yu"
   ],
   "namesOfContributorsNew": [
     "Deriverx2",
@@ -3344,22 +3345,22 @@
     "akbaselya",
     "razmia02",
     "jorondo1",
+    "sapunyangkut",
     "NicoDeVeaux",
     "wlason",
     "artorias111",
     "gbadedata",
     "snunzi",
     "jomoxi",
-    "apolitics",
-    "sapunyangkut"
+    "Tim-Yu"
   ],
-  "numberOfPullRequestNew": 626,
+  "numberOfPullRequestNew": 650,
   "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 21925,
-  "p50SecondsToCloseIssues": 484001,
-  "meanNumberOfNewPullsPerWeek": 88.47727272727273,
-  "meanNumberOfNewContributorsPerWeek": 7.542986425339366,
-  "meanSecondsToClosePulls": 139369.3322683706,
-  "meanSecondsToCloseIssues": 746430.147826087
+  "p50SecondsToClosePulls": 21274,
+  "p50SecondsToCloseIssues": 428468,
+  "meanNumberOfNewPullsPerWeek": 88.53863636363636,
+  "meanNumberOfNewContributorsPerWeek": 7.54524886877828,
+  "meanSecondsToClosePulls": 146430.84461538462,
+  "meanSecondsToCloseIssues": 717730.6355932204
 }
