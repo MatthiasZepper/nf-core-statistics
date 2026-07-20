@@ -3366,13 +3366,13 @@
     "Tim-Yu",
     "hl-xue"
   ],
-  "numberOfPullRequestNew": 628,
+  "numberOfPullRequestNew": 605,
   "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 26379,
-  "p50SecondsToCloseIssues": 238225,
-  "meanNumberOfNewPullsPerWeek": 88.80454545454545,
+  "p50SecondsToClosePulls": 26857,
+  "p50SecondsToCloseIssues": 217109,
+  "meanNumberOfNewPullsPerWeek": 88.81136363636364,
   "meanNumberOfNewContributorsPerWeek": 7.570135746606335,
-  "meanSecondsToClosePulls": 146238.71815286623,
-  "meanSecondsToCloseIssues": 413961.0144927536
+  "meanSecondsToClosePulls": 142850.5173553719,
+  "meanSecondsToCloseIssues": 405397.2272727273
 }
