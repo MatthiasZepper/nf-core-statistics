@@ -3335,6 +3335,8 @@
     "Deriverx2",
     "kathrynmurie",
     "kanishkanandhkumar",
+    "emmanuel-tan",
+    "samhornstein",
     "akbaselya",
     "razmia02",
     "jorondo1",
@@ -3348,6 +3350,7 @@
     "jomoxi",
     "jozsefkun",
     "Tim-Yu",
+    "alihamraoui",
     "hl-xue"
   ],
   "namesOfContributorsNew": [
@@ -3355,6 +3358,8 @@
     "Deriverx2",
     "kathrynmurie",
     "kanishkanandhkumar",
+    "emmanuel-tan",
+    "samhornstein",
     "akbaselya",
     "razmia02",
     "jorondo1",
@@ -3368,15 +3373,16 @@
     "jomoxi",
     "jozsefkun",
     "Tim-Yu",
+    "alihamraoui",
     "hl-xue"
   ],
-  "numberOfPullRequestNew": 623,
+  "numberOfPullRequestNew": 646,
   "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 26301,
-  "p50SecondsToCloseIssues": 238225,
-  "meanNumberOfNewPullsPerWeek": 88.66893424036282,
-  "meanNumberOfNewContributorsPerWeek": 7.557562076749436,
-  "meanSecondsToClosePulls": 141754.5569823435,
-  "meanSecondsToCloseIssues": 424092.25
+  "p50SecondsToClosePulls": 22476,
+  "p50SecondsToCloseIssues": 227159,
+  "meanNumberOfNewPullsPerWeek": 88.73242630385488,
+  "meanNumberOfNewContributorsPerWeek": 7.564334085778781,
+  "meanSecondsToClosePulls": 142291.5572755418,
+  "meanSecondsToCloseIssues": 408577.4647887324
 }
