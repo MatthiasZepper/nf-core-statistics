@@ -173,6 +173,7 @@
     "DLBPointon",
     "simojoe",
     "gaoflow",
+    "sanmaxdev",
     "winni2k",
     "vibbits",
     "crickbabs",
@@ -314,6 +315,7 @@
     "mbeavitt",
     "eduard-watchmaker",
     "jdgilbert245",
+    "edogiuili",
     "rbpisupati",
     "cjfields",
     "zchatt",
@@ -2596,7 +2598,6 @@
     "ayirm",
     "sbreuch",
     "birkiy",
-    "edogiuili",
     "ktruve",
     "Tabea01",
     "riccabolla",
@@ -3334,7 +3335,6 @@
     "GiselaHKopp",
     "rrari84",
     "nkadak-lgtm",
-    "sanmaxdev",
     "Deriverx2",
     "kathrynmurie",
     "kanishkanandhkumar",
@@ -3361,7 +3361,6 @@
     "hl-xue"
   ],
   "namesOfContributorsNew": [
-    "sanmaxdev",
     "Deriverx2",
     "kathrynmurie",
     "kanishkanandhkumar",
@@ -3387,13 +3386,13 @@
     "alihamraoui",
     "hl-xue"
   ],
-  "numberOfPullRequestNew": 657,
+  "numberOfPullRequestNew": 697,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 33348,
-  "p50SecondsToCloseIssues": 243852,
-  "meanNumberOfNewPullsPerWeek": 88.9047619047619,
+  "p50SecondsToClosePulls": 19696,
+  "p50SecondsToCloseIssues": 227159,
+  "meanNumberOfNewPullsPerWeek": 89.07256235827664,
   "meanNumberOfNewContributorsPerWeek": 7.5801354401805865,
-  "meanSecondsToClosePulls": 150465.2694063927,
-  "meanSecondsToCloseIssues": 444461.8
+  "meanSecondsToClosePulls": 142500.18077474894,
+  "meanSecondsToCloseIssues": 439520.25675675675
 }
