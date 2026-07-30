@@ -1987,6 +1987,8 @@
     "fenouil-r",
     "BirkirRey",
     "alialhadithi",
+    "TWV-GIT",
+    "ld32",
     "bewt85",
     "angelovangel",
     "Shellfishgene",
@@ -2013,6 +2015,7 @@
     "IBEXCluster",
     "albatalavera",
     "kaokaoshuangyu",
+    "ESapenaVentura",
     "leipzig",
     "zhewa",
     "Vivian-chen16",
@@ -3324,6 +3327,7 @@
     "igiraclement",
     "MartinaCardinali",
     "pwoods2",
+    "snunzi",
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
@@ -3355,7 +3359,6 @@
     "wmsci",
     "wlason",
     "artorias111",
-    "snunzi",
     "AlecSilver",
     "nghiaagent",
     "xHaMMaDy",
@@ -3364,7 +3367,8 @@
     "Tim-Yu",
     "rnaidu-seqera",
     "alihamraoui",
-    "hl-xue"
+    "hl-xue",
+    "BilalsGituation"
   ],
   "namesOfContributorsNew": [
     "Deriverx2",
@@ -3381,7 +3385,6 @@
     "wmsci",
     "wlason",
     "artorias111",
-    "snunzi",
     "AlecSilver",
     "nghiaagent",
     "xHaMMaDy",
@@ -3390,15 +3393,16 @@
     "Tim-Yu",
     "rnaidu-seqera",
     "alihamraoui",
-    "hl-xue"
+    "hl-xue",
+    "BilalsGituation"
   ],
-  "numberOfPullRequestNew": 814,
+  "numberOfPullRequestNew": 836,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 12053,
-  "p50SecondsToCloseIssues": 276834,
-  "meanNumberOfNewPullsPerWeek": 89.36425339366515,
-  "meanNumberOfNewContributorsPerWeek": 7.576576576576577,
-  "meanSecondsToClosePulls": 125586.62039312039,
-  "meanSecondsToCloseIssues": 572292.5714285715
+  "p50SecondsToClosePulls": 12683,
+  "p50SecondsToCloseIssues": 227159,
+  "meanNumberOfNewPullsPerWeek": 89.49773755656109,
+  "meanNumberOfNewContributorsPerWeek": 7.585585585585585,
+  "meanSecondsToClosePulls": 135176.41507177035,
+  "meanSecondsToCloseIssues": 522593.8333333333
 }
