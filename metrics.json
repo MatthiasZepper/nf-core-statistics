@@ -3362,6 +3362,8 @@
     "AlecSilver",
     "nghiaagent",
     "xHaMMaDy",
+    "worthyc51",
+    "luziyi123448-gif",
     "SiYangming",
     "jozsefkun",
     "Tim-Yu",
@@ -3388,6 +3390,8 @@
     "AlecSilver",
     "nghiaagent",
     "xHaMMaDy",
+    "worthyc51",
+    "luziyi123448-gif",
     "SiYangming",
     "jozsefkun",
     "Tim-Yu",
@@ -3396,13 +3400,13 @@
     "hl-xue",
     "BilalsGituation"
   ],
-  "numberOfPullRequestNew": 836,
+  "numberOfPullRequestNew": 837,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 12683,
-  "p50SecondsToCloseIssues": 227159,
-  "meanNumberOfNewPullsPerWeek": 89.49773755656109,
-  "meanNumberOfNewContributorsPerWeek": 7.585585585585585,
-  "meanSecondsToClosePulls": 135176.41507177035,
-  "meanSecondsToCloseIssues": 522593.8333333333
+  "p50SecondsToClosePulls": 15688,
+  "p50SecondsToCloseIssues": 243852,
+  "meanNumberOfNewPullsPerWeek": 89.57239819004525,
+  "meanNumberOfNewContributorsPerWeek": 7.59009009009009,
+  "meanSecondsToClosePulls": 138245.7945041816,
+  "meanSecondsToCloseIssues": 540555.7777777778
 }
