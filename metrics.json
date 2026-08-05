@@ -3369,6 +3369,7 @@
     "AlecSilver",
     "nghiaagent",
     "xHaMMaDy",
+    "SimHolz",
     "worthyc51",
     "luziyi123448-gif",
     "SiYangming",
@@ -3378,7 +3379,8 @@
     "alihamraoui",
     "hl-xue",
     "funnell",
-    "BilalsGituation"
+    "BilalsGituation",
+    "patiencemanzen"
   ],
   "namesOfContributorsNew": [
     "Deriverx2",
@@ -3396,6 +3398,7 @@
     "AlecSilver",
     "nghiaagent",
     "xHaMMaDy",
+    "SimHolz",
     "worthyc51",
     "luziyi123448-gif",
     "SiYangming",
@@ -3405,15 +3408,16 @@
     "alihamraoui",
     "hl-xue",
     "funnell",
-    "BilalsGituation"
+    "BilalsGituation",
+    "patiencemanzen"
   ],
-  "numberOfPullRequestNew": 829,
+  "numberOfPullRequestNew": 873,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 7,
   "p50SecondsToClosePulls": 19000,
-  "p50SecondsToCloseIssues": 262126,
-  "meanNumberOfNewPullsPerWeek": 89.60270880361173,
-  "meanNumberOfNewContributorsPerWeek": 7.591011235955056,
-  "meanSecondsToClosePulls": 137210.4644149578,
-  "meanSecondsToCloseIssues": 554219.8469387755
+  "p50SecondsToCloseIssues": 111514,
+  "meanNumberOfNewPullsPerWeek": 89.70428893905192,
+  "meanNumberOfNewContributorsPerWeek": 7.595505617977528,
+  "meanSecondsToClosePulls": 136554.50515463916,
+  "meanSecondsToCloseIssues": 464935.9593495935
 }
