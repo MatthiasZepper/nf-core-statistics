@@ -2696,6 +2696,7 @@
     "EmmanuelLabaronne",
     "razmia02",
     "jomoxi",
+    "snunzi",
     "caspargross",
     "matthewstuartedwards",
     "RareSeas-Asimov",
@@ -3339,7 +3340,6 @@
     "MartinaCardinali",
     "LynnHenrotte",
     "pwoods2",
-    "snunzi",
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
@@ -3414,13 +3414,13 @@
     "BilalsGituation",
     "patiencemanzen"
   ],
-  "numberOfPullRequestNew": 814,
+  "numberOfPullRequestNew": 787,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 16056,
+  "p50SecondsToClosePulls": 14662,
   "p50SecondsToCloseIssues": 109794,
-  "meanNumberOfNewPullsPerWeek": 89.87584650112866,
+  "meanNumberOfNewPullsPerWeek": 89.88713318284424,
   "meanNumberOfNewContributorsPerWeek": 7.602247191011236,
-  "meanSecondsToClosePulls": 140033.0651105651,
-  "meanSecondsToCloseIssues": 396812.4915254237
+  "meanSecondsToClosePulls": 135858.60228716646,
+  "meanSecondsToCloseIssues": 359539.1081081081
 }
