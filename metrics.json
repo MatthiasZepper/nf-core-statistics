@@ -3416,13 +3416,13 @@
     "BilalsGituation",
     "patiencemanzen"
   ],
-  "numberOfPullRequestNew": 845,
+  "numberOfPullRequestNew": 865,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 23458,
-  "p50SecondsToCloseIssues": 159584,
-  "meanNumberOfNewPullsPerWeek": 90.29054054054055,
-  "meanNumberOfNewContributorsPerWeek": 7.6008968609865475,
-  "meanSecondsToClosePulls": 156064.3976331361,
-  "meanSecondsToCloseIssues": 342657.75
+  "p50SecondsToClosePulls": 24742,
+  "p50SecondsToCloseIssues": 111514,
+  "meanNumberOfNewPullsPerWeek": 90.14382022471911,
+  "meanNumberOfNewContributorsPerWeek": 7.583892617449664,
+  "meanSecondsToClosePulls": 166863.96878612717,
+  "meanSecondsToCloseIssues": 342103.4285714286
 }
