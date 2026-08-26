@@ -3387,6 +3387,7 @@
     "GiselaHKopp",
     "rrari84",
     "nkadak-lgtm",
+    "lpgarkins",
     "kevinrue",
     "grunwald",
     "ramunevaisnore",
@@ -3407,6 +3408,7 @@
     "patiencemanzen"
   ],
   "namesOfContributorsNew": [
+    "lpgarkins",
     "kevinrue",
     "grunwald",
     "ramunevaisnore",
@@ -3426,13 +3428,13 @@
     "BilalsGituation",
     "patiencemanzen"
   ],
-  "numberOfPullRequestNew": 769,
+  "numberOfPullRequestNew": 777,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 24937,
-  "p50SecondsToCloseIssues": 140866,
-  "meanNumberOfNewPullsPerWeek": 90.15022421524664,
-  "meanNumberOfNewContributorsPerWeek": 7.598214285714286,
-  "meanSecondsToClosePulls": 139004.33029908972,
-  "meanSecondsToCloseIssues": 277251.08724832215
+  "p50SecondsToClosePulls": 24742,
+  "p50SecondsToCloseIssues": 156640,
+  "meanNumberOfNewPullsPerWeek": 90.19955156950672,
+  "meanNumberOfNewContributorsPerWeek": 7.600446428571429,
+  "meanSecondsToClosePulls": 141627.3873873874,
+  "meanSecondsToCloseIssues": 291316.3653846154
 }
