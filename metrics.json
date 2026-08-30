@@ -3429,13 +3429,13 @@
     "funnell",
     "patiencemanzen"
   ],
-  "numberOfPullRequestNew": 683,
+  "numberOfPullRequestNew": 671,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 46950,
-  "p50SecondsToCloseIssues": 165433,
-  "meanNumberOfNewPullsPerWeek": 90.50224215246637,
+  "p50SecondsToClosePulls": 47978,
+  "p50SecondsToCloseIssues": 159584,
+  "meanNumberOfNewPullsPerWeek": 90.51345291479821,
   "meanNumberOfNewContributorsPerWeek": 7.607142857142857,
-  "meanSecondsToClosePulls": 148250.11566617864,
-  "meanSecondsToCloseIssues": 307824.6352941177
+  "meanSecondsToClosePulls": 149523.40238450075,
+  "meanSecondsToCloseIssues": 302171.5481927711
 }
