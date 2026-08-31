@@ -2710,6 +2710,7 @@
     "catesval",
     "dimitrios-pm",
     "valegale",
+    "felixS27",
     "ddomenico",
     "percyfal",
     "chrisgulvik",
@@ -3228,7 +3229,6 @@
     "NickSwainston",
     "emmacarli",
     "HendrikGC02",
-    "felixS27",
     "miri-2000",
     "giacuong171",
     "danielhmendoza01",
@@ -3382,6 +3382,7 @@
     "benjibromberg",
     "j5884p5g",
     "kescobo",
+    "funnell",
     "fxquah",
     "vcepeda",
     "alisha246",
@@ -3407,7 +3408,6 @@
     "marieleoz",
     "henriquejsza",
     "sdhutchins",
-    "funnell",
     "patiencemanzen"
   ],
   "namesOfContributorsNew": [
@@ -3426,16 +3426,15 @@
     "marieleoz",
     "henriquejsza",
     "sdhutchins",
-    "funnell",
     "patiencemanzen"
   ],
-  "numberOfPullRequestNew": 671,
+  "numberOfPullRequestNew": 641,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 47978,
-  "p50SecondsToCloseIssues": 159584,
-  "meanNumberOfNewPullsPerWeek": 90.51345291479821,
+  "p50SecondsToClosePulls": 46574,
+  "p50SecondsToCloseIssues": 158470,
+  "meanNumberOfNewPullsPerWeek": 90.51569506726457,
   "meanNumberOfNewContributorsPerWeek": 7.607142857142857,
-  "meanSecondsToClosePulls": 149523.40238450075,
-  "meanSecondsToCloseIssues": 302171.5481927711
+  "meanSecondsToClosePulls": 140428.58190327612,
+  "meanSecondsToCloseIssues": 299898.099378882
 }
