@@ -3181,6 +3181,7 @@
     "brainstorm",
     "luan-n-nguyen",
     "alexiswl",
+    "pauldwolfe",
     "jaesvi",
     "mich-chan",
     "PaulaOteroS",
@@ -3199,8 +3200,10 @@
     "kvaldez",
     "Biocentric",
     "gavin-peng",
+    "mariesieger",
     "YingYa",
     "Tim-Yu",
+    "mheskett",
     "nrminor",
     "sheerenbiol",
     "clyde-dapat",
@@ -3376,6 +3379,7 @@
     "LynnHenrotte",
     "pwoods2",
     "scottallen877",
+    "sdhutchins",
     "kate-bowers-broad",
     "gerbeldo",
     "vandhana-chezhiyan",
@@ -3409,7 +3413,6 @@
     "WiloVictor",
     "marieleoz",
     "henriquejsza",
-    "sdhutchins",
     "patiencemanzen"
   ],
   "namesOfContributorsNew": [
@@ -3428,16 +3431,15 @@
     "WiloVictor",
     "marieleoz",
     "henriquejsza",
-    "sdhutchins",
     "patiencemanzen"
   ],
-  "numberOfPullRequestNew": 639,
+  "numberOfPullRequestNew": 654,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
   "p50SecondsToClosePulls": 43316,
-  "p50SecondsToCloseIssues": 158470,
-  "meanNumberOfNewPullsPerWeek": 90.3579418344519,
-  "meanNumberOfNewContributorsPerWeek": 7.594654788418708,
-  "meanSecondsToClosePulls": 129700.43505477309,
-  "meanSecondsToCloseIssues": 300766.73913043475
+  "p50SecondsToCloseIssues": 158422,
+  "meanNumberOfNewPullsPerWeek": 90.41610738255034,
+  "meanNumberOfNewContributorsPerWeek": 7.601336302895323,
+  "meanSecondsToClosePulls": 132800.67431192662,
+  "meanSecondsToCloseIssues": 286129.0188679245
 }
