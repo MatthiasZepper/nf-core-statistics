@@ -1259,6 +1259,7 @@
     "Zashraf783",
     "KraussL",
     "CarineRey",
+    "karpovantonme",
     "Benfeitas",
     "mglgc",
     "AlastairKerr",
@@ -3403,7 +3404,6 @@
     "kevinrue",
     "grunwald",
     "malaklyoubiidrissi4-alt",
-    "karpovantonme",
     "vsuppiyar",
     "rafaelaaalbuquerque",
     "trzaa",
@@ -3419,7 +3419,6 @@
     "kevinrue",
     "grunwald",
     "malaklyoubiidrissi4-alt",
-    "karpovantonme",
     "vsuppiyar",
     "rafaelaaalbuquerque",
     "trzaa",
@@ -3431,13 +3430,13 @@
     "marieleoz",
     "henriquejsza"
   ],
-  "numberOfPullRequestNew": 646,
+  "numberOfPullRequestNew": 647,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 42841,
-  "p50SecondsToCloseIssues": 181613,
-  "meanNumberOfNewPullsPerWeek": 90.48098434004474,
+  "p50SecondsToClosePulls": 47978,
+  "p50SecondsToCloseIssues": 165433,
+  "meanNumberOfNewPullsPerWeek": 90.6062639821029,
   "meanNumberOfNewContributorsPerWeek": 7.601336302895323,
-  "meanSecondsToClosePulls": 130564.60835913313,
-  "meanSecondsToCloseIssues": 341029.8333333333
+  "meanSecondsToClosePulls": 133959.9690880989,
+  "meanSecondsToCloseIssues": 355629.17391304346
 }
