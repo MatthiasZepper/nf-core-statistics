@@ -3433,13 +3433,13 @@
     "marieleoz",
     "henriquejsza"
   ],
-  "numberOfPullRequestNew": 615,
+  "numberOfPullRequestNew": 590,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 46574,
-  "p50SecondsToCloseIssues": 158470,
-  "meanNumberOfNewPullsPerWeek": 90.66666666666667,
+  "p50SecondsToClosePulls": 43491,
+  "p50SecondsToCloseIssues": 135775,
+  "meanNumberOfNewPullsPerWeek": 90.67337807606263,
   "meanNumberOfNewContributorsPerWeek": 7.605790645879733,
-  "meanSecondsToClosePulls": 127221.88455284553,
-  "meanSecondsToCloseIssues": 355133.8532110092
+  "meanSecondsToClosePulls": 119160.37796610169,
+  "meanSecondsToCloseIssues": 307322.8350515464
 }
