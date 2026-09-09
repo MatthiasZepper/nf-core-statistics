@@ -3416,6 +3416,7 @@
     "gustav-001",
     "jarbaas",
     "WiloVictor",
+    "YannVRB",
     "marieleoz",
     "henriquejsza"
   ],
@@ -3433,16 +3434,17 @@
     "gustav-001",
     "jarbaas",
     "WiloVictor",
+    "YannVRB",
     "marieleoz",
     "henriquejsza"
   ],
-  "numberOfPullRequestNew": 607,
+  "numberOfPullRequestNew": 628,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
   "p50SecondsToClosePulls": 44203,
-  "p50SecondsToCloseIssues": 156640,
-  "meanNumberOfNewPullsPerWeek": 90.52232142857143,
-  "meanNumberOfNewContributorsPerWeek": 7.593333333333334,
-  "meanSecondsToClosePulls": 121554.35914332785,
-  "meanSecondsToCloseIssues": 314738.52475247526
+  "p50SecondsToCloseIssues": 158412,
+  "meanNumberOfNewPullsPerWeek": 90.60267857142857,
+  "meanNumberOfNewContributorsPerWeek": 7.595555555555555,
+  "meanSecondsToClosePulls": 124203.12420382166,
+  "meanSecondsToCloseIssues": 350705.61467889906
 }
