@@ -1104,7 +1104,7 @@
     "Furentsu",
     "GerardoAcquaviva",
     "atoffano",
-    "rosemariefraboulet",
+    "roma-rin",
     "DJevtic-Persida",
     "JuraNJ",
     "enoracrl",
@@ -3441,10 +3441,10 @@
   "numberOfPullRequestNew": 628,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 44203,
-  "p50SecondsToCloseIssues": 158412,
-  "meanNumberOfNewPullsPerWeek": 90.60267857142857,
+  "p50SecondsToClosePulls": 42616,
+  "p50SecondsToCloseIssues": 156640,
+  "meanNumberOfNewPullsPerWeek": 90.66071428571429,
   "meanNumberOfNewContributorsPerWeek": 7.595555555555555,
-  "meanSecondsToClosePulls": 124203.12420382166,
-  "meanSecondsToCloseIssues": 350705.61467889906
+  "meanSecondsToClosePulls": 121409.24203821656,
+  "meanSecondsToCloseIssues": 322678.2636363636
 }
