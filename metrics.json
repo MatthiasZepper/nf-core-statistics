@@ -3439,13 +3439,13 @@
     "YannVRB",
     "henriquejsza"
   ],
-  "numberOfPullRequestNew": 628,
+  "numberOfPullRequestNew": 601,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 35726,
-  "p50SecondsToCloseIssues": 100153,
-  "meanNumberOfNewPullsPerWeek": 90.83258928571429,
+  "p50SecondsToClosePulls": 31682,
+  "p50SecondsToCloseIssues": 116339,
+  "meanNumberOfNewPullsPerWeek": 90.84598214285714,
   "meanNumberOfNewContributorsPerWeek": 7.597777777777778,
-  "meanSecondsToClosePulls": 126620.09235668789,
-  "meanSecondsToCloseIssues": 283280.06140350876
+  "meanSecondsToClosePulls": 120640.28785357738,
+  "meanSecondsToCloseIssues": 284900.65486725664
 }
