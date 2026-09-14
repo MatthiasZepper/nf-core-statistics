@@ -3418,6 +3418,7 @@
     "ramakrishna-p21",
     "jarbaas",
     "WiloVictor",
+    "srira25",
     "YannVRB",
     "henriquejsza"
   ],
@@ -3436,16 +3437,17 @@
     "ramakrishna-p21",
     "jarbaas",
     "WiloVictor",
+    "srira25",
     "YannVRB",
     "henriquejsza"
   ],
-  "numberOfPullRequestNew": 601,
+  "numberOfPullRequestNew": 595,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 31682,
-  "p50SecondsToCloseIssues": 116339,
-  "meanNumberOfNewPullsPerWeek": 90.84598214285714,
-  "meanNumberOfNewContributorsPerWeek": 7.597777777777778,
-  "meanSecondsToClosePulls": 120640.28785357738,
-  "meanSecondsToCloseIssues": 284900.65486725664
+  "p50SecondsToClosePulls": 32381,
+  "p50SecondsToCloseIssues": 96537,
+  "meanNumberOfNewPullsPerWeek": 90.859375,
+  "meanNumberOfNewContributorsPerWeek": 7.6,
+  "meanSecondsToClosePulls": 120666.47226890756,
+  "meanSecondsToCloseIssues": 277251.8205128205
 }
