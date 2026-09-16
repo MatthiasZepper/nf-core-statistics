@@ -2656,6 +2656,7 @@
     "rafaelaaalbuquerque",
     "trzaa",
     "glaucopaiva13",
+    "kurt-0130",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -3413,7 +3414,6 @@
     "malaklyoubiidrissi4-alt",
     "vsuppiyar",
     "arupgsh",
-    "kurt-0130",
     "aksenia",
     "gustav-001",
     "ramakrishna-p21",
@@ -3429,7 +3429,6 @@
     "malaklyoubiidrissi4-alt",
     "vsuppiyar",
     "arupgsh",
-    "kurt-0130",
     "aksenia",
     "gustav-001",
     "ramakrishna-p21",
@@ -3439,13 +3438,13 @@
     "YannVRB",
     "henriquejsza"
   ],
-  "numberOfPullRequestNew": 616,
+  "numberOfPullRequestNew": 638,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 34523,
-  "p50SecondsToCloseIssues": 96537,
-  "meanNumberOfNewPullsPerWeek": 90.74610244988864,
+  "p50SecondsToClosePulls": 41691,
+  "p50SecondsToCloseIssues": 119343,
+  "meanNumberOfNewPullsPerWeek": 90.82850779510022,
   "meanNumberOfNewContributorsPerWeek": 7.585365853658536,
-  "meanSecondsToClosePulls": 129124.52597402598,
-  "meanSecondsToCloseIssues": 295811.1061946903
+  "meanSecondsToClosePulls": 137560.43260188086,
+  "meanSecondsToCloseIssues": 315824.34285714285
 }
