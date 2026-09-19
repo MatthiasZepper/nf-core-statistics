@@ -1253,6 +1253,7 @@
     "akbaselya",
     "kellyRLagnew",
     "ramunevaisnore",
+    "malaklyoubiidrissi4-alt",
     "jkobject",
     "gppbioinfo",
     "Lehmann-Fabian",
@@ -3416,9 +3417,9 @@
     "nkadak-lgtm",
     "BilalsGituation",
     "patiencemanzen",
+    "giuliaroeth",
     "kevinrue",
     "grunwald",
-    "malaklyoubiidrissi4-alt",
     "vsuppiyar",
     "arupgsh",
     "gustav-001",
@@ -3428,12 +3429,13 @@
     "srira25",
     "YannVRB",
     "henriquejsza",
-    "RMR42"
+    "RMR42",
+    "debjit20504"
   ],
   "namesOfContributorsNew": [
+    "giuliaroeth",
     "kevinrue",
     "grunwald",
-    "malaklyoubiidrissi4-alt",
     "vsuppiyar",
     "arupgsh",
     "gustav-001",
@@ -3443,15 +3445,16 @@
     "srira25",
     "YannVRB",
     "henriquejsza",
-    "RMR42"
+    "RMR42",
+    "debjit20504"
   ],
-  "numberOfPullRequestNew": 672,
+  "numberOfPullRequestNew": 674,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 45929,
+  "p50SecondsToClosePulls": 48520,
   "p50SecondsToCloseIssues": 139020,
-  "meanNumberOfNewPullsPerWeek": 91.03118040089088,
-  "meanNumberOfNewContributorsPerWeek": 7.600886917960088,
-  "meanSecondsToClosePulls": 158974.10119047618,
-  "meanSecondsToCloseIssues": 374828.49074074073
+  "meanNumberOfNewPullsPerWeek": 91.11581291759465,
+  "meanNumberOfNewContributorsPerWeek": 7.605321507760532,
+  "meanSecondsToClosePulls": 167914.68397626112,
+  "meanSecondsToCloseIssues": 377218.42727272725
 }
