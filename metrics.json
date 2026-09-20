@@ -3417,6 +3417,7 @@
     "nkadak-lgtm",
     "BilalsGituation",
     "patiencemanzen",
+    "mwiewior",
     "giuliaroeth",
     "kevinrue",
     "grunwald",
@@ -3433,6 +3434,7 @@
     "debjit20504"
   ],
   "namesOfContributorsNew": [
+    "mwiewior",
     "giuliaroeth",
     "kevinrue",
     "grunwald",
@@ -3448,13 +3450,13 @@
     "RMR42",
     "debjit20504"
   ],
-  "numberOfPullRequestNew": 674,
+  "numberOfPullRequestNew": 656,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 48520,
-  "p50SecondsToCloseIssues": 139020,
-  "meanNumberOfNewPullsPerWeek": 91.11581291759465,
-  "meanNumberOfNewContributorsPerWeek": 7.605321507760532,
-  "meanSecondsToClosePulls": 167914.68397626112,
-  "meanSecondsToCloseIssues": 377218.42727272725
+  "p50SecondsToClosePulls": 51428,
+  "p50SecondsToCloseIssues": 139455,
+  "meanNumberOfNewPullsPerWeek": 91.15590200445435,
+  "meanNumberOfNewContributorsPerWeek": 7.607538802660754,
+  "meanSecondsToClosePulls": 174965.6661585366,
+  "meanSecondsToCloseIssues": 408830.94782608695
 }
