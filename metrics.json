@@ -1980,6 +1980,7 @@
     "sweavs111",
     "wmsci",
     "Rooksie",
+    "vsuppiyar",
     "amirshams84",
     "parlundin",
     "claus-h-g",
@@ -3421,7 +3422,6 @@
     "giuliaroeth",
     "kevinrue",
     "grunwald",
-    "vsuppiyar",
     "arupgsh",
     "gustav-001",
     "ramakrishna-p21",
@@ -3438,7 +3438,6 @@
     "giuliaroeth",
     "kevinrue",
     "grunwald",
-    "vsuppiyar",
     "arupgsh",
     "gustav-001",
     "ramakrishna-p21",
@@ -3450,13 +3449,13 @@
     "RMR42",
     "debjit20504"
   ],
-  "numberOfPullRequestNew": 656,
+  "numberOfPullRequestNew": 628,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 51428,
+  "p50SecondsToClosePulls": 50894,
   "p50SecondsToCloseIssues": 139455,
-  "meanNumberOfNewPullsPerWeek": 91.15590200445435,
+  "meanNumberOfNewPullsPerWeek": 91.16258351893096,
   "meanNumberOfNewContributorsPerWeek": 7.607538802660754,
-  "meanSecondsToClosePulls": 174965.6661585366,
-  "meanSecondsToCloseIssues": 408830.94782608695
+  "meanSecondsToClosePulls": 172347.75636942676,
+  "meanSecondsToCloseIssues": 410748.50434782606
 }
