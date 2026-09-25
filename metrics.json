@@ -3430,6 +3430,7 @@
     "patiencemanzen",
     "mwiewior",
     "giuliaroeth",
+    "YannVRB",
     "kaischmid",
     "arupgsh",
     "gustav-001",
@@ -3437,13 +3438,13 @@
     "jarbaas",
     "warinner",
     "srira25",
-    "YannVRB",
     "RMR42",
     "debjit20504"
   ],
   "namesOfContributorsNew": [
     "mwiewior",
     "giuliaroeth",
+    "YannVRB",
     "kaischmid",
     "arupgsh",
     "gustav-001",
@@ -3451,17 +3452,16 @@
     "jarbaas",
     "warinner",
     "srira25",
-    "YannVRB",
     "RMR42",
     "debjit20504"
   ],
-  "numberOfPullRequestNew": 706,
-  "p50NumberOfNewPullsPerWeek": 73,
+  "numberOfPullRequestNew": 697,
+  "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 52311,
-  "p50SecondsToCloseIssues": 188617,
-  "meanNumberOfNewPullsPerWeek": 91.2311111111111,
+  "p50SecondsToClosePulls": 45929,
+  "p50SecondsToCloseIssues": 145688,
+  "meanNumberOfNewPullsPerWeek": 91.30888888888889,
   "meanNumberOfNewContributorsPerWeek": 7.6084070796460175,
-  "meanSecondsToClosePulls": 190297.57507082153,
-  "meanSecondsToCloseIssues": 442996.8217054264
+  "meanSecondsToClosePulls": 186868.40889526543,
+  "meanSecondsToCloseIssues": 377466.8333333333
 }
