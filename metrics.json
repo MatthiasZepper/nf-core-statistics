@@ -3439,6 +3439,7 @@
     "annacastellet",
     "warinner",
     "srira25",
+    "Avil-Page",
     "RMR42",
     "debjit20504"
   ],
@@ -3453,16 +3454,17 @@
     "annacastellet",
     "warinner",
     "srira25",
+    "Avil-Page",
     "RMR42",
     "debjit20504"
   ],
-  "numberOfPullRequestNew": 644,
+  "numberOfPullRequestNew": 626,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 51744,
-  "p50SecondsToCloseIssues": 139025,
-  "meanNumberOfNewPullsPerWeek": 91.36444444444444,
-  "meanNumberOfNewContributorsPerWeek": 7.610619469026549,
-  "meanSecondsToClosePulls": 196234.4239130435,
-  "meanSecondsToCloseIssues": 275399.0714285714
+  "p50SecondsToClosePulls": 51428,
+  "p50SecondsToCloseIssues": 139450,
+  "meanNumberOfNewPullsPerWeek": 91.38444444444444,
+  "meanNumberOfNewContributorsPerWeek": 7.6128318584070795,
+  "meanSecondsToClosePulls": 194160.43290734824,
+  "meanSecondsToCloseIssues": 281426.29464285716
 }
