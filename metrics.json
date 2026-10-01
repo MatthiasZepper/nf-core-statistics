@@ -3460,13 +3460,13 @@
     "RMR42",
     "debjit20504"
   ],
-  "numberOfPullRequestNew": 673,
+  "numberOfPullRequestNew": 680,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 52311,
+  "p50SecondsToClosePulls": 51428,
   "p50SecondsToCloseIssues": 139450,
-  "meanNumberOfNewPullsPerWeek": 91.33037694013304,
+  "meanNumberOfNewPullsPerWeek": 91.40354767184036,
   "meanNumberOfNewContributorsPerWeek": 7.598233995584989,
-  "meanSecondsToClosePulls": 206903.45468053492,
-  "meanSecondsToCloseIssues": 281847.4035087719
+  "meanSecondsToClosePulls": 201484.35147058824,
+  "meanSecondsToCloseIssues": 266277
 }
