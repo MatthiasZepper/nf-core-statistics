@@ -3182,6 +3182,7 @@
     "nattyht",
     "hdunnda",
     "jozsefkun",
+    "YannVRB",
     "clstacy",
     "slbai01",
     "erdikucuk",
@@ -3436,7 +3437,6 @@
     "patiencemanzen",
     "mwiewior",
     "giuliaroeth",
-    "YannVRB",
     "kaischmid",
     "malghuraybi",
     "aletko",
@@ -3457,7 +3457,6 @@
   "namesOfContributorsNew": [
     "mwiewior",
     "giuliaroeth",
-    "YannVRB",
     "kaischmid",
     "malghuraybi",
     "aletko",
@@ -3475,13 +3474,13 @@
     "RMR42",
     "debjit20504"
   ],
-  "numberOfPullRequestNew": 660,
+  "numberOfPullRequestNew": 637,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 40215,
+  "p50SecondsToClosePulls": 37767,
   "p50SecondsToCloseIssues": 149553,
-  "meanNumberOfNewPullsPerWeek": 91.57649667405765,
+  "meanNumberOfNewPullsPerWeek": 91.58093126385809,
   "meanNumberOfNewContributorsPerWeek": 7.620309050772627,
-  "meanSecondsToClosePulls": 166624.48939393938,
-  "meanSecondsToCloseIssues": 326905.19166666665
+  "meanSecondsToClosePulls": 164458.136577708,
+  "meanSecondsToCloseIssues": 327576.0508474576
 }
