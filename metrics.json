@@ -2682,6 +2682,7 @@
     "gustav-001",
     "ramakrishna-p21",
     "jarbaas",
+    "PFRoux",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -3066,7 +3067,6 @@
     "bcpd",
     "ChillarAnand",
     "AndreaQ7",
-    "PFRoux",
     "tslaird",
     "asiamustafah955",
     "mr2raccoon",
@@ -3490,13 +3490,13 @@
     "RMR42",
     "debjit20504"
   ],
-  "numberOfPullRequestNew": 955,
+  "numberOfPullRequestNew": 932,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 10109,
-  "p50SecondsToCloseIssues": 269564,
-  "meanNumberOfNewPullsPerWeek": 92.3783185840708,
+  "p50SecondsToClosePulls": 10041,
+  "p50SecondsToCloseIssues": 286668,
+  "meanNumberOfNewPullsPerWeek": 92.39380530973452,
   "meanNumberOfNewContributorsPerWeek": 7.627753303964758,
-  "meanSecondsToClosePulls": 123822.80837696335,
-  "meanSecondsToCloseIssues": 359832.309352518
+  "meanSecondsToClosePulls": 116712.43240343347,
+  "meanSecondsToCloseIssues": 359256.14960629924
 }
