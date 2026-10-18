@@ -3460,6 +3460,7 @@
     "Aaramis",
     "BilalsGituation",
     "patiencemanzen",
+    "RMR42",
     "jcjray",
     "giuliaroeth",
     "molikd",
@@ -3492,7 +3493,6 @@
     "simonjeanneau",
     "paulzierep",
     "aloraine",
-    "RMR42",
     "debjit20504",
     "vmduarut"
   ],
@@ -3529,17 +3529,16 @@
     "simonjeanneau",
     "paulzierep",
     "aloraine",
-    "RMR42",
     "debjit20504",
     "vmduarut"
   ],
-  "numberOfPullRequestNew": 1112,
+  "numberOfPullRequestNew": 1094,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 6853,
+  "p50SecondsToClosePulls": 6848,
   "p50SecondsToCloseIssues": 32776,
-  "meanNumberOfNewPullsPerWeek": 93.09271523178808,
+  "meanNumberOfNewPullsPerWeek": 93.10816777041943,
   "meanNumberOfNewContributorsPerWeek": 7.679120879120879,
-  "meanSecondsToClosePulls": 97097.28956834532,
-  "meanSecondsToCloseIssues": 210521.5185185185
+  "meanSecondsToClosePulls": 95536.56581352833,
+  "meanSecondsToCloseIssues": 206054.5904255319
 }
