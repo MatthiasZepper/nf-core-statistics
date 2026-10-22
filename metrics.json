@@ -2103,6 +2103,7 @@
     "alexblaessle",
     "ogibson",
     "birgitritschka",
+    "adairama",
     "sean-at-tessera",
     "martinkim0",
     "lfperales",
@@ -3468,6 +3469,7 @@
     "patiencemanzen",
     "RMR42",
     "debjit20504",
+    "harshitethic",
     "siddharthjayaraman",
     "jcjray",
     "mercedesbigi",
@@ -3503,9 +3505,11 @@
     "simonjeanneau",
     "paulzierep",
     "aloraine",
+    "nielsl",
     "vmduarut"
   ],
   "namesOfContributorsNew": [
+    "harshitethic",
     "siddharthjayaraman",
     "jcjray",
     "mercedesbigi",
@@ -3541,15 +3545,16 @@
     "simonjeanneau",
     "paulzierep",
     "aloraine",
+    "nielsl",
     "vmduarut"
   ],
-  "numberOfPullRequestNew": 1160,
+  "numberOfPullRequestNew": 1182,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 6977,
-  "p50SecondsToCloseIssues": 51944,
-  "meanNumberOfNewPullsPerWeek": 93.16299559471365,
-  "meanNumberOfNewContributorsPerWeek": 7.682017543859649,
-  "meanSecondsToClosePulls": 101078.52844827586,
-  "meanSecondsToCloseIssues": 218716.86026200873
+  "p50SecondsToClosePulls": 7240,
+  "p50SecondsToCloseIssues": 56519,
+  "meanNumberOfNewPullsPerWeek": 93.26431718061674,
+  "meanNumberOfNewContributorsPerWeek": 7.68859649122807,
+  "meanSecondsToClosePulls": 110716.03637901861,
+  "meanSecondsToCloseIssues": 234001.51502145923
 }
