@@ -2768,6 +2768,7 @@
     "Othmanaljurayyad",
     "paulinefx",
     "palakpsheth",
+    "DylanMHouse",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -3551,7 +3552,6 @@
     "iraajgangavaram",
     "pabloestepaa",
     "adamjohnwright",
-    "DylanMHouse",
     "dezordi",
     "janaki-bio",
     "shandley",
@@ -3581,7 +3581,6 @@
     "iraajgangavaram",
     "pabloestepaa",
     "adamjohnwright",
-    "DylanMHouse",
     "dezordi",
     "janaki-bio",
     "shandley",
@@ -3605,13 +3604,13 @@
     "os10-wsi",
     "someguy6575"
   ],
-  "numberOfPullRequestNew": 1279,
+  "numberOfPullRequestNew": 1320,
   "p50NumberOfNewPullsPerWeek": 75,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 45648,
-  "p50SecondsToCloseIssues": 172350,
-  "meanNumberOfNewPullsPerWeek": 95.60698689956332,
+  "p50SecondsToClosePulls": 52063,
+  "p50SecondsToCloseIssues": 177672,
+  "meanNumberOfNewPullsPerWeek": 95.75109170305677,
   "meanNumberOfNewContributorsPerWeek": 7.767391304347826,
-  "meanSecondsToClosePulls": 177005.43549648163,
-  "meanSecondsToCloseIssues": 322574.44897959183
+  "meanSecondsToClosePulls": 210108.35454545455,
+  "meanSecondsToCloseIssues": 338807.1811594203
 }
