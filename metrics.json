@@ -2776,6 +2776,7 @@
     "DylanMHouse",
     "fxwiegand",
     "iraajgangavaram",
+    "Jessica-ovabor",
     "zhangdongqin",
     "HediaTnani",
     "wkang0",
@@ -3570,7 +3571,6 @@
     "filipetessaro",
     "Bart-Edelbroek",
     "simplyshree",
-    "Jessica-ovabor",
     "bhargavchintam",
     "sriramdevadas",
     "pmuskusv",
@@ -3598,7 +3598,6 @@
     "filipetessaro",
     "Bart-Edelbroek",
     "simplyshree",
-    "Jessica-ovabor",
     "bhargavchintam",
     "sriramdevadas",
     "pmuskusv",
@@ -3610,13 +3609,13 @@
     "FPetitprez",
     "os10-wsi"
   ],
-  "numberOfPullRequestNew": 1332,
+  "numberOfPullRequestNew": 1296,
   "p50NumberOfNewPullsPerWeek": 76,
   "p50NumberOfNewContributorsPerWeek": 7,
   "p50SecondsToClosePulls": 52633,
-  "p50SecondsToCloseIssues": 177672,
-  "meanNumberOfNewPullsPerWeek": 96.17685589519651,
+  "p50SecondsToCloseIssues": 178879,
+  "meanNumberOfNewPullsPerWeek": 96.2117903930131,
   "meanNumberOfNewContributorsPerWeek": 7.782608695652174,
-  "meanSecondsToClosePulls": 216591.9024024024,
-  "meanSecondsToCloseIssues": 267940.93333333335
+  "meanSecondsToClosePulls": 213364.26697530865,
+  "meanSecondsToCloseIssues": 272212.5
 }
